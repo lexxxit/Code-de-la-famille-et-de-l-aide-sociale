@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1985-01-05
+Version Consolidée au 1985-07-26
 
 # Titre Ier : Protection sociale de la famille
 
@@ -4793,6 +4793,56 @@ décret en référence au salaire minimum interprofessionnel de croissance.
 	  - Code de l'action sociale et des familles - art. L422-4 (VD)
 
 
+## Chapitre III : Protection des mineurs placés hors du domicile paternel
+
+### Section 2 bis : Accueil de l'enfant étranger en vue de son adoption
+
+###### Article 100-3
+
+Les personnes qui souhaitent accueillir, en vue de son adoption, un enfant étranger doivent demander l'agrément prévu à
+l'article 63 du présent code. Cet agrément est réputé être accordé si l'administration ne s'est pas prononcée dans un délai
+de six mois à compter du jour de la demande [*point de départ, accord tacite*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Loi n°85-772 du 25 juillet 1985 - art. 2 () JORF 26 juillet 1985
+
+	**Cité par**:
+
+	  - Décret n°85-986 du 16 septembre 1985 - art. 47 (M)
+	  - Décret n°86-68 du 13 janvier 1986 - art. 34-1 (V)
+	  - Décret n°88-145 du 15 février 1988 - art. 14-1 (V)
+	  - Décret n°88-976 du 13 octobre 1988 - art. 34 (M)
+	  - Décret n°91-155 du 6 février 1991 - art. 18-1 (M)
+	  - Loi n°96-604 du 5 juillet 1996 - art. 59 (V)
+	  - Décret n°98-771 du 1 septembre 1998 - art. 1 (Ab)
+	  - Code de la sécurité sociale. - art. L331-7 (M)
+	  - Code de la sécurité sociale. - art. L535-1 (Ab)
+	  - Code de la sécurité sociale. - art. L615-19 (T)
+	  - Code de la sécurité sociale. - art. L615-19-1 (T)
+	  - Code de la sécurité sociale. - art. L722-8 (M)
+	  - Code de la sécurité sociale. - art. L722-8-1 (M)
+	  - Code de la sécurité sociale. - art. L722-8-2 (Ab)
+	  - Code du travail - art. L122-26 (M)
+	  - Code du travail - art. L122-28-10 (M)
+	  - Code rural - art. L732-10 (V)
+	  - Code rural ancien - art. 1106-3-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L225-15 (T)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 63 (M)
+
+
 # Titre III : Aide sociale
 
 ###### Article 124
@@ -6517,16 +6567,17 @@ possibilités d'activités diverses à caractère professionnel, un soutien méd
 favorisant leur épanouissement personnel et leur intégration sociale.
 
 Un même établissement peut comporter une section d'atelier protégé ou de distribution de travail à domicile et une section
-d'aide par le travail. Nonobstant les dispositions prévues au dernier alinéa de l'article L. 323-32 du Code du travail, des
-équipes de personnes handicapées bénéficiant d'une admission dans un centre ou une section d'aide par le travail peuvent être
-autorisées à exercer une activité à l'extérieur de l'établissement auquel elles demeurent rattachées suivant des modalités
-qui seront précisées par décret.
+d'aide par le travail. Nonobstant les dispositions prévues au dernier alinéa de l'article L. 323-32 du code du travail, des
+personnes handicapées bénéficiant d'une admission dans un centre ou une section d'aide par le travail peuvent être autorisées
+à exercer une activité à l'extérieur de l'établissement auquel elles demeurent rattachées suivant des modalités qui seront
+précisées par décret.
+
+**Nota:**
+
+[*Nota : Loi 88-1264 1988-30-12 art. 8 : l'article 167 est applicable dans la collectivité territoriale de saint-Pierre-et-
+Miquelon.*]
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-1186 1953-11-29 art. 36
 
 	**Codifié par**:
 
@@ -6571,7 +6622,6 @@ qui seront précisées par décret.
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Décret n°77-1546 1977-12-31
 	  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977
 	  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977 - art. 1 (Ab)
 	  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977 - art. 10 (Ab)
@@ -6603,6 +6653,14 @@ qui seront précisées par décret.
 	  - TXT_SOURCE: Décret n°86-510 du 14 mars 1986 - art. 7 (Ab)
 	  - TXT_SOURCE: Décret n°86-510 du 14 mars 1986 - art. 8 (Ab)
 	  - TXT_SOURCE: Décret n°86-510 du 14 mars 1986 - art. 9 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°85-772 du 25 juillet 1985 - art. 27 () JORF 26 juillet 1985
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 	**Cite**:
 
@@ -7762,6 +7820,12 @@ de sécurité sociale.
 La section permanente statue en dernier ressort. Les décisions fixant le montant des prix de journée, des tarifs de
 prestations et des versements globaux ont effet à compter de la date prévue dans l'arrêté donnant lieu à un litige.
 
+La section permanente est également compétente pour connaître des des recours contre les arrêtés fixant la dotation globale
+mentionnée à l'article 27 de la loi n° 75-535 du 30 juin 1975 relative aux institutions sociales et médico-sociales et contre
+les décisions prises par le président du conseil général en application du paragraphe I de l'article 45 de la loi n° 83-663
+du 22 juillet 1983 complétant la loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes,
+les départements, les régions et l'Etat.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -7780,11 +7844,14 @@ prestations et des versements globaux ont effet à compter de la date prévue da
 
 	**Cite**:
 
+	  - Loi n°75-535 du 30 juin 1975 - art. 27 (M)
+	  - Loi n°83-8 1983-01-07
 	  - Loi n°83-25 du 19 janvier 1983 - art. 8, v. init.
+	  - Loi n°83-663 1983-07-22 art. 45
 
 	**Modifié par**:
 
-	  - Loi n°84-5 du 3 janvier 1984 - art. 12 () JORF 4 janvier 1984
+	  - Loi n°85-772 du 25 juillet 1985 - art. 25 () JORF 26 juillet 1985
 
 	**Nouveaux textes**:
 
