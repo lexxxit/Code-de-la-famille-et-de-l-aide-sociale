@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1960-11-27
+Version Consolidée au 1961-05-19
 
 # Titre Ier : Protection sociale de la famille
 
@@ -4158,6 +4158,49 @@ prévus.
 	  - Code de l'action sociale et des familles - art. L132-6 (M)
 
 
+###### Article 146
+
+Des recours sont exercés par le département, par l'Etat, si le bénéficiaire de l'aide sociale n'a pas de domicile de secours,
+ou par la commune lorsqu'elle bénéficie d'un régime spécial d'aide médicale :
+
+a) Contre le bénéficiaire revenu à meilleure fortune ou contre la succession du bénéficiaire :
+
+b) Contre le donataire lorsque la donation est intervenue postérieurement à la demande d'aide sociale ou dans les cinq ans
+qui ont précédé cette demande ;
+
+c) Contre le légataire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°53-1186 1953-11-29 ART. 21
+	  - Décret n°55-190 1955-02-02
+
+	**Cité par**:
+
+	  - Décret n°54-883 du 2 septembre 1954 - art. 8 (M)
+	  - Décret n°56-1030 du 28 septembre 1956 - art. 28 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 148 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 196 (Ab)
+	  - Décret n°61-495 du 15 mai 1961 - art. 4 (M)
+	  - Décret n°61-495 du 15 mai 1961 - art. 4-1 (MMN)
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L132-8 (M)
+	  - Code de l'action sociale et des familles - art. L132-9 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la famille et de l'aide sociale. - art. 148 (Ab)
+	  - TXT_ASSOCIE: Décret n°61-495 du 15 mai 1961 - art. 4 (M)
+
+
 ###### Article 147
 
 Sans préjudice des poursuites en restitution, quiconque aura frauduleusement perçu ont tenté de percevoir des prestations au
@@ -4254,6 +4297,45 @@ Est assimilée au chef de famille, la personne qui assume de manière permanente
 
 	  - Code de la nationalité
 	  - Ordonnance  1945-10-19 ART. 52 ET S.
+
+
+###### Article 151
+
+Pour ouvrir droit à cette allocation, les enfants doivent remplir les conditions d'âge visées à l'article 10 de la loi du 22
+août 1946 (code de la sécurité sociale Art. L. 542-1). Pour les enfants d'âge scolaire (six à quatorze ans), l'admission à
+l'aide sociale à la famille est subordonnée à la présentation soit d'un certificat de scolarité ou d'un certificat de
+l'inspecteur primaire attestant que l'enfant est instruit dans sa famille, soit d'un certificat médical attestant qu'il ne
+peut fréquenter régulièrement, pour cause de maladie, un établissement d'enseignement.
+
+Pour les enfants de moins de six ans, l'admission sera subordonnée à la production d'un certificat attestant que l'enfant est
+présenté régulièrement à la consultation de protection maternelle et infantile, selon les règles fixées par le règlement
+départemental.
+
+**Nota:**
+
+Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cite**:
+
+	  - Code de la sécurité sociale L527
+	  - Loi   1946-08-22 ART. 10
+
+	**Anciens textes**:
+
+	  - Décret  1939-07-29 ART. 76
 
 
 ###### Article 152
@@ -4418,6 +4500,41 @@ dépasser un plafond qui est fixé par décret.
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. L231-2 (V)
+
+
+###### Article 161
+
+Une allocation destinée à compenser une partie de leur loyer peut être accordée aux personnes âgées dont les ressources sont
+inférieures à un plafond fixé par décret.
+
+**Nota:**
+
+Loi 71-582 du 16 juillet 1971 art. 16 : Les dispositions de l'article 161 sont abrogées sauf en ce qui concerne les personnes
+mentionnées à l'article 184.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°48-1360 du 1 septembre 1948 - art. 7 (V)
+	  - Décret n°54-1128 du 15 novembre 1954 - art. 4 (Ab)
+	  - Décret n°54-1139 du 17 novembre 1954 - art. 1 (Ab)
+	  - Décret n°56-1030 du 28 septembre 1956 - art. 67 (Ab)
+	  - Décret n°72-533 du 29 juin 1972 - art. 23 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 158 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 162 (M)
+	  - Code de la famille et de l'aide sociale. - art. 184 (V)
+	  - Code de la sécurité sociale. - art. L542-4 (V)
+	  - Code de la sécurité sociale. - art. R757-1 (V)
+	  - Décret n°61-495 du 15 mai 1961 - art. 10 (Ab)
+
+	**Anciens textes**:
+
+	  - Décret n°53-1186 1953-11-29 ART. 30
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
 
 ###### Article 162
@@ -4956,6 +5073,36 @@ maladies mentales.
 
 
 ## Chapitre VIII : Mesures d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale
+
+###### Article 184
+
+Les personnes dont les ressources sont inférieures à un plafond fixé par décret peuvent bénéficier de l'allocation prévue à
+l'article 161 du Code de la famille et de l'aide sociale.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°48-1360 du 1 septembre 1948 - art. 7 (V)
+	  - Décret n°54-1139 du 17 novembre 1954 - art. 1 (Ab)
+	  - Décret n°56-1030 du 28 septembre 1956 - art. 67 (Ab)
+	  - Loi n°71-582 du 16 juillet 1971 - art. 16 (V)
+	  - Décret n°72-533 du 29 juin 1972 - art. 23 (Ab)
+	  - Code de la sécurité sociale. - art. L542-4 (V)
+	  - Décret n°61-495 du 15 mai 1961 - art. 10 (Ab)
+
+	**Anciens textes**:
+
+	  - Décret n°53-1186 1953-11-29 ART. 54
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 161 (V)
+
 
 ###### Article 185-1
 
