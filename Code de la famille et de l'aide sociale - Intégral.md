@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1962-04-15
+Version Consolidée au 1962-11-11
 
 # Titre Ier : Protection sociale de la famille
 
@@ -4817,6 +4817,82 @@ prévu au premier alinéa du présent article relevé du montant de la majoratio
 
 	  - Code de la famille et de l'aide sociale. - art. 158 (Ab)
 	  - Code de la sécurité sociale L314
+
+
+###### Article 171
+
+Le grand infirme qui peut se livrer à un travail régulier constituant l'exercice normal d'une profession et comportant une
+rémunération mensuelle au moins égale au minimum de la pension vieillesse accordée aux assurés sociaux à l'âge de soixante-
+cinq ans ou celui qui, après apprentissage ou rééducation, justifie ne pouvoir travailler effectivement pour une cause de
+force majeure, reçoit une allocation de compensation dont le taux varie, selon l'état de l'infirme, entre 40 et 60 p. 100 de
+la majoration prévue à l'article 314 du Code de la sécurité sociale. Le taux de l'allocation de compensation est fixé à 90 p.
+100 de ladite majoration lorsque l'état de l'infirme nécessite l'aide constante d'une tierce personne.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°53-1186 1953-11-29 ART. 40
+	  - Loi n°55-1537 1955-11-28
+
+	**Cité par**:
+
+	  - Décret n°54-883 du 2 septembre 1954 - art. 23 (Ab)
+	  - Décret n°56-1030 du 28 septembre 1956 - art. 67 (Ab)
+	  - Décret n°57-44 du 15 janvier 1957 - art. 6 (Ab)
+	  - Décret n°77-1549 du 31 décembre 1977 - art. 18 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 172 (Ab)
+	  - Code de la sécurité sociale. - art. R757-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Abrogé par**:
+
+	  - Décret n°77-1549 1977-12-31 art. 18-I JORF 12 janvier 1978
+
+	**Cite**:
+
+	  - Code de la sécurité sociale L314
+
+
+###### Article 172
+
+Le plafond des ressources applicable aux bénéficiaires de l'allocation de compensation pour le calcul de l'allocation
+principale est fixé par décret. Toutefois, dans l'évaluation des ressources, le produit du travail du grand infirme n'entre
+en compte que pour moitié de son montant, à moins que l'intéressé ne bénéficie d'un avantage de vieillesse.
+
+Pour le calcul de l'allocation de compensation, le plafond est majoré du montant de l'allocation de compensation, tel qu'il
+résulte de l'article 8 du décret n. 59-143 du 7 janvier 1959 compte tenu du degré d'incapacité de l'intéressé. Des
+allocations différentielles peuvent être, le cas échéant, accordées.
+
+L'allocation de compensation ne peut, en aucun cas, se cumuler avec la majoration accordée aux grands infirmes ayant besoin
+de l'aide constante d'une tierce personne.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°53-1186 1953-11-29 ART. 41
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cite**:
+
+	  - Décret n°59-143 1959-01-07 ART. 8
+	  - Code de la famille et de l'aide sociale. - art. 171 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°62-1326 1962-11-06 art. 2 JORF 11 novembre 1962
+	  - Décret n°61-495 du 15 mai 1961 - art. 8 () JORF 19 mai 1961
+
+	**Abrogé par**:
+
+	  - Décret n°77-1549 1977-12-31 art. 18-I JORF 12 janvier 1978
 
 
 ###### Article 173
