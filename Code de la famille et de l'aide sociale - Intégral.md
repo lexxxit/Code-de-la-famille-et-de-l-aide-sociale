@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1986-08-22
+Version Consolidée au 1987-01-28
 
 # Titre Ier : Protection sociale de la famille
 
@@ -2924,6 +2924,75 @@ dispositions de l'article 1067 du code général des impôts.
 
 ### Section 1 : Protection générale des mineurs
 
+###### Article 93
+
+Tout mineur accueilli collectivement ou isolément hors du domicile de ses parents, jusqu'au quatrième degré, ou de son tuteur
+est placé sous la protection de l'autorité publique. Cette protection est assurée dans les conditions prévues soit :
+
+- par le code de la santé publique ;
+
+- par décret en Conseil d'Etat pour ce qui concerne les mineurs accueillis en centres de vacances, de loisirs ou de placement
+de vacances ;
+
+- par d'autres dispositions visant les établissements soumis à une réglementation particulière ;
+
+- par les dispositions des articles 94 et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Modifié par**:
+
+	  - Loi n°87-39 du 27 janvier 1987 - art. 36 () JORF 28 janvier 1987
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Cité par**:
+
+	  - Code de la famille et de l'aide sociale. - art. 94 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L227-1 (M)
+
+	**Anciens textes**:
+
+	  - Décret n°1938-06-17 art. 1
+
+
+###### Article 94
+
+La surveillance des mineurs mentionnés au dernier alinéa de l'article 93 est confiée au président du conseil général du
+département où ils se trouvent [*autorités compétentes*].
+
+Elle s'exerce sur les conditions morales et matérielles de leur hébergement en vue de protéger leur sécurité, leur santé et
+leur moralité.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1938-06-17 art. 2
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cité par**:
+
+	  - Décret n°67-45 du 10 janvier 1967 - art. 4 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 93 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°87-39 du 27 janvier 1987 - art. 36 () JORF 28 janvier 1987
+
+
 ###### Article 95
 
 Si elle n'y est pas autorisée en vertu d'une autre disposition relative à l'accueil des mineurs, toute personne physique ou
@@ -3718,64 +3787,6 @@ décret en référence au salaire minimum interprofessionnel de croissance.
 
 	  - Code de l'action sociale et des familles - art. L422-4 (VD)
 	  - Code de l'action sociale et des familles - art. L422-4 (M)
-
-
-## Chapitre IV : Protection des mineurs placés hors du domicile parental
-
-### Section 1 : Protection générale des mineurs
-
-###### Article 93
-
-Est placé sous la protection de l'autorité publique tout mineur hébergé collectivement ou isolément hors du domicile de ses
-parents jusqu'au quatrième degré ou de son tuteur lorsqu'il n'est pas protégé par les dispositions du Code de la santé
-publique ou par celles qui visent des établissements soumis à une réglementation particulière.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Modifié par**:
-
-	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
-	  - Loi n°86-17 du 6 janvier 1986 - art. 38 () JORF 8 janvier 1986
-
-	**Cité par**:
-
-	  - Code de la famille et de l'aide sociale. - art. 94 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°1938-06-17 art. 1
-
-
-###### Article 94
-
-La surveillance des mineurs mentionnés à l'article 93 est confiée au président du conseil général du département où ils se
-trouvent [*autorités compétentes*]. Elle s'exerce sur les conditions morales et matérielles de leur hébergement en vue de
-protéger leur sécurité, leur santé et leur moralité.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1938-06-17 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Cité par**:
-
-	  - Décret n°67-45 du 10 janvier 1967 - art. 4 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 93 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
-	  - Loi n°86-17 du 6 janvier 1986 - art. 38 () JORF 8 janvier 1986
-	  - Loi n°86-17 du 6 janvier 1986 - art. 39 () JORF 8 janvier 1986
 
 
 # Titre III : Aide sociale
