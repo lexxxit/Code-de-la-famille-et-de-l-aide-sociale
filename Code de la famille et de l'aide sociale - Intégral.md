@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1993-01-01
+Version Consolidée au 1993-01-30
 
 # Titre Ier : Protection sociale de la famille
 
@@ -4365,11 +4365,11 @@ Lorsque la demande d'agrément concerne l'accueil de mineurs à titre permanent,
 est notifiée dans un délai de six mois à compter de cette demande. A défaut de notification d'une décision dans ce délai,
 l'agrément est réputé acquis.
 
-Si les conditions de l'agrément cessent d'^etre remplies, le président du conseil général peut, après avis d'une commission
+Si les conditions de l'agrément cessent d'être remplies, le président du conseil général peut, après avis d'une commission
 consultative paritaire départementale, modifier le contenu de l'agrément ou procéder à son retrait. En cas d'urgence, le
 président du conseil général peut suspendre l'agrément.
 
-Toute décision de retrait ou de suspension de l'agrément ou de modification de son contenu doit ^etre d^ument motivée.
+Toute décision de retrait ou de suspension de l'agrément ou de modification de son contenu doit être dûment motivée.
 
 La composition, les attributions et les modalités de fonctionnement de la commission présidée par le président du conseil
 général ou son représentant, visée à l'alinéa précédent, sont définies par décret en Conseil d'Etat.
@@ -4377,21 +4377,14 @@ général ou son représentant, visée à l'alinéa précédent, sont définies 
 La commission est notamment consultée chaque année sur le programme de formation des assistantes maternelles ainsi que sur le
 bilan de fonctionnement de l'agrément.
 
-**Nota:**
-
-[*Nota : Code de la famille et de l'aide sociale art. 123-4 :
-
-champ d'application de la présente section.*]
+L'élection des représentants des assistants maternels et des assistantes maternelles aux commissions consultatives paritaires
+a lieu au plus tard le 30 mars 1993.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Créé par**:
-
-	  - Loi n°92-642 du 12 juillet 1992 - art. 2 () JORF 14 juillet 1992
 
 	**Cité par**:
 
@@ -4400,6 +4393,18 @@ champ d'application de la présente section.*]
 	  - Décret n°92-1051 du 29 septembre 1992 - art. 29 (Ab)
 	  - Décret n°92-1051 du 29 septembre 1992 - art. 7 (Ab)
 	  - Décret n°92-1051 du 29 septembre 1992 - art. 9 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°93-121 du 27 janvier 1993 - art. 58 () JORF 30 janvier 1993
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L421-2 (T)
 
 
 ###### Article 123-1-2
@@ -4604,17 +4609,12 @@ peines prévues à l'article 99.
 
 ###### Article 123-2
 
-Les personnes mentionnées à l'article précédent et employées par des particuliers doivent obligatoirement s'assurer pour les
-dommages que les enfants gardés pourraient provoquer et pour ceux dont ils pourraient être victimes. Leurs employeurs sont
-tenus, avant de leur confier un enfant, de vérifier qu'elles ont bien satisfait à cette obligation    Les personnes
-mentionnées à l'article précédent et employées par des personnes morales sont obligatoirement couvertes contre les mêmes
-risques par les soins desdites personnes morales.
+Les assistantes maternelles agréées et employées par des particuliers doivent obligatoirement s'assurer pour les dommages que
+les enfants gardés pourraient provoquer et pour ceux dont ils pourraient être victimes. Leurs employeurs sont tenus, avant de
+leur confier un enfant, de vérifier qu'elles ont bien satisfait à cette obligation.
 
-**Nota:**
-
-[*Nota : Code de la famille et de l'aide sociale art. 123-4 :
-
-champ d'application de la présente section.*]
+Les personnes mentionnées à l'article précédent et employées par des personnes morales sont obligatoirement couvertes contre
+les mêmes risques par les soins desdites personnes morales.
 
 **Liens relatifs à cet article**
 
@@ -4622,16 +4622,18 @@ champ d'application de la présente section.*]
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
-	**Modifié par**:
-
-	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
-	  - Loi n°86-17 du 6 janvier 1986 - art. 38 () JORF 8 janvier 1986
-	  - Loi n°86-17 du 6 janvier 1986 - art. 45 () JORF 8 janvier 1986
-
 	**Cité par**:
 
 	  - Loi n°91-1406 du 31 décembre 1991 - art. 17 (Ab)
 	  - Code du travail - art. L122-28-5 (M)
+
+	**Modifié par**:
+
+	  - Loi n°93-121 du 27 janvier 1993 - art. 57 () JORF 30 janvier 1993
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 	**Nouveaux textes**:
 
@@ -4981,9 +4983,11 @@ de leur activité.
 
 ###### Article 123-11
 
-Les assistantes maternelles employées par des établissements publics de santé sont des agents non titulaires de ces
-établissements [*statuts*] ; un décret en Conseil d'Etat fixe les dispositions particulières qui leur sont applicables compte
-tenu du caractère spécifique de leur activité.
+Les assistantes maternelles employées par des établissements publics de santé ou des établissements sociaux ou médico-sociaux
+publics ou à caractère public sont des agents non titulaires de ces établissements.
+
+Un décret en Conseil d'Etat fixe les dispositions particulières qui leur sont applicables compte tenu du caractère spécifique
+de leur activité.
 
 **Liens relatifs à cet article**
 
@@ -4991,13 +4995,18 @@ tenu du caractère spécifique de leur activité.
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-642 du 12 juillet 1992 - art. 5 () JORF 14 juillet 1992
+	  - Loi n°93-121 du 27 janvier 1993 - art. 57 () JORF 30 janvier 1993
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. L422-7 (VD)
+	  - Code de l'action sociale et des familles - art. L422-7 (M)
 
 
 # Titre III : Aide sociale
@@ -8399,9 +8408,12 @@ le 3° de l'article 188-1 :
 2° Les personnes âgées de dix-sept à vingt-cinq ans qui satisfont aux conditions de ressources et de résidence en France
 fixées par cette loi pour l'attribution du revenu minimum d'insertion.
 
-II. - En outre, les personnes mentionnées au 1° du I bénéficient de plein droit de l'aide médicale pour la part laissée à
-leur charge, en application des articles L. 322-2 et L. 741-9 du code de la sécurité sociale, ainsi que pour le forfait
-journalier, institué par l'article L. 174-4 du même code.
+3° Les personnes titulaires de l'allocation de veuvage qui n'ont pas droit à un titre quelconque aux prestations en nature
+d'un régime obligatoire d'assurance maladie-maternité.
+
+II. -  En outre, les personnes mentionnées au 1° et au 3° du I bénéficient de plein droit de l'aide médicale pour la part
+laissée à leur charge, en application des articles L. 322-2 et L. 741-9 du code de la sécurité sociale, ainsi que pour le
+forfait journalier, institué par l'article L. 174-4 du même code.
 
 III. - Les règles relatives à l'obligation alimentaire ne sont pas mises en jeu pour les prestations d'aide médicale prises
 en charge au titre du présent article.
@@ -8440,9 +8452,10 @@ au présent titre.
 	  - Code de la sécurité sociale. - art. L741-10 (Ab)
 	  - Code de la sécurité sociale. - art. L741-9 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-722 du 29 juillet 1992 - art. 8 () JORF 30 juillet 1992 en vigueur le 1er janvier 1993
+	  - Loi n°93-121 1993-01-27 art. 13 II, III JORF 30 janvier 1993
+	  - Loi n°93-121 du 27 janvier 1993 - art. 13 () JORF 30 janvier 1993
 
 	**Nouveaux textes**:
 
