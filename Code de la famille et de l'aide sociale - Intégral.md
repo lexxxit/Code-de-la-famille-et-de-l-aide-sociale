@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1975-12-30
+Version Consolidée au 1976-07-10
 
 # Titre Ier : Protection sociale de la famille
 
@@ -5538,6 +5538,46 @@ Un décret en conseil d'Etat détermine les conditions d'application de la prés
 	**Codifié par**:
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+
+### Section 2 : Aide sociale aux familles dont les soutiens effectuent leur service national actif
+
+###### Article 156
+
+Lorsque leurs ressources sont insuffisantes, les familles dont les soutiens accomplissent le service national actif, qu'elles
+résident ou non en France, ont droit à des allocations dont le mode de calcul est fixé par décret en Conseil d'Etat.
+
+Ces allocations sont à la charge du budget de l'Etat. Elles sont accordées par l'autorité administrative.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°53-1186 1953-11-29 art. 25
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cité par**:
+
+	  - Décret n°57-44 du 15 janvier 1957 - art. 2 (Ab)
+	  - Décret n°76-303 du 2 avril 1976 - art. 1 (M)
+	  - Décret n°76-304 du 2 avril 1976 - art. 1 (M)
+	  - Loi n°83-663 du 22 juillet 1983 - art. 35 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 124-2 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 129 (Ab)
+	  - Code du service national - art. L32 bis (M)
+	  - Code du service national - art. L62 (V)
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L212-1 (V)
+	  - Code de l'action sociale et des familles - art. L212-2 (V)
 
 
 ## Chapitre V : Aide sociale aux personnes agées
