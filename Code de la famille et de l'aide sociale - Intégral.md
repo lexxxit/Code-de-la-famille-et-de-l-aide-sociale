@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1992-02-08
+Version Consolidée au 1992-07-14
 
 # Titre Ier : Protection sociale de la famille
 
@@ -4275,21 +4275,22 @@ ne s'est pas prononcée dans un délai de six mois à compter du jour de la dema
 
 ###### Article 123-1
 
-Peuvent seules accueillir habituellement des mineurs à leur domicile moyennant rémunération les personnes qui sont agréées à
-cet effet [*condition*].
+La personne qui accueille habituellement des mineurs à son domicile, moyennant rémunération, doit être préalablement agréée
+comme assistante maternelle par le président du conseil général du département où elle réside.
 
-Des actions de formation destinées à les aider dans leur tâche éducative sont organisées pour ces personnes au titre de la
-protection maternelle et infantile.
+L'agrément est accordé pour une durée fixée par voie réglementaire si les conditions d'accueil garantissent la santé, la
+sécurité et l'épanouissement des mineurs accueillis ; il précise le caractère permanent ou non de l'accueil, le nombre et
+l'âge des mineurs susceptibles d'être accueillis par l'assistante maternelle ainsi que, le cas échéant, les horaires de
+l'accueil. Le nombre de mineurs accueillis ne peut être supérieur à trois, sauf dérogation accordée par le président du
+conseil général.
 
-Un décret détermine les modalités d'application du présent article en fonction notamment de l'âge du mineur et des
-circonstances du placement. Il fixe les éléments d'appréciation d'ordre sanitaire et éducatif, compte tenu notamment de
-l'expérience acquise par l'assistante maternelle, au vu desquels l'agrément est accordé, refusé ou retiré.
+Dans le cas d'un agrément concernant l'accueil de mineurs à titre permanent, une préparation à l'accueil est réalisée
+préalablement, dans des conditions définies par décret.
 
-**Nota:**
+Tout refus d'agrément doit être dûment motivé.
 
-[*Nota : Code de la famille et de l'aide sociale art. 123-4 :
-
-champ d'application de la présente section.*]
+Le renouvellement de l'agrément est subordonné à la justification de la formation définie à l'article L. 149-1 du code de la
+santé publique ou à l'article L. 773-17 du code du travail.
 
 **Liens relatifs à cet article**
 
@@ -4337,13 +4338,268 @@ champ d'application de la présente section.*]
 
 	**Modifié par**:
 
-	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
-	  - Loi n°86-17 du 6 janvier 1986 - art. 38 () JORF 8 janvier 1986
-	  - Loi n°86-17 du 6 janvier 1986 - art. 45 () JORF 8 janvier 1986
+	  - Loi n°92-642 du 12 juillet 1992 - art. 1 () JORF 14 juillet 1992
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Cite**:
+
+	  - Code du travail - art. L773-17 (Ab)
+	  - Code de la santé publique - art. L149-1 (Ab)
 
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. L421-1 (VD)
+	  - Code de l'action sociale et des familles - art. L421-1 (M)
+
+
+###### Article 123-1-1
+
+Lorsque la demande d'agrément concerne l'accueil de mineurs à titre non permanent, la décision du président du conseil
+général est notifiée dans un délai de trois mois à compter de cette demande. A défaut de notification d'une décision dans ce
+délai, l'agrément est réputé acquis.
+
+Lorsque la demande d'agrément concerne l'accueil de mineurs à titre permanent, la décision du président du conseil général
+est notifiée dans un délai de six mois à compter de cette demande. A défaut de notification d'une décision dans ce délai,
+l'agrément est réputé acquis.
+
+Si les conditions de l'agrément cessent d'^etre remplies, le président du conseil général peut, après avis d'une commission
+consultative paritaire départementale, modifier le contenu de l'agrément ou procéder à son retrait. En cas d'urgence, le
+président du conseil général peut suspendre l'agrément.
+
+Toute décision de retrait ou de suspension de l'agrément ou de modification de son contenu doit ^etre d^ument motivée.
+
+La composition, les attributions et les modalités de fonctionnement de la commission présidée par le président du conseil
+général ou son représentant, visée à l'alinéa précédent, sont définies par décret en Conseil d'Etat.
+
+La commission est notamment consultée chaque année sur le programme de formation des assistantes maternelles ainsi que sur le
+bilan de fonctionnement de l'agrément.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale art. 123-4 :
+
+champ d'application de la présente section.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Loi n°92-642 du 12 juillet 1992 - art. 2 () JORF 14 juillet 1992
+
+	**Cité par**:
+
+	  - Décret n°92-1051 du 29 septembre 1992 - art. 16 (Ab)
+	  - Décret n°92-1051 du 29 septembre 1992 - art. 17 (Ab)
+	  - Décret n°92-1051 du 29 septembre 1992 - art. 29 (Ab)
+	  - Décret n°92-1051 du 29 septembre 1992 - art. 7 (Ab)
+	  - Décret n°92-1051 du 29 septembre 1992 - art. 9 (Ab)
+
+
+###### Article 123-1-2
+
+Lorsqu'une assistante maternelle agréée change de département de résidence, son agrément demeure valable sous réserve d'une
+déclaration préalable adressée au président du conseil général du département de sa nouvelle résidence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Loi n°92-642 du 12 juillet 1992 - art. 2 () JORF 14 juillet 1992
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L421-3 (VD)
+	  - Code de l'action sociale et des familles - art. L421-3 (T)
+
+	**Cité par**:
+
+	  - Code de la famille et de l'aide sociale. - art. 123-1-3 (Ab)
+
+
+###### Article 123-1-3
+
+Le président du conseil général informe le maire de la commune de résidence de l'assistante maternelle de toute décision
+d'agrément, de suspension, de retrait ou de modification du contenu de l'agrément concernant l'intéressée ; il informe
+également le maire de toute déclaration reçue au titre de l'article 123-1-2.
+
+Il établit et tient à jour la liste, dressée par commune, des assistantes maternelles agréées dans le département. Cette
+liste est mise à la disposition des familles dans les services du département et, pour ce qui concerne chaque commune, de la
+mairie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Loi n°92-642 du 12 juillet 1992 - art. 2 () JORF 14 juillet 1992
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L421-4 (AbD)
+	  - Code de l'action sociale et des familles - art. L421-4 (T)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 123-1-2 (Ab)
+
+
+###### Article 123-1-4
+
+Le président du conseil général informe du retrait, de la suspension ou de la modification du contenu de l'agrément de
+l'assistante maternelle les organismes débiteurs de l'aide à la famille instituée par l'article L. 841-1 du code de la
+sécurité sociale et les représentants légaux du ou des mineurs accueillis par celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Loi n°92-642 du 12 juillet 1992 - art. 2 () JORF 14 juillet 1992
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L421-5 (VD)
+	  - Code de l'action sociale et des familles - art. L421-5 (M)
+
+	**Cité par**:
+
+	  - Code de la famille et de l'aide sociale. - art. 123-1-6 (Ab)
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L841-1 (M)
+
+
+###### Article 123-1-5
+
+La personne qui accueille habituellement des mineurs à son domicile moyennant rémunération sans avoir préalablement obtenu
+l'agrément institué par l'article 123-1 et dont la situation est signalée au président du conseil général est mise en demeure
+par celui-ci de présenter une demande d'agrément dans le délai de quinze jours. Son ou ses employeurs sont informés de cette
+mise en demeure par le président du conseil général.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Loi n°92-642 du 12 juillet 1992 - art. 2 () JORF 14 juillet 1992
+
+	**Cité par**:
+
+	  - Décret n°92-1051 du 29 septembre 1992 - art. 27 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 123-1-6 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 123-1-7 (Ab)
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L421-6 (T)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 123-1 (M)
+
+
+###### Article 123-1-6
+
+En cas d'application des articles 123-1-4 et 123-1-5, l'assistante maternelle ou la personne visée à l'article 123-1-5, est
+tenue de fournir au président du conseil général, sur sa demande, les noms et adresses des représentants légaux des mineurs
+qu'elle accueille.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Loi n°92-642 du 12 juillet 1992 - art. 2 () JORF 14 juillet 1992
+
+	**Cité par**:
+
+	  - Décret n°92-1051 du 29 septembre 1992 - art. 28 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 123-1-7 (Ab)
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L421-7 (T)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 123-1-4 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 123-1-5 (Ab)
+
+
+###### Article 123-1-7
+
+La personne qui accueille à son domicile moyennant rémunération des mineurs sans avoir donné suite aux mises en demeure
+prévues aux articles 123-1-5 et 123-1-6 ou après une décision de refus, de suspension ou de retrait d'agrément sera punie des
+peines prévues à l'article 99.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Loi n°92-642 du 12 juillet 1992 - art. 2 () JORF 14 juillet 1992
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L421-8 (T)
+	  - Code de l'action sociale et des familles - art. L421-7 (T)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 123-1-5 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 123-1-6 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 99 (M)
 
 
 ###### Article 123-2
@@ -4388,22 +4644,28 @@ champ d'application de la présente section.*]
 
 ###### Article 123-3
 
-Lorsque les personnes mentionnées à l'article 123-1 sont employées par des personnes morales de droit public ou de droit
-privé, il est passé entre elles et leur employeur, pour chaque mineur confié en garde permanente, un contrat de placement
-distinct du contrat de travail.
+Lorsque les assistantes maternelles sont employées par des personnes morales de droit public ou de droit privé, il est conclu
+entre elles et leur employeur, pour chaque mineur accueilli à titre permanent, un contrat d'accueil distinct du contrat de
+travail.
+
+L'ensemble des personnes résidant au domicile de l'assistante maternelle agréée pour l'accueil de mineurs à titre permanent
+constitue une famille d'accueil.
 
 Ce contrat précise notamment le rôle de la famille d'accueil et celui du service ou organisme employeur à l'égard du mineur
 et de sa famille. Il fixe les conditions de l'arrivée de l'enfant dans la famille d'accueil et de son départ, ainsi que du
 soutien éducatif dont il bénéficiera.
 
-Si l'assistante maternelle est mariée et demeure avec son conjoint, le contrat de placement doit être également signé
-[*obligatoirement*] par celui-ci.
+Le contrat précise également si l'accueil permanent du mineur est continu ou intermittent. L'accueil est continu s'il est
+prévu pour une durée supérieure à quinze jours consécutifs, y compris les jours d'accueil en internat scolaire ou en
+établissement d'éducation spéciale, ou s'il est prévu pour une durée supérieure à un mois lorsque l'enfant n'est pas confié
+les samedis et dimanches ; l'accueil est intermittent s'il est prévu pour une durée inférieure ou égale à quinze jours
+consécutifs.
 
-**Nota:**
+Le contrat d'accueil est porté à la connaissance des autres membres de la famille d'accueil.
 
-[*Nota : Code de la famille et de l'aide sociale art. 123-4 :
-
-champ d'application de la présente section.*]
+Sauf situation d'urgence mettant en cause la sécurité de l'enfant, l'assistante maternelle est consultée préalablement sur
+toute décision prise par la personne morale qui l'emploie concernant le mineur qu'elle accueille à titre permanent ; elle
+participe à l'évaluation de la situation de ce mineur.
 
 **Liens relatifs à cet article**
 
@@ -4413,9 +4675,7 @@ champ d'application de la présente section.*]
 
 	**Modifié par**:
 
-	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
-	  - Loi n°86-17 du 6 janvier 1986 - art. 38 () JORF 8 janvier 1986
-	  - Loi n°86-17 du 6 janvier 1986 - art. 46 () JORF 8 janvier 1986
+	  - Loi n°92-642 du 12 juillet 1992 - art. 3 () JORF 14 juillet 1992
 
 	**Cité par**:
 
@@ -4424,13 +4684,14 @@ champ d'application de la présente section.*]
 	  - Code du travail - art. L122-28-5 (M)
 	  - Code du travail - art. L773-3-1 (M)
 
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. L421-10 (T)
-
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale. - art. 123-1 (M)
+	  - Code de l'action sociale et des familles - art. L421-10 (M)
 
 
 ###### Article 123-4
@@ -4476,13 +4737,9 @@ Elles sont applicables aux familles d'accueil relevant des centres de placements
 	  - Code du travail - art. L122-28-5 (M)
 
 
-### Section 5 : Assistantes maternelles employées par des personnes morales de droit public
+###### Article 123-4-1
 
-###### Article 123-5
-
-S'appliquent aux assistantes maternelles employées par des personnes de droit public les articles suivants du livre VII,
-titre VII, chapitre III du code du travail : L. 773-3, L. 773-4, L. 773-5, L. 773-6, L. 773-7, L. 773-10, L. 773-11, L.
-773-12, L. 773-13, L. 773-14 et L. 773-15.
+Les conditions d'application de la présente section sont fixées par un décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -4492,9 +4749,46 @@ titre VII, chapitre III du code du travail : L. 773-3, L. 773-4, L. 773-5, L. 77
 
 	**Modifié par**:
 
-	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
-	  - Loi n°86-17 du 6 janvier 1986 - art. 38 () JORF 8 janvier 1986
-	  - Loi n°86-17 du 6 janvier 1986 - art. 45 () JORF 8 janvier 1986
+	  - Loi n°92-642 du 12 juillet 1992 - art. 4 () JORF 14 juillet 1992
+
+	**Cité par**:
+
+	  - Loi n°92-642 du 12 juillet 1992 - art. 18 (M)
+	  - Loi n°92-642 du 12 juillet 1992 - art. 19 (M)
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L421-12 (T)
+
+
+### Section 5 : Assistantes maternelles employées par des personnes morales de droit public
+
+###### Article 123-5
+
+Les articles L. 773-3, L. 773-3-1, L. 773-4, L. 773-4-1, L. 773-5, L. 773-6, L. 773-7, L. 773-10, L. 773-11, L. 773-12, L.
+773-13, L. 773-14, L. 773-15 et L. 773-17 du code du travail s'appliquent aux assistantes maternelles employées par des
+personnes morales de droit public.
+
+Lorsque les assistantes maternelles sont employées par le département, les indemnités mentionnées à l'article L. 773-3-1 du
+code du travail sont fixées par délibération du conseil général.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Modifié par**:
+
+	  - Loi n°92-642 du 12 juillet 1992 - art. 17 () JORF 14 juillet 1992
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 	**Cite**:
 
@@ -4504,8 +4798,11 @@ titre VII, chapitre III du code du travail : L. 773-3, L. 773-4, L. 773-5, L. 77
 	  - Code du travail - art. L773-13 (T)
 	  - Code du travail - art. L773-14 (T)
 	  - Code du travail - art. L773-15 (M)
+	  - Code du travail - art. L773-17 (Ab)
 	  - Code du travail - art. L773-3 (M)
+	  - Code du travail - art. L773-3-1 (M)
 	  - Code du travail - art. L773-4 (M)
+	  - Code du travail - art. L773-4-1 (T)
 	  - Code du travail - art. L773-5 (M)
 	  - Code du travail - art. L773-6 (M)
 	  - Code du travail - art. L773-7 (T)
@@ -4513,6 +4810,7 @@ titre VII, chapitre III du code du travail : L. 773-3, L. 773-4, L. 773-5, L. 77
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. L422-1 (VD)
+	  - Code de l'action sociale et des familles - art. L422-1 (M)
 
 	**Cité par**:
 
@@ -4626,6 +4924,80 @@ décret en référence au salaire minimum interprofessionnel de croissance.
 
 	  - Code de l'action sociale et des familles - art. L422-4 (VD)
 	  - Code de l'action sociale et des familles - art. L422-4 (M)
+
+
+###### Article 123-9
+
+Le département assure par une équipe de professionnels qualifiés dans les domaines social, éducatif, psychologique et médical
+l'accompagnement professionnel des assistantes maternelles qu'il emploie et l'évaluation des situations d'accueil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Loi n°92-642 du 12 juillet 1992 - art. 5 () JORF 14 juillet 1992
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L422-5 (VD)
+	  - Code de l'action sociale et des familles - art. L422-5 (M)
+
+
+###### Article 123-10
+
+Les assistantes maternelles employées par des collectivités territoriales sont des agents non titulaires de ces
+collectivités.
+
+Un décret en Conseil d'Etat fixe les dispositions particulières qui leur sont applicables compte tenu du caractère spécifique
+de leur activité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Loi n°92-642 du 12 juillet 1992 - art. 5 () JORF 14 juillet 1992
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L422-6 (VD)
+	  - Code de l'action sociale et des familles - art. L422-6 (M)
+
+
+###### Article 123-11
+
+Les assistantes maternelles employées par des établissements publics de santé sont des agents non titulaires de ces
+établissements [*statuts*] ; un décret en Conseil d'Etat fixe les dispositions particulières qui leur sont applicables compte
+tenu du caractère spécifique de leur activité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Loi n°92-642 du 12 juillet 1992 - art. 5 () JORF 14 juillet 1992
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L422-7 (VD)
 
 
 # Titre III : Aide sociale
