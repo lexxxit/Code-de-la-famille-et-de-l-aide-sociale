@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1990-01-25
+Version Consolidée au 1990-07-12
 
 # Titre Ier : Protection sociale de la famille
 
@@ -6582,25 +6582,47 @@ dans les établissements hospitaliers.
 
 ###### Article 165
 
-Le service d'aide sociale aux personnes âgées peut participer aux frais de séjour d'une personne âgée dans une maison de
-retraite avec laquelle il n'a pas été passé de convention, lorsque l'intéressé y a séjourné à titre payant pendant une durée
-déterminée par décret en conseil d'Etat et lorsque ses ressources ne lui permettent plus d'assurer son entretien
-[*condition*]. Le service d'aide sociale ne peut, dans cette hypothèse, assumer une charge supérieure à celle qu'aurait
-occasionnée le placement de la personne âgée dans un établissement hospitalier public.
+Le service d'aide sociale aux personnes âgées peut participer aux frais de séjour d'une personne âgée dans un établissement
+d'hébergement avec lequel il n'a pas été passé de convention lorsque l'intéressé y a séjourné à titre payant pendant une
+durée de cinq ans et lorsque ses ressources ne lui permettent plus d'assurer son entretien.
+
+Le service d'aide sociale ne peut pas, dans cette hypothèse, assumer une charge supérieure à celle qu'aurait occasionnée le
+placement de la personne âgée dans un établissement public délivrant des prestations analogues, selon les modalités définies
+par le règlement départemental d'aide sociale.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°53-1186 1953-11-29 ART. 34
+	  - Décret n°53-1186 1953-11-29 art. 34
 
 	**Codifié par**:
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. L231-5 (M)
+	  - Code de l'action sociale et des familles - art. L231-5 (V)
+
+	**Modifié par**:
+
+	  - Décret n°90-600 1990-07-06 art. 7 JORF 12 juillet 1990
 
 
 ## Chapitre VI : Aide sociale aux personnes handicapées
