@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1977-05-18
+Version Consolidée au 1978-01-01
 
 # Titre Ier : Protection sociale de la famille
 
@@ -6165,6 +6165,57 @@ occasionnée le placement de la personne âgée dans un établissement hospitali
 ## Chapitre VI : Aide sociale aux personnes handicapées
 
 ### Section 1 : Dispositions communes
+
+###### Article 166
+
+Toute personne handicapée dont l'incapacité permanente est au moins égale au pourcentage fixé par le décret prévu à l'article
+35 de la loi n° 75-534 du 30 juin 1975 ou qui est, compte tenu de son handicap, dans l'impossibilité de se procurer un
+emploi, peut bénéficier des prestations prévues au chapitre V du présent titre, à l'exception de l'allocation simple à
+domicile.
+
+Il n'est pas tenu compte, le cas échéant, dans les ressources du postulant, et dès lors que l'objet de la demande est en
+rapport direct avec le handicap, des arrérages des rentes viagères constituées en faveur de la personne handicapée et visées
+à l'article 8 de la loi n° 69-1161 du 24 décembre 1969 portant loi de finances pour 1970.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°53-1186 1953-11-29 art. 35
+
+	**Cité par**:
+
+	  - Décret n°54-883 du 2 septembre 1954 - art. 15 (M)
+	  - Décret n°54-883 du 2 septembre 1954 - art. 23 (Ab)
+	  - Décret n°54-883 du 2 septembre 1954 - art. 25 (Ab)
+	  - Décret n°54-1128 du 15 novembre 1954 - art. 11 (Ab)
+	  - Décret n°57-44 du 15 janvier 1957 - art. 4 (Ab)
+	  - Décret n°77-1545 du 31 décembre 1977 - art. 1 (Ab)
+	  - Loi n°89-475 du 10 juillet 1989 - art. 3 (Ab)
+	  - Code du travail - art. L323-16 (M)
+	  - Code du travail - art. R323-36 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cite**:
+
+	  - Loi n°69-1161 du 24 décembre 1969 - art. 8, v. init.
+	  - Loi n°75-534 1975-06-30 art. 35
+
+	**Créé par**:
+
+	  - Loi n°75-534 du 30 juin 1975 - art. 48 () JORF 1er juillet 1975 en vigueur le 1er janvier 1978
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L241-1 (V)
+
 
 ###### Article 167
 
