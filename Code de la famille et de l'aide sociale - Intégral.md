@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1986-01-08
+Version Consolidée au 1986-01-18
 
 # Titre Ier : Protection sociale de la famille
 
@@ -523,7 +523,46 @@ publication des dispositions réglementaires correspondantes du code de l'action
 	  - Code de l'action sociale et des familles - art. R211-7 (V)
 
 
-###### Article 14
+###### Article 12
+
+Les actes, pièces et écrits de toute nature passés ou rédigés en exécution de la présente section sont dispensés de tout
+droit de greffe. Les honoraires des notaires et des greffiers et les salaires des conservateurs des hypothèques sont réduits
+de moitié.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 230 :
+
+les dispositions du présent article du code sont applicables à l'union territoriale des associations familiales de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Loi n°86-76 du 17 janvier 1986 - art. 9 () JORF 18 janvier 1986
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 883 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L211-11 (V)
+
+	**Anciens textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 13 (T)
+
+
+###### Article 13
 
 Sous réserve des dispositions prévues par le deuxième alinéa du présent article, les contestations nées de la création ou du
 fonctionnement des unions départementales ou locales sont tranchées en dernier ressort par l'union nationale des associations
@@ -536,46 +575,113 @@ fédération ou confédération d'associations, ou d'une section d'association n
 antérieurement au 3 mars 1945 sont et demeurent placées sous le régime et bénéficient du statut défini par la présente
 section.
 
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 230 : les dispositions du présent article du code sont applicables à l'union
+territoriale des associations familiales de Mayotte.
+
+Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-323 1945-03-03 art. 17, alinéa final
-	  - Code de la famille et de l'aide sociale. - art. 15 (T)
 
 	**Codifié par**:
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
+	**Créé par**:
+
+	  - Loi n°86-76 du 17 janvier 1986 - art. 9 () JORF 18 janvier 1986
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
 	**Nouveaux textes**:
 
-	  - Code de la famille et de l'aide sociale. - art. 13 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 13 (T)
+	  - Code de l'action sociale et des familles - art. L211-12 (V)
+	  - Code de l'action sociale et des familles - art. L232-24 (T)
+	  - Code de la famille et de l'aide sociale. - art. 12 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 14 (T)
 
 
-###### Article 15
+###### Article 14
 
 Les associations de famille créées antérieurement au 3 mars 1945 [*date limite*] sont et demeurent placées sous le régime et
 bénéficient du statut défini par la présente section.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Loi n°86-76 du 17 janvier 1986 - art. 9 () JORF 18 janvier 1986
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 13 (Ab)
+
 	**Anciens textes**:
 
-	  - Ordonnance 45-323 1945-03-03 art. 3
-	  - Code de la famille et de l'aide sociale. - art. 16 (T)
+	  - Code de la famille et de l'aide sociale. - art. 15 (T)
+
+
+###### Article 15
+
+Un décret en Conseil d'Etat fixe les conditions d'application de la présente section. Il précise notamment les modalités des
+élections des conseils d'administration de l'union nationale et des unions départementales.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 230 : les dispositions du présent article du code sont applicables à l'union
+territoriale des associations familiales de Mayotte.
+
+Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
+	**Créé par**:
+
+	  - Loi n°86-76 du 17 janvier 1986 - art. 9 () JORF 18 janvier 1986
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. L211-14 (V)
 	  - Code de la famille et de l'aide sociale. - art. 14 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 14 (T)
+	  - Code de l'action sociale et des familles - art. L211-13 (V)
 
-	**Cite**:
+	**Anciens textes**:
 
 	  - Code de la famille et de l'aide sociale. - art. 16 (T)
 
@@ -586,63 +692,78 @@ bénéficient du statut défini par la présente section.
 
 ###### Article 16
 
-Un décret en Conseil d'Etat fixe les conditions d'application de la présente section. Il précise notamment les modalités des
-élections des conseils d'administration de l'union nationale et des unions départementales.
+Lorsqu'un salarié est désigné pour assurer la représentation d'associations familiales par application de dispositions
+législatives ou réglementaires, son employeur est tenu de lui laisser le temps nécessaire pour se rendre et participer aux
+réunions où il doit assurer cette représentation.
+
+Cette autorisation d'absence ne peut être refusée par l'employeur que dans le cas où il estime, après avis conforme du comité
+d'entreprise ou, s'il n'en existe pas, des délégués du personnel, que cette absence pourrait avoir des conséquences
+préjudiciables à la production et à la marche de l'entreprise. La durée maximale annuelle d'absence par salarié est fixée par
+voie réglementaire.
+
+Le refus de cette autorisation d'absence par l'employeur est motivé. En cas de différend, l'inspecteur du travail peut être
+saisi par l'une des parties et pris pour arbitre.
+
+La participation de ces salariés aux réunions des organismes dont la liste est fixée par arrêté du ministre chargé de la
+famille n'entraîne aucune diminution de leur rémunération.
+
+Le temps passé hors de l'entreprise pendant les heures de travail des salariés participant aux réunions ci-dessus mentionnées
+pour l'exercice de leurs fonctions est assimilé à une durée de travail effectif pour la détermination de la durée des congés
+payés, du droit aux prestations d'assurances sociales et aux prestations familiales ainsi qu'au regard de tous les droits que
+le salarié tient du fait de son ancienneté dans l'entreprise.
+
+Les dépenses supportées par l'employeur en ce qui concerne le maintien du salaire lui sont remboursées, selon le cas, par
+l'union nationale des associations familiales ou par l'union départementale concernée sur les ressources du fonds spécial
+prévu au 1° de l'article 11 du présent code. Le budget du fonds est abondé en conséquence.
+
+**Nota:**
+
+[*Nota : Arrêté du 30 octobre 1986 : L'autorisation d'absence prévue au présent article ne peut excéder 40 heures par an -
+disposition applicable à titre transitoire pour une période de deux ans.
+
+Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-323 1945-03-03 ART. 18
 
 	**Codifié par**:
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Loi n°86-76 du 17 janvier 1986 - art. 9 () JORF 18 janvier 1986
 
 	**Liens**:
 
 	  - TXT_SOURCE: Arrêté du 11 juin 1990
 	  - TXT_SOURCE: Arrêté du 11 juin 1990 - art. 1 (V)
 
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
 	**Cité par**:
 
 	  - Arrêté du 30 octobre 1986 - art. 1 (M)
 	  - Code de la famille et de l'aide sociale. - art. 15 (T)
+	  - Code de la famille et de l'aide sociale. - art. 16 (T)
 	  - Code de la famille et de l'aide sociale. - art. 63-2 (Ab)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 11 (Ab)
 
 	**Nouveaux textes**:
 
 	  - Code de la famille et de l'aide sociale. - art. 15 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 15 (T)
-
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale. - art. 16 (T)
-
-
-### Section 1 : Les associations familiales et lse unions d'associations familiales
-
-###### Article 13
-
-Ces actes, pièces et écrits sont également dispensés de tout droit de greffe [*exemption*]. Les honoraires des notaires et
-des greffiers et les salaires des conservateurs des hypothèques sont réduits de moitié.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-323 1945-03-03 art. 16
-	  - Code de la famille et de l'aide sociale. - art. 14 (T)
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L211-12 (V)
-	  - Code de l'action sociale et des familles - art. L232-24 (T)
-	  - Code de la famille et de l'aide sociale. - art. 12 (Ab)
+	  - Code de l'action sociale et des familles - art. L211-13 (V)
 
 
 ### Section 2 : Fête des mères
@@ -777,23 +898,24 @@ le Code des pensions civiles et militaires de retraite ;
 
 ###### Article 22
 
-Une carte de priorité est attribuée aux mères de famille remplissant l'une des conditions suivantes :
+Une carte de priorité est délivrée par les organismes chargés du versement des prestations familiales aux personnes
+remplissant l'une des conditions suivantes [*bénéficiaires*] :
 
-a) mères de famille ayant au moins trois enfants [*nombre*] de moins de seize ans ou deux enfants de moins de quatre ans, à
-la condition que ces enfants soient légitimes, reconnus ou adoptés ;
+a) Femmes enceintes ;
 
-b) femmes enceintes ;
+b) Ménages ou personnes ayant la charge effective et permanente, au sens de l'article L. 519 du code de la sécurité sociale,
+d'un enfant de moins de trois ans ;
 
-c) mères allaitant leur enfant au sein ;
+c) Ménages ou personnes ayant la charge effective ou permanente, au sens du même article, d'au moins trois enfants de moins
+de seize ans ou de deux enfants de moins de quatre ans.
 
-d) mères décorées de la médaille de la famille française.
+Cette carte est délivrée par l'autorité administrative de l'Etat aux personnes qui, décorées de la médaille de la famille
+française, n'en sont pas moins titulaires par application de l'alinéa premier du présent article.
 
-Elle peut être délivrée à un autre membre de la famille au lieu et place des mères visées au a, lorsque celles-ci sont
-décédées ou se trouvent dans l'incapacité physique d'utiliser personnellement la carte.
+La carte est valable pour toute la durée de la grossesse.
 
-Elle n'est pas délivrée [*non*] aux mères qui, par suite de divorce, de séparation ou d'abandon de famille, ne vivent pas
-avec leurs enfants ; elle peut, dans ce cas, être délivrée à un autre membre de la famille. Il ne peut être délivré plus
-d'une carte par foyer [*nombre*].
+Dans les autres cas, la durée de validité de la carte est de trois ans, avec renouvellement pour la même période si les
+conditions fixées à l'alinéa premier ci-dessus continuent d'être remplies.
 
 **Liens relatifs à cet article**
 
@@ -803,42 +925,16 @@ d'une carte par foyer [*nombre*].
 
 	**Modifié par**:
 
-	  - Loi n°80-545 1980-07-17 art. 15 II JORF 18 juillet 1980
+	  - Loi n°86-76 du 17 janvier 1986 - art. 10 () JORF 18 janvier 1986
 
 	**Cité par**:
 
 	  - Code de la famille et de l'aide sociale. - art. 21 (Ab)
 	  - Code de la famille et de l'aide sociale. - art. 23 (Ab)
 
-
-###### Article 23
-
-La carte est renouvelable tous les ans, après vérification des droits du demandeur : toutefois, dans le cas prévu au b de
-l'article 22, la carte n'est valable que pour le temps de la grossesse ; sa validité est prolongée, si l'enfant naît vivant,
-pour une durée de six mois à partir de la naissance ; dans le cas prévu au c de l'article 22 [*allaitement au sein*] la carte
-est valable pendant une année à partir de la naissance.
-
-Sauf lorsqu'elle est retirée à titre de sanction, la carte reste valable jusqu'aux époques fixées par le présent article,
-quelles que soient les modifications survenues dans la famille.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
 	**Cite**:
 
-	  - Code de la famille et de l'aide sociale. - art. 22 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°1940-08-14 ART. 4
-	  - Loi n°1941-06-18
-
-	**Abrogé par**:
-
-	  - Loi n°86-76 du 17 janvier 1986 - art. 10 () JORF 18 janvier 1986
+	  - Code de la sécurité sociale L519
 
 
 ###### Article 24
@@ -873,48 +969,6 @@ publication des dispositions réglementaires correspondantes du code de l'action
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. R215-5 (V)
-
-
-###### Article 25
-
-En cas de perte ou de vol, le remplacement de la carte n'est pas obligatoire ; il est en tout cas soumis aux résultats d'une
-enquête.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Anciens textes**:
-
-	  - Loi n°1940-08-14 ART. 6
-	  - Loi n°1941-06-18
-
-	**Abrogé par**:
-
-	  - Loi n°86-76 du 17 janvier 1986 - art. 10 () JORF 18 janvier 1986
-
-
-###### Article 26
-
-Tout usage abusif de la carte entraîne son retrait qui est prononcé par le préfet, sur proposition du directeur départemental
-de la population et de l'aide sociale, soit pour un temps, soit définitivement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Anciens textes**:
-
-	  - Loi n°1940-08-14 ART. 7
-	  - Loi n°1941-06-18
-
-	**Abrogé par**:
-
-	  - Loi n°86-76 du 17 janvier 1986 - art. 10 () JORF 18 janvier 1986
 
 
 ###### Article 27
@@ -2182,6 +2236,9 @@ Les pupilles de l'Etat peuvent être adoptés soit par les personnes à qui le s
 affectifs qui se sont établis entre eux justifient cette mesure, soit par des personnes agréées à cet effet, dans des
 conditions fixées par décret, par le responsable du service de l'aide sociale à l'enfance.
 
+Cet agrément est accordé par l'autorité compétente dans un délai qui ne peut excéder neuf mois à compter du jour de la
+demande [*point de départ*].
+
 La définition du projet d'adoption, simple ou plénière suivant les circonstances particulières à la situation de l'enfant,
 ainsi que le choix des adoptants éventuels sont assurés par le tuteur avec l'accord du conseil de famille.
 
@@ -2258,8 +2315,7 @@ ainsi que le choix des adoptants éventuels sont assurés par le tuteur avec l'a
 
 	**Modifié par**:
 
-	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
-	  - Loi n°86-17 du 6 janvier 1986 - art. 32 () JORF 8 janvier 1986
+	  - Loi n°86-76 du 17 janvier 1986 - art. 12 () JORF 18 janvier 1986
 
 	**Cite**:
 
@@ -2397,305 +2453,6 @@ Le conseil d'administration comporte deux membres [*nombre*] des conseils de fam
 	**Cité par**:
 
 	  - Code de la famille et de l'aide sociale. - art. 63-2 (Ab)
-
-
-### Section 5 : Modalités de placement des enfants confiés au service de l'aide sociale à l'enfance
-
-###### Article 66
-
-Dans chaque département, le préfet, sur proposition du directeur départemental de la population et de l'aide sociale,
-organise un ou plusieurs foyers destinés à accueillir les enfants confiés au service de l'aide sociale à l'enfance.
-
-Ces foyers sont gérés, soit par le conseil général, soit par la commission administrative de l'établissement hospitalier dont
-ils dépendent.
-
-Dans ce dernier cas, ils sont installés dans des locaux indépendants des quartiers d'hôpitaux et d'hospices.
-
-Le directeur ou le responsable du foyer est nommé par le préfet sur la proposition du directeur départemental de la
-population et de l'aide sociale.
-
-Le service médical est assuré par un médecin spécialement désigné à cet effet par le préfet, sur la proposition du directeur
-départemental de la population et de l'aide sociale.
-
-Les enfants ne sont maintenus au foyer que s'il est constaté que leur état de santé l'exige ou sur une décision motivée du
-directeur départemental de la population et de l'aide sociale [*condition*].
-
-Les foyers comprennent différentes sections groupant les enfants selon leur âge.
-
-Les nourrissons sont placés, en vue de leur adaptation à l'allaitement artificiel, dans une pouponnière spécialement
-organisée. Cette pouponnière est, dans toute la mesure du possible, installée dans un local annexe d'un maison maternelle
-afin de permettre, éventuellement, l'allaitement au lait de femme.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Anciens textes**:
-
-	  - Loi n°43-182 1943-04-15 ART. 22
-
-	**Cité par**:
-
-	  - Loi n°75-535 du 30 juin 1975 - art. 24 (Ab)
-	  - Code de la santé publique - art. L149 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°84-422 du 6 juin 1984 - art. 3 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
-
-	**Abrogé par**:
-
-	  - Loi n°86-17 du 6 janvier 1986 - art. 33 () JORF 8 janvier 1986
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L226-1 (V)
-
-
-###### Article 67
-
-Le placement familial [*obligatoire*] est de règle pour les pupilles à moins que le placement en internat ou dans un centre
-de rééducation ne soit reconnu nécessaire dans les conditions prévues à l'article 74.
-
-/A/LOI  0505 17-05-1977 :
-
-Cependant, en vue de leur assurer une meilleure protection sanitaire, les nourrissons, au sortir de la pouponnière, peuvent
-être placés provisoirement chez des nourrices professionnelles groupées dans une ou plusieurs communes limitrophes et
-soumises à la surveillance permanente d'un médecin et d'une infirmière ou d'une assistante sociale//.
-
-Les frères et les soeurs sont placés dans la même famille et, en cas d'impossibilité, dans la même commune.
-
-/A/LOI  0505 :
-
-Le placement ne peut être effectué qu'après une enquête sur place préalable de la part d'un fonctionnaire du service de la
-population et de l'aide sociale ou d'une assistance sociale//.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-1186 1953-11-29 art. 73 al. 7
-	  - Loi n°43-182 1943-04-15 art. 24
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L226-2 (V)
-
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale. - art. 74 (Ab)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L149 (Ab)
-
-	**Abrogé par**:
-
-	  - Loi n°84-422 du 6 juin 1984 - art. 2 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
-
-
-###### Article 68
-
-La rétribution de la nourrice ou de la gardienne à laquelle est confié un pupille comprend une rémunération fixe et des
-allocations éventuelles dites primes de survie ou de bons soins dont les taux sont fixés sur la proposition du directeur
-départemental de la population et de l'aide sociale.
-
-Le minimum de la rémunération fixe est déterminé par arrêté du ministre de la Santé publique et de la Population.
-
-La prime de survie est acquise lorsque le pupille a dix-huit mois, elle est proportionnelle au nombre de mois pendant
-lesquels la nourrice a gardé l'enfant.
-
-Lorsque le pupille a quatorze ans, une prime de bons soins peut être accordée à la gardienne si elle l'a élevé avec soin
-pendant cinq ans au moins et l'a envoyé régulièrement à l'école [*condition*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-1186 1953-11-29 ART. 73 AL. 8
-	  - Loi n°43-182 1943-04-15 ART. 25
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L226-3 (V)
-
-	**Cité par**:
-
-	  - Code de la famille et de l'aide sociale. - art. 59-1 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 67 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 71 (Ab)
-	  - Code de la santé publique - art. L149 (Ab)
-	  - Loi n°89-487 du 10 juillet 1989 - art. 17 (Ab)
-
-
-###### Article 69
-
-Le lieu de placement du pupille reste secret, sauf décision exceptionnelle du tuteur prise dans l'intérêt de l'enfant ; la
-mère ou la personne qui a présenté l'enfant peut en obtenir périodiquement des nouvelles.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Abrogé par**:
-
-	  - Loi n°84-422 du 6 juin 1984 - art. 2 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L226-4 (V)
-
-	**Cité par**:
-
-	  - Code de la famille et de l'aide sociale. - art. 59-1 (Ab)
-	  - Code de la santé publique - art. L149 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°43-182 1943-04-15 ART. 26
-
-
-###### Article 70
-
-Le nourricier est tenu à l'égard du pupille aux obligations auxquelles sont assujettis les parents par la loi du 28 mars 1882
-sur l'enseignement primaire, modifiée par les lois des 9 et 11 août 1936, et par la loi du 22 mai 1946. Il peut être autorisé
-par le tuteur à envoyer le pupille à l'école que fréquentent ou auraient fréquentée ses propres enfants.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Abrogé par**:
-
-	  - Loi n°84-422 du 6 juin 1984 - art. 2 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L226-5 (V)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L149 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°43-182 1943-04-15 ART. 27
-
-	**Cite**:
-
-	  - Loi n°1882-03-28
-	  - Loi n°1936-08-09
-	  - Loi n°1936-08-11
-	  - Loi n°1946-05-22
-
-
-###### Article 71
-
-/A/LOI  0505 17-05-1977 :
-
-La pension est payée aux parents nourriciers jusqu'à ce que le pupille ait atteint la fin de la scolarité obligatoire, sauf
-prolongation motivée. Le pupille qui n'est plus astreint à l'obligation scolaire et dont le tuteur n'aura pas jugé nécessaire
-de prolonger la scolarité est soumis à un examen d'orientation professionnelle ; il est placé soit dans un établissement
-d'enseignement professionnel, soit en apprentissage dans un centre ou chez des particuliers//.
-
-Pour les filles l'enseignement ménager est obligatoire.
-
-A la fin de son apprentissage, le pupille est placé à gages et pourvu d'un trousseau. Un contrat écrit, dispensé de timbre
-conformément à l'article 1137 du Code général des impôts [*code des impôts art. 1067*] détermine les conditions de
-l'apprentissage ou du placement à gages ; à moins que l'intérêt de l'enfant ne s'y oppose, l'apprentissage et le placement à
-gages sont, si possible, effectués chez les nourriciers. Une partie du salaire est placée au compte d'épargne du pupille
-conformément à l'article 61.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1137
-	  - Décret n°53-1186 1953-11-29 ART. 73 AL. 9
-	  - Loi n°43-182 1943-04-15 ART. 28
-
-	**Cite**:
-
-	  - CGI 1137, CGI 1067
-	  - Code de la famille et de l'aide sociale. - art. 61 (M)
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Abrogé par**:
-
-	  - Loi n°84-422 du 6 juin 1984 - art. 2 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 2 juin 1994
-	  - TXT_SOURCE: Arrêté du 2 juin 1994 - art. 1 (V)
-	  - TXT_SOURCE: Arrêté du 2 juin 1994 - art. Annexe (V)
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1067 (M)
-	  - Code de la santé publique - art. L149 (Ab)
-	  - Loi n°89-487 du 10 juillet 1989 - art. 17 (Ab)
-
-
-###### Article 72
-
-Les pupilles sont l'objet d'une surveillance qu'exercent les directeurs départementaux de la population et de l'aide sociale,
-les assistantes sociales, ainsi que les agents des cadres actifs mis à la disposition de la direction départementale de la
-population et de l'aide sociale conformément à l'article 78.
-
-Les visites ont lieu à domicile ; en outre, une liaison est établie entre le service, les directeurs d'école et les
-institutions.
-
-Le pupille isolé placé dans un département autre que celui auquel il appartient, est surveillé par les fonctionnaires du
-service de la population et de l'aide sociale du département où il est placé.
-
-Les pupilles placés par groupe dans un département autre que celui auquel ils appartiennent peuvent être surveillés dans les
-mêmes conditions, à moins qu'en raison de l'importance de leur effectif le département d'origine ne désigne un agent spécial
-de surveillance ; la décision est concertée entre les deux préfets. En cas de désaccord elle est prise par le ministre de la
-Santé publique et de la Population [*autorité compétence*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L226-11 (V)
-
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale. - art. 78 (M)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L149 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°43-182 1943-04-15 ART. 29
-
-	**Abrogé par**:
-
-	  - Loi n°86-17 du 6 janvier 1986 - art. 33 () JORF 8 janvier 1986
 
 
 ## Chapitre II : Organisation du service chargé de l'aide sociale à l'enfance
@@ -3477,6 +3234,58 @@ l'article 99 du présent code.
 	  - TXT_ASSOCIE: Code de la famille et de l'aide sociale. - art. 100-1 (M)
 
 
+### Section 2 bis : Accueil de l'enfant étranger en vue de son adoption
+
+###### Article 100-3
+
+Les personnes qui souhaitent accueillir, en vue de son adoption, un enfant étranger doivent demander l'agrément prévu à
+l'article 63 du présent code.
+
+**Nota:**
+
+[*Nota : Loi 86-76 du 17 janvier 1986 art. 12 II : L'agrément est réputé tacitement accordé par l'administration si celle-ci
+ne s'est pas prononcée dans un délai de six mois à compter du jour de la demande.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cité par**:
+
+	  - Décret n°85-986 du 16 septembre 1985 - art. 47 (M)
+	  - Décret n°86-68 du 13 janvier 1986 - art. 34-1 (V)
+	  - Décret n°88-145 du 15 février 1988 - art. 14-1 (V)
+	  - Décret n°88-976 du 13 octobre 1988 - art. 34 (M)
+	  - Décret n°91-155 du 6 février 1991 - art. 18-1 (M)
+	  - Loi n°96-604 du 5 juillet 1996 - art. 59 (V)
+	  - Décret n°98-771 du 1 septembre 1998 - art. 1 (Ab)
+	  - Code de la sécurité sociale. - art. L331-7 (M)
+	  - Code de la sécurité sociale. - art. L535-1 (Ab)
+	  - Code de la sécurité sociale. - art. L615-19 (T)
+	  - Code de la sécurité sociale. - art. L615-19-1 (T)
+	  - Code de la sécurité sociale. - art. L722-8 (M)
+	  - Code de la sécurité sociale. - art. L722-8-1 (M)
+	  - Code de la sécurité sociale. - art. L722-8-2 (Ab)
+	  - Code du travail - art. L122-26 (M)
+	  - Code du travail - art. L122-28-10 (M)
+	  - Code rural - art. L732-10 (V)
+	  - Code rural ancien - art. 1106-3-1 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°86-76 du 17 janvier 1986 - art. 12 () JORF 18 janvier 1986
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L225-15 (T)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 63 (M)
+
+
 ### Section 4 : Assistantes maternelles
 
 ###### Article 123-1
@@ -3890,142 +3699,6 @@ protéger leur sécurité, leur santé et leur moralité.
 	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
 	  - Loi n°86-17 du 6 janvier 1986 - art. 38 () JORF 8 janvier 1986
 	  - Loi n°86-17 du 6 janvier 1986 - art. 39 () JORF 8 janvier 1986
-
-
-### Section 2 bis : Accueil de l'enfant étranger en vue de son adoption
-
-###### Article 100-3
-
-Les personnes qui souhaitent accueillir, en vue de son adoption, un enfant étranger doivent demander l'agrément prévu à
-l'article 63 du présent code. Cet agrément est réputé être accordé si l'administration ne s'est pas prononcée dans un délai
-de six mois à compter du jour de la demande [*point de départ, accord tacite*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Cité par**:
-
-	  - Décret n°85-986 du 16 septembre 1985 - art. 47 (M)
-	  - Décret n°86-68 du 13 janvier 1986 - art. 34-1 (V)
-	  - Décret n°88-145 du 15 février 1988 - art. 14-1 (V)
-	  - Décret n°88-976 du 13 octobre 1988 - art. 34 (M)
-	  - Décret n°91-155 du 6 février 1991 - art. 18-1 (M)
-	  - Loi n°96-604 du 5 juillet 1996 - art. 59 (V)
-	  - Décret n°98-771 du 1 septembre 1998 - art. 1 (Ab)
-	  - Code de la sécurité sociale. - art. L331-7 (M)
-	  - Code de la sécurité sociale. - art. L535-1 (Ab)
-	  - Code de la sécurité sociale. - art. L615-19 (T)
-	  - Code de la sécurité sociale. - art. L615-19-1 (T)
-	  - Code de la sécurité sociale. - art. L722-8 (M)
-	  - Code de la sécurité sociale. - art. L722-8-1 (M)
-	  - Code de la sécurité sociale. - art. L722-8-2 (Ab)
-	  - Code du travail - art. L122-26 (M)
-	  - Code du travail - art. L122-28-10 (M)
-	  - Code rural - art. L732-10 (V)
-	  - Code rural ancien - art. 1106-3-1 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
-	  - Loi n°86-17 du 6 janvier 1986 - art. 38 () JORF 8 janvier 1986
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L225-15 (T)
-
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale. - art. 63 (M)
-
-
-# Titre II : Protection sociale de l'enfance
-
-## Chapitre II : Aide sociale à l'enfance
-
-### Section 5 : Organisation administrative du service d'aide sociale à l'enfance
-
-###### Article 78
-
-Les fonctionnaires du service de l'aide sociale à l'enfance sont assistés d'un personnel d'exécution, tant actif que
-sédentaire, dont les effectifs sont prélevés soit sur le cadre des agents des services extérieurs du ministère de la Santé
-publique et de la Population et fixés par arrêté du ministre de la Santé publique et de la Population, soit sur le cadre des
-fonctionnaires et agents des préfectures.
-
-Le personnel actif comprend, en outre, les assistantes spécialisées qui assurent, notamment, la liaison avec les maisons
-maternelles, les maternités et autres services hospitaliers, ainsi que le fonctionnement des centres nourriciers.
-
-Il peut être fait appel aux assistantes de secteur pour participer à la surveillance régulière des enfants ; elles adressent
-au directeur départemental de la population et de l'aide sociale leurs rapports mensuels concernant les enfants du service.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Anciens textes**:
-
-	  - Loi n°43-182 1943-04-15 ART. 36
-
-	**Abrogé par**:
-
-	  - Loi n°86-17 1986-01-06 art. 80 JORF 8 janvier 1986
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L221-3 (V)
-
-	**Cité par**:
-
-	  - Code de la famille et de l'aide sociale. - art. 72 (M)
-	  - Code de la famille et de l'aide sociale. - art. 80 (Ab)
-
-
-###### Article 79
-
-Le directeur départemental de la population et de l'aide sociale [*mission*] choisit les parents nourriciers et patrons,
-assure la distribution des layettes et vêtures, passe les contrats de placement et d'apprentissage et, d'une manière
-générale, propose au tuteur les mesures qui commandent la protection et la tutelle instituées par le présent chapitre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L221-4 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°43-182 1943-04-15 ART. 37
-
-	**Abrogé par**:
-
-	  - Loi n°86-17 1986-01-06 art. 80 JORF 8 janvier 1986
-
-
-###### Article 80
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Abrogé par**:
-
-	  - Décret n°61-1305 1961-12-05 art. 1 JORF 6 décembre 1961 en vigueur le 1er janvier 1962
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L221-6 (V)
 
 
 # Titre III : Aide sociale
