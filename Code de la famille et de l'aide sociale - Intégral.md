@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1971-07-14
+Version Consolidée au 1971-12-28
 
 # Titre Ier : Protection sociale de la famille
 
@@ -3766,6 +3766,120 @@ matérielles du placement.
 	  - Code de la famille et de l'aide sociale. - art. 93 (Ab)
 
 
+###### Article 95
+
+Toute personne physique ou toute personne morale privée qui désire héberger ou recevoir de manière habituelle,
+collectivement, à titre gratuit ou onéreux, des "mineurs" doit préalablement en faire la déclaration à l'autorité
+administrative. Celle-ci est tenue d'en donner récépissé.
+
+Cette déclaration doit mentionner [*obligation*] notamment les caractéristiques juridiques de l'établissement prévu, les noms
+de ses propriétaires ou administrateurs, le nom de son directeur et, le cas échéant, de son économe, et enfin l'activité
+envisagée. Un décret en Conseil d'Etat précise le contenu de la déclaration et en fixe les modalités. Ce décret précise
+également les conditions minimales que devront remplir les personnels de direction notamment en ce qui concerne leur
+qualification et leur expérience professionnelle.
+
+Tout changement essentiel projeté dans l'activité, l'installation, l'organisation, la direction ou le fonctionnement d'un
+établissement et intéressant l'un des points mentionnés dans la déclaration doit être porté à la connaissance de l'autorité
+administrative dans les conditions qui sont fixées par décret en Conseil d'Etat.
+
+Dans un délai de deux mois, l'autorité administrative peut faire opposition, dans l'intérêt des bonnes moeurs, de la santé,
+de la sécurité, de l'hygiène, de l'éducation ou du bien-être des enfants, à l'ouverture de l'établissement ou à l'exécution
+des modifications projetées. A défaut d'opposition, l'établissement peut être ouvert et les modifications exécutées sans
+autre formalité [*accord tacite*].
+
+Est incapable d'exploiter ou de diriger un établissement visé au présent article ou d'y être employée [*interdiction*] :
+
+1. Toute personne condamnée pour crime ou pour un des délits prévus à l'article L. 5 du code électoral ;
+
+2. Toute personne déchue de tout ou partie des attributs de l'autorité parentale ou dont un enfant ou pupille a fait l'objet,
+en application des articles 375 à 375-8 du code civil, d'une mesure d'assistance éducative qui n'a pas été prise à sa
+requête.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1938-06-17 art. 3
+
+	**Cité par**:
+
+	  - Décret n°54-883 du 2 septembre 1954 - art. 48 (M)
+	  - Loi n°71-1050 du 24 décembre 1971 - art. 3 (M)
+	  - Décret n°72-990 du 23 octobre 1972 - art. 1 (Ab)
+	  - Décret n°72-990 du 23 octobre 1972 - art. 3 (Ab)
+	  - Décret n°72-990 du 23 octobre 1972 - art. 7 (Ab)
+	  - Loi n°75-535 du 30 juin 1975 - art. 32 (Ab)
+	  - Décret n°76-838 du 25 août 1976 - art. 37 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 209 bis (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 96 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 97 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 98 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Loi n°71-1050 du 24 décembre 1971 - art. 1 () JORF 28 décembre 1971
+
+	**Cite**:
+
+	  - Code électoral - art. L5 (M)
+	  - Code civil - art. 375-8 (V)
+	  - Code civil 375 A, 375-8
+
+
+###### Article 96
+
+Les dispositions des articles 207, 208, 209, 209 bis, 210, 211, 212 et 215 du présent code sont applicables aux
+établissements [*recevant des mineurs*] définis à l'article 95, ainsi qu'aux personnes qui en sont responsables. Elles sont
+également applicables aux établissements créés par les collectivités publiques.
+
+Le préfet peut, en outre, formuler des injonctions et, après avis du conseil départemental de protection de l'enfance, fermer
+l'établissement dans le cas de violation des lois et règlements relatifs à l'obligation scolaire ou à l'emploi des jeunes et
+lorsqu'il estime que le traitement ou l'éducation des enfants sont compromis ou menacés. En cas d'urgence, le préfet
+[*autorité compétente*] peut, sans injonction préalable ni consultation du conseil départemental de protection de l'enfance,
+prononcer, par arrêté motivé et à titre provisoire, une mesure de fermeture immédiate, à charge pour lui d'en saisir pour
+avis ledit conseil, dans le délai d'un mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cité par**:
+
+	  - Décret n°67-45 du 10 janvier 1967 - art. 4 (Ab)
+	  - Décret n°72-990 du 23 octobre 1972 - art. 1 (Ab)
+	  - Loi n°75-535 du 30 juin 1975 - art. 14 (M)
+
+	**Créé par**:
+
+	  - Loi n°71-1050 du 24 décembre 1971 - art. 1 () JORF 28 décembre 1971
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L321-3 (M)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale 207, 208, 209, 209 BIS, 210, 211, 212, 215, 95
+	  - Code de la famille et de l'aide sociale. - art. 207 (M)
+	  - Code de la famille et de l'aide sociale. - art. 208 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 209 (M)
+	  - Code de la famille et de l'aide sociale. - art. 210 (M)
+	  - Code de la famille et de l'aide sociale. - art. 211 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 212 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 215 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 95 (M)
+
+	**Anciens textes**:
+
+	  - Décret  1938-06-17 ART. 4
+
+
 ###### Article 97
 
 Nul ne peut servir habituellement d'intermédiaire de placement soit à titre personnel soit au nom d'une collectivité publique
@@ -3838,6 +3952,51 @@ soumis ces placements particulièrement au point de vue sanitaire.
 	**Cite**:
 
 	  - Code de la famille et de l'aide sociale. - art. 97 (M)
+
+
+###### Article 99
+
+Les infractions aux articles 93 à 98 sont punies d'un emprisonnement de dix jours à trois mois [*durée*] et d'une amende de
+500 F à 10.000 F [*montant*] ou de l'une de ces deux peines seulement.
+
+Le tribunal peut interdire au condamné, soit définitivement, soit pour une durée déterminée, d'exploiter ou de diriger tout
+établissement soumis aux dispositions du présent titre ainsi que d'effectuer des placements d'enfants ou de recevoir des
+enfants. En cas d'infraction à cette interdiction, les peines prévues au premier et au dernier alinéa du présent article sont
+applicables.
+
+En cas de récidive, les peines prévues au premier alinéa du présent article peuvent être portées au double ; le tribunal doit
+se prononcer expressément sur la sanction accessoire de l'interdiction.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret  1938-06-17 ART. 7
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Loi n°71-1050 du 24 décembre 1971 - art. 1 () JORF 28 décembre 1971
+
+	**Cité par**:
+
+	  - Décret n°72-990 du 23 octobre 1972 - art. 11 (Ab)
+	  - Loi n°75-535 du 30 juin 1975 - art. 15 (Ab)
+	  - Loi n°89-475 du 10 juillet 1989 - art. 17 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 100-2 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 123-1-7 (Ab)
+	  - Code de la santé publique - art. L183 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L321-4 (M)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale 93 à 98
 
 
 ### Section 2 : Contrôle des oeuvres d'adoption
@@ -6413,43 +6572,582 @@ Haut-Rhin et de la Moselle, ainsi qu'aux départements d'outre-mer, sont déterm
 
 # Titre V : Des établissements hébergeant des personnes agées, des adultes infirmes, des indigents valides et des personnes accueillies en vue de leur réadaptation sociale
 
-###### Article 216
+###### Article 203
 
-(texte abrogé).
+Toute personne physique ou toute personne morale privée qui veut créer un établissement en vue d'y héberger, à titre gratuit
+ou onéreux, des personnes âgées, des adultes infirmes, des indigents valides ou des personnes accueillies en vue de leur
+réadaptation sociale doit préalablement en faire la déclaration à l'autorité administrative. Celle-ci est tenue d'en donner
+récépissé. Un décret en Conseil d'Etat détermine les conditions dans lesquelles un hébergement collectif est considéré comme
+un établissement au sens de la présente loi.
 
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Abrogé par**:
-
-	  - Loi n°71-1050 du 24 décembre 1971 - art. 2 () JORF 28 décembre 1971
-
-
-###### Article 217
-
-Un règlement d'administration publique rendu après avis du conseil supérieur de l'aide sociale détermine les mesures
-nécessaires à l'exécution du présent titre.
+La déclaration prévue au premier alinéa du présent article doit mentionner notamment les caractéristiques juridiques de
+l'établissement, les noms de ses propriétaires ou administrateurs, le nom de son directeur et, le cas échéant, de son économe
+et enfin l'activité envisagée. Un décret en Conseil d'Etat précise le contenu de la déclaration et en fixe les modalités.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Abrogé par**:
-
-	  - Loi n°71-1050 du 24 décembre 1971 - art. 2 () JORF 28 décembre 1971
-
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale 203 A 217
 
 	**Anciens textes**:
 
-	  - Loi n°1933-01-14 ART. 31
+	  - Décret n°1938-06-17 art. 1
+	  - Loi n°1933-01-14 art. 1
+
+	**Cité par**:
+
+	  - Décret n°54-883 du 2 septembre 1954 - art. 48 (M)
+	  - Décret n°72-990 du 23 octobre 1972 - art. 12 (Ab)
+	  - Décret n°72-990 du 23 octobre 1972 - art. 14 (Ab)
+	  - Décret n°72-990 du 23 octobre 1972 - art. 19 (Ab)
+	  - Loi n°75-535 du 30 juin 1975 - art. 32 (Ab)
+	  - Décret n°76-838 du 25 août 1976 - art. 37 (Ab)
+	  - Arrêté du 6 août 1996 - art. 1 (V)
+	  - Code de la famille et de l'aide sociale. - art. 206 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 207 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 209 bis (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 213 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 214 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L322-1 (M)
+	  - Code de l'action sociale et des familles - art. L322-2 (M)
+	  - Code de l'action sociale et des familles - art. L322-9 (M)
+
+
+###### Article 204
+
+Tout changement essentiel projeté dans l'activité, l'installation, l'organisation ou le fonctionnement de l'établissement
+intéressant l'un des points mentionnés dans la déclaration doit être porté à la connaissance de l'autorité administrative
+dans les conditions qui sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Anciens textes**:
+
+	  - Loi n°1933-01-14 art. 2
+
+	**Cité par**:
+
+	  - Loi n°75-535 du 30 juin 1975 - art. 32 (Ab)
+	  - Décret n°76-838 du 25 août 1976 - art. 37 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 213 (Ab)
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L322-3 (M)
+
+
+###### Article 205
+
+Dans un délai de deux mois, l'autorité administrative peut faire opposition, dans l'intérêt des bonnes moeurs, de la santé,
+de la sécurité, de l'hygiène ou du bien-être des personnes hébergées, à l'ouverture de l'établissement ou à l'exécution des
+modifications projetées. A défaut d'opposition, l'établissement peut être ouvert et les modifications exécutées sans autre
+formalité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cité par**:
+
+	  - Loi n°75-535 du 30 juin 1975 - art. 32 (Ab)
+	  - Décret n°76-838 du 25 août 1976 - art. 37 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 213 (Ab)
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L322-4 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°1933-01-14 art. 3
+
+
+###### Article 206
+
+Est incapable d'exploiter ou de diriger un établissement défini à l'article 203 ou d'y être employée toute personne
+condamnée, soit pour crime, soit pour un des délits visés à l'article L. 5 du code électoral.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Anciens textes**:
+
+	  - Loi n°1933-01-14 art. 4
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Cite**:
+
+	  - Code électoral - art. L5 (M)
+	  - Code de la famille et de l'aide sociale. - art. 203 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L322-5 (M)
+
+	**Cité par**:
+
+	  - Code de la famille et de l'aide sociale. - art. 213 (Ab)
+
+
+###### Article 207
+
+Il est tenu dans tout établissement défini à l'article 203 un registre, coté et paraphé dans les conditions fixées par le
+décret prévu à l'article 215 du présent code, où sont portées les indications relatives à l'identité des personnes séjournant
+dans l'établissement, la date de leur entrée et celle de leur sortie.
+
+Ce registre est tenu en permanence à la disposition des autorités judiciaires et administratives compétentes.
+
+Toute personne appelée par ses fonctions à prendre connaissance de ce registre est tenue au secret professionnel
+[*obligatoire*] dans les conditions et sous les peines prévues à l'article 378 du code pénal.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale art. 96 : les dispositions de l'article 207 sont applicables aux
+établissements mentionnés à l'article 95.
+
+Code de la famille et de l'aide sociale 213 : dispositions pénales applicables au présent article.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cité par**:
+
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 9 (Ab)
+	  - Décret n°72-990 du 23 octobre 1972 - art. 20 (Ab)
+	  - Décret n°72-990 du 23 octobre 1972 - art. 21 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 209 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 213 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 214 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 96 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 98 (Ab)
+
+	**Cite**:
+
+	  - Code pénal 378
+	  - Code de la famille et de l'aide sociale. - art. 203 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 215 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L331-2 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°1933-01-14 ART. 18
+
+
+###### Article 208
+
+La surveillance des établissements est exercée, sous l'autorité du ministre chargé de la santé publique et des préfets de
+département, par les agents de l'inspection générale des affaires sociales et des directions de l'action sanitaire et
+sociale, sans préjudice des contrôles prévus et organisés par les lois et règlements en vigueur.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale art. 96 : les dispositions de l'article 20  sont applicables aux
+établissements mentionnés à l'article 95.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L331-1 (M)
+
+	**Cité par**:
+
+	  - Code de la famille et de l'aide sociale. - art. 214 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 96 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 98 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°1933-01-14 art. 19
+
+
+###### Article 209
+
+Les personnes responsables d'un établissement sont tenues de fournir aux autorités et agents chargés de la surveillance tous
+renseignements [*information*] qui leur sont demandés relatifs aux points mentionnés dans la déclaration d'ouverture et à
+l'identité des personnes hébergées.
+
+Elles sont également tenues de laisser pénétrer dans l'établissement, à toute heure du jour et de la nuit, les autorités et
+agents chargés de la surveillance. Ceux-ci peuvent visiter tous les locaux, se faire présenter toute personne hébergée et
+demander tous renseignements nécessaires pour apprécier les conditions matérielles et morales de fonctionnement de
+l'établissement. Ils peuvent se faire accompagner, le cas échéant, par l'homme de l'art compétent en la matière. Ils signent
+le registre mentionné à l'article 207 et y consignent leurs constatations et observations.
+
+Toutefois, sans préjudice des dispositions du titre II du livre Ier du code de procédure pénale, et sauf exceptions prévues
+par la loi, il ne pourra être procédé aux visites de nuit [*interdiction*] prévues à l'alinéa précédent, si elles doivent
+commencer après vingt et une heures et avant six heures, qu'en cas d'appel provenant de l'intérieur de l'établissement, ou
+sur plainte ou réclamation, ou sur autorisation du procureur de la République. En cas de visite de nuit, les motifs de
+l'inspection doivent être portés par écrit à la connaissance du directeur de l'établissement.
+
+Les établissements à personnel féminin ne peuvent être inspectés de nuit que par des agents du sexe féminin.
+
+Les personnes chargées de la surveillance sont tenues au secret professionnel [*obligatoire*] dans les conditions et sous les
+peines prévues à l'article 378 du code pénal.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale art. 96 : les dispositions de l'article 20  sont applicables aux
+établissements mentionnés à l'article 95.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°53-915 du 26 septembre 1953 - art. 22, v. init.
+	  - Loi n°1933-01-14 ART. 20
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cite**:
+
+	  - Code pénal 378
+	  - Code de la famille et de l'aide sociale. - art. 207 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L331-3 (M)
+
+	**Cité par**:
+
+	  - Code de la famille et de l'aide sociale. - art. 118 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 210 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 213 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 214 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 96 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 98 (Ab)
+
+
+###### Article 209 bis
+
+Les personnes physiques propriétaires, administrateurs ou employés des établissements visés aux articles 95 et 203 du présent
+code ne peuvent profiter des dispositions entre vifs ou testamentaires faites en leur faveur par des personnes hébergées dans
+le ou les établissements qu'elles exploitent ou dans lesquels elles sont employées que dans les conditions fixées à l'article
+909 du code civil.
+
+L'article 911 dudit code est, en outre, applicable aux libéralités en cause.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale art. 96 : les dispositions de l'article 20  sont applicables aux
+établissements mentionnés à l'article 95.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Cite**:
+
+	  - Code civil - art. 909 (M)
+	  - Code civil - art. 911 (M)
+	  - Code de la famille et de l'aide sociale. - art. 203 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 95 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L331-4 (M)
+
+	**Cité par**:
+
+	  - Code de la famille et de l'aide sociale. - art. 96 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 98 (Ab)
+
+
+###### Article 210
+
+Si la santé, la sécurité ou le bien-être moral ou physique des personnes hébergées, sont menacés ou compromis par les
+conditions d'installation, d'organisation ou de fonctionnement de l'établissement, le préfet enjoint aux responsables de
+celui-ci de remédier aux insuffisances, inconvénients ou abus dans le délai qu'il leur fixe à cet effet.
+
+S'il n'a pas été satisfait à l'injonction dans ce délai, le préfet peut, après avoir pris l'avis du conseil départemental
+d'hygiène, ordonner la fermeture totale ou partielle, définitive ou provisoire, de l'établissement.
+
+En cas d'urgence ou lorsque le responsable de l'établissement refuse de se soumettre à la surveillance prévue à l'article
+209, le préfet peut, sans injonction préalable ni consultation du conseil départemental d'hygiène, prononcer par arrêté
+motivé et à titre provisoire une mesure de fermeture immédiate [*sanction*], à charge pour lui d'en saisir pour avis ledit
+conseil, dans le délai d'un mois.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale art. 96 : les dispositions de l'article 20  sont applicables aux
+établissements mentionnés à l'article 95.*]
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°54-883 du 2 septembre 1954 - art. 46-7 (Ab)
+	  - Loi n°75-535 du 30 juin 1975 - art. 14 (Ab)
+	  - Arrêté du 6 août 1996 - art. 5 (V)
+	  - Code de la famille et de l'aide sociale. - art. 118 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 212 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 213 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 214 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 96 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 98 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L331-5 (M)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 209 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°1933-01-14 ART. 21, ART. 24 AL. 2
+
+
+###### Article 211
+
+Un établissement dont la fermeture a été régulièrement prononcée ne peut être ouvert de nouveau qu'après autorisation du
+préfet ; à défaut de décision du préfet dans les trois mois de la demande, l'autorisation est réputée acquise. En cas de
+refus, le recours contre la décision est porté devant la section permanente du conseil supérieur de l'aide sociale.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale art. 96 : les dispositions de l'article 20  sont applicables aux
+établissements mentionnés à l'article 95.*]
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°54-883 du 2 septembre 1954 - art. 48 (M)
+	  - Loi n°75-535 du 30 juin 1975 - art. 32 (Ab)
+	  - Décret n°76-838 du 25 août 1976 - art. 37 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 213 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 214 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 96 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 98 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L322-6 (M)
+	  - Code de l'action sociale et des familles - art. L322-7 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°1933-01-14 art. 22
+
+
+###### Article 212
+
+En cas de fermeture d'un établissement, volontaire ou ordonnée en vertu de l'article 210, le préfet prend les mesures
+nécessaires en vue de pourvoir à l'accueil des personnes qui y étaient hébergées. Il peut, à cette fin assortir d'un délai la
+décision de fermeture. Il peut également désigner un administrateur provisoire de l'établissement pour une durée qui ne peut
+être supérieure à six mois. Cet administrateur accomplit, au nom du préfet et pour le compte de l'établissement, les actes
+d'administration nécessaires à son fonctionnement, ainsi que les travaux urgents exigés par la sécurité des personnes
+hébergées.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale art. 96 : les dispositions de l'article 20  sont applicables aux
+établissements mentionnés à l'article 95.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cité par**:
+
+	  - Décret n°72-990 du 23 octobre 1972 - art. 21 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 210 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 214 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 96 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 98 (Ab)
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L331-6 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°1933-01-14 art. 29 al. 1
+
+
+###### Article 213
+
+Les infractions aux dispositions des articles 203, 204, 205,
+
+206, 207, 209, aux dispositions de l'article 210 relatives aux injonctions et à la fermeture et aux dispositions de l'article
+211 sont punies d'une amende de 500 F à 20.000 F (1) et d'un emprisonnement de dix jours à trois mois [*durée*] ou de l'une
+de ces deux peines seulement.
+
+Le tribunal peut, en outre, interdire au condamné, soit définitivement, soit pour une durée déterminée, d'exploiter ou de
+diriger tout établissement soumis aux dispositions du présent titre. Toute infraction à cette interdiction est sanctionnée
+par les peines prévues au premier et au dernier alinéa du présent article.
+
+En cas de récidive, les peines prévues au premier alinéa du présent article peuvent être portées au double ; le tribunal
+devras e prononcer expressément sur la sanction accessoire de l'interdiction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cité par**:
+
+	  - Décret n°72-990 du 23 octobre 1972 - art. 19 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L322-8 (M)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 203 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 204 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 205 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 206 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 207 (M)
+	  - Code de la famille et de l'aide sociale. - art. 209 (M)
+	  - Code de la famille et de l'aide sociale. - art. 210 (M)
+	  - Code de la famille et de l'aide sociale. - art. 211 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°1933-01-14 art. 25
+
+
+###### Article 214
+
+Les dispositions des articles 207, 208, 209, 209 bis, 210, 211 et 212 sont applicables aux établissements définis à l'article
+203, créés par des collectivités publiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cité par**:
+
+	  - Arrêté du 6 août 1996 - art. 1 (V)
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale 207, 208, 209, 209 BIS, 210, 211, 212, 203
+	  - Code de la famille et de l'aide sociale. - art. 203 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 207 (M)
+	  - Code de la famille et de l'aide sociale. - art. 208 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 209 (M)
+	  - Code de la famille et de l'aide sociale. - art. 210 (M)
+	  - Code de la famille et de l'aide sociale. - art. 211 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 212 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°1933-01-14 ART. 33
+
+
+###### Article 215
+
+Un décret en Conseil d'Etat, pris après avis du conseil supérieur de l'aide sociale, fixe les mesures nécessaires à
+l'exécution du présent titre.
+
+**Nota:**
+
+[*Nota : les dispositions de l'article 215 sont applicables aux établissements mentionnés à l'article 95.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 200, CGI 201
+	  - Décret n°53-1186 1953-11-29 art. 70 et 75
+	  - Loi n°1933-01-14 art. 27
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Cité par**:
+
+	  - Code de la famille et de l'aide sociale. - art. 207 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 96 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 98 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L331-9 (M)
 
 
 # Titre VI : Le service social
@@ -6802,5 +7500,26 @@ service social à l'organisation intérieure et au fonctionnement des divers ser
 	**Anciens textes**:
 
 	  - Loi n°46-630 1946-04-08 ART. 14
+
+
+## Chapitre II : Liaison et coordination des services sociaux
+
+### Section 1 : Dispositions finales
+
+###### Article 241
+
+Le présent code se substitue, dans les conditions prévues par le décret du 20 mai 1955, aux dispositions législatives qui
+suivent. (abrogées par la loi du 3 avril 1958, qui a conféré force de loi au code de la famille et de l'aide sociale).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L542-13 (T)
+	  - Code de la famille et de l'aide sociale. - art. 256 (Ab)
 
 
