@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1991-09-10
+Version Consolidée au 1992-01-04
 
 # Titre Ier : Protection sociale de la famille
 
@@ -8780,9 +8780,9 @@ profession à condition que cet exercice soit attesté par l'autorité compéten
 
 Lorsque la formation des intéressés porte sur des matières substantiellement différentes de celles qui figurent au programme
 du diplôme d'Etat français ou lorsqu'une ou plusieurs des activités professionnelles dont l'exercice est subordonné à la
-possession dudit diplôme ne sont pas réglementées dans l'Etat membre d'origine ou de provenance, ou ne sont pas réglementées
-d'une manière différente, le ministre chargé des affaires sociales peut exiger que les intéressés choisissent, soit de se
-soumettre à une épreuve d'aptitude, soit d'accomplir un stage d'adaptation dont la durée ne peut excéder trois ans.
+possession dudit diplôme ne sont pas réglementées dans l'Etat membre d'origine ou de provenance, ou sont réglementées d'une
+manière différente, le ministre chargé des affaires sociales peut exiger que les intéressés choisissent, soit de se soumettre
+à une épreuve d'aptitude, soit d'accomplir un stage d'adaptation dont la durée ne peut excéder trois ans.
 
 Un décret en Conseil d'Etat détermine les mesures nécessaires à l'application du présent article.
 
@@ -8805,7 +8805,7 @@ Un décret en Conseil d'Etat détermine les mesures nécessaires à l'applicatio
 
 	**Modifié par**:
 
-	  - Loi n°91-73 du 18 janvier 1991 - art. 5 () JORF 20 janvier 1991
+	  - Loi n°91-1406 du 31 décembre 1991 - art. 4 () JORF 4 janvier 1992
 
 	**Nouveaux textes**:
 
