@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1984-12-24
+Version Consolidée au 1985-01-05
 
 # Titre Ier : Protection sociale de la famille
 
@@ -1466,6 +1466,57 @@ cas échéant, d'exercer une activité professionnelle.
 
 
 ### Section 2 : Prévention de l'avortement
+
+###### Article 44
+
+Les mesures destinées à prévenir l'avortement comprennent notamment :
+
+1. La protection de la maternité dans les conditions prévues par la section précédente ;
+
+2. La surveillance des maisons d'accouchement prévue au livre II, titre Ier, chapitre V, section I du Code de la santé
+publique ;
+
+3. La réglementation du diagnostic biologique de la grossesse prévu à l'article 759 du Code de la santé publique ;
+
+4. La réglementation de l'avortement thérapeutique prévue à l'article 87 du décret du 29 juillet 1939 ;
+
+5. L'attribution d'allocations prénatales à compter du jour de la conception dans les conditions prévues à l'article 14 de la
+loi du 22 août 1946 [*code de la sécurité sociale art. L515*] aux femmes enceintes qui déclarent la grossesse dans les trois
+premiers mois [*condition*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Modifié par**:
+
+	  - Loi n°85-17 du 4 janvier 1985 - art. 26 () JORF 5 janvier 1985
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L222-4 (V)
+
+	**Cité par**:
+
+	  - Code de la famille et de l'aide sociale. - art. 232 (Ab)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 40 (M)
+	  - Code de la famille et de l'aide sociale. - art. 41 (M)
+	  - Code de la famille et de l'aide sociale. - art. 42 (M)
+	  - Code de la famille et de l'aide sociale. - art. 43 (M)
+	  - Code de la santé publique - art. L176 (M)
+	  - Code de la santé publique - art. L177 (M)
+	  - Code de la santé publique - art. L178 (M)
+	  - Code de la santé publique - art. L179 (M)
+	  - Code de la santé publique - art. L759 (M)
+	  - Code de la sécurité sociale L516 (devenu L515)
+	  - Décret  1939-07-29 art. 87
+	  - Loi n°1946-08-22 art. 14
+
 
 ###### Article 44-1
 
@@ -5947,6 +5998,43 @@ salariés de la résidence.
 	**Codifié par**:
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+
+###### Article 153
+
+L'admission au bénéfice des allocations et les voies de recours sont réglées dans les conditions déterminées par le chapitre
+1er du présent titre.
+
+La décision est valable au plus pour une année, à l'expiration de laquelle la commission d'admission examine d'office la
+situation du bénéficiaire et décide s'il y a lieu de lui maintenir l'aide sociale à la famille.
+
+Si le titulaire des allocations d'aide sociale à la famille les emploie à d'autres fins que l'amélioration des conditions de
+vie du foyer, l'entretien et l'éducation des enfants, il peut être procédé à l'institution d'une tutelle dans les conditions
+prévues à l'article L. 561-1 du Code de la sécurité sociale.
+
+Au cas où un tuteur aux prestations sociales aurait déjà été nommé, celui-ci reçoit de plein droit les allocations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cité par**:
+
+	  - Loi n°66-774 du 18 octobre 1966 - art. 1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°85-17 du 4 janvier 1985 - art. 26 () JORF 5 janvier 1985
+
+	**Cite**:
+
+	  - Code de la sécurité sociale L551 (devenu L561-1)
+
+	**Anciens textes**:
+
+	  - Décret  1939-07-29 ART. 78
 
 
 ###### Article 154
