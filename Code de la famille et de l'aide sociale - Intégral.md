@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1996-05-01
+Version Consolidée au 1996-07-06
 
 # Titre Ier : Protection sociale de la famille
 
@@ -1934,6 +1934,9 @@ service de l'aide sociale à l'enfance du département siège de l'établissemen
 
 Pour l'application de l'alinéa précédent, aucune pièce d'identité n'est exigée et il n'est procédé à aucune enquête.
 
+Sur leur demande ou avec leur accord, les femmes mentionnées au premier alinéa bénéficient d'un accompagnement psychologique
+et social de la part du service de l'aide sociale à l'enfance.
+
 Lorsque le nom du père ou de la mère de l'enfant figure dans l'acte de naissance établi dans le délai prévu par les articles
 55 et suivants du code civil, la prise en charge des frais d'hébergement et d'accouchement par le service n'est pas de droit.
 
@@ -1959,7 +1962,11 @@ territoriale de Mayotte, les mots :
 
 	**Modifié par**:
 
-	  - Loi n°89-487 1989-07-10 art. 1 JORF 14 juillet 1989
+	  - Loi n°96-604 du 5 juillet 1996 - art. 28 () JORF 6 juillet 1996
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 	**Cite**:
 
@@ -2334,19 +2341,23 @@ territoriale de Mayotte, les mots :
 ###### Article 60
 
 Les organes chargés de la tutelle des pupilles de l'Etat instituée par la présente section sont le représentant de l'Etat
-dans le département [*autorité compétente*], qui exerce la fonction de tuteur et peut se faire représenter, et le conseil de
-famille des pupilles de l'Etat ; la tutelle des pupilles de l'Etat ne comporte pas de juge de tutelle ni de subrogé tuteur.
+dans le département, qui exerce la fonction de tuteur et peut se faire représenter, et le conseil de famille des pupilles de
+l'Etat ; la tutelle des pupilles de l'Etat ne comporte pas de juge de tutelle ni de subrogé tuteur.
 
 Le tuteur et le conseil de famille des pupilles de l'Etat exercent les attributions conférées à ces organes selon le régime
-de droit commun. A cette fin, le conseil de famille doit examiner au moins une fois par an [*périodicité*] la situation de
-chaque pupille. Avant toute décision du président du conseil général relative au lieu et au mode de placement des pupilles de
-l'Etat, l'accord du tuteur et celui du conseil de famille doivent être recueillis, ainsi que l'avis du mineur dans les
-conditions prévues à l'article 58.
+de droit commun. A cette fin, le conseil de famille doit examiner au moins une fois par an la situation de chaque pupille.
+Avant toute décision du président du conseil général relative au lieu et au mode de placement des pupilles de l'Etat,
+l'accord du tuteur et celui du conseil de famille doivent être recueillis, ainsi que l'avis du mineur dans les conditions
+prévues à l'article 58 ; le mineur capable de discernement est, en outre, entendu par le tuteur, ou son représentant, et par
+le conseil de famille, ou l'un de ses membres désigné par lui à cet effet.
+
+Lorsque le mineur se trouve dans une situation de danger manifeste, le tuteur, ou son représentant, prend toutes les mesures
+d'urgence que l'intérêt de celui-ci exige.
 
 Les décisions et délibérations de toute nature du conseil de famille des pupilles de l'Etat sont soumises aux voies de
 recours applicables au régime de la tutelle de droit commun.
 
-Chaque conseil de famille comprend [*composition*] :
+Chaque conseil de famille comprend :
 
 - des représentants du conseil général désignés par cette assemblée, sur proposition de son président ;
 
@@ -2356,7 +2367,8 @@ représentant de l'Etat dans le département sur des listes de présentation ét
 
 - des personnalités qualifiées désignées par le représentant de l'Etat dans le département.
 
-La durée du mandat est de trois ans. Il est renouvelable une fois.
+Le conseil de famille est renouvelé par moitié. Le mandat de ses membres est de six ans. Il est renouvelable une fois. Ses
+membres assurant la représentation d'associations peuvent se faire remplacer par leur suppléant.
 
 Les membres du conseil de famille sont tenus au secret professionnel selon les prescriptions des articles 226-13 et 223-14 du
 code pénal.
@@ -2374,6 +2386,11 @@ territoriale de Mayotte, les mots :
 "président du conseil général" sont remplacés par "représentant du Gouvernement" ;
 
 "représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
+
+[*Nota - Loi 96-604 du 5 juillet 1996 art. 29 II : A titre transitoire, le mandat des membres du conseil de famille mentionné
+à l'article 29 I, nommés en totalité pour la première fois après la date d'entrée en vigueur de la présente loi, est pour la
+moitié de ceux-ci de trois ans et pour l'autre moitié de six ans. Les conditions d'application de cette disposition sont
+fixées par le décret en Conseil d'Etat mentionné au dernier alinéa du présent article.*]
 
 **Liens relatifs à cet article**
 
@@ -2423,42 +2440,54 @@ territoriale de Mayotte, les mots :
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+	  - Loi n°96-604 du 5 juillet 1996 - art. 29 (V) JORF 6 juillet 1996
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 	**Cite**:
 
+	  - Code pénal - art. 223-14 (M)
 	  - Code pénal - art. 226-13 (M)
-	  - Code pénal - art. 226-14 (M)
 	  - Code de la famille et de l'aide sociale. - art. 58 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L224-1 (V)
+	  - Code de l'action sociale et des familles - art. L224-12 (V)
+	  - Code de l'action sociale et des familles - art. L224-2 (V)
+	  - Code de l'action sociale et des familles - art. L224-3 (V)
 
 
 ###### Article 61
 
-Sont admis en qualité de pupille de l'Etat [*définition*] :
+Sont admis en qualité de pupille de l'Etat :
 
 1° Les enfants dont la filiation n'est pas établie ou est inconnue, qui ont été recueillis par le service de l'aide sociale à
-l'enfance depuis plus de trois mois [*durée*] ;
+l'enfance depuis plus de deux mois ;
 
 2° Les enfants dont la filiation est établie et connue, qui ont expressément été remis au service de l'aide sociale à
 l'enfance en vue de leur admission comme pupilles de l'Etat par les personnes qui ont qualité pour consentir à leur adoption,
-depuis plus de trois mois [*durée*] ;
+depuis plus de deux mois ;
 
 3° Les enfants dont la filiation est établie et connue, qui ont expressément été remis au service de l'aide sociale à
-l'enfance depuis plus d'un an par leur père ou leur mère en vue de leur admission comme pupilles de l'Etat et dont l'autre
-parent n'a pas fait connaître au service, pendant ce délai, son intention d'en assumer la charge ; avant l'expiration de ce
-délai d'un an, le service s'emploie à connaître les intentions de l'autre parent ;
+l'enfance depuis plus de six mois par leur père ou leur mère en vue de leur admission comme pupilles de l'Etat et dont
+l'autre parent n'a pas fait connaître au service, pendant ce délai, son intention d'en assumer la charge ; avant l'expiration
+de ce délai de six mois, le service s'emploie à connaître les intentions de l'autre parent ;
 
 4° Les enfants orphelins de père et de mère pour lesquels la tutelle n'est pas organisée selon le chapitre II du titre X du
-livre 1er du code civil et qui ont été confiés au service de l'aide sociale à l'enfance depuis plus de trois mois ;
+livre 1er du code civil et qui ont été recueillis par le service de l'aide sociale à l'enfance depuis plus de deux mois ;
 
-5° Les enfants dont les parents ont été déclarés déchus de l'autorité parentale en vertu des articles 378 et 378-1 du code
-civil et qui ont été confiés au service de l'aide sociale à l'enfance en application de l'article 380 dudit code ;
+5° Les enfants dont les parents ont fait l'objet d'un retrait total de l'autorité parentale en vertu des articles 378 et
+378-1 du code civil et qui ont été recueillis par le service de l'aide sociale à l'enfance en application de l'article 380
+dudit code ;
 
-6° Les enfants confiés au service de l'aide sociale à l'enfance en application de l'article 350 du code civil.
+6° Les enfants recueillis par le service de l'aide sociale à l'enfance en application de l'article 350 du code civil.
 
 L'admission en qualité de pupille de l'Etat peut faire l'objet d'un recours, formé dans le délai de trente jours suivant la
 date de l'arrêté du président du conseil général devant le tribunal de grande instance, par les parents, en l'absence d'une
-déclaration judiciaire d'abandon ou d'une déchéance d'autorité parentale, par les alliés de l'enfant ou toute personne
+déclaration judiciaire d'abandon ou d'un retrait total de l'autorité parentale, par les alliés de l'enfant ou toute personne
 justifiant d'un lien avec lui, notamment pour avoir assuré sa garde, de droit ou de fait, et qui demandent à en assumer la
 charge.
 
@@ -2532,7 +2561,11 @@ territoriale de Mayotte, les mots :
 
 	**Modifié par**:
 
-	  - Loi n°89-487 1989-07-10 art. 1 JORF 14 juillet 1989
+	  - Loi n°96-604 du 5 juillet 1996 - art. 30 () JORF 6 juillet 1996
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 	**Cite**:
 
@@ -2541,23 +2574,36 @@ territoriale de Mayotte, les mots :
 	  - Code civil - art. 378-1 (M)
 	  - Code civil - art. 380 (M)
 
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L224-4 (V)
+	  - Code de l'action sociale et des familles - art. L224-8 (V)
+
 
 ###### Article 62
 
-La remise d'un enfant au service de l'aide sociale à l'enfance dans les cas prévus aux 1°, 2°, 3° et 4° de l'article 61 donne
-lieu à l'établissement d'un procès-verbal [*condition de forme*].
+Lorsqu'un enfant est recueilli par le service de l'aide sociale à l'enfance dans les cas mentionnés aux 1°, 2°, 3° et 4° de
+l'article 61, un procès-verbal est établi.
 
-Il doit être mentionné au procès-verbal que les père ou mère, ou la personne qui a remis l'enfant, ont été informés :
+Il doit être mentionné au procès-verbal que les père et mère ou la personne qui a remis l'enfant ont été informés :
 
 1° Des mesures instituées, notamment par l'Etat, les collectivités territoriales et les organismes de sécurité sociale pour
 aider les parents à élever eux-mêmes leurs enfants ;
 
-2° Des dispositions du régime de la tutelle des pupilles de l'Etat suivant la présente section, et notamment des dispositions
-de l'article 63 ci-après relatives à leur adoption ;
+2° Des dispositions du régime de la tutelle des pupilles de l'Etat suivant la présente section ;
 
 3° Des délais et conditions suivant lesquels l'enfant pourra être repris par ses père ou mère ;
 
-4° De la possibilité de demander le secret de l'état civil de l'enfant.
+4° Sauf dans le cas mentionné au 4° de l'article 61, de la possibilité, lorsque l'enfant est âgé de moins d'un an, de
+demander le secret de leur identité ainsi que de donner des renseignements ne portant pas atteinte à ce secret. Ces
+renseignements sont recueillis dans des conditions précisées par décret en Conseil d'Etat pris après avis de la Commission
+nationale de l'informatique et des libertés.
+
+Lorsqu'il y a demande de secret conformément au 4° ci-dessus, celle-ci doit être formulée expressément et mentionnée au
+procès-verbal. Le procès-verbal doit également mentionner que le demandeur a été informé de la possibilité de faire connaître
+ultérieurement son identité et de ce que pourront seuls être informés de la levée du secret de cette identité ainsi que de
+l'identité elle-même, sur leur demande expresse, le représentant légal de l'enfant, l'enfant majeur ou les descendants en
+ligne directe majeurs de ce dernier, s'il est décédé.
 
 De plus, lorsque l'enfant est remis au service par ses père ou mère, selon les 2° ou 3° de l'article 61, ceux-ci doivent être
 invités à consentir à son adoption ; le consentement est porté sur le procès-verbal ; celui-ci doit également mentionner que
@@ -2565,16 +2611,16 @@ les parents ont été informés des délais et conditions dans lesquels ils peuv
 deuxième et troisième alinéas de l'article 348-3 du code civil.
 
 L'enfant est déclaré pupille de l'Etat à titre provisoire à la date à laquelle est établi le procès-verbal prévu ci-dessus.
-La tutelle est organisée à compter de la date de cette déclaration [*point de départ*].
+La tutelle est organisée à compter de la date de cette déclaration.
 
-Toutefois, dans un délai de trois mois suivant la date à laquelle il a été déclaré pupille de l'Etat à titre provisoire,
+Toutefois, dans un délai de deux mois suivant la date à laquelle il a été déclaré pupille de l'Etat à titre provisoire,
 l'enfant peut être repris immédiatement et sans aucune formalité par celui de ses père ou mère qui l'avait confié au service.
-Ce délai est porté à un an, dans le cas prévu au 3° de l'article 61 ci-dessus pour celui des père ou mère qui n'a pas confié
-l'enfant au service.
+Ce délai est porté à six mois, dans le cas prévu au 3° de l'article 61 ci-dessus pour celui des père ou mère qui n'a pas
+confié l'enfant au service.
 
 Au-delà de ces délais, la décision d'accepter ou de refuser la restitution d'un pupille de l'Etat est, sous réserve des
 dispositions de l'article 352 du code civil, prise par le tuteur, avec l'accord du conseil de famille. En cas de refus, les
-demandeurs peuvent saisir le tribunal de grande instance [*recours, autorité compétente*].
+demandeurs peuvent saisir le tribunal de grande instance.
 
 **Nota:**
 
@@ -2633,49 +2679,119 @@ territoriale de Mayotte, les mots :
 
 	**Modifié par**:
 
-	  - Loi n°89-487 1989-07-10 art. 1 JORF 14 juillet 1989
+	  - Loi n°96-604 du 5 juillet 1996 - art. 31 () JORF 6 juillet 1996
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 	**Cite**:
 
 	  - Code civil - art. 348-3 (M)
 	  - Code civil - art. 352 (V)
 	  - Code de la famille et de l'aide sociale. - art. 61 (M)
-	  - Code de la famille et de l'aide sociale. - art. 63 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L224-5 (M)
+	  - Code de l'action sociale et des familles - art. L224-6 (V)
 
 
-###### Article 63
+###### Article 62-1
 
-Les enfants admis en qualité de pupille de l'Etat en application de l'article 61 doivent faire l'objet d'un projet d'adoption
-dans les meilleurs délais. Lorsque le tuteur considère que cette mesure n'est pas adaptée à la situation de l'enfant, il doit
-indiquer ses motifs au conseil de famille. La validité de ces motifs doit être confirmée à l'occasion de l'examen annuel de
-la situation de l'enfant.
+Les renseignements mentionnés au 4° de l'article 62 sont conservés sous la responsabilité du président du conseil général
+[*autorité compétente*] qui les tient à la disposition de l'enfant majeur, de son représentant légal, s'il est mineur, ou de
+ses descendants en ligne directe majeurs, s'il est décédé.
 
-Les pupilles de l'Etat peuvent être adoptés soit par les personnes à qui le service avait confié leur garde lorsque les liens
-affectifs qui se sont établis entre eux justifient cette mesure, soit par des personnes agréées à cet effet, dans des
-conditions fixées par décret, par le responsable du service de l'aide sociale à l'enfance.
+Toutefois, le mineur capable de discernement peut, après accord de son représentant légal, en obtenir communication avec
+l'assistance d'une personne habilitée à cet effet par le président du conseil général.
 
-Cet agrément est accordé par l'autorité compétente dans un délai qui ne peut excéder neuf mois à compter du jour de la
-demande [*point de départ*].
+Les renseignements à caractère médical ne peuvent être communiqués à l'enfant majeur, à son représentant légal, s'il est
+mineur, ou à ses descendants en ligne directe majeurs, s'il est décédé, que par l'intermédiaire d'un médecin désigné par
+l'intéressé à cet effet.
 
-La définition du projet d'adoption, simple ou plénière suivant les circonstances particulières à la situation de l'enfant,
-ainsi que le choix des adoptants éventuels sont assurés par le tuteur avec l'accord du conseil de famille.
-
-**Nota:**
-
-[*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
-territoriale de Mayotte, les mots :
-
-"département" sont remplacés par "collectivité territoriale" ;
-
-"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
-
-"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
+Si la ou les personnes qui ont demandé le secret de leur identité lèvent celui-ci, ladite identité est conservée sous la
+responsabilité du président du conseil général.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cité par**:
+
+	  - Décret n°85-937 du 23 août 1985 - art. 19 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°96-604 du 5 juillet 1996 - art. 32 () JORF 6 juillet 1996
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L224-7 (M)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 62 (M)
+
+
+###### Article 63
+
+Les pupilles de l'Etat peuvent être adoptés soit par les personnes à qui le service de l'aide sociale à l'enfance les a
+confiés pour en assurer la garde lorsque les liens affectifs qui se sont établis entre eux justifient cette mesure, soit par
+des personnes agréées à cet effet, soit, si tel est l'intérêt desdits pupilles, par des personnes dont l'aptitude à les
+accueillir a été régulièrement constatée dans un Etat autre que la France, en cas d'accord international engageant à cette
+fin celle-ci et ledit Etat.
+
+L'agrément est accordé, pour cinq ans, dans un délai de neuf mois à compter du jour de la demande par le président du conseil
+général, après avis d'une commission. Celle-ci comprend, notamment, deux membres d'un conseil de famille des pupilles de
+l'Etat du département, l'un assurant la représentation de l'union départementale des associations familiales, et l'autre
+celle de l'association départementale d'entraide entre les pupilles et anciens pupilles de l'Etat. Les membres de cette
+commission assurant la représentation desdites associations peuvent se faire remplacer par leur suppléant.
+
+Les personnes qui demandent l'agrément bénéficient des dispositions de l'article 55-1.
+
+Elles peuvent demander que tout ou partie des investigations effectuées pour l'instruction du dossier soient accomplies une
+seconde fois et par d'autres personnes que celles auxquelles elles avaient été confiées initialement. Elles sont informées du
+déroulement de ladite instruction et peuvent prendre connaissance de tout document figurant dans leur dossier dans les
+conditions fixées aux articles 3, 4 et 6 bis de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration
+des relations entre l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal.
+
+Tout refus ou retrait d'agrément doit être motivé.
+
+Après un refus ou un retrait d'agrément, le délai à partir duquel une nouvelle demande peut être déposée est de trente mois.
+
+Lorsque les personnes agréées changent de département, leur agrément demeure valable sous réserve d'une déclaration préalable
+adressée au président du conseil général de leur nouveau département de résidence. Lorsque des personnes à qui un refus ou un
+retrait d'agrément a été notifié changent de département de résidence, ce refus ou retrait leur demeure opposable.
+
+Les décisions relatives à l'agrément mentionné au deuxième alinéa sont transmises sans délai par le président du conseil
+général au ministre chargé de la famille.
+
+Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Nota:**
+
+Nota : Ordonnance 2000-1249 2000-12-21 art. 5 I 2° : l'abrogation du présent article ne prend effet qu'à compter de la
+publication des dispositions réglementaires correspondantes du code de l'action sociale et des familles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cite**:
+
+	  - Loi n°78-753 1978-07-17 art. 3, art. 4, art. 6 bis
+	  - Loi n°78-753 du 17 juillet 1978 - art. 3 (M)
+	  - Loi n°78-753 du 17 juillet 1978 - art. 4 (M)
+	  - Code de la famille et de l'aide sociale. - art. 55-1 (M)
 
 	**Cité par**:
 
@@ -2744,11 +2860,132 @@ territoriale de Mayotte, les mots :
 
 	**Modifié par**:
 
-	  - Loi n°89-487 1989-07-10 art. 1 JORF 14 juillet 1989
+	  - Loi n°96-604 du 5 juillet 1996 - art. 33 () JORF 6 juillet 1996
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L225-18 (T)
+	  - Code de l'action sociale et des familles - art. L225-2 (M)
+	  - Code de l'action sociale et des familles - art. L225-3 (M)
+	  - Code de l'action sociale et des familles - art. L225-4 (V)
+	  - Code de l'action sociale et des familles - art. L225-5 (V)
+	  - Code de l'action sociale et des familles - art. L225-6 (V)
+	  - Code de l'action sociale et des familles - art. L225-7 (V)
+
+
+###### Article 63-1
+
+Les enfants admis en qualité de pupille de l'Etat en application de l'article 61 doivent faire l'objet d'un projet d'adoption
+dans les meilleurs délais. Lorsque le tuteur considère que l'adoption n'est pas adaptée à la situation de l'enfant, il doit
+indiquer ses motifs au conseil de famille. Le conseil de famille, sur le rapport du service de l'aide sociale à l'enfance,
+s'assure de la validité de ces motifs qui doit être confirmée à l'occasion de l'examen annuel de la situation de l'enfant.
+
+La définition du projet d'adoption, simple ou plénière suivant les circonstances particulières à la situation de l'enfant,
+ainsi que le choix des adoptants éventuels sont assurés par le tuteur, avec l'accord du conseil de famille ; le mineur
+capable de discernement est préalablement entendu par le tuteur ou son représentant et par le conseil de famille ou l'un de
+ses membres désigné par lui à cet effet.
+
+Les dossiers des enfants pour lesquels aucun projet d'adoption n'est formé plus de six mois après leur admission en qualité
+de pupille de l'Etat sont, sous forme non nominative, communiqués obligatoirement au ministre chargé de la famille par le
+tuteur qui indique les raisons de cette situation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cité par**:
+
+	  - Décret n°85-937 du 23 août 1985 - art. 20 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°96-604 du 5 juillet 1996 - art. 34 () JORF 6 juillet 1996
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L225-1 (M)
+	  - Code de l'action sociale et des familles - art. L225-1 (V)
 
 	**Cite**:
 
 	  - Code de la famille et de l'aide sociale. - art. 61 (M)
+
+
+###### Article 63-2
+
+Toute personne membre de la commission mentionnée au deuxième alinéa de l'article 63 a droit à des autorisations d'absence de
+la part de son employeur pour participer aux réunions de cette instance.
+
+Si la personne mentionnée au premier alinéa est fonctionnaire ou assimilée, ce droit s'exerce conformément aux dispositions
+prévues à l'article 60 de la loi n° 96-604 du 5 juillet 1996 relative à l'adoption. Toutefois, s'agissant de la fonction
+publique de l'Etat, les modalités d'exercice de ce droit sont déterminées par voie réglementaire.
+
+Si la personne mentionnée au premier alinéa est salariée, ces autorisations ne peuvent être refusées que dans les conditions
+prévues aux deuxième et troisième alinéas de l'article 16. En outre, si elle assure la représentation d'une association
+affiliée à l'une des unions mentionnées à l'article 3, son employeur bénéficie des dispositions prévues au dernier alinéa de
+l'article 16. Si elle représente l'association mentionnée au premier alinéa de l'article 65, cette dernière rembourse à
+l'employeur le maintien de son salaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Loi n°96-604 du 5 juillet 1996 - art. 35 () JORF 6 juillet 1996
+
+	**Cite**:
+
+	  - Loi n°96-604 du 5 juillet 1996 - art. 60 ()
+	  - Code de la famille et de l'aide sociale. - art. 16 (T)
+	  - Code de la famille et de l'aide sociale. - art. 3 (M)
+	  - Code de la famille et de l'aide sociale. - art. 63 (M)
+	  - Code de la famille et de l'aide sociale. - art. 65 (M)
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L225-8 (V)
+	  - Code de l'action sociale et des familles - art. L225-9 (V)
+
+
+###### Article 63-3
+
+Le département accorde une aide financière sous condition de ressources aux personnes adoptant un enfant dont le service de
+l'aide sociale à l'enfance leur avait confié la garde.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Loi n°96-604 du 5 juillet 1996 - art. 36 () JORF 6 juillet 1996
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L225-9 (V)
 
 
 ###### Article 64
@@ -3461,22 +3698,27 @@ prévues par l'alinéa précédent ou dans les conditions prévues par l'article
 
 ###### Article 81
 
-Le procureur de la République pourra, à l'occasion d'une procédure d'adoption ou de légitimation adoptive, prendre
-connaissance des dossiers concernant les enfants recueillis par le service. En toutes matières, le service de l'aide sociale
-à l'enfance pourra, de sa propre initiative ou sur la demande de ce magistrat, lui fournir tous renseignements relatifs aux
-pupilles. Les renseignements ainsi obtenus ne pourront être révélés à l'occasion d'une procédure quelconque ni mentionnés
-dans une décision de justice. Ils ne pourront être communiqués qu'aux magistrats de l'ordre judiciaire.
+Le procureur de la République pourra, à l'occasion d'une procédure d'adoption, prendre connaissance des dossiers concernant
+les enfants recueillis par le service. En toutes matières, le service de l'aide sociale à l'enfance pourra, de sa propre
+initiative ou sur la demande de ce magistrat, lui fournir tous renseignements relatifs aux pupilles. Les renseignements ainsi
+obtenus ne pourront être révélés à l'occasion d'une procédure quelconque ni mentionnés dans une décision de justice. Ils ne
+pourront être communiqués qu'aux magistrats de l'ordre judiciaire.
 
 Dans tous les cas où la loi ou des règlements exigent la production de l'acte de naissance, il peut y être suppléé, s'il n'a
 pas été établi un acte de naissance provisoire dans les conditions prévues à l'article 58 du Code civil et s'il y a lieu
-d'observer le secret, par un certificat d'origine dressé par le directeur départemental de la population et de l'action
-sociale et visé par le préfet.
+d'observer le secret, par un certificat d'origine dressé par le préfet ou son représentant.
 
-Toutefois, le lieu où est tenu l'état civil d'un pupille ou d'un ancien pupille de l'Etat sera communiqué aux magistrats de
-l'ordre judiciaire qui en feront la demande à l'occasion d'une procédure pénale. Ce renseignement ne pourra être révélé au
-cours de cette procédure ou mentionné dans la décision à intervenir [*non*] ; toutes mesures devront, en outre, être prises
-pour qu'il ne puisse être porté directement ou indirectement à la connaissance de l'intéressé ou de toute autre personne non
-liée, de par ses fonctions, par le secret professionnel visé à l'article 226-13 et 226-14 du Code pénal.
+Toutefois, le lieu où est tenu l'état civil d'un pupille de l'Etat, ou d'un ancien pupille, s'il est né avant la date
+d'entrée en vigueur de la loi n° 96-604 du 5 juillet 1996 relative à l'adoption, est communiqué aux magistrats de l'ordre
+judiciaire qui en font la demande à l'occasion d'une procédure pénale. De même, à compter de la date d'entrée en vigueur de
+la loi n° 96-604 du 5 juillet 1996 précitée, le lieu où est tenue l'identité du ou des parents ou de la personne qui a remis
+le pupille ou l'ancien pupille est communiqué aux magistrats de l'ordre judiciaire qui en font la demande à l'occasion d'une
+procédure pénale.
+
+Ces renseignements, quelle que soit la date de naissance du pupille ou de l'ancien pupille, ne peuvent être révélés au cours
+de cette procédure ou mentionnés dans la décision à intervenir ; toutes mesures sont, en outre, prises pour qu'ils ne
+puissent être portés, directement ou indirectement, à la connaissance de l'intéressé ou de toute autre personne non liée, de
+par ses fonctions, par le secret professionnel visé aux articles 226-13 et 226-14 du code pénal.
 
 **Nota:**
 
@@ -3489,35 +3731,36 @@ territoriale de Mayotte, les mots :
 
 "représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
 
-[*Nota : Loi 91-738 du 31 juillet 1991 : les dispositions de l'article 15 de la présente loi, en ce qu'elles concernent
-l'action sociale mentionnée à l'article 13, entrent en vigueur à compter du 1er juillet 1991 (art. 16 I), sinon entrent en
-vigueur le 1er janvier 1993 (art. 16 II).*]
-
-[*Nota - Loi 92-1336 du 16 décembre 1992 art. 333 : toute référence aux dispositions de l'article 378 du code pénal est
-remplacée par la référence aux articles 226-13 et 226-14 du code pénal. Lorsqu'il est fait référence aux peines prévues par
-l'article 378 du code pénal cette mention vise les peines fixées par l'article 226-13 du code pénal.*]
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 164 () JORF 23 décembre 1992 en vigueur le 1er septembre 1993
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
-
 	**Cite**:
 
+	  - Loi n°96-604 1996-07-05
 	  - Code pénal - art. 226-13 (M)
 	  - Code pénal - art. 226-14 (M)
 	  - Code civil - art. 58 (V)
 
+	**Modifié par**:
+
+	  - Loi n°96-604 du 5 juillet 1996 - art. 37 () JORF 6 juillet 1996
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L221-7 (V)
+	  - Code de l'action sociale et des familles - art. L221-8 (V)
+
 
 ###### Article 82
 
-Le contrôle du service s'effectue par les inspecteurs généraux du ministère de la Santé publique et de la Population.
+Le contrôle du service de l'aide sociale à l'enfance est assuré par l'inspection générale des affaires sociales.
 
 **Liens relatifs à cet article**
 
@@ -3527,8 +3770,11 @@ Le contrôle du service s'effectue par les inspecteurs généraux du ministère 
 
 	**Modifié par**:
 
-	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
-	  - Loi n°86-17 du 6 janvier 1986 - art. 34 () JORF 8 janvier 1986
+	  - Loi n°96-604 du 5 juillet 1996 - art. 37 () JORF 6 juillet 1996
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 	**Nouveaux textes**:
 
@@ -3961,9 +4207,9 @@ Est incapable d'exploiter ou de diriger un établissement visé au présent arti
 
 1. Toute personne condamnée pour crime ou pour un des délits prévus à l'article L. 5 du code électoral ;
 
-2. Toute personne déchue de tout ou partie des attributs de l'autorité parentale ou dont un enfant ou pupille a fait l'objet,
-en application des articles 375 à 375-8 du code civil, d'une mesure d'assistance éducative qui n'a pas été prise à sa
-requête.
+2. Toute personne qui a fait l'objet d'un retrait total ou partiel de l'autorité parentale ou dont un enfant ou pupille a
+fait l'objet, en application des articles 375 à 375-8 du code civil, d'une mesure d'assistance éducative qui n'a pas été
+prise à sa requête.
 
 **Nota:**
 
@@ -3998,22 +4244,21 @@ territoriale de Mayotte, les mots :
 
 	**Modifié par**:
 
-	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
-	  - Loi n°86-17 du 6 janvier 1986 - art. 38 () JORF 8 janvier 1986
-	  - Loi n°86-17 du 6 janvier 1986 - art. 40 () JORF 8 janvier 1986
+	  - Loi n°96-604 du 5 juillet 1996 - art. 38 () JORF 6 juillet 1996
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 	**Cite**:
 
 	  - Code électoral - art. L5 (M)
-	  - Code civil - art. 375 (M)
-	  - Code civil - art. 375-1 (M)
-	  - Code civil - art. 375-2 (M)
-	  - Code civil - art. 375-3 (M)
-	  - Code civil - art. 375-4 (M)
-	  - Code civil - art. 375-5 (M)
-	  - Code civil - art. 375-6 (M)
-	  - Code civil - art. 375-7 (M)
-	  - Code civil - art. 375-8 (V)
+	  - Code civil 375 à 375-8
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L321-1 (M)
+	  - Code de l'action sociale et des familles - art. L321-2 (M)
 
 
 ###### Article 96
@@ -4215,16 +4460,26 @@ se prononcer expressément sur la sanction accessoire de l'interdiction.
 	  - Code de l'action sociale et des familles - art. L321-4 (M)
 
 
-### Section 2 : Contrôle des oeuvres d'adoption
+### Section 2 : Organismes autorisés et habilités pour l'adoption
 
 ###### Article 100-1
 
 Toute personne physique et toute personne morale de droit privé qui sert d'intermédiaire pour l'adoption ou le placement en
-vue d'adoption de mineurs de quinze ans [*âge*], doit avoir obtenu une autorisation préalable d'exercer cette activité auprès
-du président du conseil général de chaque département dans lequel elle envisage de placer les mineurs concernés.
+vue d'adoption de mineurs de quinze ans, doit avoir obtenu une autorisation préalable d'exercer cette activité auprès du
+président du conseil général de chaque département dans lequel elle envisage de placer les mineurs concernés.
 
-Les bénéficiaires de l'autorisation visée à l'alinéa précédent doivent obtenir une habilitation du ministre compétent pour
+Toutefois, l'organisme autorisé dans un département au minimum peut servir d'intermédiaire pour l'adoption ou le placement en
+vue de l'adoption de mineurs de quinze ans dans d'autres départements, sous réserve d'adresser préalablement une déclaration
+de fonctionnement au président de chaque conseil général concerné. Le président du conseil général peut à tout moment
+interdire dans son département l'activité de l'organisme si celui-ci ne présente pas de garanties suffisantes pour assurer la
+protection des enfants, de leurs parents ou des futurs adoptants.
+
+Les bénéficiaires de l'autorisation visée au premier alinéa doivent obtenir une habilitation du ministre compétent pour
 exercer leur activité au profit de mineurs étrangers.
+
+Les décisions d'autorisation ou d'interdiction d'exercer prises au titre des premier et deuxième alinéas sont transmises par
+le président du conseil général au ministre chargé de la famille et, le cas échéant, au ministre chargé des affaires
+étrangères.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
 
@@ -4281,19 +4536,27 @@ territoriale de Mayotte, les mots :
 
 	**Modifié par**:
 
-	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
-	  - Loi n°86-17 du 6 janvier 1986 - art. 38 () JORF 8 janvier 1986
-	  - Loi n°86-17 du 6 janvier 1986 - art. 43 () JORF 8 janvier 1986
+	  - Loi n°96-604 du 5 juillet 1996 - art. 39 () JORF 6 juillet 1996
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - TXT_ASSOCIE: Code de la famille et de l'aide sociale. - art. 100-2 (M)
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L225-11 (M)
+	  - Code de l'action sociale et des familles - art. L225-12 (V)
+	  - Code de l'action sociale et des familles - art. L225-13 (V)
+	  - Code de l'action sociale et des familles - art. L225-18 (T)
 
 
 ###### Article 100-2
 
-Quiconque se livre aux activités définies à l'article ci-dessus sans y avoir été autorisé est puni des peines prévues à
-l'article 99 du présent code.
+Le fait de se livrer aux activités définies à l'article 100-1 sans autorisation ou malgré une interdiction d'exercer est puni
+d'un an d'emprisonnement et de 100000 F d'amende.
+
+Le tribunal peut interdire au condamné, soit définitivement, soit pour une durée déterminée, d'exercer les activités définies
+au deuxième alinéa de l'article 99.
 
 **Liens relatifs à cet article**
 
@@ -4301,40 +4564,73 @@ l'article 99 du présent code.
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
-	**Modifié par**:
-
-	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
-	  - Loi n°86-17 du 6 janvier 1986 - art. 38 () JORF 8 janvier 1986
-
 	**Cité par**:
 
 	  - Décret n°89-95 du 10 février 1989 - art. 8 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°96-604 du 5 juillet 1996 - art. 39 () JORF 6 juillet 1996
+	  - Loi n°96-604 du 5 juillet 1996 - art. 41 () JORF 6 juillet 1996
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. L225-17 (T)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la famille et de l'aide sociale. - art. 100-1 (M)
 
 	**Cite**:
 
 	  - Code de la famille et de l'aide sociale. - art. 100-1 (M)
 	  - Code de la famille et de l'aide sociale. - art. 99 (M)
 
-	**Liens**:
 
-	  - TXT_ASSOCIE: Code de la famille et de l'aide sociale. - art. 100-1 (M)
+###### Article 100-2-1
+
+L'Etat aide à la mise en place d'un réseau structuré d'organismes autorisés conformément à l'article 100-1.
+
+Un décret en Conseil d'Etat fixe les conditions d'application de cet article.
+
+**Nota:**
+
+Nota : Ordonnance 2000-1249 2000-12-21 art. 5 I 4° : l'abrogation du présent article ne prend effet qu'à compter de la
+publication des dispositions réglementaires correspondantes du code de l'action sociale et des familles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Loi n°96-604 du 5 juillet 1996 - art. 42 () JORF 6 juillet 1996
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 100-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. R225-46 (V)
 
 
 ### Section 2 bis : Accueil de l'enfant étranger en vue de son adoption
 
 ###### Article 100-3
 
-Les personnes qui souhaitent accueillir, en vue de son adoption, un enfant étranger doivent demander l'agrément prévu à
-l'article 63 du présent code.
-
-**Nota:**
-
-[*Nota : Loi 86-76 du 17 janvier 1986 art. 12 II : L'agrément est réputé tacitement accordé par l'administration si celle-ci
-ne s'est pas prononcée dans un délai de six mois à compter du jour de la demande.*]
+Les personnes qui accueillent, en vue de son adoption, un enfant étranger doivent avoir obtenu l'agrément prévu à l'article
+63 du présent code.
 
 **Liens relatifs à cet article**
 
@@ -4365,7 +4661,11 @@ ne s'est pas prononcée dans un délai de six mois à compter du jour de la dema
 
 	**Modifié par**:
 
-	  - Loi n°86-76 du 17 janvier 1986 - art. 12 () JORF 18 janvier 1986
+	  - Loi n°96-604 du 5 juillet 1996 - art. 43 () JORF 6 juillet 1996
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 	**Nouveaux textes**:
 
@@ -4374,6 +4674,36 @@ ne s'est pas prononcée dans un délai de six mois à compter du jour de la dema
 	**Cite**:
 
 	  - Code de la famille et de l'aide sociale. - art. 63 (M)
+
+
+###### Article 100-4
+
+A la demande ou avec l'accord de l'adoptant, le mineur adopté ou placé en vue d'adoption bénéficie d'un accompagnement par le
+service de l'aide sociale à l'enfance ou par l'organisme mentionné à l'article 100-1 pendant une durée de six mois minimum à
+compter de son arrivée au foyer et dans tous les cas jusqu'au prononcé de l'adoption plénière en France ou jusqu'à la
+transcription du jugement étranger. Cet accompagnement peut être prolongé à la demande ou avec l'accord de l'adoptant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Loi n°96-604 du 5 juillet 1996 - art. 44 () JORF 6 juillet 1996
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L225-16 (T)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 100-1 (M)
 
 
 ### Section 4 : Assistantes maternelles
