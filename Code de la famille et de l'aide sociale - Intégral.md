@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1997-10-17
+Version Consolidée au 1998-07-31
 
 # Titre Ier : Protection sociale de la famille
 
@@ -5463,15 +5463,23 @@ moins de six ans, y compris les places d'école maternelle ;
 apparaissent nécessaires, ainsi que le calendrier de réalisation et le coût prévisionnel des opérations projetées par la
 commune.
 
+Les modalités de fonctionnement des équipements et services d'accueil des enfants de moins de six ans doivent faciliter
+l'accès aux enfants de familles rencontrant des difficultés du fait de leurs conditions de vie ou de travail ou en raison de
+la faiblesse de leurs ressources.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-629 du 25 juillet 1994 - art. 11 () JORF 26 juillet 1994
+	  - Loi n°98-657 du 29 juillet 1998 - art. 141 () JORF 31 juillet 1998
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 	**Nouveaux textes**:
 
@@ -6443,7 +6451,8 @@ Les membres élus par le conseil municipal ou par l'organe délibérant de l'ét
 et les membres nommés par le maire ou le président de l'établissement public de coopération intercommunale le sont à la suite
 de chaque renouvellement du conseil municipal et pour la durée du mandat de ce conseil. Leur mandat est renouvelable.
 
-Au nombre des membres nommés doivent figurer un représentant des associations familiales désigné sur proposition de l'union
+Au nombre des membres nommés doivent figurer un représentant des associations qui oeuvrent dans le domaine de l'insertion et
+de la lutte contre les exclusions, un représentant des associations familiales désigné sur proposition de l'union
 départementale des associations familiales, un représentant des associations de retraités et de personnes âgées du
 département et un représentant des associations de personnes handicapées du département.
 
@@ -6479,7 +6488,11 @@ territoriale de Mayotte, les mots :
 
 	**Modifié par**:
 
-	  - Loi n°95-116 du 4 février 1995 - art. 65 () JORF 5 février 1995
+	  - Loi n°98-657 du 29 juillet 1998 - art. 150 () JORF 31 juillet 1998
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 	**Cite**:
 
@@ -8219,20 +8232,24 @@ l'article 161 du Code de la famille et de l'aide sociale.
 
 ###### Article 185
 
-Bénéficient, sur leur demande, de l'aide sociale pour être accueillies dans des centres d'hébergement et de réadaptation
-sociale publics ou privés les personnes et les familles dont les ressources sont insuffisantes, qui éprouvent des difficultés
-pour reprendre ou mener une vie normale notamment en raison du manque ou de conditions défectueuses de logement et qui ont
-besoin d'un soutien matériel et psychologique et, le cas échéant, d'une action éducative temporaire.
+Bénéficient, sur leur demande, de l'aide sociale pour être accueillies dans des centres d'hébergement et de réinsertion
+sociale publics ou privés les personnes et les familles qui connaissent de graves difficultés, notamment économiques,
+familiales, de logement, de santé ou d'insertion, en vue de les aider à accéder ou à recouvrer leur autonomie personnelle et
+sociale.
 
-Le décret prévu à l'article 202 du présent code précise les catégories de personnes et de familles pouvant bénéficier de
-l'alinéa précédent. Le même décret fixe pour tout ou partie des catégories de personnes et de familles intéressées une limite
-à la durée de l'aide sociale accordée.
+Les centres d'hébergement et de réinsertion sociale, dont les conditions de fonctionnement et de financement sont prévues par
+décret en Conseil d'Etat, assurent tout ou partie des missions définies au 8° de l'article 3 de la loi n° 75-535 du 30 juin
+1975 relative aux institutions sociales et médico-sociales, en vue de faire accéder les personnes qu'ils prennent en charge à
+l'autonomie sociale.
+
+Ce décret précise, d'une part, les modalités selon lesquelles les personnes accueillies participent à proportion de leurs
+ressources à leurs frais d'hébergement et d'entretien et, d'autre part, les conditions dans lesquelles elles perçoivent la
+rémunération visée à l'article L. 241-12 du code de la sécurité sociale lorsqu'elles prennent part aux activités d'insertion
+professionnelle prévues à l'alinéa précédent.
+
+Les dispositions du présent article sont applicables aux départements d'outre-mer.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-1186 1953-11-29 ART. 55
 
 	**Cité par**:
 
@@ -8268,7 +8285,19 @@ l'alinéa précédent. Le même décret fixe pour tout ou partie des catégories
 
 	**Cite**:
 
-	  - Code de la famille et de l'aide sociale. - art. 202 (P)
+	  - Loi n°75-535 du 30 juin 1975 - art. 3 (M)
+
+	**Modifié par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 157 (Ab) JORF 31 juillet 1998
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L345-1 (M)
 
 
 ###### Article 185-1
@@ -8310,37 +8339,6 @@ territoriale de Mayotte, les mots :
 
 	  - Code de l'action sociale et des familles - art. L121-9 (M)
 	  - Code de l'action sociale et des familles - art. L121-9 (V)
-
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale. - art. 185 (M)
-
-
-###### Article 185-2
-
-Les personnes bénéficiant de l'aide sociale, par application de l'article 185, en vue d'être accueillies dans un centre
-d'hébergement et de réadaptation, et qui sont reçues dans un tel centre ou en sortent, peuvent également être admises à
-bénéficier de l'aide sociale en vue d'un réentraînement au travail dans des centres d'aide par le travail, publics ou privés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Cité par**:
-
-	  - Arrêté du 18 août 1988 - art. 1 (Ab)
-	  - Arrêté du 30 juillet 1993 - art. 1 (Ab)
-	  - Code de la sécurité sociale. - art. L241-12 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Circulaire 44 1979-09-10
-
-	**Abrogé par**:
-
-	  - Loi n°98-657 du 29 juillet 1998 - art. 157 (Ab) JORF 31 juillet 1998
 
 	**Cite**:
 
