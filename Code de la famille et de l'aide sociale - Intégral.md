@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1956-01-28
+Version Consolidée au 1959-01-06
 
 # Titre Ier : Protection sociale de la famille
 
@@ -2944,6 +2944,27 @@ sont attribuées par le conseil de famille sur la proposition du tuteur.
 
 ### Section 1 : Protection générale des mineurs
 
+###### Article 93
+
+Est placé sous la protection de l'autorité publique tout mineur hébergé collectivement ou isolément hors du domicile de ses
+parents jusqu'au quatrième degré ou de son tuteur lorsqu'il n'est pas protégé par les dispositions du Code de la santé
+publique ou par celles qui visent des établissements soumis à une réglementation particulière.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cité par**:
+
+	  - Code de la famille et de l'aide sociale. - art. 94 (Ab)
+
+	**Anciens textes**:
+
+	  - Décret  1938-06-17 ART. 1
+
+
 ###### Article 94
 
 La surveillance en est confiée au préfet [*autorité compétente*]. Elle s'exerce à la fois sur les conditions morales et
@@ -2963,6 +2984,110 @@ matérielles du placement.
 
 	  - Décret n°67-45 du 10 janvier 1967 - art. 4 (Ab)
 	  - Code de la famille et de l'aide sociale. - art. 93 (Ab)
+
+
+###### Article 97
+
+Nul ne peut servir habituellement d'intermédiaire de placement soit à titre personnel soit au nom d'une collectivité publique
+ou privée s'il n'est autorisé [*condition*] à cet effet par le préfet du département de sa résidence, appelé à apprécier
+après avis d'un conseil dont la composition et le fonctionnement sont fixés par décret, s'il présente les garanties morales
+et matérielles indispensables.
+
+Nul ne peut héberger gratuitement ou moyennant salaire, de façon habituelle, un mineur protégé par la présente section, à lui
+confié par une personne ou groupement habilité à pratiquer le placement, s'il n'est spécialement autorisé par une décision du
+préfet.
+
+Un arrêté du ministre de la santé publique et de la population fixe les conditions dans lesquelles sont accordées les
+autorisations prévues aux alinéas précédents.
+
+L'autorisation, prévue au deuxième alinéa n'est pas requise, si le placement est effectué dans un centre de placement
+familial autorisé.
+
+Les dispositions du présent article sont applicables aux oeuvres de bienfaisance. Les organismes de placement autorisés dans
+les conditions prévues par l'ordonnance du 24 mai 1945 relative au placement des travailleurs et au contrôle de l'emploi
+[*code du travail art. L. 311-1 et S., L. 321-1 et S.*] ne sont pas soumis aux obligations du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cité par**:
+
+	  - Décret n°67-161 du 24 février 1967 - art. 3 (Ab)
+	  - Loi n°75-535 du 30 juin 1975 - art. 14 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 100-1 (M)
+	  - Code de la famille et de l'aide sociale. - art. 115 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 98 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L331-7 (M)
+
+	**Anciens textes**:
+
+	  - Décret  1938-06-17 ART. 5
+
+	**Cite**:
+
+	  - Ordonnance 1945-05-24
+
+
+###### Article 98
+
+L'autorisation d'organiser un centre familial de placement est accordée par arrêté préfectoral pris sur la proposition du
+directeur départemental de la population et de l'aide sociale et du directeur de la santé après avis du conseil visé à
+l'article précédent, déterminant notamment le périmètre de l'organisation, les conditions de surveillance auxquelles sont
+soumis ces placements particulièrement au point de vue sanitaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret  1938-06-17 ART. 6
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L331-8 (M)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 97 (M)
+
+
+### Section 2 : Contrôle des oeuvres d'adoption
+
+###### Article 100-2
+
+Quiconque se livre aux activités définies à l'article ci-dessus sans y avoir été autorisé est puni des peines prévues à
+l'article 99 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cité par**:
+
+	  - Décret n°89-95 du 10 février 1989 - art. 8 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L225-17 (T)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la famille et de l'aide sociale. - art. 100-1 (M)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 99 (M)
 
 
 # Titre III : Aide sociale
@@ -4710,6 +4835,38 @@ traitement relèvent, en premier ressort, de la compétence des tribunaux admini
 	**Cite**:
 
 	  - Code de la famille et de l'aide sociale. - art. 201 (M)
+
+
+###### Article 198
+
+Les conseils généraux peuvent créer des emplois d'agents départementaux de contrôle. Les délibérations prises à cet effet
+sont soumises à l'approbation [*condition préalable*] du ministre de la santé publique et de la population lorsqu'elles ne
+sont pas conformes aux propositions du préfet.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°53-1186 1953-11-29 ART. 69
+
+	**Cité par**:
+
+	  - Décret n°54-883 du 2 septembre 1954 - art. 44-1 (M)
+	  - Décret n°56-1030 du 28 septembre 1956 - art. 67 (Ab)
+	  - Décret n°77-1549 du 31 décembre 1977 - art. 5 (Ab)
+	  - Loi n°97-60 du 24 janvier 1997 - art. 14 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Abrogé par**:
+
+	  - Loi n°83-663 du 22 juillet 1983 - art. 54 (V) JORF 23 juillet 1983
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L133-2 (V)
 
 
 ###### Article 199
