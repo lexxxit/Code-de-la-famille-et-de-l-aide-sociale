@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1985-07-26
+Version Consolidée au 1986-01-08
 
 # Titre Ier : Protection sociale de la famille
 
@@ -1282,21 +1282,51 @@ les articles 1288 et suivants du Code rural (articles 110 à 134 du code de l'en
 	  - Rapport - art. 7 (V)
 
 
-# Titre Ier : Protection sociale de l'enfance
+# Titre II : Action sociale en faveur de l'enfance et de la famille
 
-## Chapitre IV : Protection de la naissance
+## Chapitre Ier : Missions et prestations du service de l'aide sociale à l'enfance
 
-### Section 1 : Protection de la maternité
+### Section 1 : Missions du service de l'aide sociale à l'enfance
 
 ###### Article 40
 
-La protection maternelle et infantile est assurée dans le cadre des dispositions du Code de la santé publique.
+Le service de l'aide sociale à l'enfance est un service non personnalisé du département chargé des missions suivantes
+[*attributions*] :
+
+1° Apporter un soutien matériel, éducatif et psychologique aux mineurs, à leur famille, aux mineurs émancipés et aux majeurs
+âgés de moins de vingt et un ans confrontés à des difficultés sociales susceptibles de compromettre gravement leur
+équilibre ;
+
+2° Organiser, dans les lieux où se manifestent des risques d'inadaptation sociale, des actions collectives visant à prévenir
+la marginalisation et à faciliter l'insertion ou la promotion sociale des jeunes et des familles ;
+
+3° Pourvoir à l'ensemble des besoins des mineurs confiés au service et veiller à leur orientation, en collaboration avec leur
+famille ou leur représentant légal.
+
+Pour l'accomplissement de ses missions, et sans préjudice de ses responsabilités vis-à-vis des enfants qui lui sont confiés,
+le service d'aide sociale à l'enfance peut faire appel à des organismes publics ou privés habilités dans les conditions
+prévues aux articles 11-1, 11-2 et 11-3 de la loi n° 75-535 du 30 juin 1975 relative aux institutions sociales et médico-
+sociales ou à des personnes physiques.
+
+Le service contrôle les personnes physiques ou morales à qui il a confié des mineurs, en vue de s'assurer des conditions
+matérielles et morales de leur placement.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cite**:
+
+	  - Loi n°75-535 du 30 juin 1975 - art. 11-1 (M)
+	  - Loi n°75-535 du 30 juin 1975 - art. 11-2 (Ab)
+	  - Loi n°75-535 du 30 juin 1975 - art. 11-3 (M)
+
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 31 () JORF 8 janvier 1986
 
 	**Nouveaux textes**:
 
@@ -1313,35 +1343,20 @@ La protection maternelle et infantile est assurée dans le cadre des disposition
 	  - Code de la santé publique - art. L2112-2 (M)
 
 
+### Section 2 : Prestations d'aide sociale à l'enfance
+
 ###### Article 41
 
-En vue de prévenir efficacement les abandons d'enfants, le préfet, sur la proposition du directeur départemental de la
-population et de l'aide sociale, désigne la ou les maisons maternelles qui doivent accueillir sans formalité les femmes
-enceintes d'au moins sept mois et les mères avec leur nouveau-né.
+Sans préjudice des pouvoirs reconnus à l'autorité judiciaire, les prestations d'aide sociale à l'enfance mentionnées à la
+présente section sont accordées par décision du président du conseil général [*autorité compétente*] du département où la
+demande est présentée.
 
-Les maisons maternelles sont constituées soit par des établissements publics, soit par des établissements privés avec
-lesquelles ont été passées des conventions.
+**Nota:**
 
-Toutefois, la limite de sept mois n'est pas opposable aux femmes enceintes qui réclament le secret ou à celles qui présentent
-un certificat d'indigence.
-
-La durée du séjour après l'accouchement ne peut excéder trois mois, sauf prolongation exceptionnelle en cas de nécessité
-médicale ou sociale.
-
-Un comité de service social est institué dans chaque maison maternelle en vue, notamment, de procurer du travail aux mères
-lors de leur sortie de l'établissement, de leur assurer un soutien moral et, le cas échéant, de faciliter les recherches de
-paternité éventuellement entreprises.
-
-Toute personne attachée au service d'une maison maternelle est astreinte au secret professionnel conformément à l'article 378
-du Code pénal.
+[*Nota : sous réserve des dispositions du 2ème alinéa de l'article 86, les prestations d'aide sociale à l'enfance sont à la
+charge du département qui a prononcé l'admission dans le service de l'aide sociale à l'enfance.*]
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-1186 1953-11-29
-	  - Décret-loi 1939-07-29 ART. 98
-	  - Loi n°1943-04-15 ART. 7
 
 	**Codifié par**:
 
@@ -1353,45 +1368,38 @@ du Code pénal.
 	  - Code de la famille et de l'aide sociale. - art. 44 (M)
 	  - Code de la famille et de l'aide sociale. - art. 51 (Ab)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code pénal 378
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 31 () JORF 8 janvier 1986
 
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. L222-1 (V)
 
 
+#### Sous-section 1 : Aide à domicile
+
 ###### Article 42
 
-Les établissements hospitaliers publics [*maisons maternelles*] susceptibles d'assurer des soins à une femme enceinte ou
-récemment accouchée ne peuvent, s'ils disposent de lits vacants, se refuser à la recevoir [*interdiction*] durant le mois qui
-précède et celui qui suit l'accouchement.
+L'aide à domicile est attribuée sur sa demande, ou avec son accord, à la mère, au père ou, à défaut, à la personne qui assume
+la charge effective de l'enfant, lorsque la santé de celui-ci, sa sécurité, son entretien ou son éducation l'exige et, pour
+les prestations en espèces, lorsque le demandeur ne dispose pas de ressources suffisantes.
 
-Les dépenses d'hospitalisation sont remboursées à l'établissement suivant la procédure et les conditions habituelles, soit
-par le service de l'aide médicale, soit par les caisses de sécurité sociale, soit par les intéressées elles-mêmes, si elles
-ne bénéficient pas de l'aide des services ou organismes précités ou si elles n'en bénéficient que partiellement.
+Elle est accordée aux femmes enceintes confrontées à des difficultés médicales ou sociales et financières, lorsque leur santé
+ou celle de l'enfant l'exige.
 
-L'admission en service hospitalier, dans les conditions prévues à l'alinéa 1er, des femmes ayant demandé le bénéfice du
-secret ne peut être prononcée s'il existe des lits vacants dans une maison maternelle du département.
+Elle peut concourir à prévenir une interruption volontaire de grossesse [*IVG*].
 
-Lorsque le secret est demandé, les frais de séjour et d'accouchement sont pris en charge par le service de l'aide sociale à
-l'enfance du département, siège de l'établissement ou par celui du département qui a provoqué l'admission de l'intéressée.
+Elle peut être accordée aux mineurs émancipés et aux majeurs âgés de moins de vingt et un ans, confrontés à des difficultés
+sociales.
 
-Il en est de même des frais d'hospitalisation en établissement de soins d'une mère ou de son enfant hébergé sous le régime du
-secret en maison maternelle, lorsque cette hospitalisation se situe pendant la durée du séjour à la maison maternelle.
+**Nota:**
 
-Aucune pièce d'identité ne sera exigée et il ne sera procédé à aucune enquête.
-
-Le secret et la prise en charge au titre de l'aide sociale à l'enfance ne seront pas maintenus lorsque le nom des père et
-mère légitimes de l'enfant figurera dans l'acte de naissance établi dans le délai prévu par les articles 55 et suivants du
-Code civil.
+[*Nota : sous réserve des dispositions du 2ème alinéa de l'article 86, les prestations d'aide sociale à l'enfance sont à la
+charge du département qui a prononcé l'admission dans le service de l'aide sociale à l'enfance.*]
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-1186 1953-11-29 ART. 51
 
 	**Codifié par**:
 
@@ -1404,9 +1412,10 @@ Code civil.
 	  - Code de la famille et de l'aide sociale. - art. 44 (M)
 	  - Code de la famille et de l'aide sociale. - art. 86 (M)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code civil - art. 55 (M)
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 31 () JORF 8 janvier 1986
 
 	**Nouveaux textes**:
 
@@ -1415,26 +1424,21 @@ Code civil.
 
 ###### Article 43
 
-Les allocations mensuelles [*pour l'entretien, la garde ou le placement de l'enfant secouru*] prévues à l'article 53 sont
-accordées aux femmes enceintes privées de ressources suffisantes.
+L'aide à domicile comporte, ensemble ou séparément :
 
-Elles sont allouées à compter du jour de la demande et sous réserve que la mère observe les prescriptions édictées par le
-titre Ier du livre II du code de la santé publique et se conforme aux conseils d'hygiène donnés par l'assistante sociale
-désignée à cet effet.
+- l'intervention d'une travailleuse familiale ou d'une aide ménagère ;
 
-Il en est de même des secours en espèces [*pour prévenir les abandons*] prévus à l'article 52.
+- l'intervention d'un service d'action éducative ;
 
-Le cumul des allocations mensuelles avec les indemnités journalières de repos versées par les organismes de sécurité sociale
-à leurs ayants droit est interdit. Le cumul des allocations mensuelles avec les allocations prénatales n'est autorisé que
-dans la limite du taux maximum prévu pour les allocations mensuelles et seulement s'il s'agit d'un foyer dépourvu de
-ressources en raison de l'impossibilité pour la femme antérieurement à la période de six semaines et pour son conjoint, le
-cas échéant, d'exercer une activité professionnelle.
+- le versement d'aides financières effectué sous forme soit de secours exceptionnels, soit d'allocations mensuelles, à titre
+définitif ou sous condition de remboursement, éventuellement délivrés en espèces.
+
+**Nota:**
+
+[*Nota : sous réserve des dispositions du 2ème alinéa de l'article 86, les prestations d'aide sociale à l'enfance sont à la
+charge du département qui a prononcé l'admission dans le service de l'aide sociale à l'enfance.*]
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°51-1294 1951-11-08 ART. 1
 
 	**Codifié par**:
 
@@ -1452,37 +1456,25 @@ cas échéant, d'exercer une activité professionnelle.
 
 	**Modifié par**:
 
-	  - Loi n°79-1204 du 31 décembre 1979 - art. 11 () JORF 1er janvier 1980
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 31 () JORF 8 janvier 1986
 
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. L222-3 (V)
 
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale. - art. 52 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 53 (Ab)
-	  - Code de la santé publique L146 à L189
-
-
-### Section 2 : Prévention de l'avortement
 
 ###### Article 44
 
-Les mesures destinées à prévenir l'avortement comprennent notamment :
+Les secours et allocations mensuelles d'aide à domicile sont incessibles et insaisissables. Toutefois, à la demande du
+bénéficiaire, ils peuvent être versés à toute personne temporairement chargée de l'enfant.
 
-1. La protection de la maternité dans les conditions prévues par la section précédente ;
+Lorsqu'un tuteur aux prestations sociales a été nommé, il reçoit de plein droit les allocations mensuelles d'aide à domicile.
 
-2. La surveillance des maisons d'accouchement prévue au livre II, titre Ier, chapitre V, section I du Code de la santé
-publique ;
+**Nota:**
 
-3. La réglementation du diagnostic biologique de la grossesse prévu à l'article 759 du Code de la santé publique ;
-
-4. La réglementation de l'avortement thérapeutique prévue à l'article 87 du décret du 29 juillet 1939 ;
-
-5. L'attribution d'allocations prénatales à compter du jour de la conception dans les conditions prévues à l'article 14 de la
-loi du 22 août 1946 [*code de la sécurité sociale art. L515*] aux femmes enceintes qui déclarent la grossesse dans les trois
-premiers mois [*condition*].
+[*Nota : sous réserve des dispositions du 2ème alinéa de l'article 86, les prestations d'aide sociale à l'enfance sont à la
+charge du département qui a prononcé l'admission dans le service de l'aide sociale à l'enfance.*]
 
 **Liens relatifs à cet article**
 
@@ -1492,7 +1484,8 @@ premiers mois [*condition*].
 
 	**Modifié par**:
 
-	  - Loi n°85-17 du 4 janvier 1985 - art. 26 () JORF 5 janvier 1985
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 31 () JORF 8 janvier 1986
 
 	**Nouveaux textes**:
 
@@ -1502,71 +1495,45 @@ premiers mois [*condition*].
 
 	  - Code de la famille et de l'aide sociale. - art. 232 (Ab)
 
-	**Cite**:
 
-	  - Code de la famille et de l'aide sociale. - art. 40 (M)
-	  - Code de la famille et de l'aide sociale. - art. 41 (M)
-	  - Code de la famille et de l'aide sociale. - art. 42 (M)
-	  - Code de la famille et de l'aide sociale. - art. 43 (M)
-	  - Code de la santé publique - art. L176 (M)
-	  - Code de la santé publique - art. L177 (M)
-	  - Code de la santé publique - art. L178 (M)
-	  - Code de la santé publique - art. L179 (M)
-	  - Code de la santé publique - art. L759 (M)
-	  - Code de la sécurité sociale L516 (devenu L515)
-	  - Décret  1939-07-29 art. 87
-	  - Loi n°1946-08-22 art. 14
-
-
-###### Article 44-1
-
-Des commissions d'aide à la maternité sont mises en place sur l'ensemble du territoire, notamment auprès des centres médico-
-sociaux ou des bureaux d'aide sociale des grandes villes. Leur composition et leur fonctionnement sont fixés par décret en
-Conseil d'Etat ; elle doivent comprendre des personnes qualifiées dans le domaine social et familial, des volontaires et des
-représentants d'associations d'aide à la famille et à l'enfance.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Créé par**:
-
-	  - Loi n°79-1204 du 31 décembre 1979 - art. 12 () JORF 1er janvier 1980
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
-
-
-## Chapitre V : Aide sociale à l'enfance
-
-### Section 1 : Définitions
+#### Sous-section 2 : Prévention de l'inadaptation sociale de l'enfance et de la jeunesse
 
 ###### Article 45
 
-Les mineurs de l'un ou l'autre sexe entrant dans l'une des catégories énumérées ci-après sont placés, soit sous la
-protection, soit sous la tutelle du service de l'aide sociale à l'enfance.
+Dans les lieux où se manifestent des risques d'inadaptation sociale, le département participe aux actions visant à prévenir
+la marginalisation et à faciliter l'insertion ou la promotion sociale des jeunes et des familles. Ces actions comprennent :
 
-Sont placés sous la protection du service de l'aide sociale à l'enfance, les mineurs ci-après dont le lien familial n'est pas
-rompu totalement :
+1° Des actions tendant à permettre aux intéressés d'assurer leur propre prise en charge et leur insertion sociale ;
 
-- Les enfants surveillés ;
+2° Des actions dites de prévention spécialisée auprès des jeunes et des familles en difficulté ou en rupture avec leur
+milieu ;
 
-- Les enfants secourus ;
+3° Des actions d'animation socio-éducatives.
 
-- Les enfants recueillis temporairement ;
+Pour la mise en oeuvre des actions mentionnées au 2° ci-dessus, le président du conseil général habilite des organismes
+publics ou privés dans les conditions prévues aux articles 11-1, 11-2 et 11-3 de la loi n° 75-535 du 30 juin 1975 précitée.
 
-- Les enfants en garde.
+**Nota:**
 
-Sont placés sous la tutelle du service de l'aide sociale à l'enfance les pupilles de l'Etat.
+[*Nota : sous réserve des dispositions du 2ème alinéa de l'article 86, les prestations d'aide sociale à l'enfance sont à la
+charge du département qui a prononcé l'admission dans le service de l'aide sociale à l'enfance.*]
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cite**:
+
+	  - Loi n°75-535 du 30 juin 1975 - art. 11-1 (M)
+	  - Loi n°75-535 du 30 juin 1975 - art. 11-2 (Ab)
+	  - Loi n°75-535 du 30 juin 1975 - art. 11-3 (M)
+
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 31 () JORF 8 janvier 1986
 
 	**Cité par**:
 
@@ -1582,27 +1549,48 @@ Sont placés sous la tutelle du service de l'aide sociale à l'enfance les pupil
 
 	  - Code de l'action sociale et des familles - art. L121-2 (M)
 
-	**Anciens textes**:
 
-	  - Loi n°43-182 1943-04-15 ART. 1
-
+#### Sous-section 3 : Entretien et hébergement des mineurs et des mères isolées avec leurs enfants
 
 ###### Article 46
 
-Est dit enfant surveillé :
+Sont pris en charge par le service de l'aide sociale à l'enfance sur décision du président du conseil général
+[*bénéficiaires*] :
 
-1. L'enfant confié à un particulier ou à un établissement ou recueilli par eux en vertu des articles 377 et 377-1 du Code
-civil ;
+1° Les mineurs qui ne peuvent provisoirement être maintenus dans leur milieu de vie habituel ;
 
-2. L'enfant en faveur duquel le service exerce une action éducative par application de l'article 2 du décret n. 59-100 du 7
-janvier 1959 relatif à la protection sociale de l'enfance en danger ou des articles 375-2 et 375-4 du Code civil, quand il en
-est chargé par le juge ;
+2° Les pupilles de l'Etat remis aux services dans les conditions prévues aux articles 61 et 62 du présent code ;
 
-3. L'enfant confié à un particulier, à une oeuvre ou à un groupement en vue du placement dans une famille ou un établissement
-et dont l'inspection de la population et de l'aide sociale assure la surveillance, en application du chapitre III du présent
-titre.
+3° Les mineurs confiés au service en application du 4° de l'article 375-3 du code civil, des articles 375-5, 377, 377-1, 380,
+433 du même code ou du 4° de l'article 10 et du 4° de l'article 15 de l'ordonnance n° 45-174 du 2 février 1945 relative à
+l'enfance délinquante ;
+
+4° Les femmes enceintes et les mères isolées avec leurs enfants de moins de trois ans [*âge limite*] qui ont besoin d'un
+soutien matériel et psychologique.
+
+Peuvent être également pris en charge à titre temporaire par le service chargé de l'aide sociale à l'enfance les mineurs
+émancipés et les majeurs âgés de moins de vingt et un ans qui éprouvent des difficultés d'insertion sociale faute de
+ressources ou d'un soutien familial suffisants.
+
+**Nota:**
+
+[*Nota : sous réserve des dispositions du 2ème alinéa de l'article 86, les prestations d'aide sociale à l'enfance sont à la
+charge du département qui a prononcé l'admission dans le service de l'aide sociale à l'enfance.*]
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 10 (M)
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 15 (M)
+	  - Code civil - art. 375-3 (M)
+	  - Code civil - art. 375-5 (M)
+	  - Code civil - art. 377 (M)
+	  - Code civil - art. 377-1 (M)
+	  - Code civil - art. 380 (M)
+	  - Code civil - art. 433 (M)
+	  - Code de la famille et de l'aide sociale. - art. 61 (M)
+	  - Code de la famille et de l'aide sociale. - art. 62 (M)
 
 	**Codifié par**:
 
@@ -1610,7 +1598,8 @@ titre.
 
 	**Modifié par**:
 
-	  - Loi n°70-459 du 4 juin 1970 - art. 4 () JORF 5 juin 1970
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 31 () JORF 8 janvier 1986
 
 	**Cité par**:
 
@@ -1621,65 +1610,85 @@ titre.
 	  - Code de la sécurité sociale. - art. L241-12 (M)
 	  - Code du travail - art. L322-4-16-7 (M)
 
-	**Cite**:
-
-	  - Code civil - art. 375-2 (M)
-	  - Code civil - art. 375-4 (M)
-	  - Code civil - art. 377 (M)
-	  - Code civil - art. 377-1 (M)
-	  - Code de la famille et de l'aide sociale 93 A, 123
-	  - Code de la famille et de l'aide sociale. - art. 123 (Ab)
-	  - Décret n°59-100 1959-01-07 ART. 2
-
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. L222-5 (V)
 
-	**Anciens textes**:
-
-	  - Loi n°43-182 1943-04-15 ART. 2
-
 
 ###### Article 47
 
-Est dit "enfant secouru" l'enfant que son père, sa mère, ses ascendants ou la personne qui en assure la garde ne peuvent
-élever faute de ressources suffisantes et pour lequel est accordée une allocation mensuelle en vue de prévenir son abandon ou
-d'assurer son entretien.
+Les frais d'hébergement et d'accouchement des femmes qui ont demandé, lors de leur admission en vue d'un accouchement dans un
+établisement public ou privé conventionné, à ce que le secret de leur identité soit préservé, sont pris en charge par le
+service de l'aide sociale à l'enfance du département siège de l'établissement.
+
+Pour l'application de l'alinéa précédent, aucune pièce d'identité n'est exigée et il n'est procédé à aucune enquête.
+
+Lorsque le nom du père ou de la mère de l'enfant figure dans l'acte de naissance établi dans le délai prévu par les articles
+55 et suivants du code civil, la prise en charge des frais d'hébergement et d'accouchement par le service n'est pas de droit.
+
+**Nota:**
+
+[*Nota : sous réserve des dispositions du 2ème alinéa de l'article 86, les prestations d'aide sociale à l'enfance sont à la
+charge du département qui a prononcé l'admission dans le service de l'aide sociale à l'enfance.*]
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-1186 1953-11-29 ART. 73 AL. 1
-	  - Loi n°43-182 1943-04-15 ART. 3
 
 	**Codifié par**:
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 31 () JORF 8 janvier 1986
+
+	**Cite**:
+
+	  - Code civil - art. 55 (M)
 
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. L222-6 (M)
 
 
-# Titre II : Action sociale en faveur de l'enfance et de la famille
+### Section 3 : Droits des familles dans leurs rapports avec les services chargés de la protection de la famille et de l'enfance
 
-## Chapitre Ier : Missions et prestations du service de l'aide sociale à l'enfance
+###### Article 55
 
-### Section 2 : Prestations d'aide sociale à l'enfance
+Toute personne qui demande une prestation prévue aux chapitres Ier et II du présent titre ou qui en bénéficie est informée
+par les services chargés de la protection de la famille et de l'enfance des conditions d'attribution et des conséquences de
+cette prestation sur les droits et obligations de l'enfant et de son représentant légal.
 
-#### Sous-section 3 : Entretien et hébergement des mineurs et des mères isolées avec leurs enfants
+**Liens relatifs à cet article**
 
-###### Article 48
+	**Codifié par**:
 
-Est dit enfant recueilli temporairement :
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
-1. Le mineur qui, privé de protection et de moyens d'existence, par suite notamment de l'appel sous les drapeaux du père veuf
-ou divorcé, de la détention, de l'hospitalisation, de la maladie grave ou du décès de ses père, mère, ascendants ou tuteur,
-est confié provisoirement au service de l'aide sociale à l'enfance ;
+	**Liens**:
 
-2. Le mineur admis dans le service de l'aide sociale à l'enfance, en application de l'article 2 du décret n. 59-100 du 7
-janvier 1959 relatif à la protection sociale de l'enfance en danger.
+	  - TXT_SOURCE: Décret n°85-936 du 23 août 1985 - art. 1 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°85-936 du 23 août 1985 - art. 1 (M)
+	  - Code de la famille et de l'aide sociale. - art. 100-1 (M)
+	  - Code de la famille et de l'aide sociale. - art. 59-1 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 32 () JORF 8 janvier 1986
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L223-1 (V)
+
+
+###### Article 55-1
+
+Elle peut être accompagnée de la personne de son choix, représentant ou non une association , dans ses démarches auprès du
+service. Néanmoins, celui-ci a la possibilité de proposer également un entretien individuel dans l'intérêt du demandeur.
 
 **Liens relatifs à cet article**
 
@@ -1689,38 +1698,42 @@ janvier 1959 relatif à la protection sociale de l'enfance en danger.
 
 	**Cité par**:
 
-	  - Code de la famille et de l'aide sociale. - art. 53-1 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 83 (M)
-	  - Décret n°77-613 du 10 juin 1977 - art. 1 (Ab)
+	  - Décret n°85-936 du 23 août 1985 - art. 1 (M)
+	  - Décret n°85-938 du 23 août 1985 - art. 5 (Ab)
+	  - Décret n°85-938 du 23 août 1985 - art. 7 (Ab)
+	  - Décret n°98-771 du 1 septembre 1998 - art. 5 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 59-1 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 63 (Ab)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Décret n°59-100 1959-01-07 ART. 2
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 32 () JORF 8 janvier 1986
 
-	**Anciens textes**:
+	**Nouveaux textes**:
 
-	  - Loi n°43-182 1943-04-15 ART. 4
-
-	**Abrogé par**:
-
-	  - Loi n°86-17 1986-01-06 art. 80 JORF 8 janvier 1986
+	  - Code de l'action sociale et des familles - art. L223-1 (V)
 
 
-###### Article 49
+###### Article 56
 
-Est dit enfant en garde :
+Sauf si un enfant est confié au service par décision judiciaire ou s'il s'agit de prestations en espèces, aucune décision sur
+le principe ou les modalités de l'admission dans le service de l'aide sociale à l'enfance ne peut être prise sans l'accord
+écrit du représentant légal du mineur ou du bénéficiaire lui-même s'il est mineur émancipé.
 
-1. L'enfant dont les parents ont, par l'effet d'une mesure de retrait, perdu une partie des attributs de l'autorité
-parentale, et dont la garde se trouve dévolue au service de l'aide sociale à l'enfance par application de l'article 379-1 du
-Code civil ;
+En cas d'urgence et lorsque le représentant légal est dans l'impossibilité de donner son accord, l'enfant est recueilli
+provisoirement par le service qui en avise immédiatement le procureur de la République. Si, à l'issue d'un délai de cinq
+jours, l'enfant n'a pu être remis à sa famille ou si le représentant légal n'a pas donné son accord à l'admission de l'enfant
+dans le service, ce dernier saisit l'autorité judiciaire.
 
-2. L'enfant confié au service de l'aide sociale à l'enfance, par application des articles 375-3, 375-5 ou 380 du Code civil ;
+Pour toutes les décisions relatives au lieu et au mode de placement des enfants déjà admis dans le service, l'accord du
+représentant légal est réputé acquis si celui-ci n'a pas fait connaître son opposition dans un délai de quatre semaines à
+compter du jour où il a reçu la notification de la demande du service, ou de six semaines à compter de la date d'envoi s'il
+n'a pas accusé réception de la notification.
 
-3. L'enfant confié audit service, en vertu de l'ordonnance du 2 février 1945, relative à l'enfance délinquante (art. 10, 15
-et 28) ;
-
-4. /A/DECR.0190 07-02-1978 ART. 1 : L'enfant dont la tutelle d'Etat est confiée au préfet en application de l'article 433 du
-code civil, sous réserve de l'application des autres dispositions de ce code//.
+Sous réserve des pouvoirs reconnus à l'autorité judiciaire, les mesures prises dans le cadre de la présente section ne
+peuvent en aucun cas porter atteinte à l'autorité parentale que détiennent le ou les représentants légaux de l'enfant, et
+notamment au droit de visite et au droit d'hébergement.
 
 **Liens relatifs à cet article**
 
@@ -1728,127 +1741,42 @@ code civil, sous réserve de l'application des autres dispositions de ce code//.
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
+	**Cité par**:
+
+	  - Décret n°85-936 du 23 août 1985 - art. 4 (M)
+	  - Décret n°85-936 du 23 août 1985 - art. 5 (M)
+	  - Décret n°85-936 du 23 août 1985 - art. 8 (M)
+	  - Code de la famille et de l'aide sociale. - art. 59-1 (Ab)
+
 	**Modifié par**:
 
-	  - Décret n°78-190 1978-02-07 art. 1 JORF 25 février 1978
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 32 () JORF 8 janvier 1986
 
-	**Abrogé par**:
+	**Nouveaux textes**:
 
-	  - Loi n°86-17 1986-01-06 art. 80 JORF 8 janvier 1986
+	  - Code de l'action sociale et des familles - art. L223-2 (V)
+
+
+###### Article 57
+
+Pour l'application des décisions judiciaires prises en vertu des articles 10, 4°, 15, 4°, et 17, 2ème alinéa, de l'ordonnance
+n° 174 du 2 février 1945, de l'article 375-3, 4°, et des articles 377 à 380 du code civil, le représentant légal du mineur
+donne son avis par écrit préalablement au choix du mode et du lieu de placement et à toute modification apportée à cette
+décision.
+
+**Liens relatifs à cet article**
 
 	**Cite**:
 
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 10 (M)
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 15 (M)
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 17 (V)
 	  - Code civil - art. 375-3 (M)
-	  - Code civil - art. 375-5 (M)
-	  - Code civil - art. 379-1 (M)
+	  - Code civil - art. 377 (M)
+	  - Code civil - art. 378 (M)
+	  - Code civil - art. 379 (M)
 	  - Code civil - art. 380 (M)
-	  - Code civil - art. 433 (M)
-	  - Ordonnance  1945-02-02 ART. 10, ART. 15, ART. 28
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 787 A (M)
-	  - Code de la famille et de l'aide sociale. - art. 83 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°43-182 1943-04-15 ART. 5
-
-
-###### Article 51
-
-Les maisons maternelles [*mission*] prévues à l'article 41 du présent code concourent à la prévention des abandons d'enfants.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale. - art. 41 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°43-182 1943-04-15 ART. 7
-
-	**Abrogé par**:
-
-	  - Loi n°86-17 1986-01-06 art. 80 JORF 8 janvier 1986
-
-
-###### Article 52
-
-Un secours en espèces, dont le taux maximum est fixé par le préfet sur la proposition du directeur départemental de la
-population et de l'aide sociale et, le cas échéant, en nature, peut être accordé par la préposée aux admissions chargée du
-bureau d'abandon, notamment en cas de danger immédiat d'abandon, pour faire face aux premiers besoins de l'enfant ; ce
-secours ne peut pas être renouvelé.
-
-Une régie comptable est instituée à cet effet entre les mains de la préposée aux admissions chargée du bureau d'abandon.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Abrogé par**:
-
-	  - Loi n°86-17 1986-01-06 art. 80 JORF 8 janvier 1986
-
-	**Cité par**:
-
-	  - Code de la famille et de l'aide sociale. - art. 43 (M)
-	  - Code de la famille et de l'aide sociale. - art. 86 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°43-182 1943-04-15 ART. 8
-
-
-###### Article 53
-
-Une allocation mensuelle est accordée pour permettre éventuellement d'assurer jusqu'à la fin de l'obligation scolaire
-l'entretien, la garde ou le placement de l'enfant secouru.
-
-L'allocation peut être exceptionnellement maintenue jusqu'à dix-huit ans en faveur des mineurs placés en apprentissage ou
-poursuivant des études.
-
-L'allocation est versée en principe à la mère, à défaut au père, à défaut aux ascendants. Sur la demande, soit de la personne
-appelée en application de ce qui précède à recevoir l'allocation, soit de celle ayant effectivement pris l'enfant en charge,
-l'allocation peut être mandatée au nom de la personne ou de l'institution charitable qui élève l'enfant, ou de l'assistante
-sociale qui en assure la surveillance. Le préfet peut également décider que le mandatement aura lieu comme il vient d'être
-dit.
-
-Au cas où un tuteur aux prestations sociales aurait déjà été nommé, celui-ci reçoit de plein droit l'allocation.
-
-Les taux de base qui dans des cas exceptionnels peuvent atteindre le montant de la pension des pupilles sont fixées par le
-conseil général.
-
-La quotité de chaque allocation et sa durée sont fixées par décision préfectorale.
-
-Si l'aide sollicitée concerne un enfant de moins de trois ans, le secours en espèces peut, à la demande de la mère, être
-versé directement à l'hôtel maternel qui reçoit celle-ci avec son enfant ou être remplacé par le placement de l'enfant chez
-une nourrice ou une gardienne choisie, rétribuée et surveillée par le service de l'aide à l'enfance.
-
-Lorsque ce mode de secours est pratiqué, la mère contribue aux frais de pension par le versement, entre les mains du
-comptable du service, d'une mensualité dont le montant est fixé par décision préfectorale.
-
-L'allocation est réduite, suspendue ou supprimée si le père, la mère, les ascendants ou la personne qui a la charge de
-l'enfant cessent d'être privés de ressources ou n'utilisent pas l'allocation pour les besoins de l'enfant. Dans ce dernier
-cas, la sauvegarde de l'enfant est assurée par application des dispositions du titre Ier ou du titre II de la loi du 24
-juillet 1889 [*voir code civil art. 371*].
-
-En cas de légitimation de l'enfant secouru, une prime peut être accordée, dans la limite des taux fixés par le préfet sur la
-proposition du directeur départemental de la population et de l'aide sociale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-1186 1953-11-29 ART. 73 AL. 2
-	  - Loi n°43-182 1943-04-15 ART. 9
 
 	**Codifié par**:
 
@@ -1856,30 +1784,24 @@ proposition du directeur départemental de la population et de l'aide sociale.
 
 	**Cité par**:
 
-	  - Loi n°66-774 du 18 octobre 1966 - art. 1 (V)
-	  - Décret n°69-399 du 25 avril 1969 - art. 1 (V)
-	  - Code de la famille et de l'aide sociale. - art. 154 (V)
-	  - Code de la famille et de l'aide sociale. - art. 43 (M)
-	  - Code de la famille et de l'aide sociale. - art. 86 (M)
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 16 (V)
+	  - Décret n°85-936 du 23 août 1985 - art. 7 (Ab)
+	  - Décret n°85-936 du 23 août 1985 - art. 8 (M)
+	  - Code de la famille et de l'aide sociale. - art. 59-1 (Ab)
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Loi n°86-17 1986-01-06 art. 80 JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 32 () JORF 8 janvier 1986
 
-	**Cite**:
+	**Nouveaux textes**:
 
-	  - Loi n°1889-07-24
+	  - Code de l'action sociale et des familles - art. L223-3 (M)
 
 
-###### Article 53-1
+###### Article 58
 
-Lorsque l'intervention d'une travailleuse familiale est de nature à éviter le placement d'un enfant au sens de l'article 48
-du présent code, le service d'aide sociale à l'enfance assume en tout ou partie les frais de cette intervention sur demande
-du père, de la mère ou de la personne qui a effectivement l'enfant en charge et selon des modalités fixées par voie
-réglementaire.
-
-Le recours au service d'une aide ménagère pourra être envisagé pour prolonger l'intervention de la travailleuse familiale
-dans le cas prévu à l'alinéa précédent.
+Le service examine avec le mineur toute décision le concernant et recueille son avis.
 
 **Liens relatifs à cet article**
 
@@ -1889,25 +1811,32 @@ dans le cas prévu à l'alinéa précédent.
 
 	**Cité par**:
 
-	  - Décret n°77-613 du 10 juin 1977
-	  - Décret n°77-613 du 10 juin 1977 - art. 1 (Ab)
-	  - Décret n°77-613 du 10 juin 1977 - art. 2 (Ab)
-	  - Décret n°77-613 du 10 juin 1977 - art. 4 (Ab)
-	  - Décret n°2004-1136 du 21 octobre 2004 - art. 4 (V)
+	  - Décret n°63-380 du 8 avril 1963 - art. 2 (Ab)
+	  - Décret n°67-44 du 12 janvier 1967 - art. 1 (Ab)
+	  - Décret n°85-936 du 23 août 1985 - art. 1 (M)
+	  - Décret n°85-936 du 23 août 1985 - art. 9 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 59-1 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 60 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 64 (M)
+	  - Code de la sécurité sociale. - art. D412-79 (V)
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Loi n°86-17 1986-01-06 art. 80 JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 32 () JORF 8 janvier 1986
 
-	**Cite**:
+	**Nouveaux textes**:
 
-	  - Code de la famille et de l'aide sociale. - art. 48 (Ab)
+	  - Code de l'action sociale et des familles - art. L223-4 (V)
 
 
-###### Article 54
+###### Article 59
 
-Les enfants sont admis dans le service, quelle que soit la catégorie dans laquelle ils entrent, sur décision du président du
-conseil général.
+Sauf dans les cas où un enfant est confié au service par décision judiciaire, aucune mesure ne peut être prise pour une durée
+supérieure à un an. Elle est renouvelable dans les mêmes conditions.
+
+Le service présente chaque année [*périodicité*] à l'autorité judiciaire un rapport sur la situation de l'enfant qui lui a
+été confié par décision judiciaire.
 
 **Liens relatifs à cet article**
 
@@ -1917,11 +1846,557 @@ conseil général.
 
 	**Modifié par**:
 
-	  - Loi n°84-422 du 6 juin 1984 - art. 1 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 32 () JORF 8 janvier 1986
 
-	**Abrogé par**:
+	**Cité par**:
 
-	  - Loi n°86-17 1986-01-06 art. 80 JORF 8 janvier 1986
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1067 (M)
+	  - Code de la famille et de l'aide sociale. - art. 59-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L223-5 (M)
+
+
+###### Article 59-1
+
+Les articles 56, 57 et 59 ci-dessus ne sont pas applicables aux enfants admis dans le service en vertu des dispositions de la
+section 4 du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 32 () JORF 8 janvier 1986
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L223-6 (V)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 56 (M)
+	  - Code de la famille et de l'aide sociale. - art. 57 (M)
+	  - Code de la famille et de l'aide sociale. - art. 59 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la famille et de l'aide sociale. - art. 69 (Ab)
+
+
+### Section 4 : Statut des pupilles de l'Etat
+
+###### Article 60
+
+Les organes chargés de la tutelle des pupilles de l'Etat instituée par la présente section sont le représentant de l'Etat
+dans le département, qui exerce la fonction de tuteur et peut se faire représenter, et le conseil de famille des pupilles de
+l'Etat ; la tutelle des pupilles de l'Etat ne comporte pas de juge de tutelle ni de subrogé tuteur.
+
+Le tuteur et le conseil de famille des pupilles de l'Etat exercent les attributions conférées à ces organes selon le régime
+de droit commun. A cette fin, le conseil de famille doit examiner au moins une fois par an [*périodicité*] la situation de
+chaque pupille. Avant toute décision du président du conseil général relative au lieu et au mode de placement des pupilles de
+l'Etat, l'accord du tuteur et celui du conseil de famille doivent être recueillis, ainsi que l'avis du mineur dans les
+conditions prévues à l'article 58.
+
+Les décisions et délibérations de toute nature du conseil de famille des pupilles de l'Etat sont soumises aux voies de
+recours applicables au régime de la tutelle de droit commun.
+
+Chaque conseil de famille comprend [*composition*] :
+
+- des représentants du conseil général désignés par cette assemblée, sur proposition de son président ;
+
+- des membres d'associations à caractère familial, notamment issus de l'union départementale des associations familiales,
+d'associations d'assistantes maternelles et d'associations de pupilles et anciens pupilles de l'Etat choisis par le
+représentant de l'Etat dans le département sur des listes de présentation établies par lesdites associations ;
+
+- des personnalités qualifiées désignées par le représentant de l'Etat dans le département.
+
+La durée du mandat est de trois ans. Il est renouvelable une fois.    Les membres du conseil de famille sont tenus au secret
+professionnel selon les prescriptions de l'article 378 du code pénal.
+
+Un décret en Conseil d'Etat précise la composition et fixe les règles de fonctionnement du ou des conseils de famille,
+institués dans le département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cité par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 16 (V)
+	  - Décret n°85-937 du 23 août 1985 - art. 11 (Ab)
+	  - Décret n°85-937 du 23 août 1985 - art. 14 (Ab)
+	  - Décret n°85-937 du 23 août 1985 - art. 2 (M)
+	  - Décret n°85-937 du 23 août 1985 - art. 22 (Ab)
+	  - Décret n°85-937 du 23 août 1985 - art. 6 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 10 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 11 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 12 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 13 (M)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 14 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 15 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 16 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 17 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 18 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 19 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 20 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 21 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 22 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 22-1 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 23 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 24 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 25 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 26 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 7 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 9 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 32 () JORF 8 janvier 1986
+
+	**Cite**:
+
+	  - Code pénal 378
+	  - Code de la famille et de l'aide sociale. - art. 58 (M)
+
+
+###### Article 61
+
+Sont admis en qualité de pupille de l'Etat [*définition*] :
+
+1° Les enfants dont la filiation n'est pas établie ou est inconnue, qui ont été recueillis par le service de l'aide sociale à
+l'enfance depuis plus de trois mois [*durée*] ;
+
+2° Les enfants dont la filiation est établie et connue, qui ont expressément été remis au service de l'aide sociale à
+l'enfance en vue de leur admission comme pupilles de l'Etat par les personnes qui ont qualité pour consentir à leur adoption,
+depuis plus de trois mois [*durée*] ;
+
+3° Les enfants dont la filiation est établie et connue, qui ont expressément été remis au service de l'aide sociale à
+l'enfance depuis plus d'un an par leur père ou leur mère en vue de leur admission comme pupilles de l'Etat et dont l'autre
+parent n'a pas fait connaître au service, pendant ce délai, son intention d'en assumer la charge ; avant l'expiration de ce
+délai d'un an, le service s'emploie à connaître les intentions de l'autre parent ;
+
+4° Les enfants orphelins de père et de mère pour lesquels la tutelle n'est pas organisée selon le chapitre II du titre X du
+livre 1er du code civil et qui ont été confiés au service de l'aide sociale à l'enfance depuis plus de trois mois ;
+
+5° Les enfants dont les parents ont été déclarés déchus de l'autorité parentale en vertu des articles 378 et 378-1 du code
+civil et qui ont été confiés au service de l'aide sociale à l'enfance en application de l'article 380 dudit code ;
+
+6° Les enfants confiés au service de l'aide sociale à l'enfance en application de l'article 350 du code civil.
+
+L'admission en qualité de pupille de l'Etat peut faire l'objet d'un recours, formé dans le délai de trente jours suivant la
+date de l'arrêté du président du conseil général devant le tribunal de grande instance, par les parents, en l'absence d'une
+déclaration judiciaire d'abandon ou d'une déchéance d'autorité parentale, par les alliés de l'enfant ou toute personne
+justifiant d'un lien avec lui, notamment pour avoir assuré sa garde, de droit ou de fait, et qui demandent à en assumer la
+charge.
+
+S'il juge cette demande conforme à l'intérêt de l'enfant, le tribunal confie sa garde au demandeur, à charge pour ce dernier
+de requérir l'organisation de la tutelle, ou lui délègue les droits de l'autorité parentale et prononce l'annulation de
+l'arrêté d'admission.
+
+Dans le cas où il rejette le recours, le tribunal peut autoriser le demandeur, dans l'intérêt de l'enfant, à exercer un droit
+de visite dans les conditions qu'il détermine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 10 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 11 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 12 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 13 (M)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 14 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 15 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 16 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 17 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 18 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 19 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 20 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 21 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 22 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 22-1 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 23 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 24 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 25 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 26 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 7 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 9 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°85-937 du 23 août 1985 - art. 11 (Ab)
+	  - Décret n°85-937 du 23 août 1985 - art. 12 (Ab)
+	  - Décret n°85-937 du 23 août 1985 - art. 13 (M)
+	  - Décret n°85-937 du 23 août 1985 - art. 23 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 46 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 62 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 63 (M)
+	  - Code de la famille et de l'aide sociale. - art. 63-1 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 71 (M)
+	  - Nouveau code de procédure civile - art. 1231-2 (M)
+
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 32 () JORF 8 janvier 1986
+
+	**Cite**:
+
+	  - Code civil - art. 350 (M)
+	  - Code civil - art. 378 (M)
+	  - Code civil - art. 378-1 (M)
+	  - Code civil - art. 380 (M)
+
+
+###### Article 62
+
+La remise d'un enfant au service de l'aide sociale à l'enfance dans les cas prévus aux 1°, 2°, 3° et 4° de l'article 61 donne
+lieu à l'établissement d'un procès-verbal.
+
+Il doit être mentionné au procès-verbal que les père ou mère, ou la personne qui a remis l'enfant, ont été informés :
+
+1° Des mesures instituées, notamment par l'Etat, les collectivités territoriales et les organismes de sécurité sociale pour
+aider les parents à élever eux-mêmes leurs enfants ;
+
+2° Des dispositions du régime de la tutelle des pupilles de l'Etat suivant la présente section, et notamment des dispositions
+de l'article 63 ci-après relatives à leur adoption ;
+
+3° Des délais et conditions suivant lesquels l'enfant pourra être repris par ses père ou mère ;
+
+4° De la possibilité de demander le secret de l'état civil de l'enfant.
+
+De plus, lorsque l'enfant est remis au service par ses père ou mère, selon les 2° ou 3° de l'article 61, ceux-ci doivent être
+invités à consentir à son adoption ; le consentement est porté sur le procès-verbal ; celui-ci doit également mentionner que
+les parents ont été informés des délais et conditions dans lesquels ils peuvent rétracter leur consentement, selon les
+deuxième et troisième alinéas de l'article 348-3 du code civil.
+
+L'enfant est déclaré pupille de l'Etat à titre provisoire à la date à laquelle est établi le procès-verbal prévu ci-dessus.
+La tutelle est organisée à compter de la date de cette déclaration [*point de départ*].
+
+Toutefois, dans un délai de trois mois suivant la date à laquelle il a été déclaré pupille de l'Etat à titre provisoire,
+l'enfant peut être repris immédiatement et sans aucune formalité par celui de ses père ou mère qui l'avait confié au service.
+Ce délai est porté à un an, dans le cas prévu au 3° de l'article 61 ci-dessus pour celui des père ou mère qui n'a pas confié
+l'enfant au service.
+
+Au-delà de ces délais, la décision d'accepter ou de refuser la restitution d'un pupille de l'Etat est, sous réserve des
+dispositions de l'article 352 du code civil, prise par le tuteur, avec l'accord du conseil de famille. En cas de refus, les
+demandeurs peuvent saisir le tribunal de grande instance [*recours, autorité compétente*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 10 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 11 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 12 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 13 (M)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 14 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 15 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 16 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 17 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 18 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 19 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 20 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 21 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 22 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 22-1 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 23 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 24 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 25 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 26 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 7 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 9 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°85-937 du 23 août 1985 - art. 15 (Ab)
+	  - Décret n°85-937 du 23 août 1985 - art. 19 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 46 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 62-1 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 32 () JORF 8 janvier 1986
+
+	**Cite**:
+
+	  - Code civil - art. 348-3 (M)
+	  - Code civil - art. 352 (V)
+	  - Code de la famille et de l'aide sociale. - art. 61 (M)
+	  - Code de la famille et de l'aide sociale. - art. 63 (M)
+
+
+###### Article 63
+
+Les enfants admis en qualité de pupille de l'Etat en application de l'article 61 doivent faire l'objet d'un projet d'adoption
+dans les meilleurs délais. Lorsque le tuteur considère que cette mesure n'est pas adaptée à la situation de l'enfant, il doit
+indiquer ses motifs au conseil de famille. La validité de ces motifs doit être confirmée à l'occasion de l'examen annuel de
+la situation de l'enfant.
+
+Les pupilles de l'Etat peuvent être adoptés soit par les personnes à qui le service avait confié leur garde lorsque les liens
+affectifs qui se sont établis entre eux justifient cette mesure, soit par des personnes agréées à cet effet, dans des
+conditions fixées par décret, par le responsable du service de l'aide sociale à l'enfance.
+
+La définition du projet d'adoption, simple ou plénière suivant les circonstances particulières à la situation de l'enfant,
+ainsi que le choix des adoptants éventuels sont assurés par le tuteur avec l'accord du conseil de famille.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cité par**:
+
+	  - Loi n°84-53 du 26 janvier 1984 - art. 59 (V)
+	  - Décret n°85-937 du 23 août 1985 - art. 18 (Ab)
+	  - Décret n°85-938 du 23 août 1985 - art. 1 (Ab)
+	  - Décret n°85-986 du 16 septembre 1985 - art. 47 (M)
+	  - Loi n°86-33 du 9 janvier 1986 - art. 45 (M)
+	  - Décret n°86-68 du 13 janvier 1986 - art. 34-1 (V)
+	  - Décret n°86-83 du 17 janvier 1986 - art. 19 bis (M)
+	  - Décret n°88-145 du 15 février 1988 - art. 14-1 (V)
+	  - Décret n°88-976 du 13 octobre 1988 - art. 34 (M)
+	  - Décret n°89-95 du 10 février 1989 - art. 25 (Ab)
+	  - Décret n°89-95 du 10 février 1989 - art. 5 (Ab)
+	  - Décret n°91-155 du 6 février 1991 - art. 18-1 (M)
+	  - Loi n°96-604 du 5 juillet 1996 - art. 59 (V)
+	  - Décret n°98-771 du 1 septembre 1998 - art. 12 (Ab)
+	  - Décret n°98-771 du 1 septembre 1998 - art. 9 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 100-3 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 62 (M)
+	  - Code de la famille et de l'aide sociale. - art. 63-2 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 87 (M)
+	  - Code de la sécurité sociale. - art. L331-7 (M)
+	  - Code de la sécurité sociale. - art. L535-1 (Ab)
+	  - Code de la sécurité sociale. - art. L615-19 (T)
+	  - Code de la sécurité sociale. - art. L615-19-1 (T)
+	  - Code de la sécurité sociale. - art. L722-8 (M)
+	  - Code de la sécurité sociale. - art. L722-8-1 (M)
+	  - Code de la sécurité sociale. - art. L722-8-2 (Ab)
+	  - Code du travail - art. L122-26 (M)
+	  - Code du travail - art. L122-28-10 (M)
+	  - Code rural - art. L732-10 (V)
+	  - Code rural ancien - art. 1106-3-1 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 10 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 11 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 12 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 13 (M)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 14 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 15 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 16 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 17 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 18 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 19 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 20 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 21 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 22 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 22-1 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 23 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 24 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 25 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 26 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 7 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 9 (Ab)
+	  - TXT_SOURCE: Décret n°85-938 du 23 août 1985 - art. 1 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 32 () JORF 8 janvier 1986
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 61 (M)
+
+
+###### Article 64
+
+Les deniers des pupilles de l'Etat sont confiés au trésorier-payeur général.
+
+Le tuteur peut autoriser, au profit du pupille, le retrait du tout ou partie des fonds lui appartenant.
+
+Les revenus des biens et capitaux appartenant aux pupilles sont perçus au profit du département jusqu'à leur majorité, à
+titre d'indemnité d'entretien et dans la limite des prestations qui leur ont été allouées. Lors de la reddition des comptes,
+le tuteur, à son initiative ou à la demande du conseil de famille, peut proposer, avec l'accord de ce dernier, au président
+du conseil général toute remise jugée équitable à cet égard.
+
+Les héritiers, autres que les frères et soeurs élevés eux-mêmes par le service, qui se présentent pour recueillir la
+succession d'un pupille, doivent rembourser au département les frais d'entretien de celui-ci, déduction faite des revenus que
+le département avait perçus.
+
+Lorsque aucun héritier ne se présente, les biens des pupilles de l'Etat décédés sont recueillis par le département et
+utilisés pour l'attribution de dons ou de prêts aux pupilles et anciens pupilles de l'Etat.
+
+Les biens du tuteur ne sont pas soumis à l'hypothèque légale instituée à l'article 2121 du code civil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 10 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 11 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 12 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 13 (M)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 14 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 15 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 16 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 17 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 18 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 19 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 20 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 21 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 22 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 22-1 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 23 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 24 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 25 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 26 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 7 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 9 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 32 () JORF 8 janvier 1986
+
+	**Cite**:
+
+	  - Code civil - art. 2121 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L224-9 (V)
+
+
+###### Article 65
+
+L'association départementale d'entraide entre les pupilles et anciens pupilles de l'Etat participe à l'effort d'insertion
+sociale des personnes admises ou ayant été admises dans le service de l'aide sociale à l'enfance. A cet effet, elle peut
+notamment leur attribuer des secours, primes diverses, dots et prêts d'honneur.
+
+Ses ressources sont constituées par les cotisations de ses membres, les subventions du département, des communes, de l'Etat,
+les dons et legs.
+
+Le conseil d'administration comporte deux membres [*nombre*] des conseils de famille des pupilles de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 10 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 11 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 12 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 13 (M)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 14 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 15 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 16 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 17 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 18 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 19 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 20 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 21 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 22 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 22-1 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 23 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 24 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 25 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 26 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 7 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 9 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 32 () JORF 8 janvier 1986
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L224-11 (V)
+
+	**Cité par**:
+
+	  - Code de la famille et de l'aide sociale. - art. 63-2 (Ab)
 
 
 ### Section 5 : Modalités de placement des enfants confiés au service de l'aide sociale à l'enfance
@@ -2223,11 +2698,138 @@ Santé publique et de la Population [*autorité compétence*].
 	  - Loi n°86-17 du 6 janvier 1986 - art. 33 () JORF 8 janvier 1986
 
 
+## Chapitre II : Organisation du service chargé de l'aide sociale à l'enfance
+
+###### Article 77
+
+Le service de l'aide sociale à l'enfance est placé sous l'autorité du président du conseil général.
+
+Le département organise sur une base territoriale les moyens nécessaires à l'accueil et à l'hébergement des enfants confiés
+au service. Ces moyens comportent notamment des possibilités d'accueil d'urgence. Le service doit en outre disposer de
+structures d'accueil pour les femmes enceintes et les mères avec leurs enfants.
+
+Pour l'application de l'alinéa précédent, le département peut conclure des conventions avec d'autres collectivités
+territoriales ou recourir à des établissements et services habilités.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 34 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 35 () JORF 8 janvier 1986
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L221-2 (V)
+	  - Code de l'action sociale et des familles - art. L221-2 (M)
+
+
+###### Article 81
+
+L'article 378 du Code pénal relatif au secret professionnel est applicable à toute personne engagée dans le service de l'aide
+sociale à l'enfance.
+
+Le procureur de la République pourra, à l'occasion d'une procédure d'adoption ou de légitimation adoptive, prendre
+connaissance des dossiers concernant les enfants recueillis par le service. En toutes matières, le service de l'aide sociale
+à l'enfance pourra, de sa propre initiative ou sur la demande de ce magistrat, lui fournir tous renseignements relatifs aux
+pupilles. Les renseignements ainsi obtenus ne pourront être révélés à l'occasion d'une procédure quelconque ni mentionnés
+dans une décision de justice. Ils ne pourront être communiqués qu'aux magistrats de l'ordre judiciaire.
+
+Dans tous les cas où la loi ou des règlements exigent la production de l'acte de naissance, il peut y être suppléé, s'il n'a
+pas été établi un acte de naissance provisoire dans les conditions prévues à l'article 58 du Code civil et s'il y a lieu
+d'observer le secret, par un certificat d'origine dressé par le directeur départemental de la population et de l'action
+sociale et visé par le préfet.
+
+Toutefois, le lieu où est tenu l'état civil d'un pupille ou d'un ancien pupille de l'Etat sera communiqué aux magistrats de
+l'ordre judiciaire qui en feront la demande à l'occasion d'une procédure pénale. Ce renseignement ne pourra être révélé au
+cours de cette procédure ou mentionné dans la décision à intervenir [*non*] ; toutes mesures devront, en outre, être prises
+pour qu'il ne puisse être porté directement ou indirectement à la connaissance de l'intéressé ou de toute autre personne non
+liée, de par ses fonctions, par le secret professionnel visé à l'article 378 du Code pénal.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
+
+[*Nota - Loi 92-1336 du 16 décembre 1992 art. 333 : toute référence aux dispositions de l'article 378 du code pénal est
+remplacée par la référence aux articles 226-13 et 226-14 du code pénal. Lorsqu'il est fait référence aux peines prévues par
+l'article 378 du code pénal cette mention vise les peines fixées par l'article 226-13 du code pénal.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 34 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 36 () JORF 8 janvier 1986
+
+	**Cite**:
+
+	  - Code pénal 378
+	  - Code civil - art. 58 (V)
+
+
+###### Article 82
+
+Le contrôle du service s'effectue par les inspecteurs généraux du ministère de la Santé publique et de la Population.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 34 () JORF 8 janvier 1986
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L221-9 (V)
+
+
 ## Chapitre III : Dispositions financières
 
-###### Article 89
+###### Article 83
 
-Les secours, pensions et indemnités sont incessibles et insaisissables.
+Le père, la mère et les ascendants d'un enfant pris en charge par le service de l'aide sociale à l'enfance restent tenus
+envers lui des obligations prévues aux articles 203 à 211 du code civil.
+
+Sous réserve d'une décision judiciaire contraire, sont dispensés des obligations énoncées aux articles 205, 206 et 207 du
+code civil les pupilles de l'Etat qui auront été élevés par le service de l'aide sociale à l'enfance jusqu'à la fin de la
+scolarité obligatoire, à moins que les frais d'entretien occasionnés par le pupille remis ultérieurement à ses parents
+n'aient pas été remboursés au département.
 
 **Liens relatifs à cet article**
 
@@ -2235,455 +2837,344 @@ Les secours, pensions et indemnités sont incessibles et insaisissables.
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°43-182 1943-04-15 ART. 48
-
-	**Abrogé par**:
-
-	  - Loi n°86-17 1986-01-06 art. 80 JORF 8 janvier 1986
-
-
-###### Article 90
-
-Conformément aux dispositions de l'article 1137 du Code général des impôts [*art. 1067 nouveau*] :
-
-a) Les décomptes des mois de nourrice et pensions sont exempts d'enregistrement et du timbre [*fiscal*] ;
-
-b) Les certificats, significations, jugements, contrats, quittances et autres actes faits en vertu du présent chapitre, des
-lois des 24 juillet 1889, 19 avril 1898 et du titre III, section I, du présent titre concernant exclusivement le service de
-l'aide sociale à l'enfance sont dispensés du timbre et enregistrés gratis lorsqu'il y a lieu à la formalité de
-l'enregistrement sans préjudice du bénéfice de la loi du 10 juillet 1901 sur l'assistance judiciaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1137
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 37 () JORF 8 janvier 1986
 
 	**Cite**:
 
-	  - CGI 1137
-	  - Loi n°1889-07-24
-	  - Loi n°1898-04-19
-	  - Loi n°1901-07-10
+	  - Code civil - art. 203 (V)
+	  - Code civil - art. 204 (V)
+	  - Code civil - art. 205 (V)
+	  - Code civil - art. 206 (V)
+	  - Code civil - art. 207 (V)
+	  - Code civil - art. 208 (V)
+	  - Code civil - art. 209 (V)
+	  - Code civil - art. 210 (M)
+	  - Code civil - art. 211 (M)
 
-	**Codifié par**:
+	**Nouveaux textes**:
 
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Abrogé par**:
-
-	  - Loi n°86-17 1986-01-06 art. 80 JORF 8 janvier 1986
+	  - Code de l'action sociale et des familles - art. L228-1 (V)
 
 
-###### Article 91
+###### Article 84
 
-Le règlement du service de l'aide sociale à l'enfance est établi dans chaque département sur la proposition du directeur
-départemental de la population et de l'aide sociale dans les conditions fixées à l'article 187.
+Sans préjudice des décisions judiciaires prises sur le fondement de l'article 40 de l'ordonnance n° 45-174 du 2 février 1945
+précitée et de l'article 375-8 du code civil, une contribution peut être demandée à toute personne prise en charge par le
+service de l'aide sociale à l'enfance ou, si elle est mineure, à ses débiteurs d'aliments. Cette contribution est fixée par
+le président du conseil général dans les conditions prévues par le règlement départemental d'aide sociale dans la limite d'un
+plafond fixé par décret en Conseil d'Etat, notamment lorsque ce plafond est déterminé par référence aux règles prévues pour
+une autre prestation.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Anciens textes**:
-
-	  - Loi n°43-182 1943-04-15 ART. 52
-
-	**Abrogé par**:
-
-	  - Loi n°86-17 1986-01-06 art. 80 JORF 8 janvier 1986
 
 	**Cite**:
 
-	  - Code de la famille et de l'aide sociale. - art. 187 (Ab)
-
-
-###### Article 92
-
-Le préfet adresse chaque année au ministre de la Santé publique et de la Population un rapport détaillé sur le fonctionnement
-des services départementaux d'aide sociale à l'enfance.
-
-Une statistique de la mortalité des enfants placés sous la protection ou la tutelle du service de l'aide sociale à l'enfance
-est établie chaque année par le ministre de la Santé publique et de la Population.
-
-Tous les cinq ans, le ministre de la Santé publique et de la Population présente au Président de la République française un
-rapport détaillé exposant à tous les points de vue la situation du service d'aide sociale à l'enfance.
-
-**Liens relatifs à cet article**
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 40 (V)
+	  - Code civil - art. 375-8 (V)
 
 	**Codifié par**:
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
-	**Abrogé par**:
+	**Créé par**:
 
-	  - Loi n°86-17 1986-01-06 art. 80 JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 37 () JORF 8 janvier 1986
 
 	**Cité par**:
 
-	  - Code de la famille et de l'aide sociale. - art. 57 (M)
+	  - Décret n°87-961 du 25 novembre 1987 - art. 1 (M)
+	  - Code de la famille et de l'aide sociale. - art. 87 (M)
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Loi n°43-182 1943-04-15 ART. 51
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L228-2 (V)
+
+
+###### Article 85
+
+Le département prend en charge financièrement au titre de l'aide sociale à l'enfance, à l'exception des dépenses résultant de
+placements dans des établissements et services de l'éducation surveillée, les dépenses d'entretien, d'éducation et de
+conduite de chaque mineur :
+
+1° Confié par l'autorité judiciaire en application des articles 375-3, 375-5 et 433 du code civil à des personnes physiques,
+établissements ou services publics ou privés ;
+
+2° Confié au service de l'aide sociale à l'enfance dans les cas prévus au 3° de l'article 46 ;
+
+3° Ou pour lequel est intervenue une délégation d'autorité parentale, en application des articles 377 et 377-1 du code civil,
+à un particulier ou à un établissement habilité dans les conditions fixées par décret en Conseil d'Etat.
+
+Il prend également en charge les dépenses afférentes aux mesures d'action éducative en milieu ouvert exercées sur le mineur
+et sa famille en application des articles 375-2, 375-4 et 375-5 du code civil et confiées soit à des personnes physiques,
+établissements et services publics ou privés, soit au service de l'aide sociale à l'enfance.
+
+**Nota:**
+
+Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 37 () JORF 8 janvier 1986
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Cite**:
+
+	  - Code civil - art. 375-2 (M)
+	  - Code civil - art. 375-3 (M)
+	  - Code civil - art. 375-4 (M)
+	  - Code civil - art. 375-5 (M)
+	  - Code civil - art. 377 (M)
+	  - Code civil - art. 377-1 (M)
+	  - Code civil - art. 433 (M)
+	  - Code de la famille et de l'aide sociale. - art. 46 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L228-3 (V)
+
+	**Cité par**:
+
+	  - Code de la famille et de l'aide sociale. - art. 86 (Ab)
+
+
+###### Article 86
+
+Sous réserve des dispositions du deuxième alinéa du présent article, les prestations d'aide sociale à l'enfance mentionnées à
+la section II du chapitre premier sont à la charge du département qui a prononcé l'admission dans le service de l'aide
+sociale à l'enfance.
+
+Les dépenses mentionnées à l'article 85 sont prises en charge par le département du siège de la juridiction qui a prononcé la
+mesure en première instance, nonobstant tout recours éventuel contre cette décision.
+
+Lorsque, pendant l'exécution de la mesure, la juridiction décide de se dessaisir du dossier au profit d'une autre
+juridiction, elle porte cette décision à la connaissance des présidents des conseils généraux concernés. Le département siège
+de la juridiction désormais saisie prend en charge les frais afférents à l'exécution de la mesure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 37 () JORF 8 janvier 1986
+
+	**Cité par**:
+
+	  - Décret n°94-909 du 14 octobre 1994 - art. 19 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 193 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L228-4 (V)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 85 (M)
+
+
+###### Article 87
+
+Une convention signée entre le représentant de l'Etat dans le département et le président du conseil général fixe les
+conditions dans lesquelles les mineurs accueillis sur le territoire national à la suite d'une décision gouvernementale prise
+pour tenir compte de situations exceptionnelles sont pris en charge par le service de l'aide sociale à l'enfance. Les
+dépenses en résultant pour le département sont intégralement remboursées par l'Etat.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 37 () JORF 8 janvier 1986
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L228-5 (V)
+
+	**Cité par**:
+
+	  - Code de la famille et de l'aide sociale. - art. 88 (M)
+
+
+###### Article 88
+
+La dispense des droits de timbre et d'enregistrement sur les actes du service de l'aide sociale à l'enfance est régie par les
+dispositions de l'article 1067 du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1067
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 37 () JORF 8 janvier 1986
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L228-6 (V)
+
+	**Cité par**:
+
+	  - Code de la famille et de l'aide sociale. - art. 84 (Ab)
 
 
 ## Chapitre IV : Protection des mineurs placés hors du domicile paternel
 
 ### Section 1 : Protection générale des mineurs
 
-###### Article 100
+###### Article 95
 
-Aucune contribution et subvention des fonds publics à quelque titre que ce soit ne pourra être attribuée aux organisations
-dont le fonctionnement ne sera pas conforme aux dispositions de la présente section.
+Si elle n'y est pas autorisée en vertu d'une autre disposition relative à l'accueil des mineurs, toute personne physique ou
+toute personne morale de droit privé qui désire héberger ou recevoir des mineurs de manière habituelle, collectivement, à
+titre gratuit ou onéreux, doit préalablement en faire la déclaration au président du conseil général. Celui-ci est tenu d'en
+donner récépissé et d'en informer le représentant de l'Etat.
+
+Cette déclaration doit mentionner [*obligation*] notamment les caractéristiques juridiques de l'établissement prévu, les noms
+de ses propriétaires ou administrateurs, le nom de son directeur et, le cas échéant, de son économe, et enfin l'activité
+envisagée. Un décret en Conseil d'Etat précise le contenu de la déclaration et en fixe les modalités. Ce décret précise
+également les conditions minimales que devront remplir les personnels de direction notamment en ce qui concerne leur
+qualification et leur expérience professionnelle.
+
+Tout changement important projeté dans l'activité, l'installation, l'organisation, la direction ou le fonctionnement d'un
+établissement déclaré doit être porté à la connaissance du président du conseil général, dans des conditions fixées par
+décret. Le président du conseil général en informe le représentant de l'Etat.
+
+Dans un délai de deux mois, le président du conseil général, après en avoir informé le représentant de l'Etat peut faire
+opposition, dans l'intérêt des bonnes moeurs, de la santé, de la sécurité, de l'hygiène, de l'éducation ou du bien-être des
+enfants, à l'ouverture de l'établissement ou à l'exécution des modifications projetées. A défaut d'opposition,
+l'établissement peut être ouvert et les modifications exécutées sans autre formalité [*accord tacite*].
+
+Est incapable d'exploiter ou de diriger un établissement visé au présent article ou d'y être employée [*interdiction*] :
+
+1. Toute personne condamnée pour crime ou pour un des délits prévus à l'article L. 5 du code électoral ;
+
+2. Toute personne déchue de tout ou partie des attributs de l'autorité parentale ou dont un enfant ou pupille a fait l'objet,
+en application des articles 375 à 375-8 du code civil, d'une mesure d'assistance éducative qui n'a pas été prise à sa
+requête.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1938-06-17 ART. 8
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Abrogé par**:
-
-	  - Loi n°86-17 1986-01-06 art. 80 JORF 8 janvier 1986
 
 	**Cité par**:
 
-	  - Décret n°86-83 du 17 janvier 1986 - art. 19 bis (M)
-
-
-### Section 3 : Protection spéciale des mineurs confiés à des oeuvres de bienfaisance privées
-
-###### Article 101
-
-Les enfants de moins de 14 ans doivent recevoir l'enseignement primaire [*obligatoire*] et ne peuvent être employés, en
-dehors des heures de classe consacrées à l'enseignement et à l'éducation morale et physique, qu'à des travaux domestiques ou
-d'enseignement professionnel.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Anciens textes**:
-
-	  - Loi n°1933-01-14 art. 6
-
-	**Abrogé par**:
-
-	  - Loi n°86-17 du 6 janvier 1986 - art. 44 () JORF 8 janvier 1986
-
-
-###### Article 102
-
-Le directeur de tout établissement de bienfaisance qui reçoit des mineurs est tenu de leur donner ou de leur faire donner un
-enseignement professionnel [*obligatoire*]. Les infractions aux dispositions du présent article seront punies d'une amende de
-160 F à 600 F [*montant*].
-
-**Liens relatifs à cet article**
+	  - Décret n°54-883 du 2 septembre 1954 - art. 48 (M)
+	  - Loi n°71-1050 du 24 décembre 1971 - art. 3 (M)
+	  - Décret n°72-990 du 23 octobre 1972 - art. 1 (Ab)
+	  - Décret n°72-990 du 23 octobre 1972 - art. 3 (Ab)
+	  - Décret n°72-990 du 23 octobre 1972 - art. 7 (Ab)
+	  - Loi n°75-535 du 30 juin 1975 - art. 32 (Ab)
+	  - Décret n°76-838 du 25 août 1976 - art. 37 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 209 bis (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 96 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 97 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 98 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°1933-01-14 ART. 5, ART. 25
-
-	**Abrogé par**:
-
-	  - Loi n°86-17 du 6 janvier 1986 - art. 44 () JORF 8 janvier 1986
-
-
-###### Article 103
-
-Lesdits établissements ont l'obligation de leur allouer des pécules au double titre de récompense et d'encouragement pour
-leur conduite et leur travail [*rémunération*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Anciens textes**:
-
-	  - Loi n°1933-01-14 ART. 7
-
-	**Abrogé par**:
-
-	  - Loi n°86-17 du 6 janvier 1986 - art. 44 () JORF 8 janvier 1986
-
-
-###### Article 104
-
-Le pécule [*rémunération*] ne constitue pas un salaire. Il n'existe aucun contrat de travail entre l'établissement et les
-mineurs. Les travaux qui se font dans les établissements de bienfaisance doivent avoir pour objet essentiel, non la
-production, mais l'enseignement et l'éducation. S'il en résulte quelques profits, le bénéfice en reste acquis aux
-établissements, en déduction des frais d'éducation et d'entretien qu'ils ont à leur charge.
-
-En aucun cas, l'obligation pour l'oeuvre d'instituer un régime de pécules ne donne naissance, au profit des mineurs, à une
-créance individuelle.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Anciens textes**:
-
-	  - Loi n°1933-01-14 ART. 8
-
-	**Abrogé par**:
-
-	  - Loi n°86-17 du 6 janvier 1986 - art. 44 () JORF 8 janvier 1986
-
-
-###### Article 105
-
-Un fonds des pécules est constitué dans chaque établissement qui reçoit normalement dix mineurs au moins   , en âge et en
-état de travailler, par un versement proportionnel au nombre de journées de présence des mineurs en âge et en état de
-travailler. 
-
-Le nombre des journées de travail donnant lieu au prélèvement est fixé à forfait à trois cents journées par année de présence
-de l'assisté dans l'établissement. Toutefois, le préfet pourrait réduire ce chiffre jusqu'à deux cent cinquante pour tenir
-compte des journées de vacances accordées dans certains établissements. 
-
-Le taux et les modalités du versement seront déterminés par la direction de l'établissement, sous le contrôle du préfet, et
-sauf le recours prévu ci-après à l'article 112. Le minimum du versement est établi par règlement d'administration publique.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Abrogé par**:
-
-	  - Loi n°86-17 du 6 janvier 1986 - art. 44 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 38 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 40 () JORF 8 janvier 1986
 
 	**Cite**:
 
-	  - Code de la famille et de l'aide sociale. - art. 112 (Ab)
-
-	**Cité par**:
-
-	  - Code de la famille et de l'aide sociale. - art. 121 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°1938-06-17 ART. 2
-	  - Loi n°1933-01-14 ART. 9
-
-
-###### Article 106
-
-La répartition du fonds des pécules est faite entre les mineurs, suivant le règlement de l'établissement, ce règlement
-devant, à cet égard, être approuvé par le préfet.
-
-Cette répartition doit comprendre une part distribuée par semaine ou par quinzaine et une autre part réservée pour être
-portée au compte du mineur par trimestre ou par semestre, sous forme de primes d'épargne.
-
-Ces primes sont, soit versées à une caisse d'épargne, soit, avec l'assentiment du préfet, conservées en compte de dépôt par
-l'économat de l'oeuvre ou du service. Dans ce dernier cas, des livrets individuels de dépôt d'épargne sont constitués pour
-les mineurs bénéficiaires de primes. Les sommes inscrites aux livrets portent intérêt au taux minimum des versements faits à
-la Caisse nationale d'épargne.
-
-Les mineurs peuvent verser à leur livret d'épargne tout ou partie des gratifications qui leur sont remises directement par la
-direction, à charge par elle d'en justifier la remise par ses livres ; à la sortie du mineur ou en cas de dissolution de
-l'oeuvre, son livret de dépôt sera transformé en livret de caisse d'épargne.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Abrogé par**:
-
-	  - Loi n°86-17 du 6 janvier 1986 - art. 44 () JORF 8 janvier 1986
-
-	**Cité par**:
-
-	  - Code de la famille et de l'aide sociale. - art. 116 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 121 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°1933-01-14 ART. 10
-
-
-###### Article 107
-
-En cas d'évasion ou de faute particulièrement grave, ou encore si la conduite du mineur rend son renvoi nécessaire, les
-établissements pourront, dans des conditions à prévoir par le règlement, prononcer le retrait des livrets d'épargne. En ce
-cas, le montant des livrets fera retour, non à la caisse de l'oeuvre, mais au fonds des pécules.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Anciens textes**:
-
-	  - Loi n°1933-01-14 ART. 11
-
-	**Abrogé par**:
-
-	  - Loi n°86-17 du 6 janvier 1986 - art. 44 () JORF 8 janvier 1986
-
-
-###### Article 108
-
-La gestion des fonds des pécules est soumise au contrôle du préfet [*autorité compétente*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Anciens textes**:
-
-	  - Loi n°1933-01-14 art. 12
-
-	**Abrogé par**:
-
-	  - Loi n°86-17 du 6 janvier 1986 - art. 44 () JORF 8 janvier 1986
-
-
-###### Article 109
-
-Les versements au fonds des pécules ne sont exigés que pour les mineurs dont l'apprentissage est terminé et qui comptent au
-moins une année de présence dans l'établissement [*condition*].
-
-La durée de l'apprentissage est fixée par le règlement de l'établissement sous le contrôle du préfet.
-
-Les versements cessent d'être effectués, notamment :
-
-1. En cas de maladie régulièrement constatée ;
-
-2. A l'égard des mineurs, assistés, reconnus totalement incapables de travailler, sur la production d'un certificat médical ;
-
-3. Ils peuvent être réduits à l'égard des mineurs dont l'état de santé ne permet pas un travail normal ou de ceux dont la
-présence dans l'établissement a été interrompue ;
-
-4. En cas de chômage dûment justifié.
-
-En ce qui touche les mineurs qui se refuseraient à un travail régulier, ou dont la conduite donnerait lieu à des plaintes, le
-conseil d'administration ou le directeur statuera chaque année par délibération motivée et spéciale à chacun d'eux et
-décidera s'il y a lieu de les faire bénéficier des dispositions du présent article et quelle est la quotité du pécule qui
-leur est attribuée.
-
-Cette décision est communiquée au préfet dans la huitaine.
-
-Celui-ci statue dans le délai d'un mois, après avoir communiqué préalablement ses observations au directeur ou au conseil
-d'administration responsable et l'avoir mis en demeure de lui rendre compte plus amplement de sa décision, ou de la modifier
-dans un délai de huit jours.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Anciens textes**:
-
-	  - Loi n°1933-01-14 ART. 13
-
-	**Abrogé par**:
-
-	  - Loi n°86-17 du 6 janvier 1986 - art. 44 () JORF 8 janvier 1986
-
-
-###### Article 110
-
-Le préfet peut dispenser pour un temps, partiellement ou totalement, des versements [*au fonds des pécules*] prévus dans la
-présente loi, les établissements qui justifieront que l'exiguïté de leurs ressources les met dans l'impossibilité d'y faire
-face.
-
-La même dispense est accordée aux établissements qui justifieront que, sous une forme différente, ils accordent aux mineurs
-des avantages au moins équivalents.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Anciens textes**:
-
-	  - Loi n°1933-01-14 art. 14
-
-	**Abrogé par**:
-
-	  - Loi n°86-17 du 6 janvier 1986 - art. 44 () JORF 8 janvier 1986
-
-
-###### Article 111
-
-Sont également dispensés [*de verser au fonds des pécules*], les établissements dont le but est d'organiser soit
-l'apprentissage ménager, soit l'apprentissage professionnel, lorsque dans ce dernier cas, le temps du séjour est limité à la
-durée de l'apprentissage, suivant les usages locaux et la profession.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Anciens textes**:
-
-	  - Loi n°1933-01-14 ART. 15
-
-	**Abrogé par**:
-
-	  - Loi n°86-17 du 6 janvier 1986 - art. 44 () JORF 8 janvier 1986
-
-
-###### Article 112
-
-Toutes les décisions du préfet concernant l'application des dispositions relatives au pécule peuvent être l'objet d'un
-recours devant la section permanente du conseil supérieur de l'aide sociale. Les recours doivent être faits dans le délai
-d'un mois et ils sont suspensifs.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-915 du 26 septembre 1953 - art. 22, v. init.
-	  - Loi n°1933-01-14 ART. 16
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Cité par**:
-
-	  - Code de la famille et de l'aide sociale. - art. 105 (Ab)
-
-	**Abrogé par**:
-
-	  - Loi n°86-17 du 6 janvier 1986 - art. 44 () JORF 8 janvier 1986
-
-
-###### Article 113
-
-Chaque mineur dont l'apprentissage est terminé et qui compte au moins deux ans de présence après la fin de l'apprentissage
-dans l'établissement [*condition*], devra recevoir, à sa majorité, ou à sa sortie après les deux années précitées, un
-trousseau dont la valeur ne peut être inférieure aux chiffres fixés par un règlement d'administration publique.
-
-Ce trousseau n'est dû qu'une seule fois au mineur.
+	  - Code électoral - art. L5 (M)
+	  - Code civil - art. 375 (M)
+	  - Code civil - art. 375-1 (M)
+	  - Code civil - art. 375-2 (M)
+	  - Code civil - art. 375-3 (M)
+	  - Code civil - art. 375-4 (M)
+	  - Code civil - art. 375-5 (M)
+	  - Code civil - art. 375-6 (M)
+	  - Code civil - art. 375-7 (M)
+	  - Code civil - art. 375-8 (V)
+
+
+###### Article 96
+
+Les dispositions des articles 207, 208, 209, 209 bis, 210, 211, 212 et 215 du présent code sont applicables aux
+établissements mentionnés à l'article 95.
 
 **Liens relatifs à cet article**
 
@@ -2693,324 +3184,269 @@ Ce trousseau n'est dû qu'une seule fois au mineur.
 
 	**Cité par**:
 
-	  - Code de la famille et de l'aide sociale. - art. 119 (Ab)
+	  - Décret n°67-45 du 10 janvier 1967 - art. 4 (Ab)
+	  - Décret n°72-990 du 23 octobre 1972 - art. 1 (Ab)
+	  - Loi n°75-535 du 30 juin 1975 - art. 14 (M)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°1933-01-14 art. 17
-
-	**Abrogé par**:
-
-	  - Loi n°86-17 du 6 janvier 1986 - art. 44 () JORF 8 janvier 1986
-
-
-###### Article 114
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 38 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 41 () JORF 8 janvier 1986
 
 	**Abrogé par**:
 
-	  - Loi n°86-17 du 6 janvier 1986 - art. 44 () JORF 8 janvier 1986
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
+	**Nouveaux textes**:
 
-###### Article 115
-
-Aucun mineur en âge et en état de travailler ne peut être placé dans les conditions prévues par l'article 97 du Code de la
-famille et de l'aide sociale sans qu'au préalable un contrat soit intervenu entre le particulier ou l'association qui
-effectue le placement et le chef de la famille ou d'établissement à qui le mineur est confié.
-
-Ce contrat de placement, conforme au modèle déterminé par arrêté interministériel, contresigné par les ministres de la santé
-publique et de la population et du travail sera établi en deux exemplaires ; un exemplaire est conservé par l'oeuvre de
-placement, l'autre par le chef de famille ou d'établissement.
-
-Tout mineur placé dans les conditions prévues ci-dessus doit recevoir l'intégralité du salaire stipulé par le contrat de
-placement (salaire correspondant à celui pratiqué dans la profession et dans la région) sous la seule déduction des frais de
-vêture et autres exposés à son profit ainsi que de l'argent de poche qui lui a été remis.
-
-L'oeuvre qui exerce le patronnage est tenue d'exiger que le chef de famille ou d'établissement chez qui le mineur est placé
-règle le compte de ce dernier au moins une fois par an et soumette ce compte au visa du mineur et à l'approbation de
-l'oeuvre.
-
-Lorsque le compte a été réglé ainsi qu'il vient d'être dit, la somme disponible après les déductions prévues ci-dessus est
-versée immédiatement par le chef de famille ou d'établissement à un compte ouvert au nom du mineur dans une caisse d'épargne
-privée ou à la caisse nationale d'épargne, suivant la désignation qui est faite dans le contrat de placement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1142
-	  - Décret n°1938-06-17 art. 5 Al. 1 et Al. 5
-	  - Loi n°1933-01-14 art. 24 bis
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Cité par**:
-
-	  - Code de la famille et de l'aide sociale. - art. 116 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la famille et de l'aide sociale. - art. 117 (Ab)
+	  - Code de l'action sociale et des familles - art. L321-3 (M)
 
 	**Cite**:
 
+	  - Code de la famille et de l'aide sociale. - art. 207 (M)
+	  - Code de la famille et de l'aide sociale. - art. 208 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 209 (M)
+	  - Code de la famille et de l'aide sociale. - art. 209 bis (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 210 (M)
+	  - Code de la famille et de l'aide sociale. - art. 211 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 212 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 215 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 95 (M)
+
+
+###### Article 97
+
+Le représentant de l'Etat dans les départements ou le président du conseil général, en vertu de sa mission de surveillance
+des mineurs du département, peut adresser des injonctions aux établissements et personnes morales de droit privé mentionnés à
+l'article 95 ci-dessus et au 1° de l'article 3 de la loi n° 75-535 du 30 juin 1975 précitée.
+
+Le représentant de l'Etat dans le département peut, après avis du conseil départemental de protection de l'enfance, fermer
+l'établissement en cas de violation des dispositions relatives à l'obligation scolaire ou à l'emploi des jeunes ou lorsqu'il
+estime que la santé, la moralité ou l'éducation des mineurs sont menacées.
+
+En cas d'urgence, le représentant de l'Etat dans le département peut prononcer une mesure de fermeture immédiate par arrêté
+motivé et à titre provisoire. Il en saisit le conseil départemental de protection de l'enfance dans le délai d'un mois.
+
+En cas de fermeture d'un établissement, les créances que peuvent détenir les mineurs sur ce dernier sont garanties par un
+privilège général sur les meubles et par une hypothèque légale sur les immeubles appartenant à l'établissement précité,
+inscrite à la conservation des hypothèques à la requête du représentant de l'Etat ou du président du conseil général.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cité par**:
+
+	  - Décret n°67-161 du 24 février 1967 - art. 3 (Ab)
+	  - Loi n°75-535 du 30 juin 1975 - art. 14 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 100-1 (M)
+	  - Code de la famille et de l'aide sociale. - art. 115 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 98 (Ab)
+
+	**Cite**:
+
+	  - Loi n°75-535 du 30 juin 1975 - art. 3 (M)
+	  - Code de la famille et de l'aide sociale. - art. 95 (M)
+
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 38 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 41 () JORF 8 janvier 1986
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L331-7 (M)
+
+
+###### Article 98
+
+Les articles 207, 208, 209, 209 bis, 210, 211, 212 et 215 du présent code sont applicables aux établissements du type de ceux
+mentionnés à l'article 95 et créés par des collectivités publiques.
+
+Le pouvoir de fermeture mentionné à l'article 97 est exercé par le représentant de l'Etat dans le département.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 38 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 41 () JORF 8 janvier 1986
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L331-8 (M)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 207 (M)
+	  - Code de la famille et de l'aide sociale. - art. 208 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 209 (M)
+	  - Code de la famille et de l'aide sociale. - art. 209 bis (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 210 (M)
+	  - Code de la famille et de l'aide sociale. - art. 211 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 212 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 215 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 95 (M)
 	  - Code de la famille et de l'aide sociale. - art. 97 (M)
 
+
+###### Article 99
+
+Les infractions aux dispositions de la présente section sont punies d'un emprisonnement de dix jours à trois mois [*durée*]
+et d'une amende de 500 F à 20.000 F (1) ou de l'une de ces deux peines seulement.
+
+Le tribunal peut interdire au condamné, soit définitivement, soit pour une durée déterminée, d'exploiter ou de diriger tout
+établissement soumis aux dispositions du présent titre ainsi que d'effectuer des placements d'enfants ou de recevoir des
+enfants. En cas d'infraction à cette interdiction, les peines prévues au premier et au dernier alinéa du présent article sont
+applicables.
+
+En cas de récidive, les peines prévues au premier alinéa du présent article peuvent être portées au double ; le tribunal doit
+se prononcer expressément sur la sanction accessoire de l'interdiction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cité par**:
+
+	  - Décret n°72-990 du 23 octobre 1972 - art. 11 (Ab)
+	  - Loi n°75-535 du 30 juin 1975 - art. 15 (Ab)
+	  - Loi n°89-475 du 10 juillet 1989 - art. 17 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 100-2 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 123-1-7 (Ab)
+	  - Code de la santé publique - art. L183 (Ab)
+
 	**Modifié par**:
 
-	  - Loi n°63-254 1963-03-15 art. 56 JORF 17 mars 1963
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 38 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 42 () JORF 8 janvier 1986
 
-	**Abrogé par**:
+	**Nouveaux textes**:
 
-	  - Loi n°86-17 du 6 janvier 1986 - art. 44 () JORF 8 janvier 1986
-
-
-###### Article 116
-
-Les particuliers et les associations qui prennent habituellement la charge de mineurs qu'ils placent dans les établissements
-de bienfaisance privés, ne peuvent effectuer aucun prélèvement [*interdiction*] sur le montant des primes d'épargne
-attribuées aux mineurs par lesdits établissements, dans les conditions prévues aux articles 106 et 115 ci-dessus.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Abrogé par**:
-
-	  - Loi n°86-17 du 6 janvier 1986 - art. 44 () JORF 8 janvier 1986
-
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale. - art. 106 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 115 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la famille et de l'aide sociale. - art. 117 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°1938-06-17 art. 5 AL. 6
-	  - Loi n°1933-01-14 art. 24 bis
+	  - Code de l'action sociale et des familles - art. L321-4 (M)
 
 
-###### Article 117
+### Section 2 : Contrôle des oeuvres d'adoption
 
-Les dispositions des deux articles ci-dessus s'appliquent également aux établissements de bienfaisance qui placent des
-mineurs dans d'autres établissements ou dans des familles.
+###### Article 100-1
+
+Toute personne physique et toute personne morale de droit privé qui sert d'intermédiaire pour l'adoption ou le placement en
+vue d'adoption de mineurs de quinze ans [*âge*], doit avoir obtenu une autorisation préalable d'exercer cette activité auprès
+du président du conseil général de chaque département dans lequel elle envisage de placer les mineurs concernés.
+
+Les bénéficiaires de l'autorisation visée à l'alinéa précédent doivent obtenir une habilitation du ministre compétent pour
+exercer leur activité au profit de mineurs étrangers.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Abrogé par**:
-
-	  - Loi n°86-17 du 6 janvier 1986 - art. 44 () JORF 8 janvier 1986
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la famille et de l'aide sociale. - art. 115 (Ab)
-	  - TXT_ASSOCIE: Code de la famille et de l'aide sociale. - art. 116 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°1938-06-17 art. 5 Al. 7
-	  - Loi n°1933-01-14 art. 24 BIS
-
-
-###### Article 118
-
-En cas de fermeture volontaire ou ordonnée, conformément aux articles 209 et 210, les livrets individuels, ainsi que, le cas
-échéant, les sommes qui doivent y être versées comme afférentes à la partie du semestre ou du trimestre en cours, sont remis
-immédiatement au directeur départemental de la population et de l'aide sociale.
-
-Il en sera de même des trousseaux en nature ou de leur valeur en espèces pour les mineurs qui y auraient droit, s'ils
-sortaient de l'établissement à ce moment.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Anciens textes**:
-
-	  - Loi n°1933-01-14 ART. 29 AL. 2, AL. 3
-
-	**Abrogé par**:
-
-	  - Loi n°86-17 du 6 janvier 1986 - art. 44 () JORF 8 janvier 1986
-
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale. - art. 209 (M)
-	  - Code de la famille et de l'aide sociale. - art. 210 (M)
-
-
-###### Article 119
-
-Les sommes afférentes au semestre ou au trimestre en cours sont déposées à la caisse d'épargne par les soins du directeur
-départemental de la population et de l'aide sociale pour être inscrites au livret individuel de chaque intéressé.
-
-Les livrets individuels ainsi complétés, les trousseaux ou leur valeur sont, ou bien conservés par le directeur départemental
-de la population et de l'aide sociale pour être remis dans les conditions prévues par l'article 113 au mineur s'il est déjà
-sorti de l'établissement lors de la fermeture ; ou bien remis par le directeur départemental de la population et de l'aide
-sociale à l'agent compétent du nouvel établissement dans lequel le mineur est placé, ou à la personne à l'autorité légale de
-laquelle il est soumis.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale. - art. 113 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°1933-01-14 ART. 30
 
 	**Cité par**:
 
-	  - Ordonnance n°45-2339 du 13 octobre 1945 - art. 4 (M)
+	  - Décret n°67-45 du 10 janvier 1967 - art. 1 (Ab)
+	  - Décret n°67-45 du 10 janvier 1967 - art. 10 (Ab)
+	  - Décret n°67-45 du 10 janvier 1967 - art. 11 (Ab)
+	  - Décret n°67-45 du 10 janvier 1967 - art. 12 (Ab)
+	  - Décret n°67-45 du 10 janvier 1967 - art. 13 (Ab)
+	  - Décret n°67-45 du 10 janvier 1967 - art. 14 (Ab)
+	  - Décret n°67-45 du 10 janvier 1967 - art. 15 (Ab)
+	  - Décret n°67-45 du 10 janvier 1967 - art. 2 (Ab)
+	  - Décret n°67-45 du 10 janvier 1967 - art. 3 (Ab)
+	  - Décret n°67-45 du 10 janvier 1967 - art. 4 (Ab)
+	  - Décret n°67-45 du 10 janvier 1967 - art. 5 (Ab)
+	  - Décret n°67-45 du 10 janvier 1967 - art. 6 (Ab)
+	  - Décret n°67-45 du 10 janvier 1967 - art. 7 (Ab)
+	  - Décret n°67-45 du 10 janvier 1967 - art. 8 (Ab)
+	  - Décret n°67-45 du 10 janvier 1967 - art. 9 (Ab)
+	  - Décret n°67-45 du 12 janvier 1967
+	  - Décret n°67-161 du 24 février 1967 - art. 3 (Ab)
+	  - Décret n°89-95 du 10 février 1989 - art. 10 (Ab)
+	  - Décret n°89-95 du 10 février 1989 - art. 21 (Ab)
+	  - Décret n°89-95 du 10 février 1989 - art. 23 (Ab)
+	  - Décret n°89-95 du 10 février 1989 - art. 24 (Ab)
+	  - Décret n°89-95 du 10 février 1989 - art. 25 (Ab)
+	  - Décret n°89-95 du 10 février 1989 - art. 28 (Ab)
+	  - Décret n°89-95 du 10 février 1989 - art. 29 (Ab)
+	  - Décret n°89-95 du 10 février 1989 - art. 30 (Ab)
+	  - Décret n°89-95 du 10 février 1989 - art. 31 (Ab)
+	  - Arrêté du 2 décembre 1998 - art. 3 (M)
+	  - Arrêté du 25 janvier 1967
+	  - Code de la famille et de l'aide sociale. - art. 100-2 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 100-2-1 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 100-4 (Ab)
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Loi n°86-17 du 6 janvier 1986 - art. 44 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 38 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 43 () JORF 8 janvier 1986
 
+	**Liens**:
 
-###### Article 120
-
-Dans le cas où les personnes responsables de l'établissement fermé n'effectueraient pas la remise des livrets, fonds ou
-trousseaux dont elles sont comptables au moment de la fermeture, le directeur départemental de la population et de l'aide
-sociale, agissant au nom de la masse des mineurs intéressés, exercera toutes actions utiles pour obtenir cette remise et
-sauvegarder les droits des mineurs.
-
-Ces actions ne pourront viser que l'établissement fermé et non les autres établissements de la même oeuvre.
-
-Ces instances, dispensées du préliminaire de conciliation, sont introduites par le ministère public à la requête du directeur
-départemental de la population et de l'aide sociale, devant le juge du tribunal d'instance ou devant le tribunal de grande
-instance, suivant les règles générales de la compétence ; elles sont introduites comme en matière sommaire.
-
-Elles doivent être jugées dans la quinzaine de la citation [*délai*]. Elles bénéficieront de plein droit de l'assistance
-judiciaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Anciens textes**:
-
-	  - Loi n°1933-01-14 art. 31
-
-	**Abrogé par**:
-
-	  - Loi n°86-17 du 6 janvier 1986 - art. 44 () JORF 8 janvier 1986
-
-
-###### Article 121
-
-En cas de fermeture de l'établissement, les créances pouvant résulter, au profit des mineurs, des articles 105 et 106, seront
-garanties par un privilège général sur les immeubles appartenant à l'établissement précité, inscrite au bureau des
-hypothèques à la requête du directeur départemental de la population et de l'aide sociale et prenant rang du jour de son
-inscription.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Créé par**:
-
-	  - Ordonnance 59-71 1959-01-07 art. 5 JORF 8 janvier 1959
-
-	**Abrogé par**:
-
-	  - Loi n°86-17 du 6 janvier 1986 - art. 44 () JORF 8 janvier 1986
-
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale. - art. 105 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 106 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°1933-01-14 ART. 32
+	  - TXT_ASSOCIE: Code de la famille et de l'aide sociale. - art. 100-2 (M)
 
 
-###### Article 122
+###### Article 100-2
 
-Les particuliers ou les associations visés dans la présente section sont soumis aux obligations générales du titre V du
-présent code.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Abrogé par**:
-
-	  - Loi n°86-17 du 6 janvier 1986 - art. 44 () JORF 8 janvier 1986
-
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale 203 à 217
-
-
-###### Article 123
-
-Un règlement d'administration publique, rendu après avis du conseil supérieur de l'aide sociale, détermine les mesures
-nécessaires à l'exécution de la présente section, notamment les chiffres minima pour le pécule et le trousseau.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Abrogé par**:
-
-	  - Loi n°86-17 du 6 janvier 1986 - art. 44 () JORF 8 janvier 1986
-
-	**Cité par**:
-
-	  - Code de la famille et de l'aide sociale. - art. 46 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°1933-01-14 ART. 34
-
-
-# Titre II : Protection sociale de l'enfance
-
-## Chapitre II : Aide sociale à l'enfance
-
-### Section 3 : Droits des familles dans leurs rapports avec les services chargés de la protection de la famille et de l'enfance
-
-###### Article 55
-
-Toute personne qui demande une prestation prévue aux chapitres Ier et II du présent titre ou qui en bénéficie est informée
-par les services chargés de la protection de la famille et de l'enfance des conditions d'attribution et des conséquences de
-cette prestation sur les droits et obligations de l'enfant et de son représentant légal.
+Quiconque se livre aux activités définies à l'article ci-dessus sans y avoir été autorisé est puni des peines prévues à
+l'article 99 du présent code.
 
 **Liens relatifs à cet article**
 
@@ -3020,42 +3456,115 @@ cette prestation sur les droits et obligations de l'enfant et de son représenta
 
 	**Modifié par**:
 
-	  - Loi n°84-422 du 6 juin 1984 - art. 1 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°85-936 du 23 août 1985 - art. 1 (Ab)
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 38 () JORF 8 janvier 1986
 
 	**Cité par**:
 
-	  - Décret n°85-936 du 23 août 1985 - art. 1 (M)
+	  - Décret n°89-95 du 10 février 1989 - art. 8 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L225-17 (T)
+
+	**Cite**:
+
 	  - Code de la famille et de l'aide sociale. - art. 100-1 (M)
-	  - Code de la famille et de l'aide sociale. - art. 59-1 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 99 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la famille et de l'aide sociale. - art. 100-1 (M)
+
+
+### Section 4 : Assistantes maternelles
+
+###### Article 123-1
+
+Peuvent seules accueillir habituellement des mineurs à leur domicile moyennant rémunération les personnes qui sont agréées à
+cet effet [*condition*].
+
+Des actions de formation destinées à les aider dans leur tâche éducative sont organisées pour ces personnes au titre de la
+protection maternelle et infantile.
+
+Un décret détermine les modalités d'application du présent article en fonction notamment de l'âge du mineur et des
+circonstances du placement. Il fixe les éléments d'appréciation d'ordre sanitaire et éducatif, compte tenu notamment de
+l'expérience acquise par l'assistante maternelle, au vu desquels l'agrément est accordé, refusé ou retiré.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale art. 123-4 :
+
+champ d'application de la présente section.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978
+	  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978 - art. 10 (Ab)
+	  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978 - art. 7 (Ab)
+	  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978 - art. 9 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°78-474 du 29 mars 1978 - art. 1 (Ab)
+	  - Décret n°78-474 du 29 mars 1978 - art. 7 (Ab)
+	  - Décret n°78-474 du 29 mars 1978 - art. 8 (Ab)
+	  - Arrêté du 1 octobre 1990 - art. 8 (M)
+	  - Loi n°91-1406 du 31 décembre 1991 - art. 17 (Ab)
+	  - Loi n°92-642 du 12 juillet 1992 - art. 18 (M)
+	  - Loi n°92-642 du 12 juillet 1992 - art. 19 (M)
+	  - Décret n°92-1051 du 29 septembre 1992 - art. 1 (Ab)
+	  - Décret n°92-1051 du 29 septembre 1992 - art. 11 (Ab)
+	  - Décret n°92-1051 du 29 septembre 1992 - art. 30 (Ab)
+	  - Décret n°92-1051 du 29 septembre 1992 - art. 8 (Ab)
+	  - Décret n°94-909 du 14 octobre 1994 - art. 2 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 123-1-5 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 123-2 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 123-3 (M)
+	  - Code de la santé publique - art. L146 (Ab)
+	  - Code de la santé publique - art. L2111-1 (M)
+	  - Code de la sécurité sociale. - art. L841-1 (VD)
+	  - Code du travail - art. D773-1 (P)
+	  - Code du travail - art. L122-28-5 (M)
+	  - Code du travail - art. L773-1 (M)
+
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 38 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 45 () JORF 8 janvier 1986
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. L223-1 (V)
+	  - Code de l'action sociale et des familles - art. L421-1 (VD)
 
 
-###### Article 56
+###### Article 123-2
 
-Sauf si un enfant est confié au service par décision judiciaire ou s'il s'agit de prestations en espèces, aucune décision sur
-le principe ou les modalités de l'admission dans le service de l'aide sociale à l'enfance ne peut être prise sans l'accord
-écrit du représentant légal du mineur ou du bénéficiaire lui-même s'il est mineur émancipé.
+Les personnes mentionnées à l'article précédent et employées par des particuliers doivent obligatoirement s'assurer pour les
+dommages que les enfants gardés pourraient provoquer et pour ceux dont ils pourraient être victimes. Leurs employeurs sont
+tenus, avant de leur confier un enfant, de vérifier qu'elles ont bien satisfait à cette obligation    Les personnes
+mentionnées à l'article précédent et employées par des personnes morales sont obligatoirement couvertes contre les mêmes
+risques par les soins desdites personnes morales.
 
-En cas d'urgence et lorsque le représentant légal est dans l'impossibilité de donner son accord, l'enfant est recueilli
-provisoirement par le service qui en avise immédiatement le procureur de la République. Si, à l'issue d'un délai de cinq
-jours, l'enfant n'a pu être remis à sa famille ou si le représentant légal n'a pas donné son accord à l'admission de l'enfant
-dans le service, ce dernier saisit l'autorité judiciaire.
+**Nota:**
 
-Pour toutes les décisions relatives au lieu et au mode de placement des enfants déjà admis dans le service, l'accord du
-représentant légal est réputé acquis si celui-ci n'a pas fait connaître son opposition dans un délai de quatre semaines à
-compter du jour où il a reçu la notification de la demande du service, ou de six semaines à compter de la date d'envoi s'il
-n'a pas accusé réception de la notification.
+[*Nota : Code de la famille et de l'aide sociale art. 123-4 :
 
-Sous réserve des pouvoirs reconnus à l'autorité judiciaire, les mesures prises dans le cadre de la présente section ne
-peuvent en aucun cas porter atteinte à l'autorité parentale que détiennent le ou les représentants légaux de l'enfant, et
-notamment au droit de visite et au droit d'hébergement.
+champ d'application de la présente section.*]
 
 **Liens relatifs à cet article**
 
@@ -3065,63 +3574,121 @@ notamment au droit de visite et au droit d'hébergement.
 
 	**Modifié par**:
 
-	  - Loi n°84-422 du 6 juin 1984 - art. 1 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 38 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 45 () JORF 8 janvier 1986
 
 	**Cité par**:
 
-	  - Décret n°85-936 du 23 août 1985 - art. 4 (M)
-	  - Décret n°85-936 du 23 août 1985 - art. 5 (M)
-	  - Décret n°85-936 du 23 août 1985 - art. 8 (M)
-	  - Code de la famille et de l'aide sociale. - art. 59-1 (Ab)
+	  - Loi n°91-1406 du 31 décembre 1991 - art. 17 (Ab)
+	  - Code du travail - art. L122-28-5 (M)
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. L223-2 (V)
-
-
-###### Article 57
-
-Pour l'application des décisions judiciaires prises en vertu des articles 10, 4°, 15, 4°, et 17, 2ème alinéa, de l'ordonnance
-n° 174 du 2 février 1945, de l'article 375-3, 4°, et des articles 377 à 380 du code civil, le représentant légal du mineur
-donne son avis par écrit préalablement au choix du mode et du lieu de placement et à toute modification apportée à cette
-décision.
-
-**Liens relatifs à cet article**
+	  - Code de l'action sociale et des familles - art. L421-9 (T)
 
 	**Cite**:
 
-	  - Ordonnance n°45-174 du 2 février 1945 - art. 10 (M)
-	  - Ordonnance n°45-174 du 2 février 1945 - art. 15 (M)
-	  - Ordonnance n°45-174 du 2 février 1945 - art. 17 (V)
+	  - Code de la famille et de l'aide sociale. - art. 123-1 (M)
+
+
+###### Article 123-3
+
+Lorsque les personnes mentionnées à l'article 123-1 sont employées par des personnes morales de droit public ou de droit
+privé, il est passé entre elles et leur employeur, pour chaque mineur confié en garde permanente, un contrat de placement
+distinct du contrat de travail.
+
+Ce contrat précise notamment le rôle de la famille d'accueil et celui du service ou organisme employeur à l'égard du mineur
+et de sa famille. Il fixe les conditions de l'arrivée de l'enfant dans la famille d'accueil et de son départ, ainsi que du
+soutien éducatif dont il bénéficiera.
+
+Si l'assistante maternelle est mariée et demeure avec son conjoint, le contrat de placement doit être également signé
+[*obligatoirement*] par celui-ci.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale art. 123-4 :
+
+champ d'application de la présente section.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 38 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 46 () JORF 8 janvier 1986
+
+	**Cité par**:
+
+	  - Décret n°92-1051 du 29 septembre 1992 - art. 26 (Ab)
+	  - Décret n°94-909 du 14 octobre 1994 - art. 19 (Ab)
+	  - Code du travail - art. L122-28-5 (M)
+	  - Code du travail - art. L773-3-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L421-10 (T)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 123-1 (M)
+
+
+###### Article 123-4
+
+Les dispositions de la présente section ne sont pas applicables lorsque les assistantes maternelles ont avec les mineurs
+accueillis un lien de parenté ou d'alliance jusqu'au sixième degré inclus, sauf dans le cas où l'enfant est placé par
+l'intermédiaire d'une personne morale de droit public ou de droit privé.
+
+Elles ne sont pas non plus applicables aux personnes dignes de confiance mentionnées à l'ordonnance du 2 février 1945
+relative à l'enfance délinquante et à l'article 375-3 du code civil ainsi qu'aux personnes accueillant des mineurs
+exclusivement à l'occasion des vacances scolaires, des congés professionnels et des loisirs.
+
+Elles sont applicables aux familles d'accueil relevant des centres de placements familiaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 38 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 45 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 47 () JORF 8 janvier 1986
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Cite**:
+
 	  - Code civil - art. 375-3 (M)
-	  - Code civil - art. 377 (M)
-	  - Code civil - art. 378 (M)
-	  - Code civil - art. 379 (M)
-	  - Code civil - art. 380 (M)
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Cité par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 16 (V)
-	  - Décret n°85-936 du 23 août 1985 - art. 7 (Ab)
-	  - Décret n°85-936 du 23 août 1985 - art. 8 (M)
-	  - Code de la famille et de l'aide sociale. - art. 59-1 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°84-422 du 6 juin 1984 - art. 1 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
+	  - Ordonnance 1945-02-02
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. L223-3 (M)
+	  - Code de l'action sociale et des familles - art. L421-11 (T)
+
+	**Cité par**:
+
+	  - Code du travail - art. L122-28-5 (M)
 
 
-###### Article 58
+### Section 5 : Assistantes maternelles employées par des personnes morales de droit public
 
-Le service examine avec le mineur toute décision le concernant et recueille son avis.
+###### Article 123-5
+
+S'appliquent aux assistantes maternelles employées par des personnes de droit public les articles suivants du livre VII,
+titre VII, chapitre III du code du travail : L. 773-3, L. 773-4, L. 773-5, L. 773-6, L. 773-7, L. 773-10, L. 773-11, L.
+773-12, L. 773-13, L. 773-14 et L. 773-15.
 
 **Liens relatifs à cet article**
 
@@ -3129,140 +3696,41 @@ Le service examine avec le mineur toute décision le concernant et recueille son
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
-	**Cité par**:
-
-	  - Décret n°63-380 du 8 avril 1963 - art. 2 (Ab)
-	  - Décret n°67-44 du 12 janvier 1967 - art. 1 (Ab)
-	  - Décret n°85-936 du 23 août 1985 - art. 1 (M)
-	  - Décret n°85-936 du 23 août 1985 - art. 9 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 59-1 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 60 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 64 (M)
-	  - Code de la sécurité sociale. - art. D412-79 (V)
-
 	**Modifié par**:
 
-	  - Loi n°84-422 du 6 juin 1984 - art. 1 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L223-4 (V)
-
-
-###### Article 59
-
-Sauf dans les cas où un enfant est confié au service par décision judiciaire, aucune mesure ne peut être prise pour une durée
-supérieure à un an. Elle est renouvelable dans les mêmes conditions.
-
-Le service présente chaque année [*périodicité*] à l'autorité judiciaire un rapport sur la situation de l'enfant qui lui a
-été confié par décision judiciaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°84-422 1984-06-06 ART. 1 Code de la famille et de l'aide sociale 59-1 : Article non applicable aux enfants, pupilles de l'Etat, admis dans le service
-
-	**Modifié par**:
-
-	  - Loi n°84-422 du 6 juin 1984 - art. 1 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1067 (M)
-	  - Code de la famille et de l'aide sociale. - art. 59-1 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L223-5 (M)
-
-
-###### Article 59-1
-
-Les articles 56, 57 et 59 ci-dessus ne sont pas applicables aux enfants admis dans le service en vertu des dispositions de la
-section 4 du présent chapitre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Créé par**:
-
-	  - Loi n°84-422 du 6 juin 1984 - art. 1 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L223-6 (V)
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 38 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 45 () JORF 8 janvier 1986
 
 	**Cite**:
 
-	  - Code de la famille et de l'aide sociale. - art. 56 (M)
-	  - Code de la famille et de l'aide sociale. - art. 57 (M)
-	  - Code de la famille et de l'aide sociale. - art. 59 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la famille et de l'aide sociale. - art. 69 (Ab)
-
-
-### Section 3 : Droit des familles dans leurs rapports avec les services de la protection de la famille et de l'enfance
-
-###### Article 55-1
-
-Elle peut être accompagnée de la personne de son choix, représentant ou non une association , dans ses démarches auprès du
-service. Néanmoins, celui-ci a la possibilité de proposer également un entretien individuel dans l'intérêt du demandeur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Modifié par**:
-
-	  - Loi n°84-422 du 6 juin 1984 - art. 1 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
-
-	**Cité par**:
-
-	  - Décret n°85-936 du 23 août 1985 - art. 1 (M)
-	  - Décret n°85-938 du 23 août 1985 - art. 5 (Ab)
-	  - Décret n°85-938 du 23 août 1985 - art. 7 (Ab)
-	  - Décret n°98-771 du 1 septembre 1998 - art. 5 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 59-1 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 63 (Ab)
+	  - Code du travail - art. L773-10 (M)
+	  - Code du travail - art. L773-11 (M)
+	  - Code du travail - art. L773-12 (M)
+	  - Code du travail - art. L773-13 (T)
+	  - Code du travail - art. L773-14 (T)
+	  - Code du travail - art. L773-15 (M)
+	  - Code du travail - art. L773-3 (M)
+	  - Code du travail - art. L773-4 (M)
+	  - Code du travail - art. L773-5 (M)
+	  - Code du travail - art. L773-6 (M)
+	  - Code du travail - art. L773-7 (T)
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. L223-1 (V)
+	  - Code de l'action sociale et des familles - art. L422-1 (VD)
+
+	**Cité par**:
+
+	  - Code du travail - art. L122-28-5 (M)
 
 
-### Section 4 : Pupilles de l'Etat
+###### Article 123-6
 
-###### Article 64
-
-Les deniers des pupilles de l'Etat sont confiés au trésorier-payeur général.
-
-Le tuteur peut autoriser, au profit du pupille, le retrait du tout ou partie des fonds lui appartenant.
-
-Les revenus des biens et capitaux appartenant aux pupilles sont perçus au profit du département jusqu'à leur majorité, à
-titre d'indemnité d'entretien et dans la limite des prestations qui leur ont été allouées. Lors de la reddition des comptes,
-le tuteur, à son initiative ou à la demande du conseil de famille, peut proposer, avec l'accord de ce dernier, au président
-du conseil général toute remise jugée équitable à cet égard.
-
-Les héritiers, autres que les frères et soeurs élevés eux-mêmes par le service, qui se présentent pour recueillir la
-succession d'un pupille, doivent rembourser au département les frais d'entretien de celui-ci, déduction faite des revenus que
-le département avait perçus.
-
-Lorsque aucun héritier ne se présente, les biens des pupilles de l'Etat décédés sont recueillis par le département et
-utilisés pour l'attribution de dons ou de prêts aux pupilles et anciens pupilles de l'Etat.
-
-Les biens du tuteur ne sont pas soumis à l'hypothèque légale instituée à l'article 2121 du code civil.
+Le droit syndical est reconnu aux assistantes maternelles relevant de la présente section. Les syndicats professionnels régis
+par le livre IV du code du travail peuvent ester en justice devant toute juridiction. Il peuvent notamment, devant les
+juridictions de l'ordre administratif, se pourvoir contre les actes réglementaires concernant le statut de ces assistantes
+maternelles et contre les décisions individuelles portant atteinte à leurs intérêts collectifs.
 
 **Liens relatifs à cet article**
 
@@ -3272,173 +3740,29 @@ Les biens du tuteur ne sont pas soumis à l'hypothèque légale instituée à l'
 
 	**Modifié par**:
 
-	  - Loi n°84-422 du 6 juin 1984 - art. 1 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 38 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 45 () JORF 8 janvier 1986
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 1 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 10 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 11 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 12 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 13 (M)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 14 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 15 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 16 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 17 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 18 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 19 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 2 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 20 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 21 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 22 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 22-1 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 23 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 24 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 25 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 26 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 3 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 4 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 5 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 6 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 7 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 8 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 9 (Ab)
-
-	**Cite**:
-
-	  - Code civil - art. 2121 (T)
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. L224-9 (V)
-
-
-### Section 4 : Statut des pupilles de l'Etat
-
-###### Article 60
-
-Les organes chargés de la tutelle des pupilles de l'Etat instituée par la présente section sont le représentant de l'Etat
-dans le département, qui exerce la fonction de tuteur et peut se faire représenter, et le conseil de famille des pupilles de
-l'Etat ; la tutelle des pupilles de l'Etat ne comporte pas de juge de tutelle ni de subrogé tuteur.
-
-Le tuteur et le conseil de famille des pupilles de l'Etat exercent les attributions conférées à ces organes selon le régime
-de droit commun. A cette fin, le conseil de famille doit examiner au moins une fois par an [*périodicité*] la situation de
-chaque pupille. Avant toute décision du président du conseil général relative au lieu et au mode de placement des pupilles de
-l'Etat, l'accord du tuteur et celui du conseil de famille doivent être recueillis, ainsi que l'avis du mineur dans les
-conditions prévues à l'article 58.
-
-Les décisions et délibérations de toute nature du conseil de famille des pupilles de l'Etat sont soumises aux voies de
-recours applicables au régime de la tutelle de droit commun.
-
-Chaque conseil de famille comprend [*composition*] :
-
-- des représentants du conseil général désignés par cette assemblée, sur proposition de son président ;
-
-- des membres d'associations à caractère familial, notamment issus de l'union départementale des associations familiales,
-d'associations d'assistantes maternelles et d'associations de pupilles et anciens pupilles de l'Etat choisis par le
-représentant de l'Etat dans le département sur des listes de présentation établies par lesdites associations ;
-
-- des personnalités qualifiées désignées par le représentant de l'Etat dans le département.
-
-La durée du mandat est de trois ans. Il est renouvelable une fois.    Les membres du conseil de famille sont tenus au secret
-professionnel selon les prescriptions de l'article 378 du code pénal.
-
-Un décret en Conseil d'Etat précise la composition et fixe les règles de fonctionnement du ou des conseils de famille,
-institués dans le département.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+	  - Code de l'action sociale et des familles - art. L422-2 (VD)
+	  - Code de l'action sociale et des familles - art. L422-2 (M)
 
 	**Cité par**:
 
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 16 (V)
-	  - Décret n°85-937 du 23 août 1985 - art. 11 (Ab)
-	  - Décret n°85-937 du 23 août 1985 - art. 14 (Ab)
-	  - Décret n°85-937 du 23 août 1985 - art. 2 (M)
-	  - Décret n°85-937 du 23 août 1985 - art. 22 (Ab)
-	  - Décret n°85-937 du 23 août 1985 - art. 6 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°84-422 du 6 juin 1984 - art. 1 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 1 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 10 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 11 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 12 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 13 (M)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 14 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 15 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 16 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 17 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 18 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 19 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 2 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 20 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 21 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 22 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 22-1 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 23 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 24 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 25 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 26 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 3 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 4 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 5 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 6 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 7 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 8 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 9 (Ab)
-
-	**Cite**:
-
-	  - Code pénal 378
-	  - Code de la famille et de l'aide sociale. - art. 58 (M)
+	  - Code du travail - art. L122-28-5 (M)
 
 
-###### Article 61
+###### Article 123-7
 
-Sont admis en qualité de pupille de l'Etat [*définition*] :
-
-1° Les enfants dont la filiation n'est pas établie ou est inconnue, qui ont été recueillis par le service de l'aide sociale à
-l'enfance depuis plus de trois mois [*durée*] ;
-
-2° Les enfants dont la filiation est établie et connue, qui ont expressément été remis au service de l'aide sociale à
-l'enfance en vue de leur admission comme pupilles de l'Etat par les personnes qui ont qualité pour consentir à leur adoption,
-depuis plus de trois mois [*durée*] ;
-
-3° Les enfants dont la filiation est établie et connue, qui ont expressément été remis au service de l'aide sociale à
-l'enfance depuis plus d'un an par leur père ou leur mère en vue de leur admission comme pupilles de l'Etat et dont l'autre
-parent n'a pas fait connaître au service, pendant ce délai, son intention d'en assumer la charge ; avant l'expiration de ce
-délai d'un an, le service s'emploie à connaître les intentions de l'autre parent ;
-
-4° Les enfants orphelins de père et de mère pour lesquels la tutelle n'est pas organisée selon le chapitre II du titre X du
-livre 1er du code civil et qui ont été confiés au service de l'aide sociale à l'enfance depuis plus de trois mois ;
-
-5° Les enfants dont les parents ont été déclarés déchus de l'autorité parentale en vertu des articles 378 et 378-1 du code
-civil et qui ont été confiés au service de l'aide sociale à l'enfance en application de l'article 380 dudit code ;
-
-6° Les enfants confiés au service de l'aide sociale à l'enfance en application de l'article 350 du code civil.
-
-L'admission en qualité de pupille de l'Etat peut faire l'objet d'un recours, formé dans le délai de trente jours suivant la
-date de l'arrêté du président du conseil général devant le tribunal de grande instance, par les parents, en l'absence d'une
-déclaration judiciaire d'abandon ou d'une déchéance d'autorité parentale, par les alliés de l'enfant ou toute personne
-justifiant d'un lien avec lui, notamment pour avoir assuré sa garde, de droit ou de fait, et qui demandent à en assumer la
-charge.
-
-S'il juge cette demande conforme à l'intérêt de l'enfant, le tribunal confie sa garde au demandeur, à charge pour ce dernier
-de requérir l'organisation de la tutelle, ou lui délègue les droits de l'autorité parentale et prononce l'annulation de
-l'arrêté d'admission.
-
-Dans le cas où il rejette le recours, le tribunal peut autoriser le demandeur, dans l'intérêt de l'enfant, à exercer un droit
-de visite dans les conditions qu'il détermine.
+Les assistantes maternelles relevant de la présente section qui se trouvent involontairement privées d'emploi et qui se sont
+inscrites comme demandeurs d'emploi auprès des services compétents ont droit à un revenu de remplacement dans les conditions
+fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -3448,93 +3772,77 @@ de visite dans les conditions qu'il détermine.
 
 	**Modifié par**:
 
-	  - Loi n°84-422 du 6 juin 1984 - art. 1 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 38 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 45 () JORF 8 janvier 1986
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 1 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 10 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 11 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 12 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 13 (M)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 14 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 15 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 16 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 17 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 18 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 19 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 2 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 20 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 21 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 22 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 22-1 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 23 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 24 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 25 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 26 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 3 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 4 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 5 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 6 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 7 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 8 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 9 (Ab)
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L422-3 (VD)
+	  - Code de l'action sociale et des familles - art. L422-3 (M)
 
 	**Cité par**:
 
-	  - Décret n°85-937 du 23 août 1985 - art. 11 (Ab)
-	  - Décret n°85-937 du 23 août 1985 - art. 12 (Ab)
-	  - Décret n°85-937 du 23 août 1985 - art. 13 (M)
-	  - Décret n°85-937 du 23 août 1985 - art. 23 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 46 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 62 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 63 (M)
-	  - Code de la famille et de l'aide sociale. - art. 63-1 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 71 (M)
-	  - Nouveau code de procédure civile - art. 1231-2 (M)
+	  - Code du travail - art. L122-28-5 (M)
+
+
+###### Article 123-8
+
+Afin de pouvoir assurer sans délai des accueils urgents et de courte durée, les services concernés peuvent spécialiser dans
+cette forme d'accueil certaines des assistantes maternelles qu'ils emploient.
+
+Ces personnes s'engagent à recevoir immédiatement les enfants présentés par le service dans la limite d'un nombre maximum
+convenu avec lui.
+
+En contrepartie, elles perçoivent, durant les périodes où aucun enfant ne leur est confié, une indemnité de disponibilité
+dont le montant minimum, supérieur à celui de l'indemnité prévue par l'article L. 773-5 du code du travail, est fixé par
+décret en référence au salaire minimum interprofessionnel de croissance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cité par**:
+
+	  - Décret n°78-473 du 29 mars 1978 - art. 3 (Ab)
+	  - Décret n°92-1245 du 27 novembre 1992 - art. 3 (M)
+	  - Code du travail - art. L122-28-5 (M)
+
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 38 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 45 () JORF 8 janvier 1986
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 	**Cite**:
 
-	  - Code civil - art. 350 (M)
-	  - Code civil - art. 378 (M)
-	  - Code civil - art. 378-1 (M)
-	  - Code civil - art. 380 (M)
+	  - Code du travail - art. L773-5 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L422-4 (VD)
+	  - Code de l'action sociale et des familles - art. L422-4 (M)
 
 
-###### Article 62
+## Chapitre IV : Protection des mineurs placés hors du domicile parental
 
-La remise d'un enfant au service de l'aide sociale à l'enfance dans les cas prévus aux 1°, 2°, 3° et 4° de l'article 61 donne
-lieu à l'établissement d'un procès-verbal.
+### Section 1 : Protection générale des mineurs
 
-Il doit être mentionné au procès-verbal que les père ou mère, ou la personne qui a remis l'enfant, ont été informés :
+###### Article 93
 
-1° Des mesures instituées, notamment par l'Etat, les collectivités territoriales et les organismes de sécurité sociale pour
-aider les parents à élever eux-mêmes leurs enfants ;
-
-2° Des dispositions du régime de la tutelle des pupilles de l'Etat suivant la présente section, et notamment des dispositions
-de l'article 63 ci-après relatives à leur adoption ;
-
-3° Des délais et conditions suivant lesquels l'enfant pourra être repris par ses père ou mère ;
-
-4° De la possibilité de demander le secret de l'état civil de l'enfant.
-
-De plus, lorsque l'enfant est remis au service par ses père ou mère, selon les 2° ou 3° de l'article 61, ceux-ci doivent être
-invités à consentir à son adoption ; le consentement est porté sur le procès-verbal ; celui-ci doit également mentionner que
-les parents ont été informés des délais et conditions dans lesquels ils peuvent rétracter leur consentement, selon les
-deuxième et troisième alinéas de l'article 348-3 du code civil.
-
-L'enfant est déclaré pupille de l'Etat à titre provisoire à la date à laquelle est établi le procès-verbal prévu ci-dessus.
-La tutelle est organisée à compter de la date de cette déclaration [*point de départ*].
-
-Toutefois, dans un délai de trois mois suivant la date à laquelle il a été déclaré pupille de l'Etat à titre provisoire,
-l'enfant peut être repris immédiatement et sans aucune formalité par celui de ses père ou mère qui l'avait confié au service.
-Ce délai est porté à un an, dans le cas prévu au 3° de l'article 61 ci-dessus pour celui des père ou mère qui n'a pas confié
-l'enfant au service.
-
-Au-delà de ces délais, la décision d'accepter ou de refuser la restitution d'un pupille de l'Etat est, sous réserve des
-dispositions de l'article 352 du code civil, prise par le tuteur, avec l'accord du conseil de famille. En cas de refus, les
-demandeurs peuvent saisir le tribunal de grande instance [*recours, autorité compétente*].
+Est placé sous la protection de l'autorité publique tout mineur hébergé collectivement ou isolément hors du domicile de ses
+parents jusqu'au quatrième degré ou de son tuteur lorsqu'il n'est pas protégé par les dispositions du Code de la santé
+publique ou par celles qui visent des établissements soumis à une réglementation particulière.
 
 **Liens relatifs à cet article**
 
@@ -3544,67 +3852,53 @@ demandeurs peuvent saisir le tribunal de grande instance [*recours, autorité co
 
 	**Modifié par**:
 
-	  - Loi n°84-422 du 6 juin 1984 - art. 1 () JORF 7 juin 1986 en vigueur le 7 septembre 1984
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 1 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 10 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 11 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 12 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 13 (M)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 14 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 15 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 16 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 17 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 18 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 19 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 2 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 20 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 21 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 22 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 22-1 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 23 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 24 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 25 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 26 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 3 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 4 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 5 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 6 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 7 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 8 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 9 (Ab)
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 38 () JORF 8 janvier 1986
 
 	**Cité par**:
 
-	  - Décret n°85-937 du 23 août 1985 - art. 15 (Ab)
-	  - Décret n°85-937 du 23 août 1985 - art. 19 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 46 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 62-1 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 94 (Ab)
 
-	**Cite**:
+	**Anciens textes**:
 
-	  - Code civil - art. 348-3 (M)
-	  - Code civil - art. 352 (V)
-	  - Code de la famille et de l'aide sociale. - art. 61 (M)
-	  - Code de la famille et de l'aide sociale. - art. 63 (M)
+	  - Décret n°1938-06-17 art. 1
 
 
-###### Article 63
+###### Article 94
 
-Les enfants admis en qualité de pupille de l'Etat en application de l'article 61 doivent faire l'objet d'un projet d'adoption
-dans les meilleurs délais. Lorsque le tuteur considère que cette mesure n'est pas adaptée à la situation de l'enfant, il doit
-indiquer ses motifs au conseil de famille. La validité de ces motifs doit être confirmée à l'occasion de l'examen annuel de
-la situation de l'enfant.
+La surveillance des mineurs mentionnés à l'article 93 est confiée au président du conseil général du département où ils se
+trouvent [*autorités compétentes*]. Elle s'exerce sur les conditions morales et matérielles de leur hébergement en vue de
+protéger leur sécurité, leur santé et leur moralité.
 
-Les pupilles de l'Etat peuvent être adoptés soit par les personnes à qui le service avait confié leur garde lorsque les liens
-affectifs qui se sont établis entre eux justifient cette mesure, soit par des personnes agréées à cet effet, dans des
-conditions fixées par décret, par le responsable du service de l'aide sociale à l'enfance.
+**Liens relatifs à cet article**
 
-La définition du projet d'adoption, simple ou plénière suivant les circonstances particulières à la situation de l'enfant,
-ainsi que le choix des adoptants éventuels sont assurés par le tuteur avec l'accord du conseil de famille.
+	**Anciens textes**:
+
+	  - Décret n°1938-06-17 art. 2
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cité par**:
+
+	  - Décret n°67-45 du 10 janvier 1967 - art. 4 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 93 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 38 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 39 () JORF 8 janvier 1986
+
+
+### Section 2 bis : Accueil de l'enfant étranger en vue de son adoption
+
+###### Article 100-3
+
+Les personnes qui souhaitent accueillir, en vue de son adoption, un enfant étranger doivent demander l'agrément prévu à
+l'article 63 du présent code. Cet agrément est réputé être accordé si l'administration ne s'est pas prononcée dans un délai
+de six mois à compter du jour de la demande [*point de départ, accord tacite*].
 
 **Liens relatifs à cet article**
 
@@ -3614,25 +3908,13 @@ ainsi que le choix des adoptants éventuels sont assurés par le tuteur avec l'a
 
 	**Cité par**:
 
-	  - Loi n°84-53 du 26 janvier 1984 - art. 59 (V)
-	  - Décret n°85-937 du 23 août 1985 - art. 18 (Ab)
-	  - Décret n°85-938 du 23 août 1985 - art. 1 (Ab)
 	  - Décret n°85-986 du 16 septembre 1985 - art. 47 (M)
-	  - Loi n°86-33 du 9 janvier 1986 - art. 45 (M)
 	  - Décret n°86-68 du 13 janvier 1986 - art. 34-1 (V)
-	  - Décret n°86-83 du 17 janvier 1986 - art. 19 bis (M)
 	  - Décret n°88-145 du 15 février 1988 - art. 14-1 (V)
 	  - Décret n°88-976 du 13 octobre 1988 - art. 34 (M)
-	  - Décret n°89-95 du 10 février 1989 - art. 25 (Ab)
-	  - Décret n°89-95 du 10 février 1989 - art. 5 (Ab)
 	  - Décret n°91-155 du 6 février 1991 - art. 18-1 (M)
 	  - Loi n°96-604 du 5 juillet 1996 - art. 59 (V)
-	  - Décret n°98-771 du 1 septembre 1998 - art. 12 (Ab)
-	  - Décret n°98-771 du 1 septembre 1998 - art. 9 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 100-3 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 62 (M)
-	  - Code de la famille et de l'aide sociale. - art. 63-2 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 87 (M)
+	  - Décret n°98-771 du 1 septembre 1998 - art. 1 (Ab)
 	  - Code de la sécurité sociale. - art. L331-7 (M)
 	  - Code de la sécurité sociale. - art. L535-1 (Ab)
 	  - Code de la sécurité sociale. - art. L615-19 (T)
@@ -3647,131 +3929,23 @@ ainsi que le choix des adoptants éventuels sont assurés par le tuteur avec l'a
 
 	**Modifié par**:
 
-	  - Loi n°84-422 du 6 juin 1984 - art. 1 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
+	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 38 () JORF 8 janvier 1986
 
-	**Liens**:
+	**Nouveaux textes**:
 
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 1 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 10 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 11 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 12 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 13 (M)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 14 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 15 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 16 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 17 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 18 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 19 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 2 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 20 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 21 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 22 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 22-1 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 23 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 24 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 25 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 26 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 3 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 4 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 5 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 6 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 7 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 8 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 9 (Ab)
-	  - TXT_SOURCE: Décret n°85-938 du 23 août 1985 - art. 1 (Ab)
+	  - Code de l'action sociale et des familles - art. L225-15 (T)
 
 	**Cite**:
 
-	  - Code de la famille et de l'aide sociale. - art. 61 (M)
+	  - Code de la famille et de l'aide sociale. - art. 63 (M)
 
 
-###### Article 65
+# Titre II : Protection sociale de l'enfance
 
-L'association départementale d'entraide entre les pupilles et anciens pupilles de l'Etat participe à l'effort d'insertion
-sociale des personnes admises ou ayant été admises dans le service de l'aide sociale à l'enfance. A cet effet, elle peut
-notamment leur attribuer des secours, primes diverses, dots et prêts d'honneur.
-
-Ses ressources sont constituées par les cotisations de ses membres, les subventions du département, des communes, de l'Etat,
-les dons et legs.
-
-Le conseil d'administration comporte deux membres [*nombre*] des conseils de famille des pupilles de l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Modifié par**:
-
-	  - Loi n°84-422 du 6 juin 1984 - art. 1 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 1 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 10 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 11 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 12 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 13 (M)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 14 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 15 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 16 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 17 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 18 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 19 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 2 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 20 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 21 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 22 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 22-1 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 23 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 24 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 25 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 26 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 3 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 4 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 5 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 6 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 7 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 8 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 9 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L224-11 (V)
-
-	**Cité par**:
-
-	  - Code de la famille et de l'aide sociale. - art. 63-2 (Ab)
-
+## Chapitre II : Aide sociale à l'enfance
 
 ### Section 5 : Organisation administrative du service d'aide sociale à l'enfance
-
-###### Article 77
-
-Dans chaque département, le service de l'aide sociale à l'enfance est placé sous l'autorité du préfet. Ce service est assuré
-par le directeur départemental de la population et de l'aide sociale et par des inspecteurs ou inspectrices dont le nombre
-est déterminé par décret compte tenu de l'importance du service.
-
-Toutefois, dans les départements chefs-lieux de circonscription sanitaire et démographique, l'emploi de directeur
-départemental de la population et de l'aide sociale est tenu par l'inspecteur divisionnaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L221-2 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°43-182 1943-04-15 ART. 35
-
 
 ###### Article 78
 
@@ -3854,995 +4028,6 @@ générale, propose au tuteur les mesures qui commandent la protection et la tut
 	  - Code de l'action sociale et des familles - art. L221-6 (V)
 
 
-###### Article 81
-
-L'article 378 du Code pénal relatif au secret professionnel est applicable à toute personne engagée dans le service de l'aide
-sociale à l'enfance.
-
-En aucun cas, les dossiers concernant les enfants recueillis par le service ne sont distraits du bureau des inspecteurs si ce
-n'est pour être remis au directeur départemental de la population et de l'action sociale ou au préfet.
-
-Toutefois, le procureur de la République pourra, à l'occasion d'une procédure d'adoption ou de légitimation adoptive, prendre
-connaissance des dossiers concernant les enfants recueillis par le service. En toutes matières, le service de l'aide sociale
-à l'enfance pourra, de sa propre initiative ou sur la demande de ce magistrat, lui fournir tous renseignements relatifs aux
-pupilles. Les renseignements ainsi obtenus ne pourront être révélés à l'occasion d'une procédure quelconque ni mentionnés
-dans une décision de justice. Ils ne pourront être communiqués qu'aux magistrats de l'ordre judiciaire.
-
-Dans tous les cas où la loi ou des règlements exigent la production de l'acte de naissance, il peut y être suppléé, s'il n'a
-pas été établi un acte de naissance provisoire dans les conditions prévues à l'article 58 du Code civil et s'il y a lieu
-d'observer le secret, par un certificat d'origine dressé par le directeur départemental de la population et de l'action
-sociale et visé par le préfet.
-
-Toutefois, le lieu où est tenu l'état civil d'un pupille ou d'un ancien pupille de l'Etat sera communiqué aux magistrats de
-l'ordre judiciaire qui en feront la demande à l'occasion d'une procédure pénale. Ce renseignement ne pourra être révélé au
-cours de cette procédure ou mentionné dans la décision à intervenir [*non*] ; toutes mesures devront, en outre, être prises
-pour qu'il ne puisse être porté directement ou indirectement à la connaissance de l'intéressé ou de toute autre personne non
-liée, de par ses fonctions, par le secret professionnel visé à l'article 378 du Code pénal.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Cite**:
-
-	  - Code pénal 378
-	  - Code civil - art. 58 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°43-182 1943-04-15 ART. 39
-
-
-###### Article 82
-
-Le contrôle du service s'effectue par les inspecteurs généraux du ministère de la Santé publique et de la Population.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L221-9 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°43-182 1943-04-15 ART. 40
-
-
-## Chapitre III : Dispositions financières
-
-###### Article 83
-
-Le père, la mère et les ascendants d'un pupille ou d'un enfant [*recueilli temporairement ou en garde*] visé aux articles 48
-et 49 dont l'Administration a la garde, restent tenus envers lui de la dette alimentaire. Les allocations familiales ou les
-majorations pour charges de famille ne sont pas, dans ce cas, versées aux parents mais au service de l'aide sociale à
-l'enfance (budget départemental, recettes en atténuation).
-
-Sous réserve d'une décision judiciaire contraire, sont dispensés des obligations [*pension alimentaire à parents dans le
-besoin*] énoncées aux articles 205, 206 et 207 du Code civil, les pupilles de l'Etat qui auront été élevés par les services
-de l'aide sociale à l'enfance jusqu'à la fin de la scolarité, à moins que les frais d'entretien occasionnés par le pupille
-remis ultérieurement à ses parents n'aient été remboursés à l'Administration.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Cite**:
-
-	  - Code civil - art. 205 (V)
-	  - Code civil - art. 206 (V)
-	  - Code civil - art. 207 (V)
-	  - Code de la famille et de l'aide sociale. - art. 48 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 49 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L228-1 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°43-182 1943-04-15 ART. 41
-
-
-###### Article 85
-
-Le préfet [*autorité compétente*], après avis du directeur départemental de la population et de l'aide sociale, propose le
-montant des crédits nécessaires au fonctionnement des services de l'aide sociale à l'enfance et provoque leur inscription au
-budget du département.
-
-Il liquide et mandate les dépenses ; le trésorier-payeur général en assure le payement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L228-3 (V)
-
-	**Cité par**:
-
-	  - Code de la famille et de l'aide sociale. - art. 86 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°43-182 1943-04-15 ART. 44
-
-
-###### Article 86
-
-Les dépenses du service comprennent :
-
-1. Les secours de premiers besoins et les allocations mensuelles accordés en application des articles 43, 52 et 53 du présent
-code ;
-
-2. Les frais d'entretien et d'éducation des mineurs confiés au service, et notamment :
-
-Les frais de séjour dans les établissements ;
-
-Les frais de placement familial ;
-
-Les frais d'habillement ;
-
-Les frais de scolarité ;
-
-Les frais médicaux et d'inhumation ;
-
-Les frais de déplacement des mineurs et des personnes désignées pour les accompagner ;
-
-Les frais d'actes, de contentieux et de recouvrement des deniers pupillaires ;
-
-Les frais d'assurances relatifs aux mineurs ;
-
-Les gratifications diverses aux pupilles et assimilés ;
-
-3. Les subventions du département à l'association d'entraide des pupilles et anciens pupilles ;
-
-4. Les frais d'entretien, d'éducation et de transfèrement des mineurs surveillés visés au 1. de l'article 46 du Code de la
-famille et de l'aide sociale.
-
-Toutefois, pour les mineurs recueillis par des particuliers ou des institutions privées, conformément aux dispositions du
-titre II de la loi du 24 juillet 1889 [*voir c. civil art. 371 à 387*], un arrêté conjoint du ministre de la santé publique
-et de la population, du ministre des finances et des affaires économiques et du ministre de l'intérieur détermine les cas
-dans lesquels peut intervenir une prise en charge et les modalités de celle-ci ;
-
-5. Les frais résultant de l'action éducative exercée par le service en faveur des mineurs surveillés visés au 2. de l'article
-46 du Code de la famille et de l'aide sociale ;
-
-6. Les frais d'entretien, d'éducation et de transfèrement des mineurs en danger confiés à des particuliers ou à des
-institutions privées en application des articles 375 à 382 du Code civil lorsqu'ils ne relèvent pas de l'aide médicale ou de
-l'aide aux infirmes ;
-
-7. Les frais de séjour des femmes hébergées en maison maternelle ou hospitalisées dans les conditions prévues à l'article 42
-du Code de la famille et de l'aide sociale ;
-
-8. Les remboursements aux départements étrangers ;
-
-9. Les dépenses de fonctionnement du service, et notamment :
-
-Les frais de vacation, de traitement et de déplacement du personnel rétribué sur le budget départemental et affecté au
-service ;
-
-Les subventions aux services sociaux concourant à la protection de l'enfance ;
-
-Les frais d'imprimés et de fournitures spéciales ;
-
-Les frais d'acquisition et d'entretien du mobilier et du matériel affectés au service ;
-
-Les frais de location, d'entretien, de chauffage, d'éclairage et d'assurance des locaux.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Cité par**:
-
-	  - Décret n°94-909 du 14 octobre 1994 - art. 19 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 193 (M)
-
-	**Cite**:
-
-	  - Code civil 375 à 382
-	  - Code de la famille et de l'aide sociale. - art. 42 (M)
-	  - Code de la famille et de l'aide sociale. - art. 43 (M)
-	  - Code de la famille et de l'aide sociale. - art. 46 (M)
-	  - Code de la famille et de l'aide sociale. - art. 52 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 53 (Ab)
-	  - Loi n°1889-07-24
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L228-4 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°1953-11-29 ART. 61 ET 73
-	  - Loi n°43-182 1943-04-15 ART. 45
-
-
-###### Article 87
-
-Les recettes du service comprennent :
-
-1. Les remboursements des départements et des familles ;
-
-2. Les versements divers (allocations familiales, majorations de pension revenant à l'enfant, remboursement des caisses
-d'assurances sociales, etc.) ;
-
-3. Le revenu des biens et capitaux [*appartenant au pupille*] visés par l'article 63 ;
-
-4. Le produit des successions recueillies en conformité du premier alinéa de l'article 84 ;
-
-5. Le produit et les revenus des dons et legs faits pour le service au département ainsi que le revenu des fondations,
-antérieurement constituées en faveur du même service, au profit des hospices et dont ceux-ci ont l'administration ;
-
-6. Le produit de l'exploitation des établissements départementaux affectés au service de l'aide sociale à l'enfance.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-1186 1953-11-29 ART. 64
-	  - Loi n°43-182 1943-04-15 ART. 46
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L228-5 (V)
-
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale. - art. 63 (M)
-	  - Code de la famille et de l'aide sociale. - art. 84 (Ab)
-
-	**Cité par**:
-
-	  - Code de la famille et de l'aide sociale. - art. 88 (M)
-
-
-###### Article 88
-
-Les recettes prévues aux numéros 5 et 6 de l'article 87 sont employées, sous réserve des affectations spéciales imposées par
-les bienfaiteurs, à la création de dots de mariage en faveur des pupilles ou d'anciens pupilles des deux sexes ; ces dots
-sont attribuées par le conseil de famille sur la proposition du tuteur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L228-6 (V)
-
-	**Cité par**:
-
-	  - Code de la famille et de l'aide sociale. - art. 84 (Ab)
-
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale. - art. 87 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°43-182 1943-04-15 ART. 47
-
-
-## Chapitre IV : Protection des mineurs placés hors du domicile paternel
-
-### Section 1 : Protection générale des mineurs
-
-###### Article 93
-
-Est placé sous la protection de l'autorité publique tout mineur hébergé collectivement ou isolément hors du domicile de ses
-parents jusqu'au quatrième degré ou de son tuteur lorsqu'il n'est pas protégé par les dispositions du Code de la santé
-publique ou par celles qui visent des établissements soumis à une réglementation particulière.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Cité par**:
-
-	  - Code de la famille et de l'aide sociale. - art. 94 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret  1938-06-17 ART. 1
-
-
-###### Article 94
-
-La surveillance en est confiée au préfet [*autorité compétente*]. Elle s'exerce à la fois sur les conditions morales et
-matérielles du placement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1938-06-17 ART. 2
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Cité par**:
-
-	  - Décret n°67-45 du 10 janvier 1967 - art. 4 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 93 (Ab)
-
-
-###### Article 95
-
-Toute personne physique ou toute personne morale privée qui désire héberger ou recevoir de manière habituelle,
-collectivement, à titre gratuit ou onéreux, des "mineurs" doit préalablement en faire la déclaration à l'autorité
-administrative. Celle-ci est tenue d'en donner récépissé.
-
-Cette déclaration doit mentionner [*obligation*] notamment les caractéristiques juridiques de l'établissement prévu, les noms
-de ses propriétaires ou administrateurs, le nom de son directeur et, le cas échéant, de son économe, et enfin l'activité
-envisagée. Un décret en Conseil d'Etat précise le contenu de la déclaration et en fixe les modalités. Ce décret précise
-également les conditions minimales que devront remplir les personnels de direction notamment en ce qui concerne leur
-qualification et leur expérience professionnelle.
-
-Tout changement essentiel projeté dans l'activité, l'installation, l'organisation, la direction ou le fonctionnement d'un
-établissement et intéressant l'un des points mentionnés dans la déclaration doit être porté à la connaissance de l'autorité
-administrative dans les conditions qui sont fixées par décret en Conseil d'Etat.
-
-Dans un délai de deux mois, l'autorité administrative peut faire opposition, dans l'intérêt des bonnes moeurs, de la santé,
-de la sécurité, de l'hygiène, de l'éducation ou du bien-être des enfants, à l'ouverture de l'établissement ou à l'exécution
-des modifications projetées. A défaut d'opposition, l'établissement peut être ouvert et les modifications exécutées sans
-autre formalité [*accord tacite*].
-
-Est incapable d'exploiter ou de diriger un établissement visé au présent article ou d'y être employée [*interdiction*] :
-
-1. Toute personne condamnée pour crime ou pour un des délits prévus à l'article L. 5 du code électoral ;
-
-2. Toute personne déchue de tout ou partie des attributs de l'autorité parentale ou dont un enfant ou pupille a fait l'objet,
-en application des articles 375 à 375-8 du code civil, d'une mesure d'assistance éducative qui n'a pas été prise à sa
-requête.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1938-06-17 art. 3
-
-	**Cité par**:
-
-	  - Décret n°54-883 du 2 septembre 1954 - art. 48 (M)
-	  - Loi n°71-1050 du 24 décembre 1971 - art. 3 (M)
-	  - Décret n°72-990 du 23 octobre 1972 - art. 1 (Ab)
-	  - Décret n°72-990 du 23 octobre 1972 - art. 3 (Ab)
-	  - Décret n°72-990 du 23 octobre 1972 - art. 7 (Ab)
-	  - Loi n°75-535 du 30 juin 1975 - art. 32 (Ab)
-	  - Décret n°76-838 du 25 août 1976 - art. 37 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 209 bis (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 96 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 97 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 98 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Créé par**:
-
-	  - Loi n°71-1050 du 24 décembre 1971 - art. 1 () JORF 28 décembre 1971
-
-	**Cite**:
-
-	  - Code électoral - art. L5 (M)
-	  - Code civil - art. 375-8 (V)
-	  - Code civil 375 A, 375-8
-
-
-###### Article 96
-
-Les dispositions des articles 207, 208, 209, 209 bis, 210, 211, 212 et 215 du présent code sont applicables aux
-établissements [*recevant des mineurs*] définis à l'article 95, ainsi qu'aux personnes qui en sont responsables. Elles sont
-également applicables aux établissements créés par les collectivités publiques.
-
-Le préfet peut, en outre, formuler des injonctions et, après avis du conseil départemental de protection de l'enfance, fermer
-l'établissement dans le cas de violation des lois et règlements relatifs à l'obligation scolaire ou à l'emploi des jeunes et
-lorsqu'il estime que le traitement ou l'éducation des enfants sont compromis ou menacés. En cas d'urgence, le préfet
-[*autorité compétente*] peut, sans injonction préalable ni consultation du conseil départemental de protection de l'enfance,
-prononcer, par arrêté motivé et à titre provisoire, une mesure de fermeture immédiate, à charge pour lui d'en saisir pour
-avis ledit conseil, dans le délai d'un mois.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Cité par**:
-
-	  - Décret n°67-45 du 10 janvier 1967 - art. 4 (Ab)
-	  - Décret n°72-990 du 23 octobre 1972 - art. 1 (Ab)
-	  - Loi n°75-535 du 30 juin 1975 - art. 14 (M)
-
-	**Créé par**:
-
-	  - Loi n°71-1050 du 24 décembre 1971 - art. 1 () JORF 28 décembre 1971
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L321-3 (M)
-
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale 207, 208, 209, 209 BIS, 210, 211, 212, 215, 95
-	  - Code de la famille et de l'aide sociale. - art. 207 (M)
-	  - Code de la famille et de l'aide sociale. - art. 208 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 209 (M)
-	  - Code de la famille et de l'aide sociale. - art. 210 (M)
-	  - Code de la famille et de l'aide sociale. - art. 211 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 212 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 215 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 95 (M)
-
-	**Anciens textes**:
-
-	  - Décret  1938-06-17 ART. 4
-
-
-###### Article 97
-
-Nul ne peut servir habituellement d'intermédiaire de placement soit à titre personnel soit au nom d'une collectivité publique
-ou privée s'il n'est autorisé [*condition*] à cet effet par le préfet du département de sa résidence, appelé à apprécier
-après avis d'un conseil dont la composition et le fonctionnement sont fixés par décret, s'il présente les garanties morales
-et matérielles indispensables.
-
-Nul ne peut héberger gratuitement ou moyennant salaire, de façon habituelle, un mineur protégé par la présente section, à lui
-confié par une personne ou groupement habilité à pratiquer le placement, s'il n'est spécialement autorisé par une décision du
-préfet.
-
-Un arrêté du ministre de la santé publique et de la population fixe les conditions dans lesquelles sont accordées les
-autorisations prévues aux alinéas précédents.
-
-L'autorisation, prévue au deuxième alinéa n'est pas requise, si le placement est effectué dans un centre de placement
-familial autorisé.
-
-Les dispositions du présent article sont applicables aux oeuvres de bienfaisance. Les organismes de placement autorisés dans
-les conditions prévues par l'ordonnance du 24 mai 1945 relative au placement des travailleurs et au contrôle de l'emploi
-[*code du travail art. L. 311-1 et S., L. 321-1 et S.*] ne sont pas soumis aux obligations du présent article.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Cité par**:
-
-	  - Décret n°67-161 du 24 février 1967 - art. 3 (Ab)
-	  - Loi n°75-535 du 30 juin 1975 - art. 14 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 100-1 (M)
-	  - Code de la famille et de l'aide sociale. - art. 115 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 98 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L331-7 (M)
-
-	**Anciens textes**:
-
-	  - Décret  1938-06-17 ART. 5
-
-	**Cite**:
-
-	  - Ordonnance 1945-05-24
-
-
-###### Article 98
-
-L'autorisation d'organiser un centre familial de placement est accordée par arrêté préfectoral pris sur la proposition du
-directeur départemental de la population et de l'aide sociale et du directeur de la santé après avis du conseil visé à
-l'article précédent, déterminant notamment le périmètre de l'organisation, les conditions de surveillance auxquelles sont
-soumis ces placements particulièrement au point de vue sanitaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1938-06-17 ART. 6
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L331-8 (M)
-
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale. - art. 97 (M)
-
-
-###### Article 99
-
-Les infractions aux articles 93 à 98 sont punies d'un emprisonnement de dix jours à trois mois [*durée*] et d'une amende de
-500 F à 10.000 F [*montant*] ou de l'une de ces deux peines seulement.
-
-Le tribunal peut interdire au condamné, soit définitivement, soit pour une durée déterminée, d'exploiter ou de diriger tout
-établissement soumis aux dispositions du présent titre ainsi que d'effectuer des placements d'enfants ou de recevoir des
-enfants. En cas d'infraction à cette interdiction, les peines prévues au premier et au dernier alinéa du présent article sont
-applicables.
-
-En cas de récidive, les peines prévues au premier alinéa du présent article peuvent être portées au double ; le tribunal doit
-se prononcer expressément sur la sanction accessoire de l'interdiction.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1938-06-17 ART. 7
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Créé par**:
-
-	  - Loi n°71-1050 du 24 décembre 1971 - art. 1 () JORF 28 décembre 1971
-
-	**Cité par**:
-
-	  - Décret n°72-990 du 23 octobre 1972 - art. 11 (Ab)
-	  - Loi n°75-535 du 30 juin 1975 - art. 15 (Ab)
-	  - Loi n°89-475 du 10 juillet 1989 - art. 17 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 100-2 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 123-1-7 (Ab)
-	  - Code de la santé publique - art. L183 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L321-4 (M)
-
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale 93 à 98
-
-
-### Section 2 : Contrôle des oeuvres d'adoption
-
-###### Article 100-1
-
-Toute personne ou association qui, habituellement, à titre principal ou accessoire, place en vue de leur adoption des mineurs
-de quinze ans [*âge*] ou sert d'intermédiaire pour leur adoption ou leur placement en vue de leur adoption, même avec
-l'intervention des parents, doit, sans préjudice des formalités imposées par le droit commun en matière de protection de
-l'enfance, y être autorisée par le préfet sur avis du conseil visé à l'article 97 ci-dessus [*condition*].
-
-L'absence de notification de refus dans les quatre mois de la demande vaudra autorisation [*tacite*].
-
-Les personnes ou associations autorisées sont tenus aux obligations prévues par les articles 55 et 64, alinéa 1er.
-
-Un décret pris en Conseil d'Etat déterminera les conditions dans lesquelles est accordée, refusée ou retirée l'autorisation
-visée à l'alinéa 1er ainsi que les obligations particulières imposées aux personnes ou associations autorisées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Cité par**:
-
-	  - Décret n°67-45 du 10 janvier 1967 - art. 1 (Ab)
-	  - Décret n°67-45 du 10 janvier 1967 - art. 10 (Ab)
-	  - Décret n°67-45 du 10 janvier 1967 - art. 11 (Ab)
-	  - Décret n°67-45 du 10 janvier 1967 - art. 12 (Ab)
-	  - Décret n°67-45 du 10 janvier 1967 - art. 13 (Ab)
-	  - Décret n°67-45 du 10 janvier 1967 - art. 14 (Ab)
-	  - Décret n°67-45 du 10 janvier 1967 - art. 15 (Ab)
-	  - Décret n°67-45 du 10 janvier 1967 - art. 2 (Ab)
-	  - Décret n°67-45 du 10 janvier 1967 - art. 3 (Ab)
-	  - Décret n°67-45 du 10 janvier 1967 - art. 4 (Ab)
-	  - Décret n°67-45 du 10 janvier 1967 - art. 5 (Ab)
-	  - Décret n°67-45 du 10 janvier 1967 - art. 6 (Ab)
-	  - Décret n°67-45 du 10 janvier 1967 - art. 7 (Ab)
-	  - Décret n°67-45 du 10 janvier 1967 - art. 8 (Ab)
-	  - Décret n°67-45 du 10 janvier 1967 - art. 9 (Ab)
-	  - Décret n°67-45 du 12 janvier 1967
-	  - Décret n°67-161 du 24 février 1967 - art. 3 (Ab)
-	  - Décret n°89-95 du 10 février 1989 - art. 10 (Ab)
-	  - Décret n°89-95 du 10 février 1989 - art. 21 (Ab)
-	  - Décret n°89-95 du 10 février 1989 - art. 23 (Ab)
-	  - Décret n°89-95 du 10 février 1989 - art. 24 (Ab)
-	  - Décret n°89-95 du 10 février 1989 - art. 25 (Ab)
-	  - Décret n°89-95 du 10 février 1989 - art. 28 (Ab)
-	  - Décret n°89-95 du 10 février 1989 - art. 29 (Ab)
-	  - Décret n°89-95 du 10 février 1989 - art. 30 (Ab)
-	  - Décret n°89-95 du 10 février 1989 - art. 31 (Ab)
-	  - Arrêté du 2 décembre 1998 - art. 3 (M)
-	  - Arrêté du 25 janvier 1967
-	  - Code de la famille et de l'aide sociale. - art. 100-2 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 100-2-1 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 100-4 (Ab)
-
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale 97, 55, 64 AL. 1
-	  - Code de la famille et de l'aide sociale. - art. 55 (M)
-	  - Code de la famille et de l'aide sociale. - art. 97 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la famille et de l'aide sociale. - art. 100-2 (M)
-
-
-###### Article 100-2
-
-Quiconque se livre aux activités définies à l'article ci-dessus sans y avoir été autorisé est puni des peines prévues à
-l'article 99 du présent code.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Cité par**:
-
-	  - Décret n°89-95 du 10 février 1989 - art. 8 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L225-17 (T)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la famille et de l'aide sociale. - art. 100-1 (M)
-
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale. - art. 99 (M)
-
-
-### Section 4 : Assistantes maternelles
-
-###### Article 123-1
-
-Peuvent seules accueillir habituellement des mineurs à leur domicile moyennant rémunération les personnes qui sont agréées à
-cet effet [*condition*].
-
-Des actions de formation destinées à les aider dans leur tâche éducative sont organisées pour ces personnes au titre de la
-protection maternelle et infantile.
-
-Un décret détermine les modalités d'application du présent article en fonction notamment de l'âge du mineur et des
-circonstances du placement. Il fixe les éléments d'appréciation d'ordre sanitaire et éducatif, compte tenu notamment de
-l'expérience acquise par l'assistante maternelle, au vu desquels l'agrément est accordé, refusé ou retiré.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978
-	  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978 - art. 1 (Ab)
-	  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978 - art. 10 (Ab)
-	  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978 - art. 2 (Ab)
-	  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978 - art. 3 (Ab)
-	  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978 - art. 4 (Ab)
-	  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978 - art. 5 (Ab)
-	  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978 - art. 6 (Ab)
-	  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978 - art. 7 (Ab)
-	  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978 - art. 8 (Ab)
-	  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978 - art. 9 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°78-474 du 29 mars 1978 - art. 1 (Ab)
-	  - Décret n°78-474 du 29 mars 1978 - art. 7 (Ab)
-	  - Décret n°78-474 du 29 mars 1978 - art. 8 (Ab)
-	  - Arrêté du 1 octobre 1990 - art. 8 (M)
-	  - Loi n°91-1406 du 31 décembre 1991 - art. 17 (Ab)
-	  - Loi n°92-642 du 12 juillet 1992 - art. 18 (M)
-	  - Loi n°92-642 du 12 juillet 1992 - art. 19 (M)
-	  - Décret n°92-1051 du 29 septembre 1992 - art. 1 (Ab)
-	  - Décret n°92-1051 du 29 septembre 1992 - art. 11 (Ab)
-	  - Décret n°92-1051 du 29 septembre 1992 - art. 30 (Ab)
-	  - Décret n°92-1051 du 29 septembre 1992 - art. 8 (Ab)
-	  - Décret n°94-909 du 14 octobre 1994 - art. 2 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 123-1-5 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 123-2 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 123-3 (M)
-	  - Code de la santé publique - art. L146 (Ab)
-	  - Code de la santé publique - art. L2111-1 (M)
-	  - Code de la sécurité sociale. - art. L841-1 (VD)
-	  - Code du travail - art. D773-1 (P)
-	  - Code du travail - art. L122-28-5 (M)
-	  - Code du travail - art. L773-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L421-1 (VD)
-
-
-###### Article 123-2
-
-Les personnes mentionnées à l'article précédent et employées par des particuliers doivent obligatoirement s'assurer pour les
-dommages que les enfants gardés pourraient provoquer et pour ceux dont ils pourraient être victimes. Leurs employeurs sont
-tenus, avant de leur confier un enfant, de vérifier qu'elles ont bien satisfait à cette obligation    Les personnes
-mentionnées à l'article précédent et employées par des personnes morales sont obligatoirement couvertes contre les mêmes
-risques par les soins desdites personnes morales.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Cité par**:
-
-	  - Loi n°91-1406 du 31 décembre 1991 - art. 17 (Ab)
-	  - Code du travail - art. L122-28-5 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L421-9 (T)
-
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale. - art. 123-1 (M)
-
-
-###### Article 123-3
-
-Lorsque les personnes mentionnées à l'article 123-1 sont employées par des personnes morales de droit public ou de droit
-privé, il est passé entre elles et leur employeur, pour chaque mineur confié en garde permanente, un contrat de placement
-distinct du contrat de travail.
-
-Ce contrat précise notamment le rôle de la famille d'accueil et celui du service ou organisme employeur à l'égard du mineur
-et de sa famille.
-
-Si l'assistante maternelle est mariée et demeure avec son conjoint, le contrat de placement doit être également signé
-[*obligatoirement*] par celui-ci.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Cité par**:
-
-	  - Décret n°92-1051 du 29 septembre 1992 - art. 26 (Ab)
-	  - Décret n°94-909 du 14 octobre 1994 - art. 19 (Ab)
-	  - Code du travail - art. L122-28-5 (M)
-	  - Code du travail - art. L773-3-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L421-10 (T)
-
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale. - art. 123-1 (M)
-
-
-###### Article 123-4
-
-Les dispositions de la présence section ne sont pas applicables lorsque les assistantes maternelles ont avec les mineurs
-accueillis un lien de parenté ou d'alliance jusqu'au sixième degré inclus, sauf dans le cas où l'enfant est placé par
-l'intermédiaire d'une personne morale de droit public ou de droit privé.
-
-Elles ne sont pas non plus applicables aux personnes dignes de confiance mentionnées à l'ordonnance du 2 février 1945
-relative à l'enfance délinquante et à l'article 375-3 du code civil.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Cite**:
-
-	  - Code civil - art. 375-3 (M)
-	  - Ordonnance 1945-02-02
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L421-11 (T)
-
-	**Cité par**:
-
-	  - Code du travail - art. L122-28-5 (M)
-
-
-### Section 5 : Assistantes maternelles employées par des personnes morales de droit public
-
-###### Article 123-5
-
-S'appliquent aux assistantes maternelles employées par des personnes de droit public les articles suivants du livre VII,
-titre VII, chapitre III du code du travail : L. 773-3, L. 773-4, L. 773-5, L. 773-6, L. 773-7, L. 773-10, L. 773-11, L.
-773-12, L. 773-13, L. 773-14 et L. 773-15.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Cite**:
-
-	  - Code du travail - art. L773-10 (M)
-	  - Code du travail - art. L773-11 (M)
-	  - Code du travail - art. L773-12 (M)
-	  - Code du travail - art. L773-13 (T)
-	  - Code du travail - art. L773-14 (T)
-	  - Code du travail - art. L773-15 (M)
-	  - Code du travail - art. L773-3 (M)
-	  - Code du travail - art. L773-4 (M)
-	  - Code du travail - art. L773-5 (M)
-	  - Code du travail - art. L773-6 (M)
-	  - Code du travail - art. L773-7 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L422-1 (VD)
-
-	**Cité par**:
-
-	  - Code du travail - art. L122-28-5 (M)
-
-
-###### Article 123-6
-
-Le droit syndical est reconnu aux assistantes maternelles relevant de la présente section. Les syndicats professionnels régis
-par le livre IV du code du travail peuvent ester en justice devant toute juridiction. Il peuvent notamment, devant les
-juridictions de l'ordre administratif, se pourvoir contre les actes réglementaires concernant le statut de ces assistantes
-maternelles et contre les décisions individuelles portant atteinte à leurs intérêts collectifs.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Cite**:
-
-	  - Code du travail L611-1 A L631-3
-	  - Code de la famille et de l'aide sociale 123-5 A 123-8
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L422-2 (VD)
-
-	**Cité par**:
-
-	  - Code du travail - art. L122-28-5 (M)
-
-
-###### Article 123-7
-
-Les assistantes maternelles relevant de la présente section qui se trouvent involontairement privées d'emploi et qui se sont
-inscrites comme demandeurs d'emploi auprès des services compétents ont droit à un revenu de remplacement dans les conditions
-fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L422-3 (VD)
-
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale 123-5 A 123-8
-
-	**Cité par**:
-
-	  - Code du travail - art. L122-28-5 (M)
-
-
-###### Article 123-8
-
-Afin de pouvoir assurer sans délai des accueils urgents et de courte durée, les services concernés peuvent spécialiser dans
-cette forme d'accueil certaines des assistantes maternelles qu'ils emploient.
-
-Ces personnes s'engagent à recevoir immédiatement les enfants présentés par le service dans la limite d'un nombre maximum
-convenu avec lui.
-
-En contrepartie, elles perçoivent, durant les périodes où aucun enfant ne leur est confié, une indemnité de disponibilité
-dont le montant minimum, supérieur à celui de l'indemnité prévue par l'article L. 773-5 du code du travail, est fixé par
-décret en référence au salaire minimum interprofessionnel de croissance.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Cité par**:
-
-	  - Décret n°78-473 du 29 mars 1978 - art. 3 (Ab)
-	  - Décret n°92-1245 du 27 novembre 1992 - art. 3 (M)
-	  - Code du travail - art. L122-28-5 (M)
-
-	**Cite**:
-
-	  - Code du travail - art. L773-5 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L422-4 (VD)
-
-
-## Chapitre III : Protection des mineurs placés hors du domicile paternel
-
-### Section 2 bis : Accueil de l'enfant étranger en vue de son adoption
-
-###### Article 100-3
-
-Les personnes qui souhaitent accueillir, en vue de son adoption, un enfant étranger doivent demander l'agrément prévu à
-l'article 63 du présent code. Cet agrément est réputé être accordé si l'administration ne s'est pas prononcée dans un délai
-de six mois à compter du jour de la demande [*point de départ, accord tacite*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Créé par**:
-
-	  - Loi n°85-772 du 25 juillet 1985 - art. 2 () JORF 26 juillet 1985
-
-	**Cité par**:
-
-	  - Décret n°85-986 du 16 septembre 1985 - art. 47 (M)
-	  - Décret n°86-68 du 13 janvier 1986 - art. 34-1 (V)
-	  - Décret n°88-145 du 15 février 1988 - art. 14-1 (V)
-	  - Décret n°88-976 du 13 octobre 1988 - art. 34 (M)
-	  - Décret n°91-155 du 6 février 1991 - art. 18-1 (M)
-	  - Loi n°96-604 du 5 juillet 1996 - art. 59 (V)
-	  - Décret n°98-771 du 1 septembre 1998 - art. 1 (Ab)
-	  - Code de la sécurité sociale. - art. L331-7 (M)
-	  - Code de la sécurité sociale. - art. L535-1 (Ab)
-	  - Code de la sécurité sociale. - art. L615-19 (T)
-	  - Code de la sécurité sociale. - art. L615-19-1 (T)
-	  - Code de la sécurité sociale. - art. L722-8 (M)
-	  - Code de la sécurité sociale. - art. L722-8-1 (M)
-	  - Code de la sécurité sociale. - art. L722-8-2 (Ab)
-	  - Code du travail - art. L122-26 (M)
-	  - Code du travail - art. L122-28-10 (M)
-	  - Code rural - art. L732-10 (V)
-	  - Code rural ancien - art. 1106-3-1 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L225-15 (T)
-
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale. - art. 63 (M)
-
-
 # Titre III : Aide sociale
 
 ###### Article 124
@@ -4867,6 +4052,140 @@ sociale telles qu'elles sont définies par le présent code.
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. L111-1 (V)
+
+
+###### Article 124-1
+
+L'admission à une prestation d'aide sociale est prononcée au vu des conditions d'attribution telles qu'elles résultent des
+dispositions législatives ou réglementaires et, pour les prestations légales relevant de la compétence du département ou pour
+les prestations que le département crée de sa propre initiative, au vu des conditions d'attribution telles qu'elles résultent
+des dispositions du règlement départemental d'aide sociale mentionné à l'article 34 de la loi n° 83-663 du 22 juillet 1983
+complétant la loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes, les départements,
+les régions et l'Etat.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cite**:
+
+	  - Loi n°83-8 1983-01-07
+	  - Loi n°83-663 1983-07-22 art. 34
+
+	**Créé par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 52 () JORF 8 janvier 1986
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L111-4 (V)
+
+
+###### Article 124-2
+
+Les prestations légales d'aide sociale, éventuellement améliorées dans les conditions prévues par l'article 34 de la loi n°
+83-663 du 22 juillet 1983 précitée, sont attribuées par la commission mentionnée à l'article 126 selon une procédure fixée
+par décret en Conseil d'Etat. Toutefois, les prestations d'aide sociale à l'enfance, les prestations relatives à la lutte
+contre la tuberculose mentionnées aux articles L. 214 et suivants du code de la santé publique et les prestations mentionnées
+à l'article 181-1 du présent code sont attribuées par le président du conseil général. Il en est de même des prestations
+mentionnées à l'article 39 de la loi n° 75-534 du 30 juin 1975 d'orientation en faveur des personnes handicapées, dans les
+conditions prévues par cette loi.
+
+Les prestations mentionnées aux articles 156, 181-2 et 185 du présent code sont attribuées par le représentant de l'Etat.
+
+A l'exception des décisions concernant l'attribution des prestations d'aide sociale à l'enfance, les décisions du président
+du conseil général et du représentant de l'Etat dans le département prévues à l'alinéa précédent sont susceptibles de recours
+devant les commissions mentionnées aux articles 128 et 129, dans des conditions fixées par décret en Conseil d'Etat.
+
+**Nota:**
+
+*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°54-883 du 2 septembre 1954 - art. 4 (M)
+	  - Code de la famille et de l'aide sociale. - art. 128 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cite**:
+
+	  - Loi n°75-534 du 30 juin 1975 - art. 39 (M)
+	  - Loi n°83-663 1983-07-22 art. 34
+	  - Code de la famille et de l'aide sociale 126, 181-1, 156, 181-2, 185, 128 et 129
+	  - Code de la famille et de l'aide sociale. - art. 126 (M)
+	  - Code de la famille et de l'aide sociale. - art. 156 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 181-1 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 181-2 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 185 (M)
+	  - Code de la santé publique - art. L214 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 52 () JORF 8 janvier 1986
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L131-2 (V)
+	  - Code de l'action sociale et des familles - art. L134-1 (V)
+
+
+###### Article 124-3
+
+Les décisions attribuant une aide sous la forme d'une prise en charge de frais d'hébergement ou de frais médicaux peuvent
+prendre effet à compter de la date d'entrée dans l'établissement ou de la délivrance des soins, à condition que l'aide ait
+été demandée dans un délai fixé par voie réglementaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 52 () JORF 8 janvier 1986
+
+	**Cité par**:
+
+	  - Loi n°90-86 du 23 janvier 1990 - art. 27 (M)
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L131-4 (V)
+	  - Code de l'action sociale et des familles - art. L252-4 (V)
 
 
 ## Chapitre Ier : Dispositions générales, procédure et conditions d'admission à l'aide sociale
@@ -4946,42 +4265,47 @@ territoriale de Mayotte, les mots :
 
 ###### Article 126
 
-La commission d'admission comprend cinq membres [*nombre*] :
+La commission d'admission à l'aide sociale [*composition*] est présidée par un magistrat du siège en activité ou honoraire ou
+par une personnalité compétente, désigné par le premier président de la cour d'appel.
 
-Un magistrat du siège en activité ou honoraire, désigné par le premier président de la cour d'appel, président.
+Elle comprend, outre le président :
 
-Deux fonctionnaires de l'administration des finances désignés par le préfet.
+1° Lorsqu'elle statue sur les demandes de prestations relevant du département en application de l'article 32 de la loi n°
+83-663 du 22 juillet 1983 précitée, le conseiller général du canton comportant la commune où la demande a été déposée ou du
+canton du demandeur dans le cas où le dossier est transmis dans les conditions prévues à l'article 194, ou un conseiller
+général suppléant désigné par le conseil général et le maire de la commune concernée ou un conseiller municipal, suppléant ;
 
-Ces membres titulaires peuvent être remplacés par des membres suppléants désignés dans les mêmes conditions.
+2° Lorsqu'elle statue sur les demandes de prestations relevant de l'Etat en application de l'article 35 de la loi n° 83-663
+du 22 juillet 1983 précitée, deux fonctionnaires de l'Etat désignés par le représentant de l'Etat dans le département ou
+leurs suppléants désignés dans les mêmes conditions.
 
-Le conseiller général du canton comprenant la commune où réside l'intéressé.
+Lorsque la commission siège dans la formation prévue au 1° ci-dessus, les personnes mentionnées au 2° peuvent siéger avec
+voix consultative. Lorsqu'elle siège dans la formation prévue au 2°, les personnes mentionnées au 1° peuvent siéger avec voix
+consultative.
 
-Pour les affaires concernant la commune, le maire de la commune intéressée. Le maire peut se faire suppléer par un membre du
-conseil municipal.
+Lorsqu'elle statue en application du cinquième alinéa de l'article 194, la commission siège en formation plénière.
 
-En cas de partage, la voix du président est prépondérante.
+En cas d'égal partage des voix, le président a voix prépondérante.
 
-Assistent à la commission avec voix consultative :
+Peuvent siéger avec voix consultative un représentant des organismes de sécurité sociale ou de la mutualité sociale agricole
+et un représentant d'un centre communal d'action sociale désignés conjointement par le président du conseil général et le
+représentant de l'Etat dans le département.
 
-Un représentant des organismes de sécurité sociale ou de la mutualité sociale agricole, désigné par le préfet dans les
-conditions qui sont fixées par arrêté interministériel.
+Le demandeur, accompagné de la personne ou de l'organisme de son choix, est entendu lorsqu'il le souhaite sur décision du
+président de la commission.
 
-Un représentant d'un bureau d'aide sociale désigné par le préfet.
+**Nota:**
 
-Le directeur départemental de la population et de l'aide sociale ou son représentant, représente le préfet auprès de la
-commission.
+[*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
 
-Le conseil général fixe, sur proposition du préfet, le ressort de la commission et la périodicité de ses réunions dans les
-conditions déterminées par décret.
+"département" sont remplacés par "collectivité territoriale" ;
 
-Le secrétariat de la commission est assuré par un secrétaire rapporteur désigné par le préfet dans les conditions fixées par
-ledit décret.
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°55-190 du 2 février 1955 - art. 2, v. init.
 
 	**Codifié par**:
 
@@ -4996,6 +4320,14 @@ ledit décret.
 	  - Code de la famille et de l'aide sociale. - art. 194 (Ab)
 	  - Code de la sécurité sociale. - art. D412-79 (V)
 
+	**Cite**:
+
+	  - Loi n°83-663 1983-07-22 art. 32, art. 35
+
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 53 () JORF 8 janvier 1986
+
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. L131-5 (M)
@@ -5003,11 +4335,19 @@ ledit décret.
 
 ###### Article 127
 
-Les commissions [*d'admission*] ne peuvent établir des listes annuelles qu'en matière d'aide médicale et au profit des seuls
-bénéficiaires de l'aide aux personnes âgées et aux économiquement faibles.
+Le ressort de la commission d'admission et la périodicité de ses réunions sont fixés par le conseil général après avis du
+représentant de l'Etat dans le département.
 
-Ces listes comportent plusieurs catégories selon que les intéressés sont ou non assurés sociaux et selon qu'il apparaît
-qu'une part de la dépense peut ou non être laissée à leur charge.
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
 
 **Liens relatifs à cet article**
 
@@ -5016,13 +4356,17 @@ qu'une part de la dépense peut ou non être laissée à leur charge.
 	  - Décret n°54-883 du 2 septembre 1954 - art. 14 (Ab)
 	  - Code de la famille et de l'aide sociale. - art. 243 (Ab)
 
-	**Anciens textes**:
-
-	  - Décret n°55-190 1955-02-02 ART. 3
-
 	**Codifié par**:
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 53 () JORF 8 janvier 1986
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 	**Nouveaux textes**:
 
@@ -5031,27 +4375,43 @@ qu'une part de la dépense peut ou non être laissée à leur charge.
 
 ###### Article 128
 
-Dans un délai d'un mois, à compter de la notification aux intéressés de la décision de la commission [*d'admission*], un
-recours peut être formé devant la commission départementale. Les recours sont jugés par cette commission qui siège au chef-
-lieu du département et qui comprend sept membres :
+Un recours peut être formé devant la commission départementale contre les décisions des commissions d'admission ou des
+autorités siégeant dans le département mentionnées au second alinéa de l'article 124-2, dans le délai de deux mois à compter
+de leur notification aux intéressés [*point de départ*.
 
-Le président du tribunal du chef-lieu, président ;
+La commission départementale siège au chef-lieu du département *]composition*. Elle est présidée par le président du tribunal
+de grande instance du chef-lieu ou le magistrat désigné par lui pour le remplacer. Elle comprend, en outre :
 
-Trois conseillers généraux élus par le conseil général ;
+- trois conseillers généraux élus par le conseil général ;
 
-Trois fonctionnaires de l'Administration des finances désignés par le préfet.
+- trois fonctionnaires de l'Etat en activité ou à la retraite désignés par le représentant de l'Etat dans le département.
 
-Assistent à la commission avec voix consultative :
+En cas d'égal partage des voix, le président a voix prépondérante.
 
-Un représentant des organismes de sécurité sociale ou de la mutualité sociale agricole désigné par le préfet dans les
-conditions fixées par règlement d'administration publique ;
+Le secrétaire de la commission assure les fonctions de rapporteur.
 
-Un représentant d'une commission administrative d'hôpital ou d'hospice désigné par le préfet.
+Il peut lui être adjoint un ou plusieurs rapporteurs. Ils sont nommés par le président de la commission parmi les personnes
+figurant sur une liste établie conjointement par le président du conseil général et le représentant de l'Etat dans le
+département. Ils ont voix délibérative sur les affaires qu'ils rapportent.
 
-Le secrétaire de la commission assure les fonctions de rapporteur. Il peut lui être adjoint un ou plusieurs rapporteurs.
+Un commissaire du Gouvernement désigné par le représentant de l'Etat dans le département prononce ses conclusions sur les
+affaires que lui confie le président. Il n'a pas voix délibérative.
 
-Le directeur départemental de la population et de l'aide sociale exerce auprés de la commission départementale les fonctions
-de commissaire du Gouvernement. En cette qualité, il donne ses conclusions sur chacune des affaires soumises à la commission.
+Le secrétaire, les rapporteurs et les commissaires du Gouvernement sont choisis parmi les fonctionnaires ou magistrats en
+activité ou à la retraite.
+
+Le demandeur, accompagné de la personne ou de l'organisme de son choix, est entendu lorsqu'il le souhaite.
+
+**Nota:**
+
+*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*
 
 **Liens relatifs à cet article**
 
@@ -5067,13 +4427,13 @@ de commissaire du Gouvernement. En cette qualité, il donne ses conclusions sur 
 	  - Code de la sécurité sociale. - art. D412-79 (V)
 	  - Code de la sécurité sociale. - art. L757-2 (Ab)
 
-	**Anciens textes**:
-
-	  - Décret n°55-190 1955-02-02 ART. 4
-
 	**Codifié par**:
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 53 () JORF 8 janvier 1986
 
 	**Nouveaux textes**:
 
@@ -5083,18 +4443,60 @@ de commissaire du Gouvernement. En cette qualité, il donne ses conclusions sur 
 
 ###### Article 129
 
-Dans le délai d'un mois à dater de sa notification, la décision de la commission départementale [*d'admission*] est
-susceptible de recours devant la commission centrale d'aide sociale.
+Dans le délai de deux mois à compter de leur notification, les décisions des commissions départementales sont susceptibles
+d'appel et les décisions prises en application de l'article 156 sont susceptibles de recours devant la commission centrale
+d'aide sociale.
 
-La commission centrale peut, par décision prise à la majorité des deux tiers des membres présents, décider que sera passible
-d'une amende de fol appel, dont le montant ne pourra excéder 100 F [*ancien montant : 10.000 francs*], l'auteur d'un recours
-jugé manifestement abusif.
+La commission centrale d'aide sociale est composée de sections et de sous-sections dont le nombre est fixé par décret en
+Conseil d'Etat.
+
+Le président de la commission centrale est nommé par le ministre chargé de l'aide sociale sur proposition du vice-président
+du Conseil d'Etat parmi les conseillers d'Etat en activité ou honoraires.
+
+Chaque section ou sous-section comprend en nombre égal, d'une part, des membres du Conseil d'Etat, des magistrats de la Cour
+des comptes ou des magistrats de l'ordre judiciaire en activité ou honoraires désignés respectivement par le vice-président
+du Conseil d'Etat, le premier président de la Cour des comptes ou le garde des sceaux, ministre de la justice, d'autre part,
+des fonctionnaires ou personnes particulièrement qualifiées en matière d'aide ou d'action sociale désignées par le ministre
+chargé de l'aide sociale.
+
+Les membres de la commission centrale sont nommés pour une durée de quatre ans renouvelable.
+
+Le président et le vice-président de chaque section ainsi que le président de chaque sous-section sont désignés parmi les
+membres de la section ou de la sous-section par le ministre chargé de l'aide sociale.
+
+Des rapporteurs chargés d'instruire les dossiers sont nommés par le ministre de l'aide sociale soit parmi les membres du
+Conseil d'Etat et les magistrats de la Cour des comptes, soit parmi les fonctionnaires des administrations centrales des
+ministères, soit parmi les personnes particulièrement compétentes en matière d'aide ou d'action sociale. Ils ont voix
+délibérative dans les affaires dont ils sont rapporteurs.
+
+Des commissaires du Gouvernement, chargés de prononcer leurs conclusions sur les affaires que le président de la commission
+centrale, d'une section ou d'une sous-section, leur confie, sont nommés par le ministre chargé de l'aide sociale parmi les
+membres du Conseil d'Etat, les magistrats de la Cour des comptes et les fonctionnaires du ministère chargés de l'aide
+sociale.
+
+Les affaires sont jugées par une section ou une sous-section. Elles peuvent être renvoyées à deux sections réunies ou à
+l'assemblée plénière des sections.
+
+Le demandeur, accompagné de la personne ou de l'organisme de son choix, est entendu lorsqu'il le souhaite.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 264 : les dispositions du présent article sont applicables aux décisions de
+la commission territoriale d'aide sociale.
+
+Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
+
+Nota : Ordonnance 2000-1249 2000-12-21 art. 5 I 6° : l'abrogation du présent article ne prend effet qu'à compter de la
+publication des dispositions réglementaires correspondantes du code de l'action sociale et des familles.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°55-190 1955-02-02 ART. 5
 
 	**Codifié par**:
 
@@ -5113,9 +4515,23 @@ jugé manifestement abusif.
 	  - Code de la famille et de l'aide sociale. - art. 246 (Ab)
 	  - Code de la sécurité sociale. - art. L757-2 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 53 () JORF 8 janvier 1986
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. L134-2 (M)
+	  - Code de l'action sociale et des familles - art. R134-10 (V)
+	  - Code de l'action sociale et des familles - art. R134-4 (V)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 156 (Ab)
 
 
 ###### Article 130
@@ -5164,40 +4580,59 @@ territoriale de Mayotte, les mots :
 
 ###### Article 131
 
-Les recours, tant devant la commission départementale que devant la commission centrale, peuvent être formulés par le
-demandeur, l'établissement où il est admis, le maire, le représentant de l'Etat ou le président du conseil général
-[*antérieurement à 1983, le préfet*] les organismes de sécurité sociale et de mutualité sociale agricole, intéressés ou par
-tout habitant ou contribuable de la commune ou du département [*requérant*].
+Les recours, tant devant la commission départementale que devant la commission centrale, peuvent être formés par le
+demandeur, ses débiteurs d'aliments, l'établissement ou le service qui fournit les prestations, le maire, le président du
+conseil général, le représentant de l'Etat dans le département, les organismes de sécurité sociale et de mutualité sociale
+agricole intéressés ou par tout habitant ou contribuable de la commune ou du département, ayant un intérêt direct à la
+réformation de la décision.
 
 Le ministre de la Santé publique et de la Population peut attaquer directement devant la commission centrale toute décision
 prise soit par les commissions d'admission, soit par les commissions départementales.
 
-Le délai de recours est porté à deux mois en ce qui concerne le ministre de la Santé publique et de la Population, il a pour
+Le délai de recours est fixé à deux mois en ce qui concerne le ministre de la Santé publique et de la Population, il a pour
 point de départ le prononcé de la décision.
 
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
+
+[*Nota : Décret 93-648 du 26 mars 1993 art. 3 : les dispositions de l'article 2 du décret du 7 janvier 1959 modifiant
+l'article 131 du code de la famille, sont abrogées en tant qu'elles concernent l'admission d'urgence à l'aide médicale.*]
+
+Nota : Ordonnance 2000-1249 2000-12-21 art. 5 I 7° : l'abrogation du présent article ne prend effet qu'à compter de la
+publication des dispositions réglementaires correspondantes du code de l'action sociale et des familles.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°55-190 1955-02-02 ART. 7
 
 	**Codifié par**:
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
-	**Modifié par**:
-
-	  - Décret n°59-143 1959-01-07 art. 2 JORF 9 janvier 1959
-	  - Loi n°83-663 du 22 juillet 1983 - art. 54 (V) JORF 23 juillet 1983
-
 	**Cité par**:
 
 	  - Décret n°70-322 du 13 avril 1970 - art. 8 (M)
+
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 54 () JORF 8 janvier 1986
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. L134-4 (V)
 	  - Code de l'action sociale et des familles - art. L134-5 (VT)
+	  - Code de l'action sociale et des familles - art. L134-5 (M)
+	  - Code de l'action sociale et des familles - art. R134-11 (V)
 
 
 ###### Article 132
@@ -5351,15 +4786,11 @@ territoriale de Mayotte, les mots :
 ###### Article 135
 
 Toute personne appelée à intervenir dans l'instruction, l'attribution ou la révision des admissions à l'aide sociale et
-notamment les membres des commissions administratives des bureaux d'aide sociale, ainsi que toutes personnes dont ces bureaux
-utilisent le concours et les membres des commissions d'admission, sont tenus au secret professionnel [*obligatoire*] dans les
-termes de l'article 378 du Code pénal et passibles des peines prévues audit article.
+notamment les membres des conseils d'administration des centres communaux d'action sociale, ainsi que toutes personnes dont
+ces établissements utilisent le concours et les membres des commissions d'admission, sont tenus au secret professionnel
+[*obligatoire*] dans les termes de l'article 378 du code pénal et passibles des peines prévues audit article.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-1186 1953-11-29 ART. 58
 
 	**Cité par**:
 
@@ -5369,6 +4800,10 @@ termes de l'article 378 du Code pénal et passibles des peines prévues audit ar
 	**Codifié par**:
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 57 () JORF 8 janvier 1986
 
 	**Cite**:
 
@@ -5380,54 +4815,74 @@ termes de l'article 378 du Code pénal et passibles des peines prévues audit ar
 	  - Livre des procédures fiscales - art. L113 (MMN)
 
 
-## Chapitre II : Organisation attributions et fonctionnement des bureaux d'aide sociale
+## Chapitre II : Organisation, attributions et fonctionnement des centres communaux d'action sociale
 
 ###### Article 136
 
-Un bureau d'aide sociale exerce, dans chaque commune ou chaque groupement de communes constitué en application des
-dispositions de la loi municipale relative aux syndicats de communes, les attributions définies par le présent titre.
-
-Il dispose des biens, exerce les droits et assume les engagements des anciens bureaux de bienfaisance et des anciens bureaux
-d'assistance, sans qu'il puisse être porté atteinte aux affectations régulièrement établies.
-
-Le statut des bureaux d'aide sociale de Paris, de Lyon et de Marseille est fixé dans le cadre des dispositions du présent
-titre par un réglement d'administration publique.
+Un centre d'action sociale exerce, dans chaque commune ou chaque groupement de communes constitué en application des
+dispositions de la loi municipale relative aux syndicats de communes, les attributions définies par le présent titre. Il
+dispose des biens, exerce les droits et assume les engagements des anciens bureaux de bienfaisance et des anciens bureaux
+d'assistance [*attributions*] , sans qu'il puisse être porté atteinte aux affectations régulièrement établies. Le statut des
+centres communaux d'action sociale de Paris, de Lyon et de Marseille est fixé dans le cadre des dispositions du présent titre
+par un décret en conseil d'Etat.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°55-190 1955-02-02 art. 10
 
 	**Codifié par**:
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 57 () JORF 8 janvier 1986
 
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. L123-4 (V)
 	  - Code de l'action sociale et des familles - art. L123-7 (V)
 
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale 124 A 186
-
 
 ###### Article 137
 
-Outre les attributions prévues à l'article 125, les bureaux d'aide sociale exercent une action de prévoyance, d'entraide et
-d'hygiène sociale en liaison avec les services publics et les institutions privées, en venant en aide ou en suppléant aux
-initiatives publiques ou privées défaillantes.
+Le centre communal d'action sociale anime une action générale de prévention et de développement social dans la commune, en
+liaison étroite avec les institutions publiques et privées. Il peut intervenir sous forme de prestations remboursables ou non
+remboursables.
+
+Il participe à l'instruction des demandes d'aide sociale dans les conditions fixées par voie réglementaire. Il transmet les
+demandes dont l'instruction incombe à une autre autorité. L'établissement du dossier et sa transmission constituent une
+obligation, indépendamment de l'appréciation du bien-fondé de la demande.
+
+Le centre communal d'action sociale peut, le cas échéant, exercer les compétences que le département a confiées à la commune
+dans les conditions prévues par l'article 33 de la loi n° 83-663 du 22 juillet 1983 précitée.
+
+Plusieurs communes groupées en syndicat de communes peuvent créer un centre intercommunal d'action sociale qui exerce pour
+les communes concernées les compétences mentionnées aux alinéas qui précédent.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°55-190 1955-02-02 ART. 11
 
 	**Codifié par**:
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cite**:
+
+	  - Loi n°83-663 1983-07-22 art. 33
+
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 55 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 57 () JORF 8 janvier 1986
 
 	**Cité par**:
 
@@ -5439,38 +4894,24 @@ initiatives publiques ou privées défaillantes.
 
 	  - Code de l'action sociale et des familles - art. L123-5 (M)
 
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale. - art. 125 (M)
-
 
 ###### Article 138
 
-Les bureaux d'aide sociale sont gérés par des commissions administratives.
+Le centre d'action sociale constitue un établissement public communal ou intercommunal. Il est administré par un conseil
+d'administration, présidé par le maire ou, le cas échéant, par le président du syndicat intercommunal. Le conseil
+d'administration, lorsqu'il est constitué, élit en son sein un vice-président qui le préside en l'absence du maire ou du
+président du syndicat intercommunal, nonobstant les dispositions de l'article L. 122-13 du code des communes.
 
-Ces commissions sont présidées par le maire ou son suppléant dans les conditions prévues par l'article 84 de la loi du 5
-avril 1884 [*code de l'administration communale art. 66*] ou, le cas échéant, par le président du syndicat de communes. Elles
-comprennent, en outre, des membres renouvelables, les uns élus par le conseil municipal ou le comité syndical, les autres
-nommés par le préfet ou le sous-préfet parmi les personnes s'occupant d'oeuvres ou d'activités sociales dans la commune ou le
-syndicat de communes considéré.
+Le conseil d'administration comprend, outre son président, en nombre égal, des membres élus en son sein à la représentation
+proportionnelle, dans des conditions fixées par voie réglementaire, par le conseil municipal ou le comité syndical et des
+membres nommés par le maire ou le président du syndicat intercommunal parmi les personnes participant à des actions de
+prévention, d'animation ou de développement social menées dans la commune ou les communes considérées.
 
-Au nombre des membres nommés par le préfet ou le sous-préfet doit figurer, partout où il en existe, un représentant des
-associations familiales présenté par l'union départementale des associations familiales.
-
-Un règlement d'administration publique détermine :
-
-Le nombre des membres élus ou nommés selon l'importance de la population ;
-
-Les conditions d'élection ou de nomination, de durée des fonctions, de révocation de ces membres ;
-
-Les conditions dans lesquelles les bureaux d'aide sociale tiennent un fichier des personnes secourues ou assistées de la
-commune ou du syndicat de communes.
+Au nombre des membres nommés doivent figurer un représentant des associations familiales désigné sur proposition de l'union
+départementale des associations familiales, un représentant des associations de retraités et de personnes âgées du
+département et un représentant des associations de personnes handicapées du département.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°55-190 1955-02-02 art. 12
 
 	**Codifié par**:
 
@@ -5486,27 +4927,26 @@ commune ou du syndicat de communes.
 	  - Décret n°95-562 du 6 mai 1995 - art. 7 (Ab)
 	  - Code de la sécurité sociale. - art. D412-79 (V)
 
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L122-13 (Ab)
+
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. L123-6 (V)
 	  - Code de l'action sociale et des familles - art. L123-9 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'administration communale 66
-	  - Loi n°1884-04-05 art. 84
+	  - Loi n°86-17 1986-01-08 art. 55, art. 57 III JORF 8 janvier 1986
 
 
 ###### Article 139
 
-Les bureaux d'aide sociale disposent des ressources dont bénéficiaient les établissements d'assistance et de bienfaisance
-auxquels ils se substituent.
+Les centres communaux d'aide sociale disposent des ressources dont bénéficiaient les établissements d'assistance et de
+bienfaisance auxquels ils se substituent.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°55-190 1955-02-02 ART. 13
 
 	**Codifié par**:
 
@@ -5516,29 +4956,27 @@ auxquels ils se substituent.
 
 	  - Décret n°69-83 du 27 janvier 1969 - art. 28 (M)
 
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 57 () JORF 8 janvier 1986
+
 
 ###### Article 140
 
 Le président du bureau d'aide sociale a le droit d'accepter, à titre conservatoire, des dons et legs et de former, avant
 l'autorisation, des demandes en délivrance.
 
-Le décret, l'arrêté du préfet ou la délibération de la commission administrative qui rendent l'acceptation définitive,
-conformément aux article 4 et 7 de la loi du 4 février 1901 modifiée, ont effet du jour de cette acceptation.
+La délibération du conseil d'administration qui rend l'acceptation définitive, conformément à l'article L. 312-3 du code des
+communes, a effet du jour de cette acceptation.
 
-Le bureau d'aide sociale est représenté en justice et dans les actes de la vie civile par son président.
+Le centre communal d'action sociale est représenté en justice et dans les actes de la vie civile par son président.
 
-Les règles qui régissent la comptabilité des communes, l'expédition, la nullité de plein droit, l'annulation et l'exécution
-des délibérations des conseils municipaux sont applicables aux bureaux d'aide sociale.
+Les règles qui régissent la comptabilité des communes sont applicables aux centres communaux d'action sociale.
 
-Les délibérations de la commission administrative ne sont soumises à l'avis ou à l'avis conforme du conseil municipal que
-dans les cas prévus par les articles 119 et 120 de la loi municipale du 5 avril 1884 [*code de l'administration communale
-ART. 269 et 298*].
+Les délibérations du conseil d'administration ne sont soumises à l'avis ou à l'avis conforme du conseil municipal que dans
+les cas prévus aux articles L. 236-9 et L. 311-7 du code des communes.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°55-190 1955-02-02 ART. 14
 
 	**Codifié par**:
 
@@ -5551,15 +4989,20 @@ ART. 269 et 298*].
 	  - Décret n°95-562 du 6 mai 1995 - art. 34 (Ab)
 	  - CODE DES COMMUNES. - art. L312-1 (M)
 
-	**Nouveaux textes**:
+	**Modifié par**:
 
-	  - Code de l'action sociale et des familles - art. L123-8 (M)
+	  - Loi n°86-17 du 6 janvier 1986 - art. 57 () JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 58 () JORF 8 janvier 1986
 
 	**Cite**:
 
-	  - Code de l'administration communale 269, 298
-	  - Loi n°1884-04-05 ART. 119, ART. 120
-	  - Loi n°1901-02-04 ART. 4, ART. 7
+	  - CODE DES COMMUNES. - art. L236-9 (M)
+	  - CODE DES COMMUNES. - art. L311-7 (M)
+	  - CODE DES COMMUNES. - art. L312-3 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L123-8 (M)
 
 
 ## Chapitre III : Participation des intéréssés, des familles et des tiers tenus à une obligation pécuniaire envers les bénéficiaires de l'aide sociale - révision des admissions - modalités de récupération des allocations
@@ -5635,6 +5078,43 @@ bénéficiaire de l'aide sociale peut être titulaire s'ajouteront à cette somm
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. L132-3 (V)
+
+
+###### Article 142-1
+
+La perception des revenus, y compris l'allocation de logement à caractère social, des personnes admises dans les
+établissements sociaux ou médico-sociaux au titre de l'aide sociale aux personnes âgées, peut être assurée par le comptable
+de l'établissement public ou par le responsable de l'établissement de statut privé, soit à la demande de l'intéressé ou de
+son représentant légal, soit à la demande de l'établissement lorsque l'intéressé ou son représentant ne s'est pas acquitté de
+sa contribution pendant trois mois au moins. Dans les deux cas, la décision est prise par le représentant de la collectivité
+publique d'aide sociale compétente qui précise la durée pendant laquelle cette mesure est applicable. Le comptable de
+l'établissement reverse mensuellement à l'intéressé ou à son représentant légal le montant des revenus qui dépasse la
+contribution mise à sa charge. En tout état de cause, l'intéressé doit disposer d'une somme mensuelle minimale. Le montant de
+celle-ci ainsi que le délai dans lequel il doit être répondu aux demandes et les délais minimum et maximum pour lesquels la
+décision mentionnée ci-dessus est prise sont fixés par décret.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°54-883 du 2 septembre 1954 - art. 2-1 (M)
+	  - Décret n°54-883 du 2 septembre 1954 - art. 2-2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 59 () JORF 8 janvier 1986
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L132-4 (V)
 
 
 ###### Article 143
@@ -6414,17 +5894,13 @@ réglementaire en faveur des économiquement faibles.
 
 ###### Article 163
 
-Des foyers pourront, en cas d'insuffisance des initiatives privées, être créés par les communes et les bureaux d'aide sociale
-ou avec leur concours, en vue de fournir aux personnes âgées des repas à prix modérés et des salles d'accueil.
+Des foyers pourront être créés par les communes ou les centres communaux d'action sociale ou avec leur concours, en vue de
+fournir aux personnes âgées des repas à des prix modérés et des salles d'accueil.
 
 Les conditions et limites dans lesquelles les services d'aide sociale rembourseront les dépenses occasionnées par les foyers
-sont fixées par règlement d'administration publique.
+sont fixées par décret en conseil d'Etat.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-1186 1953-11-29 art. 32
 
 	**Cité par**:
 
@@ -6435,6 +5911,19 @@ sont fixées par règlement d'administration publique.
 	**Codifié par**:
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 56 () JORF 8 janvier 1986
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L231-3 (V)
+	  - Code de l'action sociale et des familles - art. L231-6 (V)
 
 
 ### Section 2 : Placement familial ou hospitalier
@@ -7227,30 +6716,42 @@ publique.*]
 
 ###### Article 182
 
-Les communes ou syndicats de communes qui justifient remplir d'une manière complète leur devoir d'aide médicale envers leurs
-malades peuvent être autorisés par une décision spéciale du ministre de la Santé publique et de la Population rendue après
-avis du conseil supérieur de l'aide sociale, à avoir une organisation spéciale. Si ces conditions cessent d'être remplies,
-l'autorisation peut être retirée par décret pris en Conseil d'Etat.
+Des avances sur recettes d'aide médicale sont accordées par le département aux établissements d'hospitalisation de court et
+moyen séjour, lorsque les recettes attendues au titre de l'aide médicale dépassent un seuil fixé par décret.
 
-Les villes bénéficiant d'une telle organisation pourront être admises à renoncer à ce régime par arrêté du préfet, après avis
-du trésorier-payeur général, le conseil général entendu. Toutefois, en ce qui concerne les villes dont les budgets et les
-comptes sont soumis à l'approbation interministérielle, la renonciation devra être autorisée par une décision spéciale du
-ministre de la Santé publique et de la Population prise après avis du ministre chargé du Budget et du ministre de
-l'Intérieur.
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale art. 183 :
+
+l'article 179 est applicable aux malades mentaux et aux personnes visées aux articles 214 et suivants du code de la santé
+publique.
+
+Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-1186 1953-11-29 ART. 52
 
 	**Codifié par**:
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 60 () JORF 8 janvier 1986
+
 	**Cité par**:
 
 	  - Décret n°87-961 du 25 novembre 1987 - art. 7 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°92-722 du 29 juillet 1992 - art. 9 () JORF 30 juillet 1992 en vigueur le 1er janvier 1993
 
 
 ###### Article 183
@@ -7380,9 +6881,16 @@ avoir besoin, notamment en leur procurant un placement dans un des établissemen
 
 2. D'exercer toute action médico-sociale en faveur des personnes qui se livrent à la prostitution.
 
-Les dépenses de fonctionnement de ce service ont un caractère obligatoire. Elles sont inscrites en totalité au budget du
-département. L'Etat y participe dans les conditions prévues à l'article 190. Le service est placé sous l'autorité du
-directeur départemental de la population et de l'action sociale.
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
 
 **Liens relatifs à cet article**
 
@@ -7390,14 +6898,22 @@ directeur départemental de la population et de l'action sociale.
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 61 () JORF 8 janvier 1986
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. L121-9 (M)
+	  - Code de l'action sociale et des familles - art. L121-9 (V)
 
 	**Cite**:
 
 	  - Code de la famille et de l'aide sociale. - art. 185 (M)
-	  - Code de la famille et de l'aide sociale. - art. 190 (Ab)
 
 
 ###### Article 185-2
@@ -7431,13 +6947,11 @@ bénéficier de l'aide sociale en vue d'un réentraînement au travail dans des 
 	  - Code de la famille et de l'aide sociale. - art. 185 (M)
 
 
-## Chapitre VIII : Mesure d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale
-
 ###### Article 185-3
 
-Le bénéfice de l'aide sociale ne peut être accordé ou maintenu aux personnes ou familles accueillies dans un centre privé
-d'hébergement et de réadaptation ou dans un centre privé d'aide par le travail que si une convention a été conclue à cette
-fin entre le centre et le département [*condition*].
+Le bénéfice de l'aide sociale ne peut être accordé ou maintenu aux personnes ou familles accueillies dans un centre
+d'hébergement et de réadaptation ou dans un centre d'aide par le travail que si une convention a été conclue à cette fin
+entre le centre et l'Etat.
 
 Le décret prévu à l'article 202 du présent code détermine les règles générales auxquelles doivent obéir les conventions
 visées à l'alinéa précédent.
@@ -7453,9 +6967,22 @@ visées à l'alinéa précédent.
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 61 () JORF 8 janvier 1986
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
 	**Cite**:
 
 	  - Code de la famille et de l'aide sociale. - art. 202 (P)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L345-3 (M)
+	  - Code de l'action sociale et des familles - art. L345-4 (M)
 
 
 ## Chapitre IX : Dispositions concernant les étrangers
@@ -7514,20 +7041,12 @@ conditions précisées au titre IV ci-après.
 
 ###### Article 192
 
-Les dépenses à la charge des trois collectivités [*état, département, commune*] comprennent :
-
-Les frais d'aide sociale afférents aux bénéficiaires ayant un domicile de secours départemental tel qu'il est défini à
-l'article suivant ;
-
-Les frais d'enquête, les frais de secrétariat des commissions d'admission et des commissions départementales, les indemnités
-accordées éventuellement à leurs membres, les frais de contrôle et les frais d'établissement et de fonctionnement des
-fichiers.
+A l'exception des prestations à la charge de l'Etat en vertu de l'article 35 de la loi n° 83-663 du 22 juillet 1983 précitée
+et sans préjudice de la participation financière des communes prévue à l'article 93 de la loi n° 83-8 du 7 janvier 1983
+précitée, les dépenses d'aide sociale sont à la charge du département dans lequel les bénéficiaires ont leur domicile de
+secours.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-1186 1953-11-29 ART. 63
 
 	**Cité par**:
 
@@ -7540,41 +7059,39 @@ fichiers.
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
+	**Cite**:
+
+	  - Loi n°83-8 1983-01-07 art. 93
+	  - Loi n°83-663 1983-07-22 art. 35
+
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 62 () JORF 8 janvier 1986
+
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. L122-1 (V)
 
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale. - art. 193 (M)
-
 
 ###### Article 193
 
-Le domicile de secours [*définition*] s'acquiert :
+Nonobstant les dispositions des articles 102 à 111 du code civil, le domicile de secours s'acquiert par une résidence
+habituelle de trois mois dans un département postérieurement à la majorité ou à l'émancipation, sauf pour les personnes
+admises dans des établissements sanitaires ou sociaux, qui conservent le domicile de secours qu'elles avaient acquis avant
+leur entrée dans l'établissement. Le séjour dans ces établissements est sans effet sur le domicile de secours.
 
-1. Par une résidence habituelle de trois mois dans un département, postérieurement à la majorité ou à l'émancipation ;
-
-2. Par la filiation : l'enfant a le domicile de secours de son père. Si la mère a survécu au père ou si l'enfant est un
-enfant naturel reconnu par sa mère seulement, il a le domicile de secours de sa mère. En cas de séparation de corps ou de
-divorce des époux, l'enfant légitime partage le domicile de secours de l'époux à qui a été confié le soin de son éducation.
-
-En ce qui concerne les enfants dont les parents ne peuvent être retrouvés, et les enfants relevant de l'aide sociale à
-l'enfance, les mères et les enfants admis dans les maisons maternelles, les mères bénéficiant des secours prévus à l'article
-43, le domicile de secours est le département où ils se trouvent au moment où l'aide sociale est accordée.
-
-Les mineurs bénéficiaires de l'aide sociale à l'enfance visés aux 4. et 6. de l'article 86 du Code de la famille et de l'aide
-sociale ont leur domicile de secours dans le département du siège du tribunal qui a pris la décision de placement.
+Pour les prestations autres que celles de l'aide sociale à l'enfance, l'enfant mineur non émancipé a le domicile de secours
+de la personne qui exerce l'autorité parentale ou la tutelle confiée en application de l'article 390 du code civil.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-1186 1953-11-29 ART. 64
 
 	**Codifié par**:
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 62 () JORF 8 janvier 1986
 
 	**Cité par**:
 
@@ -7583,44 +7100,62 @@ sociale ont leur domicile de secours dans le département du siège du tribunal 
 	  - Code de la famille et de l'aide sociale. - art. 192 (M)
 	  - Code de la famille et de l'aide sociale. - art. 195 (Ab)
 
+	**Cite**:
+
+	  - Code civil - art. 102 (V)
+	  - Code civil - art. 103 (V)
+	  - Code civil - art. 104 (V)
+	  - Code civil - art. 105 (V)
+	  - Code civil - art. 106 (V)
+	  - Code civil - art. 107 (V)
+	  - Code civil - art. 108 (V)
+	  - Code civil - art. 109 (V)
+	  - Code civil - art. 110 (Ab)
+	  - Code civil - art. 111 (V)
+	  - Code civil - art. 390 (M)
+
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. L122-2 (V)
-
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale. - art. 43 (M)
-	  - Code de la famille et de l'aide sociale. - art. 86 (M)
 
 
 ###### Article 194
 
 Le domicile de secours se perd :
 
-1. Par une absence ininterrompue de trois mois postérieurement à la majorité ou à l'émancipation ;
+1° Par une absence ininterrompue de trois mois postérieurement à la majorité ou à l'émancipation, sauf si celle-ci est
+motivée par un séjour dans un établissement sanitaire ou social ;
 
-2. Par l'acquisition d'un autre domicile de secours.
+2° Par l'acquisition d'un autre domicile de secours.
 
-Si l'absence résulte de circonstances excluant toute liberté de choix de séjour ou d'un traitement dans un établissement
-hospitalier situé hors du département où réside habituellement le bénéficiaire de l'aide sociale, le délai de trois mois ne
-commence à courir que du jour où ces circonstances n'existent plus.
+Si l'absence résulte de circonstances excluant toute liberté de choix du lieu de séjour ou d'un traitement dans un
+établissement hospitalier situé hors du département où réside habituellement le bénéficiaire de l'aide sociale, le délai de
+trois mois ne commence à courir que du jour où ces circonstances n'existent plus [*point de départ*].
 
-A défaut de domicile de secours les frais d'aide sociale incombent au département où réside l'intéressé au moment de la
-demande d'admission à l'aide sociale à moins qu'il ne s'agisse d'une personne dont la résidence sur le territoire
-métropolitain résulte de circonstances exceptionnelles et qui n'a pu choisir librement sa résidence ou d'une personne pour
-laquelle aucun domicile fixe ne peut être déterminé. Dans ces cas les frais d'aide sociale incombent en totalité à l'Etat.
+A défaut de domicile de secours, les frais d'aide sociale incombent au département où réside l'intéressé au moment de la
+demande d'admission à l'aide sociale. Toutefois, les frais d'aide sociale engagés en faveur de personnes dont la présence sur
+le territoire métropolitain résulte de circonstances exceptionnelles et qui n'ont pu choisir librement leur lieu de
+résidence, ou en faveur de personnes pour lesquelles aucun domicile fixe ne peut être déterminé, sont intégralement pris en
+charge par l'Etat, sur décision de la commission d'admission mentionnée à l'article 126.
 
-L'admission d'une personne à l'aide sociale dans un département autre que celui où elle possède son domicile de secours doit
-être notifiée [*obligation*] aux services d'aide sociale de cette dernière collectivité dans un délai de deux mois.
+Lorsqu'il estime que le demandeur a son domicile de secours dans un autre département, le président du conseil général doit,
+dans le délai d'un mois après le dépôt de la demande, transmettre le dossier au président du conseil général du département
+concerné. Celui-ci doit, dans le mois qui suit, se prononcer sur sa compétence. Si ce ce dernier n'admet pas sa compétence,
+il transmet le dossier au tribunal administratif dans le ressort duquel se trouve le lieu de résidence du demandeur. Le
+président du tribunal ou le magistrat qu'il délègue statue sur la détermination du domicile de secours en la forme des
+référés.
 
-Si cette notification n'est pas effectuée dans le délai requis, les frais engagés restent à la charge du département où
-l'admission a été prononcée.
+Lorsque la situation du demandeur exige une décision immédiate, le président du conseil général prend ou fait prendre la
+décision. Si, ultérieurement, l'examen au fond du dossier fait apparaître que le domicile de secours du bénéficiaire se
+trouve dans un autre département, elle doit être notifiée au service de l'aide sociale de cette dernière collectivité dans un
+délai de deux mois. Si cette notification n'est pas faite dans les délais requis, les frais engagés restent à la charge du
+département où l'admission a été prononcée.
+
+Les règles fixées aux alinéas qui précèdent ne font pas obstacle à ce que, par convention, deux ou plusieurs départements ou
+un ou plusieurs départements et l'Etat décident d'une répartition des dépenses d'aide sociale différente de celle qui
+résulterait de l'application desdites règles.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-1186 1953-11-29 ART. 65
 
 	**Cité par**:
 
@@ -7636,6 +7171,10 @@ l'admission a été prononcée.
 	**Codifié par**:
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 62 () JORF 8 janvier 1986
 
 	**Nouveaux textes**:
 
@@ -7722,19 +7261,10 @@ notifiés en la même forme, les délais courant à compter de la réception de 
 
 ###### Article 197
 
-Les contrôles administratif et médical de l'application des lois d'aide sociale sont assurés, sous l'autorité du représentant
-de l'Etat [*antérieurement à 1983, le préfet - compétence*] suivant les instructions du ministre de la Santé publique et de
-la Population, dans les conditions déterminées par règlement d'administration publique.
-
-Ces contrôles s'appliquent notamment aux oeuvres, institutions et établissements privés, bénéficiant de l'intervention
-financière des collectivités publiques des organismes de sécurité sociale.
+Le contrôle de l'application des lois et règlements relatifs à l'aide sociale est assuré par les agents ayant reçu à cet
+effet délégation du ministre chargé des affaires sociales ou du représentant de l'Etat dans le département.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-1186 1953-11-29 ART. 68
-	  - Décret n°55-190 1955-02-02 ART. 18
 
 	**Codifié par**:
 
@@ -7747,11 +7277,45 @@ financière des collectivités publiques des organismes de sécurité sociale.
 
 	**Modifié par**:
 
-	  - Loi n°83-663 du 22 juillet 1983 - art. 54 (V) JORF 23 juillet 1983
+	  - Loi n°86-17 du 6 janvier 1986 - art. 63 () JORF 8 janvier 1986
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. L133-1 (V)
+
+
+###### Article 198
+
+Les agents départementaux habilités par le président du conseil général ont compétence pour contrôler le respect, par les
+bénéficiaires et les institutions intéressées, des règles applicables aux formes d'aide sociale relevant de la compétence du
+département.
+
+Le règlement départemental arrête les modalités de ce contrôle.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°54-883 du 2 septembre 1954 - art. 44-1 (M)
+	  - Décret n°56-1030 du 28 septembre 1956 - art. 67 (Ab)
+	  - Décret n°77-1549 du 31 décembre 1977 - art. 5 (Ab)
+	  - Loi n°97-60 du 24 janvier 1997 - art. 14 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 64 () JORF 8 janvier 1986
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L133-2 (V)
 
 
 ###### Article 199
@@ -7809,22 +7373,27 @@ dernières sont déterminés par décret en conseil d'Etat.
 
 ###### Article 201
 
-La section permanente du conseil supérieur de l'aide sociale est compétente pour statuer en matière contentieuse sur les
-recours contre les arrêtés fixant la dotation globale due conformément aux dispositions de l'article 8 de la loi n° 83-25 du
-19 janvier 1983 portant diverses mesures relatives à la sécurité sociale par les organismes d'assurance maladie ainsi que sur
-les recours contre les arrêtés déterminant, selon le cas, les tarifs des prestations ou les prix de journée des
-établissements publics ou privés. Ces recours peuvent être portés devant elle dans le délai d'un mois à partir de la
-publication desdits arrêtés par toute personne physique ou morale intéressée, par les ministres compétents ou les organismes
-de sécurité sociale.
+Sous réserve des dispositions de l'article 201-1, la section permanente du Conseil supérieur de l'aide sociale est compétente
+pour statuer en matière contentieuse sur les recours contre :
 
-La section permanente statue en dernier ressort. Les décisions fixant le montant des prix de journée, des tarifs de
-prestations et des versements globaux ont effet à compter de la date prévue dans l'arrêté donnant lieu à un litige.
+1° Les arrêtés fixant la dotation globale due par les organismes d'assurance maladie conformément aux dispositions de
+l'article 8 de la loi n° 83-25 du 19 janvier 1983 portant diverses mesures relatives à la sécurité sociale ;
 
-La section permanente est également compétente pour connaître des des recours contre les arrêtés fixant la dotation globale
-mentionnée à l'article 27 de la loi n° 75-535 du 30 juin 1975 relative aux institutions sociales et médico-sociales et contre
-les décisions prises par le président du conseil général en application du paragraphe I de l'article 45 de la loi n° 83-663
-du 22 juillet 1983 complétant la loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes,
-les départements, les régions et l'Etat.
+2° Les arrêtés fixant la dotation globale mentionnée à l'article 27 de la loi n° 75-535 du 30 juin 1975 précitée ;
+
+3° Les arrêtés pris par le président du conseil général fixant le tarif applicable aux services d'aide ménagère dont les
+dépenses sont prises en charge par l'aide sociale relevant du département ;
+
+4° Tout arrêté pris par le représentant de l'Etat dans le département ou par le président du conseil général, déterminant les
+dotations globales, les prix de journée, les taux de remboursement ou les tarifs horaires des établissements et services
+sanitaires, sociaux et médico-sociaux, de statut public ou privé.
+
+Ces recours peuvent être portés devant elle dans le délai d'un mois à partir de la publication desdits arrêtés par toute
+personne physique ou morale intéressée, par les ministres compétents ou les organismes de sécurité sociale.
+
+La section permanente du Conseil supérieur de l'aide sociale statue en dernier ressort. Ses décisions fixant le montant des
+dotations globales, des prix de journée ou des autres tarifications ont effet à compter de la date prévue dans l'arrêté
+donnant lieu au litige.
 
 **Liens relatifs à cet article**
 
@@ -7840,22 +7409,60 @@ les départements, les régions et l'Etat.
 	  - Décret n°90-359 du 11 avril 1990 - art. 11 (Ab)
 	  - Décret n°90-359 du 11 avril 1990 - art. 42 (Ab)
 	  - Code de la famille et de l'aide sociale. - art. 195 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 201-1 (M)
 
 	**Cite**:
 
 	  - Loi n°75-535 du 30 juin 1975 - art. 27 (M)
-	  - Loi n°83-8 1983-01-07
 	  - Loi n°83-25 du 19 janvier 1983 - art. 8, v. init.
-	  - Loi n°83-663 1983-07-22 art. 45
+	  - Code de la famille et de l'aide sociale. - art. 201-1 (M)
 
 	**Modifié par**:
 
-	  - Loi n°85-772 du 25 juillet 1985 - art. 25 () JORF 26 juillet 1985
+	  - Loi n°86-17 du 6 janvier 1986 - art. 65 () JORF 8 janvier 1986
 
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. L351-1 (M)
+
+
+###### Article 201-1
+
+Les recours mentionnés à l'article 201 sont portés en premier ressort devant la commission régionale de la tarification
+sanitaire et sociale et, le cas échéant, en appel devant la section permanente du Conseil supérieur de l'aide sociale. La
+commission régionale statue en dernier ressort lorsque le montant du litige est inférieur à une somme fixée par décret en
+Conseil d'Etat.
+
+La commission régionale de la tarification sanitaire et sociale est présidée par le président du tribunal administratif ou le
+magistrat désigné par lui pour le remplacer. Elle est composée, d'une part, de membres du tribunal administratif, dont l'un
+au moins est chargé des fonctions de commissaire du Gouvernement, d'autre part, de représentants de l'Etat, des collectivités
+territoriales, des organismes de protection sociale et des organismes gestionnaires d'établissements et de services
+sanitaires et sociaux, selon des modalités fixées par décret en Conseil d'Etat.
+
+Les décisions de la commission régionale prennent effet à compter de la date prévue dans la décision donnant lieu au litige.
+
+Les autres règles relatives au jugement des recours devant la commission régionale sont celles applicables aux tribunaux
+administratifs, sous réserve des dispositions particulières fixées par un décret en Conseil d'Etat, notamment en matière de
+délai de recours.
+
+Un décret en Conseil d'Etat prévoit un régime expérimental dans une ou plusieurs régions, préalablement à l'entrée en vigueur
+de ces dispositions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 66 () JORF 8 janvier 1986
+
+	**Cité par**:
+
+	  - Décret n°90-359 du 11 avril 1990 - art. 1 (Ab)
+	  - Décret n°90-359 du 11 avril 1990 - art. 19 (Ab)
+	  - Arrêté du 19 avril 1994 - art. Annexe (M)
+	  - Code de la famille et de l'aide sociale. - art. 201 (M)
 
 
 ###### Article 202
