@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1978-01-12
+Version Consolidée au 1980-01-01
 
 # Titre Ier : Protection sociale de la famille
 
@@ -1510,6 +1510,30 @@ cas échéant, d'exercer une activité professionnelle.
 	  - Code de la famille et de l'aide sociale. - art. 52 (Ab)
 	  - Code de la famille et de l'aide sociale. - art. 53 (Ab)
 	  - Code de la santé publique L146 à L189
+
+
+### Section 2 : Prévention de l'avortement
+
+###### Article 44-1
+
+Des commissions d'aide à la maternité sont mises en place sur l'ensemble du territoire, notamment auprès des centres médico-
+sociaux ou des bureaux d'aide sociale des grandes villes. Leur composition et leur fonctionnement sont fixés par décret en
+Conseil d'Etat ; elle doivent comprendre des personnes qualifiées dans le domaine social et familial, des volontaires et des
+représentants d'associations d'aide à la famille et à l'enfance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Loi n°79-1204 du 31 décembre 1979 - art. 12 () JORF 1er janvier 1980
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
 
 
 ## Chapitre V : Aide sociale à l'enfance
