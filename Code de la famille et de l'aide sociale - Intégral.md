@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1959-01-06
+Version Consolidée au 1959-01-08
 
 # Titre Ier : Protection sociale de la famille
 
@@ -966,6 +966,57 @@ du Code pénal.
 	  - Code de l'action sociale et des familles - art. L222-1 (V)
 
 
+###### Article 42
+
+Les établissements hospitaliers publics [*maisons maternelles*] susceptibles d'assurer des soins à une femme enceinte ou
+récemment accouchée ne peuvent, s'ils disposent de lits vacants, se refuser à la recevoir [*interdiction*] durant le mois qui
+précède et celui qui suit l'accouchement.
+
+Les dépenses d'hospitalisation sont remboursées à l'établissement suivant la procédure et les conditions habituelles, soit
+par le service de l'aide médicale, soit par les caisses de sécurité sociale, soit par les intéressées elles-mêmes, si elles
+ne bénéficient pas de l'aide des services ou organismes précités ou si elles n'en bénéficient que partiellement.
+
+L'admission en service hospitalier, dans les conditions prévues à l'alinéa 1er, des femmes ayant demandé le bénéfice du
+secret ne peut être prononcée s'il existe des lits vacants dans une maison maternelle du département.
+
+Lorsque le secret est demandé, les frais de séjour et d'accouchement sont pris en charge par le service de l'aide sociale à
+l'enfance du département, siège de l'établissement ou par celui du département qui a provoqué l'admission de l'intéressée.
+
+Il en est de même des frais d'hospitalisation en établissement de soins d'une mère ou de son enfant hébergé sous le régime du
+secret en maison maternelle, lorsque cette hospitalisation se situe pendant la durée du séjour à la maison maternelle.
+
+Aucune pièce d'identité ne sera exigée et il ne sera procédé à aucune enquête.
+
+Le secret et la prise en charge au titre de l'aide sociale à l'enfance ne seront pas maintenus lorsque le nom des père et
+mère légitimes de l'enfant figurera dans l'acte de naissance établi dans le délai prévu par les articles 55 et suivants du
+Code civil.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°53-1186 1953-11-29 ART. 51
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cité par**:
+
+	  - Décret n°74-27 du 14 janvier 1974 - art. 20 (Ab)
+	  - Ordonnance n°77-1102 du 26 septembre 1977 - art. 2 (M)
+	  - Code de la famille et de l'aide sociale. - art. 44 (M)
+	  - Code de la famille et de l'aide sociale. - art. 86 (M)
+
+	**Cite**:
+
+	  - Code civil - art. 55 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L222-2 (V)
+
+
 ###### Article 43
 
 Les allocations mensuelles [*pour l'entretien, la garde ou le placement de l'enfant secouru*] prévues à l'article 53 sont
@@ -1065,6 +1116,59 @@ Sont placés sous la tutelle du service de l'aide sociale à l'enfance les pupil
 	  - Loi n°43-182 1943-04-15 ART. 1
 
 
+###### Article 46
+
+Est dit enfant surveillé :
+
+1. L'enfant confié à un particulier ou à un établissement ou recueilli par eux en vertu des articles 377 et 377-1 du Code
+civil ;
+
+2. L'enfant en faveur duquel le service exerce une action éducative par application de l'article 2 du décret n. 59-100 du 7
+janvier 1959 relatif à la protection sociale de l'enfance en danger ou des articles 375-2 et 375-4 du Code civil, quand il en
+est chargé par le juge ;
+
+3. L'enfant confié à un particulier, à une oeuvre ou à un groupement en vue du placement dans une famille ou un établissement
+et dont l'inspection de la population et de l'aide sociale assure la surveillance, en application du chapitre III du présent
+titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Modifié par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 4 () JORF 5 juin 1970
+
+	**Cité par**:
+
+	  - Arrêté du 18 août 1988 - art. 1 (Ab)
+	  - Arrêté du 30 juillet 1993 - art. 1 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 85 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 86 (M)
+	  - Code de la sécurité sociale. - art. L241-12 (M)
+	  - Code du travail - art. L322-4-16-7 (M)
+
+	**Cite**:
+
+	  - Code civil - art. 375-2 (M)
+	  - Code civil - art. 375-4 (M)
+	  - Code civil - art. 377 (M)
+	  - Code civil - art. 377-1 (M)
+	  - Code de la famille et de l'aide sociale 93 A, 123
+	  - Code de la famille et de l'aide sociale. - art. 123 (Ab)
+	  - Décret n°59-100 1959-01-07 ART. 2
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L222-5 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°43-182 1943-04-15 ART. 2
+
+
 ###### Article 47
 
 Est dit "enfant secouru" l'enfant que son père, sa mère, ses ascendants ou la personne qui en assure la garde ne peuvent
@@ -1094,6 +1198,91 @@ d'assurer son entretien.
 ### Section 2 : Prestations d'aide sociale à l'enfance
 
 #### Sous-section 3 : Entretien et hébergement des mineurs et des mères isolées avec leurs enfants
+
+###### Article 48
+
+Est dit enfant recueilli temporairement :
+
+1. Le mineur qui, privé de protection et de moyens d'existence, par suite notamment de l'appel sous les drapeaux du père veuf
+ou divorcé, de la détention, de l'hospitalisation, de la maladie grave ou du décès de ses père, mère, ascendants ou tuteur,
+est confié provisoirement au service de l'aide sociale à l'enfance ;
+
+2. Le mineur admis dans le service de l'aide sociale à l'enfance, en application de l'article 2 du décret n. 59-100 du 7
+janvier 1959 relatif à la protection sociale de l'enfance en danger.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cité par**:
+
+	  - Code de la famille et de l'aide sociale. - art. 53-1 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 83 (M)
+	  - Décret n°77-613 du 10 juin 1977 - art. 1 (Ab)
+
+	**Cite**:
+
+	  - Décret n°59-100 1959-01-07 ART. 2
+
+	**Anciens textes**:
+
+	  - Loi n°43-182 1943-04-15 ART. 4
+
+	**Abrogé par**:
+
+	  - Loi n°86-17 1986-01-06 art. 80 JORF 8 janvier 1986
+
+
+###### Article 49
+
+Est dit enfant en garde :
+
+1. L'enfant dont les parents ont, par l'effet d'une mesure de retrait, perdu une partie des attributs de l'autorité
+parentale, et dont la garde se trouve dévolue au service de l'aide sociale à l'enfance par application de l'article 379-1 du
+Code civil ;
+
+2. L'enfant confié au service de l'aide sociale à l'enfance, par application des articles 375-3, 375-5 ou 380 du Code civil ;
+
+3. L'enfant confié audit service, en vertu de l'ordonnance du 2 février 1945, relative à l'enfance délinquante (art. 10, 15
+et 28) ;
+
+4. /A/DECR.0190 07-02-1978 ART. 1 : L'enfant dont la tutelle d'Etat est confiée au préfet en application de l'article 433 du
+code civil, sous réserve de l'application des autres dispositions de ce code//.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Modifié par**:
+
+	  - Décret n°78-190 1978-02-07 art. 1 JORF 25 février 1978
+
+	**Abrogé par**:
+
+	  - Loi n°86-17 1986-01-06 art. 80 JORF 8 janvier 1986
+
+	**Cite**:
+
+	  - Code civil - art. 375-3 (M)
+	  - Code civil - art. 375-5 (M)
+	  - Code civil - art. 379-1 (M)
+	  - Code civil - art. 380 (M)
+	  - Code civil - art. 433 (M)
+	  - Ordonnance  1945-02-02 ART. 10, ART. 15, ART. 28
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 787 A (M)
+	  - Code de la famille et de l'aide sociale. - art. 83 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°43-182 1943-04-15 ART. 5
+
 
 ###### Article 51
 
@@ -2039,6 +2228,61 @@ Ce trousseau n'est dû qu'une seule fois au mineur.
 	  - Loi n°86-17 du 6 janvier 1986 - art. 44 () JORF 8 janvier 1986
 
 
+###### Article 115
+
+Aucun mineur en âge et en état de travailler ne peut être placé dans les conditions prévues par l'article 97 du Code de la
+famille et de l'aide sociale sans qu'au préalable un contrat soit intervenu entre le particulier ou l'association qui
+effectue le placement et le chef de la famille ou d'établissement à qui le mineur est confié.
+
+Ce contrat de placement, conforme au modèle déterminé par arrêté interministériel, contresigné par les ministres de la santé
+publique et de la population et du travail sera établi en deux exemplaires ; un exemplaire est conservé par l'oeuvre de
+placement, l'autre par le chef de famille ou d'établissement.
+
+Tout mineur placé dans les conditions prévues ci-dessus doit recevoir l'intégralité du salaire stipulé par le contrat de
+placement (salaire correspondant à celui pratiqué dans la profession et dans la région) sous la seule déduction des frais de
+vêture et autres exposés à son profit ainsi que de l'argent de poche qui lui a été remis.
+
+L'oeuvre qui exerce le patronnage est tenue d'exiger que le chef de famille ou d'établissement chez qui le mineur est placé
+règle le compte de ce dernier au moins une fois par an et soumette ce compte au visa du mineur et à l'approbation de
+l'oeuvre.
+
+Lorsque le compte a été réglé ainsi qu'il vient d'être dit, la somme disponible après les déductions prévues ci-dessus est
+versée immédiatement par le chef de famille ou d'établissement à un compte ouvert au nom du mineur dans une caisse d'épargne
+privée ou à la caisse nationale d'épargne, suivant la désignation qui est faite dans le contrat de placement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 1142
+	  - Décret n°1938-06-17 art. 5 Al. 1 et Al. 5
+	  - Loi n°1933-01-14 art. 24 bis
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cité par**:
+
+	  - Code de la famille et de l'aide sociale. - art. 116 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la famille et de l'aide sociale. - art. 117 (Ab)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 97 (M)
+
+	**Modifié par**:
+
+	  - Loi n°63-254 1963-03-15 art. 56 JORF 17 mars 1963
+
+	**Abrogé par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 44 () JORF 8 janvier 1986
+
+
 ###### Article 116
 
 Les particuliers et les associations qui prennent habituellement la charge de mineurs qu'ils placent dans les établissements
@@ -2188,6 +2432,37 @@ judiciaire.
 	**Abrogé par**:
 
 	  - Loi n°86-17 du 6 janvier 1986 - art. 44 () JORF 8 janvier 1986
+
+
+###### Article 121
+
+En cas de fermeture de l'établissement, les créances pouvant résulter, au profit des mineurs, des articles 105 et 106, seront
+garanties par un privilège général sur les immeubles appartenant à l'établissement précité, inscrite au bureau des
+hypothèques à la requête du directeur départemental de la population et de l'aide sociale et prenant rang du jour de son
+inscription.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Ordonnance 59-71 1959-01-07 art. 5 JORF 8 janvier 1959
+
+	**Abrogé par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 44 () JORF 8 janvier 1986
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 105 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 106 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°1933-01-14 ART. 32
 
 
 ###### Article 122
@@ -2866,6 +3141,99 @@ Il liquide et mandate les dépenses ; le trésorier-payeur général en assure l
 	**Anciens textes**:
 
 	  - Loi n°43-182 1943-04-15 ART. 44
+
+
+###### Article 86
+
+Les dépenses du service comprennent :
+
+1. Les secours de premiers besoins et les allocations mensuelles accordés en application des articles 43, 52 et 53 du présent
+code ;
+
+2. Les frais d'entretien et d'éducation des mineurs confiés au service, et notamment :
+
+Les frais de séjour dans les établissements ;
+
+Les frais de placement familial ;
+
+Les frais d'habillement ;
+
+Les frais de scolarité ;
+
+Les frais médicaux et d'inhumation ;
+
+Les frais de déplacement des mineurs et des personnes désignées pour les accompagner ;
+
+Les frais d'actes, de contentieux et de recouvrement des deniers pupillaires ;
+
+Les frais d'assurances relatifs aux mineurs ;
+
+Les gratifications diverses aux pupilles et assimilés ;
+
+3. Les subventions du département à l'association d'entraide des pupilles et anciens pupilles ;
+
+4. Les frais d'entretien, d'éducation et de transfèrement des mineurs surveillés visés au 1. de l'article 46 du Code de la
+famille et de l'aide sociale.
+
+Toutefois, pour les mineurs recueillis par des particuliers ou des institutions privées, conformément aux dispositions du
+titre II de la loi du 24 juillet 1889 [*voir c. civil art. 371 à 387*], un arrêté conjoint du ministre de la santé publique
+et de la population, du ministre des finances et des affaires économiques et du ministre de l'intérieur détermine les cas
+dans lesquels peut intervenir une prise en charge et les modalités de celle-ci ;
+
+5. Les frais résultant de l'action éducative exercée par le service en faveur des mineurs surveillés visés au 2. de l'article
+46 du Code de la famille et de l'aide sociale ;
+
+6. Les frais d'entretien, d'éducation et de transfèrement des mineurs en danger confiés à des particuliers ou à des
+institutions privées en application des articles 375 à 382 du Code civil lorsqu'ils ne relèvent pas de l'aide médicale ou de
+l'aide aux infirmes ;
+
+7. Les frais de séjour des femmes hébergées en maison maternelle ou hospitalisées dans les conditions prévues à l'article 42
+du Code de la famille et de l'aide sociale ;
+
+8. Les remboursements aux départements étrangers ;
+
+9. Les dépenses de fonctionnement du service, et notamment :
+
+Les frais de vacation, de traitement et de déplacement du personnel rétribué sur le budget départemental et affecté au
+service ;
+
+Les subventions aux services sociaux concourant à la protection de l'enfance ;
+
+Les frais d'imprimés et de fournitures spéciales ;
+
+Les frais d'acquisition et d'entretien du mobilier et du matériel affectés au service ;
+
+Les frais de location, d'entretien, de chauffage, d'éclairage et d'assurance des locaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cité par**:
+
+	  - Décret n°94-909 du 14 octobre 1994 - art. 19 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 193 (M)
+
+	**Cite**:
+
+	  - Code civil 375 à 382
+	  - Code de la famille et de l'aide sociale. - art. 42 (M)
+	  - Code de la famille et de l'aide sociale. - art. 43 (M)
+	  - Code de la famille et de l'aide sociale. - art. 46 (M)
+	  - Code de la famille et de l'aide sociale. - art. 52 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 53 (Ab)
+	  - Loi n°1889-07-24
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L228-4 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°1953-11-29 ART. 61 ET 73
+	  - Loi n°43-182 1943-04-15 ART. 45
 
 
 ###### Article 87
