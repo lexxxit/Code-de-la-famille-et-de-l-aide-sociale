@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1972-07-09
+Version Consolidée au 1974-11-20
 
 # Titre Ier : Protection sociale de la famille
 
@@ -5976,6 +5976,60 @@ l'article 161 du Code de la famille et de l'aide sociale.
 	  - Code de la famille et de l'aide sociale. - art. 161 (V)
 
 
+###### Article 185
+
+Bénéficient, sur leur demande, de l'aide sociale pour être accueillies dans des centres d'hébergement et de réadaptation
+sociale publics ou privés les personnes et les familles dont les ressources sont insuffisantes, qui éprouvent des difficultés
+pour reprendre ou mener une vie normale notamment en raison du manque ou de conditions défectueuses de logement et qui ont
+besoin d'un soutien matériel et psychologique et, le cas échéant, d'une action éducative temporaire.
+
+Le décret prévu à l'article 202 du présent code précise les catégories de personnes et de familles pouvant bénéficier de
+l'alinéa précédent. Le même décret fixe pour tout ou partie des catégories de personnes et de familles intéressées une limite
+à la durée de l'aide sociale accordée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°53-1186 1953-11-29 ART. 55
+
+	**Cité par**:
+
+	  - Décret n°54-883 du 2 septembre 1954 - art. 46 (Ab)
+	  - Décret n°54-883 du 2 septembre 1954 - art. 46-1 (Ab)
+	  - Décret n°54-1139 du 17 novembre 1954 - art. 1 (Ab)
+	  - Décret n°56-1030 du 28 septembre 1956 - art. 67 (Ab)
+	  - Décret n°85-1458 du 30 décembre 1985 - art. 1 (Ab)
+	  - Décret n°85-1458 du 30 décembre 1985 - art. 12 (An)
+	  - Loi n°86-33 du 9 janvier 1986 - art. 2 (M)
+	  - Décret n°88-279 du 24 mars 1988 - art. 1 (Ab)
+	  - Arrêté du 18 août 1988 - art. 1 (Ab)
+	  - Loi n°89-18 du 13 janvier 1989 - art. 40 (Ab)
+	  - Arrêté du 30 juillet 1993 - art. 1 (Ab)
+	  - Arrêté du 3 décembre 1993 - art. Unique (V)
+	  - Arrêté du 16 mars 1978 - art. 1 (Ab)
+	  - Arrêté du 21 juin 1968 - art. 1 (M)
+	  - Arrêté du 21 juin 1968 - art. 2 (M)
+	  - Arrêté du 21 juin 1968 - art. 3 (M)
+	  - Arrêté du 23 novembre 1979 - art. Annexe ART. 116 (V)
+	  - Arrêté du 4 mai 1977 - art. 1 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 124-2 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 185-1 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 185-2 (Ab)
+	  - Code de la sécurité sociale. - art. L241-12 (M)
+	  - Code de la sécurité sociale. - art. L851-1 (M)
+	  - Code du travail - art. L322-4-16-7 (M)
+	  - Code du travail - art. L323-35 bis (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 202 (P)
+
+
 ###### Article 185-1
 
 Dans chaque département doit être créé un service social qui a pour mission, en liaison avec le service départemental
@@ -6004,6 +6058,64 @@ directeur départemental de la population et de l'action sociale.
 
 	  - Code de la famille et de l'aide sociale. - art. 185 (M)
 	  - Code de la famille et de l'aide sociale. - art. 190 (Ab)
+
+
+###### Article 185-2
+
+Les personnes bénéficiant de l'aide sociale, par application de l'article 185, en vue d'être accueillies dans un centre
+d'hébergement et de réadaptation, et qui sont reçues dans un tel centre ou en sortent, peuvent également être admises à
+bénéficier de l'aide sociale en vue d'un réentraînement au travail dans des centres d'aide par le travail, publics ou privés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cité par**:
+
+	  - Arrêté du 18 août 1988 - art. 1 (Ab)
+	  - Arrêté du 30 juillet 1993 - art. 1 (Ab)
+	  - Code de la sécurité sociale. - art. L241-12 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Circulaire 44 1979-09-10
+
+	**Abrogé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 157 (Ab) JORF 31 juillet 1998
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 185 (M)
+
+
+## Chapitre VIII : Mesure d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale
+
+###### Article 185-3
+
+Le bénéfice de l'aide sociale ne peut être accordé ou maintenu aux personnes ou familles accueillies dans un centre privé
+d'hébergement et de réadaptation ou dans un centre privé d'aide par le travail que si une convention a été conclue à cette
+fin entre le centre et le département [*condition*].
+
+Le décret prévu à l'article 202 du présent code détermine les règles générales auxquelles doivent obéir les conventions
+visées à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°54-883 du 2 septembre 1954 - art. 46-1 (Ab)
+	  - Arrêté du 23 novembre 1979 - art. Annexe ART. 116 (V)
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 202 (P)
 
 
 ## Chapitre IX : Dispositions concernant les étrangers
