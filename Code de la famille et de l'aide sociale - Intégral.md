@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1996-07-06
+Version Consolidée au 1997-01-01
 
 # Titre Ier : Protection sociale de la famille
 
@@ -6816,33 +6816,24 @@ territoriale de Mayotte, les mots :
 Des recours sont exercés par le département, par l'Etat, si le bénéficiaire de l'aide sociale n'a pas de domicile de secours,
 ou par la commune lorsqu'elle bénéficie d'un régime spécial d'aide médicale :
 
-a) contre le bénéficiaire revenu à meilleure fortune ou contre la succession du bénéficiaire ;
+a) Contre le bénéficiaire revenu à meilleure fortune ou contre la succession du bénéficiaire ;
 
-b) contre le donataire lorsque la donation est intervenue postérieurement à la demande d'aide sociale ou dans les cinq ans
-qui ont précédé cette demande ;
+b) Contre le donataire lorsque la donation est intervenue postérieurement à la demande d'aide sociale ou dans les dix ans qui
+ont précédé cette demande ;
 
-c) contre le légataire.
+c) Contre le légataire.
 
-En ce qui concerne les prestations d'aide sociale à domicile et d'aide médicale à domicile et la prise en charge du forfait
-journalier, un décret en Conseil d'Etat fixera les conditions dans lesquelles sont exercés les recours, en prévoyant, le cas
-échéant, l'existence d'un seuil de dépenses supportées par l'aide sociale en-deçà duquel il ne saurait être procédé à leur
-recouvrement. Le recouvrement sur la succession du bénéficiaire de l'aide sociale à domicile ou de la prise en charge du
-forfait journalier s'exerce sur la partie de l'actif net successoral défini par les règles de droit commun, qui excède un
-seuil fixé par décret en Conseil d'Etat [*récupération*].
+En ce qui concerne les prestations d'aide sociale à domicile et d'aide médicale à domicile, la prestation spécifique
+dépendance et la prise en charge du forfait journalier, un décret en Conseil d'Etat fixe les conditions dans lesquelles sont
+exercés les recours, en prévoyant, le cas échéant, l'existence d'un seuil de dépenses supportées par l'aide sociale en deçà
+duquel il n'est pas procédé à leur recouvrement.
 
-L'inscription de l'hypothèque légale visée à l'article 148 est supprimée pour les prestations ouvrant droit au seuil de
-récupération visé à l'avant-dernier alinéa du présent article.
+Le recouvrement sur la succession du bénéficiaire de l'aide sociale à domicile, de la prestation spécifique dépendance ou de
+la prise en charge du forfait journalier s'exerce sur la partie de l'actif net successoral, défini par les règles de droit
+commun, qui excède un seuil fixé par décret en Conseil d'Etat.
 
-**Nota:**
-
-[*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
-territoriale de Mayotte, les mots :
-
-"département" sont remplacés par "collectivité territoriale" ;
-
-"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
-
-"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
+L'inscription de l'hypothèque légale visée à l'article 148 est supprimée pour les prestations d'aide sociale à domicile, la
+prestation spécifique dépendance et la prise en charge du forfait journalier visées à l'alinéa précédent.
 
 **Liens relatifs à cet article**
 
@@ -6860,7 +6851,7 @@ territoriale de Mayotte, les mots :
 
 	**Modifié par**:
 
-	  - Loi n°92-722 du 29 juillet 1992 - art. 9 () JORF 30 juillet 1992 en vigueur le 1er janvier 1993
+	  - Loi n°97-60 du 24 janvier 1997 - art. 10 (V) JORF 25 janvier 1997 en vigueur le 1er janvier 1997
 
 	**Nouveaux textes**:
 
@@ -6873,7 +6864,7 @@ territoriale de Mayotte, les mots :
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Décret n°61-495 1961-05-15 art. 4 relatif au recouvrement sur la succession du bénéficiaire de l'aide sociale
+	  - TXT_ASSOCIE: Décret n°61-495 du 15 mai 1961 - art. 4 (M)
 
 
 ###### Article 147
@@ -8731,7 +8722,9 @@ effet délégation du ministre chargé des affaires sociales ou du représentant
 
 Les agents départementaux habilités par le président du conseil général ont compétence pour contrôler le respect, par les
 bénéficiaires et les institutions intéressées, des règles applicables aux formes d'aide sociale relevant de la compétence du
-département.
+département. Sans préjudice des dispositions figurant aux articles 208 à 215, ces mêmes agents habilités exercent un pouvoir
+de contrôle technique sur les institutions qui relèvent d'une autorisation de création délivrée par le président du conseil
+général.
 
 Le règlement départemental arrête les modalités de ce contrôle.
 
@@ -8750,11 +8743,20 @@ Le règlement départemental arrête les modalités de ce contrôle.
 
 	**Modifié par**:
 
-	  - Loi n°86-17 du 6 janvier 1986 - art. 64 () JORF 8 janvier 1986
+	  - Loi n°97-60 du 24 janvier 1997 - art. 25 () JORF 25 janvier 1997 en vigueur le 1er janvier 1997
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. L133-2 (V)
+	  - Code de l'action sociale et des familles - art. L133-2 (M)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale 208 à 215
 
 
 ###### Article 199
@@ -9973,17 +9975,20 @@ L'article 911 dudit code est, en outre, applicable aux libéralités en cause.
 
 ###### Article 210
 
-Si la santé, la sécurité ou le bien-être moral ou physique des personnes hébergées, sont menacés ou compromis par les
-conditions d'installation, d'organisation ou de fonctionnement de l'établissement, le préfet enjoint aux responsables de
-celui-ci de remédier aux insuffisances, inconvénients ou abus dans le délai qu'il leur fixe à cet effet.
+Si la santé, la sécurité ou le bien-être moral ou physique des personnes hébergées sont menacés ou compromis par les
+conditions d'installation, d'organisation ou de fonctionnement de l'établissement, le représentant de l'Etat enjoint aux
+responsables de celui-ci de remédier aux insuffisances, inconvénients ou abus dans le délai qu'il leur fixe à cet effet.
 
-S'il n'a pas été satisfait à l'injonction dans ce délai, le préfet peut, après avoir pris l'avis du conseil départemental
-d'hygiène, ordonner la fermeture totale ou partielle, définitive ou provisoire, de l'établissement.
+S'il n'a pas été satisfait à l'injonction dans ce délai, le représentant de l'Etat ordonne, après avoir pris l'avis du
+conseil départemental d'hygiène, la fermeture totale ou partielle, définitive ou provisoire, de l'établissement.
 
 En cas d'urgence ou lorsque le responsable de l'établissement refuse de se soumettre à la surveillance prévue à l'article
-209, le préfet peut, sans injonction préalable ni consultation du conseil départemental d'hygiène, prononcer par arrêté
-motivé et à titre provisoire une mesure de fermeture immédiate [*sanction*], à charge pour lui d'en saisir pour avis ledit
+209, le représentant de l'Etat peut, sans injonction préalable ni consultation du conseil départemental d'hygiène, prononcer
+par arrêté motivé et à titre provisoire une mesure de fermeture immédiate, à charge pour lui d'en saisir pour avis ledit
 conseil, dans le délai d'un mois.
+
+En cas de décision de fermeture prise par le président du conseil général, le représentant de l'Etat dans le département
+exécute cette décision en appliquant, avec le concours de celui-ci, les dispositions prévues à l'article 212.
 
 **Nota:**
 
@@ -10008,6 +10013,14 @@ conseil, dans le délai d'un mois.
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
+	**Modifié par**:
+
+	  - Loi n°97-60 du 24 janvier 1997 - art. 24 () JORF 25 janvier 1997 en vigueur le 1er janvier 1997
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. L331-5 (M)
@@ -10015,10 +10028,6 @@ conseil, dans le délai d'un mois.
 	**Cite**:
 
 	  - Code de la famille et de l'aide sociale. - art. 209 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°1933-01-14 ART. 21, ART. 24 AL. 2
 
 
 ###### Article 211
