@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1959-01-08
+Version Consolidée au 1959-01-09
 
 # Titre Ier : Protection sociale de la famille
 
@@ -3486,6 +3486,63 @@ sociale telles qu'elles sont définies par le présent code.
 
 ## Chapitre Ier : Dispositions générales, procédure et conditions d'admission à l'aide sociale
 
+###### Article 126
+
+La commission d'admission comprend cinq membres [*nombre*] :
+
+Un magistrat du siège en activité ou honoraire, désigné par le premier président de la cour d'appel, président.
+
+Deux fonctionnaires de l'administration des finances désignés par le préfet.
+
+Ces membres titulaires peuvent être remplacés par des membres suppléants désignés dans les mêmes conditions.
+
+Le conseiller général du canton comprenant la commune où réside l'intéressé.
+
+Pour les affaires concernant la commune, le maire de la commune intéressée. Le maire peut se faire suppléer par un membre du
+conseil municipal.
+
+En cas de partage, la voix du président est prépondérante.
+
+Assistent à la commission avec voix consultative :
+
+Un représentant des organismes de sécurité sociale ou de la mutualité sociale agricole, désigné par le préfet dans les
+conditions qui sont fixées par arrêté interministériel.
+
+Un représentant d'un bureau d'aide sociale désigné par le préfet.
+
+Le directeur départemental de la population et de l'aide sociale ou son représentant, représente le préfet auprès de la
+commission.
+
+Le conseil général fixe, sur proposition du préfet, le ressort de la commission et la périodicité de ses réunions dans les
+conditions déterminées par décret.
+
+Le secrétariat de la commission est assuré par un secrétaire rapporteur désigné par le préfet dans les conditions fixées par
+ledit décret.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°55-190 du 2 février 1955 - art. 2, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cité par**:
+
+	  - Décret n°63-380 du 8 avril 1963 - art. 2 (Ab)
+	  - Arrêté du 19 avril 1994 - art. Annexe (M)
+	  - Code de la famille et de l'aide sociale. - art. 124-2 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 125 (M)
+	  - Code de la famille et de l'aide sociale. - art. 194 (Ab)
+	  - Code de la sécurité sociale. - art. D412-79 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L131-5 (M)
+
+
 ###### Article 127
 
 Les commissions [*d'admission*] ne peuvent établir des listes annuelles qu'en matière d'aide médicale et au profit des seuls
@@ -3989,6 +4046,35 @@ d'admission à l'aide médicale.*]
 	  - Code de l'action sociale et des familles - art. L132-2 (V)
 
 
+###### Article 142
+
+Les ressources de quelque nature qu'elles soient à l'exception des prestations familiales, dont sont bénéficiaires les
+personnes placées dans un établissement au titre de l'aide aux personnes âgées ou de l'aide aux infirmes, aveugles et grands
+infirmes, sont affectées au remboursement des frais d'hospitalisation des intéressés dans la limite de 90 p. 100. Toutefois,
+les modalités de calcul de la somme mensuelle minimum laissée à la disposition du bénéficiaire de l'aide sociale sont
+déterminées par décret. La retraite du combattant et les pensions attachées aux distinctions honorifiques dont le
+bénéficiaire de l'aide sociale peut être titulaire s'ajouteront à cette somme.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°53-1186 1953-11-29 art. 17
+	  - Décret n°55-190 1955-02-02
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L132-3 (V)
+
+
 ###### Article 143
 
 Les participations exigées des parents pour un enfant admis au bénéfice de l'aide sociale, soit hospitalisé, soit placé dans
@@ -4413,6 +4499,47 @@ sont fixées par règlement d'administration publique.
 
 ### Section 2 : Placement familial ou hospitalier
 
+###### Article 164
+
+Toute personne âgée qui ne peut être utilement aidée à domicile peut être placée, si elle y consent, dans des conditions
+précisées par décret, soit chez des particuliers, soit dans un établissement hospitalier ou une maison de retraite publics,
+ou, à défaut, dans un établissement privé.
+
+En cas de placement dans un établissement public ou un établissement privé, habilité par convention à recevoir des
+bénéficiaires de l'aide sociale, le plafond des ressources précisé à l'article 159 sera celui correspondant au montant de la
+dépense résultant dudit placement. Le prix de la journée dans ces établissements est fixé selon la réglementation en vigueur
+dans les établissements hospitaliers.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°53-1186 1953-11-29 art. 33
+	  - Décret n°55-190 1955-02-02 art. 16
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cité par**:
+
+	  - Décret n°56-1030 du 28 septembre 1956 - art. 67 (Ab)
+	  - Décret n°61-9 du 3 janvier 1961 - art. 19 (Ab)
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L231-4 (M)
+	  - Code de l'action sociale et des familles - art. L231-4 (V)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 159 (Ab)
+
+
 ###### Article 165
 
 Le service d'aide sociale aux personnes âgées peut participer aux frais de séjour d'une personne âgée dans une maison de
@@ -4441,6 +4568,53 @@ occasionnée le placement de la personne âgée dans un établissement hospitali
 ### Section 2 : Dispositions concernant les aveugles et grands infirmes
 
 #### Paragraphe 1 : Dispositions communes aux deux catégories
+
+###### Article 170
+
+Une allocation mensuelle, dont le taux est égal au montant de l'allocation aux vieux travailleurs salariés, est substituée à
+l'allocation prévue à l'article 158. Le plafond des ressources est fixé par décret.
+
+Le taux de la majoration accordée aux aveugles et grands infirmes ayant besoin de l'aide constante d'une tierce personne
+varie compte tenu des sujétions que l'état de l'intéressé impose à son entourage, entre 40 et 80 p. 100 de la majoration
+prévue à l'article L. 314 du Code de la sécurité sociale.
+
+Cette majoration peut, sur décision de la commission, être accordée pour tout ou partie sous forme de service à domicile dans
+les communes où un tel service a été organisé. La commission fixe la nature des services et le montant global de la dépense
+consentie à cet effet dans la limite du montant de la majoration accordée.
+
+Cette majoration n'est servie que dans la mesure où les ressources personnelles de l'intéressé sont inférieures au plafond
+prévu au premier alinéa du présent article relevé du montant de la majoration.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°53-1186 1953-11-29 ART. 39
+	  - Loi n°55-1537 1955-11-28
+
+	**Cité par**:
+
+	  - Décret n°54-883 du 2 septembre 1954 - art. 23 (Ab)
+	  - Décret n°56-1030 du 28 septembre 1956 - art. 67 (Ab)
+	  - Décret n°57-44 du 15 janvier 1957 - art. 5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Modifié par**:
+
+	  - Décret n°61-100 du 25 janvier 1961 - art. 20 (V) JORF 29 janvier 1961
+
+	**Abrogé par**:
+
+	  - Décret n°77-1549 1977-12-31 art. 18-I JORF 12 janvier 1978
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 158 (Ab)
+	  - Code de la sécurité sociale L314
+
 
 ###### Article 173
 
@@ -5205,6 +5379,49 @@ traitement relèvent, en premier ressort, de la compétence des tribunaux admini
 	  - Code de la famille et de l'aide sociale. - art. 201 (M)
 
 
+###### Article 196
+
+Tous les recouvrements relatifs au service de l'aide sociale sont opérés comme en matière de contributions directes.
+
+Les actes faits et les décisions rendues en vertu des titres III et IV du code de la famille et de l'aide sociale et
+exclusivement relatifs au service de l'aide sociale sont dispensés du droit de timbre et enregistrés gratis lorsqu'il y a
+lieu à la formalité de l'enregistrement.
+
+Lorsque les recours prévus aux articles 145 et 146 du code de la famille et de l'aide sociale et par les articles L. 695 et
+L. 696 (anciens) du code de la sécurité sociale sont portés devant le tribunal de grande instance ou la cour d'appel, le
+ministère d'avoué n'est pas obligatoire.
+
+Lorsque ces recours relèvent de la compétence du tribunal d'instance, celui-ci est saisi par une requête sur papier libre
+émanant de l'autorité publique demanderesse. Dans la huitaine qui suit le dépôt de cette requête, le greffier convoque les
+parties en conciliation par lettre recommandée avec accusé de réception. Les citations et autres actes de procédure sont
+notifiés en la même forme, les délais courant à compter de la réception de la lettre recommandée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 1019 BIS
+	  - Décret n°53-1186 1953-11-29 ART. 67
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°97-941 du 14 octobre 1997
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L132-11 (V)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 145 (M)
+	  - Code de la famille et de l'aide sociale. - art. 146 (M)
+	  - Code de la sécurité sociale L695, L696
+
+
 ###### Article 198
 
 Les conseils généraux peuvent créer des emplois d'agents départementaux de contrôle. Les délibérations prises à cet effet
@@ -5751,216 +5968,5 @@ service social à l'organisation intérieure et au fonctionnement des divers ser
 	**Anciens textes**:
 
 	  - Loi n°46-630 1946-04-08 ART. 14
-
-
-## Chapitre II : Liaison et coordination des services sociaux
-
-###### Article 230
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L542-1 (T)
-
-	**Abrogé par**:
-
-	  - Décret n°59-146 1959-01-07 art. 22 JORF 9 janvier 1959
-
-
-###### Article 231
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L542-2 (T)
-
-	**Abrogé par**:
-
-	  - Décret n°59-146 1959-01-07 art. 22 JORF 9 janvier 1959
-
-
-###### Article 232
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L542-4 (T)
-
-	**Abrogé par**:
-
-	  - Décret n°59-146 1959-01-07 art. 22 JORF 9 janvier 1959
-
-
-###### Article 233
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L542-5 (T)
-
-	**Abrogé par**:
-
-	  - Décret n°59-146 1959-01-07 art. 22 JORF 9 janvier 1959
-
-
-###### Article 234
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L542-6 (T)
-
-	**Abrogé par**:
-
-	  - Décret n°59-146 1959-01-07 art. 22 JORF 9 janvier 1959
-
-
-###### Article 235
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L542-7 (T)
-
-	**Abrogé par**:
-
-	  - Décret n°59-146 1959-01-07 art. 22 JORF 9 janvier 1959
-
-
-###### Article 236
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L542-8 (T)
-
-	**Abrogé par**:
-
-	  - Décret n°59-146 1959-01-07 art. 22 JORF 9 janvier 1959
-
-
-###### Article 237
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L542-9 (T)
-
-	**Abrogé par**:
-
-	  - Décret n°59-146 1959-01-07 art. 22 JORF 9 janvier 1959
-
-
-###### Article 238
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L542-10 (T)
-
-	**Abrogé par**:
-
-	  - Décret n°59-146 1959-01-07 art. 22 JORF 9 janvier 1959
-
-
-###### Article 239
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L542-11 (T)
-
-	**Abrogé par**:
-
-	  - Décret n°59-146 1959-01-07 art. 22 JORF 9 janvier 1959
-
-
-###### Article 240
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L542-12 (T)
-
-	**Abrogé par**:
-
-	  - Décret n°59-146 1959-01-07 art. 22 JORF 9 janvier 1959
 
 
