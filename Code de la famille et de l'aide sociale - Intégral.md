@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 2000-12-23
+Version Consolidée au 2002-01-18
 
 # Titre Ier : Protection sociale de la famille
 
@@ -1297,83 +1297,6 @@ publication des dispositions réglementaires correspondantes du code de l'action
 
 	  - Code de l'action sociale et des familles - art. R241-14 (M)
 	  - Code de l'action sociale et des familles - art. R241-21 (M)
-
-
-#### Paragraphe 2 : Dispositions spéciales aux aveugles
-
-###### Article 175
-
-Par dérogation à la réglementation en vigueur en matière de marchés de fournitures, les services et établissements publics de
-l'Etat, des régions, des départements et des communes, ainsi que les entreprises nationalisées doivent, au profit de tous les
-travailleurs aveugles, de même qu'au profit des travailleurs handicapés, tels que définis par la loi n° 57-1223 du 23
-novembre 1957, traiter [*obligation*] par priorité, à égalité de prix ou équivalence d'offres, pour leurs commandes
-d'articles dits de "grosse brosserie", de savons et de savonnettes, de cirages et encaustiques, soit avec les organismes,
-associations ou institutions de handicapés, d'aveugles et pour aveugles, reconnus d'utilité publique ou déclarés, soit avec
-les coopératives d'aveugles, et pour aveugles ou de travailleurs handicapés.
-
-Les groupements mentionnés ci-dessus doivent être agréés conjointement par les ministres chargés de l'emploi et de la santé.
-
-Les mesures nécessaires pour assurer l'application des deux alinéas ci-dessus, notamment les conditions de vente et de
-protection du travail des aveugles et des travailleurs handicapés, ainsi que les conditions d'agrément des organismes,
-coopératives, associations ou institutions d'aveugles ou de handicapés sont déterminées par décret. Ce décret précise le
-degré d'infirmité des aveugles et travailleurs handicapés et leur proportion minimale, nécessaires pour que les organismes,
-coopératives, associations ou institutions puissent bénéficier des dispositions ci-dessus.
-
-**Nota:**
-
-[*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
-territoriale de Mayotte, les mots :
-
-"département" sont remplacés par "collectivité territoriale" ;
-
-"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
-
-"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-1186 1953-11-29 ART. 44
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Cite**:
-
-	  - Loi n°57-1223 1957-11-23
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°73-1120 du 17 décembre 1973
-	  - TXT_SOURCE: Décret n°73-1120 du 17 décembre 1973 - art. 1 (Ab)
-	  - TXT_SOURCE: Décret n°73-1120 du 17 décembre 1973 - art. 10 (Ab)
-	  - TXT_SOURCE: Décret n°73-1120 du 17 décembre 1973 - art. 11 (Ab)
-	  - TXT_SOURCE: Décret n°73-1120 du 17 décembre 1973 - art. 2 (Ab)
-	  - TXT_SOURCE: Décret n°73-1120 du 17 décembre 1973 - art. 3 (Ab)
-	  - TXT_SOURCE: Décret n°73-1120 du 17 décembre 1973 - art. 4 (Ab)
-	  - TXT_SOURCE: Décret n°73-1120 du 17 décembre 1973 - art. 5 (Ab)
-	  - TXT_SOURCE: Décret n°73-1120 du 17 décembre 1973 - art. 6 (Ab)
-	  - TXT_SOURCE: Décret n°73-1120 du 17 décembre 1973 - art. 7 (Ab)
-	  - TXT_SOURCE: Décret n°73-1120 du 17 décembre 1973 - art. 8 (Ab)
-	  - TXT_SOURCE: Décret n°73-1120 du 17 décembre 1973 - art. 9 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°73-1120 du 17 décembre 1973 - art. 1 (Ab)
-	  - Arrêté du 4 avril 1984 - art. 4 (V)
-	  - Décret n°2004-1136 du 21 octobre 2004 - art. 5 (V)
-	  - Code des marchés publics - art. 251 (Ab)
-	  - Code des marchés publics - art. 41 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°89-18 du 13 janvier 1989 - art. 64 () JORF 14 janvier 1989
-
-	**Abrogé par**:
-
-	  - Loi n°2002-73 du 17 janvier 2002 - art. 132 () JORF 18 janvier 2002
 
 
 ## Chapitre VIII : Mesures d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale
