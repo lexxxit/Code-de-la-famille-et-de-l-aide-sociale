@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1983-07-23
+Version Consolidée au 1984-01-04
 
 # Titre Ier : Protection sociale de la famille
 
@@ -7767,12 +7767,13 @@ dernières sont déterminés par décret en conseil d'Etat.
 La section permanente du conseil supérieur de l'aide sociale est compétente pour statuer en matière contentieuse sur les
 recours contre les arrêtés fixant la dotation globale due conformément aux dispositions de l'article 8 de la loi n° 83-25 du
 19 janvier 1983 portant diverses mesures relatives à la sécurité sociale par les organismes d'assurance maladie ainsi que sur
-les recours contre les arrêtés déterminant les prix de journée des établissements publics ou privés. Ces recours peuvent être
-portés devant elle dans le délai d'un mois à partir de la publication desdits arrêtés par toute personne physique ou morale
-intéressée, par les ministres compétents ou les organismes de sécurité sociale.
+les recours contre les arrêtés déterminant, selon le cas, les tarifs des prestations ou les prix de journée des
+établissements publics ou privés. Ces recours peuvent être portés devant elle dans le délai d'un mois à partir de la
+publication desdits arrêtés par toute personne physique ou morale intéressée, par les ministres compétents ou les organismes
+de sécurité sociale.
 
-La section permanente statue en dernier ressort. Les décisions fixant le montant des prix de journée et des versements
-globaux ont effet à compter de la date prévue dans l'arrêté donnant lieu à un litige.
+La section permanente statue en dernier ressort. Les décisions fixant le montant des prix de journée, des tarifs de
+prestations et des versements globaux ont effet à compter de la date prévue dans l'arrêté donnant lieu à un litige.
 
 **Liens relatifs à cet article**
 
@@ -7790,14 +7791,13 @@ globaux ont effet à compter de la date prévue dans l'arrêté donnant lieu à 
 	  - Code de la famille et de l'aide sociale. - art. 195 (Ab)
 	  - Code de la famille et de l'aide sociale. - art. 201-1 (M)
 
-	**Modifié par**:
-
-	  - Loi n°83-25 du 19 janvier 1983 - art. 12 () JORF 20 janvier 1983
-	  - Loi n°83-663 du 22 juillet 1983 - art. 54 (V) JORF 23 juillet 1983
-
 	**Cite**:
 
 	  - Loi n°83-25 du 19 janvier 1983 - art. 8, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°84-5 du 3 janvier 1984 - art. 12 () JORF 4 janvier 1984
 
 	**Nouveaux textes**:
 
