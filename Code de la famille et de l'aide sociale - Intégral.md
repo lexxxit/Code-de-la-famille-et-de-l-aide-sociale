@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1998-07-31
+Version Consolidée au 2000-01-01
 
 # Titre Ier : Protection sociale de la famille
 
@@ -5599,8 +5599,8 @@ mentionnées à l'article 39 de la loi n° 75-534 du 30 juin 1975 d'orientation 
 conditions prévues par cette loi. Les prestations mentionnées aux articles 156, 181-2 et 185 du présent code sont attribuées
 par le représentant de l'Etat.
 
-Les prestations d'aide médicale sont attribuées par le président du conseil général ou par le représentant de l'Etat dans le
-département dans les conditions fixées par le titre III bis du présent code.
+Les prestations d'aide médicale sont attribuées par par le représentant de l'Etat dans le département dans les conditions
+fixées par le titre III bis du présent code.
 
 A l'exception des décisions concernant l'attribution des prestations d'aide sociale à l'enfance, les décisions du président
 du conseil général et du représentant de l'Etat dans le département prévues aux alinéas précédents sont susceptibles de
@@ -5632,8 +5632,8 @@ territoriale de Mayotte, les mots :
 
 	  - Loi n°75-534 du 30 juin 1975 - art. 39 (M)
 	  - Loi n°83-663 1983-07-22 art. 34
-	  - Code de la famille et de l'aide sociale 126, 181-1, 156, 181-2, 185, 128 et 129
 	  - Code de la famille et de l'aide sociale. - art. 126 (M)
+	  - Code de la famille et de l'aide sociale. - art. 129 (M)
 	  - Code de la famille et de l'aide sociale. - art. 156 (Ab)
 	  - Code de la famille et de l'aide sociale. - art. 181-1 (Ab)
 	  - Code de la famille et de l'aide sociale. - art. 181-2 (Ab)
@@ -5642,12 +5642,17 @@ territoriale de Mayotte, les mots :
 
 	**Modifié par**:
 
-	  - Loi n°92-722 du 29 juillet 1992 - art. 9 () JORF 30 juillet 1992 en vigueur le 1er janvier 1993
+	  - Loi n°99-641 du 27 juillet 1999 - art. 33 () JORF 28 juillet 1999 en vigueur le 1er janvier 2000
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. L131-2 (V)
 	  - Code de l'action sociale et des familles - art. L134-1 (V)
+	  - Code de l'action sociale et des familles - art. L131-2 (M)
 
 
 ###### Article 124-3
@@ -6781,12 +6786,9 @@ prévus.
 
 ###### Article 145
 
-En cas de carence de l'intéressé, le représentant de l'Etat ou le président du conseil général [*antérieurement à 1983, le
-préfet*] peut demander en son lieu et place à l'autorité judiciaire la fixation de la dette alimentaire et le versement de
-son montant au département, à charge pour celui-ci de le reverser au bénéficiaire, augmenté le cas échéant de la quote-part
-de l'aide sociale.
-
-Les mêmes droits appartiennent aux maires des villes ayant conservé un régime spécial d'aide médicale.
+En cas de carence de l'intéressé, le représentant de l'Etat ou le président du conseil général peut demander en son lieu et
+place à l'autorité judiciaire la fixation de la dette alimentaire et le versement de son montant au département, à charge
+pour celui-ci de le reverser au bénéficiaire, augmenté le cas échéant de la quote-part de l'aide sociale.
 
 **Nota:**
 
@@ -6801,11 +6803,6 @@ territoriale de Mayotte, les mots :
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°53-1186 1953-11-29 ART. 20
-	  - Décret n°55-190 1955-02-02
-
 	**Codifié par**:
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
@@ -6817,7 +6814,11 @@ territoriale de Mayotte, les mots :
 
 	**Modifié par**:
 
-	  - Loi n°83-663 du 22 juillet 1983 - art. 54 (V) JORF 23 juillet 1983
+	  - Loi n°99-641 du 27 juillet 1999 - art. 33 () JORF 28 juillet 1999 en vigueur le 1er janvier 2000
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 	**Nouveaux textes**:
 
@@ -6826,8 +6827,8 @@ territoriale de Mayotte, les mots :
 
 ###### Article 146
 
-Des recours sont exercés par le département, par l'Etat, si le bénéficiaire de l'aide sociale n'a pas de domicile de secours,
-ou par la commune lorsqu'elle bénéficie d'un régime spécial d'aide médicale :
+Des recours sont exercés par le département, par l'Etat, si le bénéficiaire de l'aide sociale n'a pas de domicile de
+secours :
 
 a) Contre le bénéficiaire revenu à meilleure fortune ou contre la succession du bénéficiaire ;
 
@@ -6854,6 +6855,7 @@ prestation spécifique dépendance et la prise en charge du forfait journalier v
 
 	  - Décret n°54-883 du 2 septembre 1954 - art. 8 (M)
 	  - Décret n°56-1030 du 28 septembre 1956 - art. 28 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 148 (Ab)
 	  - Code de la famille et de l'aide sociale. - art. 196 (Ab)
 	  - Décret n°61-495 du 15 mai 1961 - art. 4 (M)
 	  - Décret n°61-495 du 15 mai 1961 - art. 4-1 (MMN)
@@ -6864,20 +6866,16 @@ prestation spécifique dépendance et la prise en charge du forfait journalier v
 
 	**Modifié par**:
 
-	  - Loi n°97-60 du 24 janvier 1997 - art. 10 (V) JORF 25 janvier 1997 en vigueur le 1er janvier 1997
+	  - Loi n°99-641 du 27 juillet 1999 - art. 33 () JORF 28 juillet 1999 en vigueur le 1er janvier 2000
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. L132-8 (M)
 	  - Code de l'action sociale et des familles - art. L132-9 (M)
-
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale. - art. 148 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Décret n°61-495 du 15 mai 1961 - art. 4 (M)
 
 
 ###### Article 147
@@ -6989,10 +6987,9 @@ territoriale de Mayotte, les mots :
 
 ###### Article 149
 
-L'Etat, le département ou la commune, lorsque celle-ci bénéficie d'un régime spécial d'aide médicale, sont, dans la limite
-des prestations allouées, subrogés dans les droits de l'allocataire en ce qui concerne les créances pécuniaires de celui-ci
-contre toute personne physique ou morale en tant que ces créances ne sont ni incessibles, ni insaisissables et que la
-subrogation a été signifiée au débiteur.
+L'Etat ou le département sont, dans la limite des prestations allouées, subrogés dans les droits de l'allocataire en ce qui
+concerne les créances pécuniaires de celui-ci contre toute personne physique ou morale en tant que ces créances ne sont ni
+incessibles, ni insaisissables et que la subrogation a été signifiée au débiteur.
 
 **Nota:**
 
@@ -7007,11 +7004,6 @@ territoriale de Mayotte, les mots :
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°53-1186 1953-11-29 ART. 24 AL. 1
-	  - Décret n°55-190 1955-02-02
-
 	**Codifié par**:
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
@@ -7019,6 +7011,14 @@ territoriale de Mayotte, les mots :
 	**Cité par**:
 
 	  - Décret n°64-355 du 20 avril 1964 - art. 7 (M)
+
+	**Modifié par**:
+
+	  - Loi n°99-641 du 27 juillet 1999 - art. 33 () JORF 28 juillet 1999 en vigueur le 1er janvier 2000
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 	**Nouveaux textes**:
 
@@ -8393,8 +8393,13 @@ Les personnes de nationalité étrangère bénéficient dans les conditions pré
 
 2° De l'aide sociale en cas d'admission dans un centre d'hébergement et de réadaptation sociale ;
 
-3° De l'aide médicale en cas de soins dispensés par un établissement de santé ou de prescriptions ordonnées à cette occasion,
-y compris en cas de consultation externe ;
+3° De l'aide médicale de l'Etat : 
+
+a) Pour les soins dispensés par un établissement de santé ou pour les prescriptions ordonnées à cette occasion, y compris en
+cas de consultation externe ; 
+
+b) Pour les soins de ville, lorsque ces personnes justifient d'une résidence ininterrompue en France depuis au moins trois
+ans ;
 
 4° De l'aide médicale à domicile, à condition qu'elles justifient soit d'un titre exigé des personnes de nationalité
 étrangère pour séjourner régulièrement en France, soit d'une résidence ininterrompue en France métropolitaine depuis au moins
@@ -8406,18 +8411,14 @@ résidence ininterrompue en France métropolitaine depuis au moins quinze ans av
 Elles bénéficient dans les mêmes conditions des autres formes d'aide sociale, à condition qu'elles justifient d'un titre
 exigé des personnes de nationalité étrangère pour séjourner régulièrement en France.
 
-Pour tenir compte de situations exceptionnelles, il peut être dérogé aux conditions fixées au 4°  et à l'alinéa ci-dessus par
-décision du ministre chargé de l'action sociale. Les dépenses en résultant sont à la charge de l'Etat.
+Pour tenir compte de situations exceptionnelles, il peut être dérogé aux conditions fixées au b du 3° et à l'alinéa ci-dessus
+par décision du ministre chargé de l'action sociale. Les dépenses en résultant sont à la charge de l'Etat.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Modifié par**:
-
-	  - Loi n°93-1027 du 24 août 1993 - art. 38 () JORF 29 août 1993
 
 	**Liens**:
 
@@ -8431,6 +8432,14 @@ décision du ministre chargé de l'action sociale. Les dépenses en résultant s
 	  - Code de la famille et de l'aide sociale. - art. 187-1 (M)
 	  - Code de la santé publique - art. L220 (Ab)
 	  - Code de la santé publique - art. L3112-5 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°99-641 du 27 juillet 1999 - art. 33 () JORF 28 juillet 1999 en vigueur le 1er janvier 2000
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 	**Nouveaux textes**:
 
@@ -8608,16 +8617,12 @@ résulterait de l'application desdites règles.
 
 ###### Article 195
 
-Sous réserve de l'application de l'article 201, les recours formés contre les décisions prises en vertu des articles 190-1,
-193 et 194 du code de la famille et de l'aide sociale relèvent en premier et dernier ressort de la compétence de la
-commission centrale d'aide sociale instituée par l'article 129. Les décisions de la commission centrale d'aide sociale
-peuvent faire l'objet d'un recours en cassation devant le Conseil d'Etat.
+Sous réserve de l'application de l'article 201, les recours formés contre les décisions prises en vertu des articles 193 et
+194 du code de la famille et de l'aide sociale relèvent en premier et dernier ressort de la compétence de la commission
+centrale d'aide sociale instituée par l'article 129. Les décisions de la commission centrale d'aide sociale peuvent faire
+l'objet d'un recours en cassation devant le Conseil d'Etat.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-1186 1953-11-29 art. 66
 
 	**Codifié par**:
 
@@ -8629,7 +8634,11 @@ peuvent faire l'objet d'un recours en cassation devant le Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°92-722 du 29 juillet 1992 - art. 10 () JORF 30 juillet 1992 en vigueur le 1er janvier 1993
+	  - Loi n°99-641 du 27 juillet 1999 - art. 33 () JORF 28 juillet 1999 en vigueur le 1er janvier 2000
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 	**Nouveaux textes**:
 
@@ -8638,7 +8647,6 @@ peuvent faire l'objet d'un recours en cassation devant le Conseil d'Etat.
 	**Cite**:
 
 	  - Code de la famille et de l'aide sociale. - art. 129 (M)
-	  - Code de la famille et de l'aide sociale. - art. 190-1 (P)
 	  - Code de la famille et de l'aide sociale. - art. 193 (M)
 	  - Code de la famille et de l'aide sociale. - art. 194 (M)
 	  - Code de la famille et de l'aide sociale. - art. 201 (M)
@@ -8990,22 +8998,23 @@ Rhin, du Haut-Rhin et de la Moselle, ainsi qu'aux départements d'outre-mer, son
 	  - Code de l'action sociale et des familles - art. L521-1 (V)
 
 
-# Titre III bis : Aide médicale
-
-## Chapitre Ier : Conditions générales d'admission
+# Titre III bis : Aide médicale de l'Etat
 
 ###### Article 187-1
 
-Sous réserve des dispositions de l'article 186, toute personne résidant en France a droit, pour elle-même et les personnes à
-sa charge au sens des articles L. 161-14 et L. 313-3 du code de la sécurité sociale, à l'aide médicale pour les dépenses de
-soins qu'elle ne peut supporter.
+Tout étranger résidant en France sans remplir les conditions fixées par l'article L. 380-1 du code de la sécurité sociale et
+dont les ressources ne dépassent pas le plafond mentionné à l'article L. 861-1 de ce code a droit, pour lui-même et les
+personnes à sa charge au sens des articles L. 161-14 et L. 313-3 de ce code, à l'aide médicale de l'Etat.
 
-Cette aide totale ou partielle est attribuée en tenant compte des ressources du foyer du demandeur, à l'exclusion de
-certaines prestations à objet spécialisé, ainsi que de ses charges. Un barème départemental peut être défini par le règlement
-départemental d'aide sociale pour l'admission de plein droit à l'aide médicale des personnes prises en charge par le
-département en vertu de l'article 190-1. Un barème établi par voie réglementaire peut déterminer les conditions d'admission
-de plein droit à l'aide médicale des personnes prises en charge par l'Etat en vertu de l'article 190-1. Les demandes
-auxquelles ces barèmes ne permettent pas de faire droit sont examinées dans les conditions prévues par l'article 189-6.
+En outre, toute personne qui, ne résidant pas en France, est présente sur le territoire français, et dont l'état de santé le
+justifie, peut, par décision individuelle prise par le ministre chargé de l'action sociale, bénéficier de l'aide médicale de
+l'Etat dans les conditions prévues par l'article 187-3. Dans ce cas, la prise en charge des dépenses mentionnées à l'article
+187-2 peut être partielle.
+
+**Nota:**
+
+Nota : Ordonnance 2000-1249 2000-12-21 art. 4 I : le titre 3 bis demeure applicable à la collectivité territoriale de Saint-
+Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
 
@@ -9023,9 +9032,13 @@ auxquelles ces barèmes ne permettent pas de faire droit sont examinées dans le
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-722 du 29 juillet 1992 - art. 8 () JORF 30 juillet 1992 en vigueur le 1er janvier 1993
+	  - Loi n°99-641 du 27 juillet 1999 - art. 32 () JORF 28 juillet 1999 en vigueur le 1er janvier 2000
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 	**Nouveaux textes**:
 
@@ -9033,39 +9046,26 @@ auxquelles ces barèmes ne permettent pas de faire droit sont examinées dans le
 
 	**Cite**:
 
-	  - Code de la famille et de l'aide sociale. - art. 186 (P)
-	  - Code de la famille et de l'aide sociale. - art. 189-6 (P)
-	  - Code de la famille et de l'aide sociale. - art. 190-1 (P)
+	  - Code de la famille et de l'aide sociale. - art. 187-2 (M)
 	  - Code de la sécurité sociale. - art. L161-14 (M)
 	  - Code de la sécurité sociale. - art. L313-3 (V)
+	  - Code de la sécurité sociale. - art. L380-1 (V)
+	  - Code de la sécurité sociale. - art. L861-1 (M)
 
 
 ###### Article 187-2
 
-I. - Sont admises de plein droit à l'aide médicale pour la prise en charge des cotisations d'assurance personnelle prévue par
-le 3° de l'article 188-1 :
+La prise en charge, assortie de la dispense d'avance des frais, concerne :
 
-1° Les personnes qui bénéficient du revenu minimum d'insertion institué par la loi n° 88-1088 du 1er décembre 1988 ;
+1° Les frais définis aux 1°, 2°, 4°, 6°, 7° et 8° de l'article L. 321-1 et à l'article L. 331-2 du code de la sécurité
+sociale par application des tarifs servant de base au calcul des prestations de l'assurance maladie ;
 
-2° Les personnes âgées de dix-sept à vingt-cinq ans qui satisfont aux conditions de ressources et de résidence en France
-fixées par cette loi pour l'attribution du revenu minimum d'insertion.
+2° Le forfait journalier, institué par l'article L. 174-4 du même code.
 
-3° Les personnes titulaires de l'allocation de veuvage qui n'ont pas droit à un titre quelconque aux prestations en nature
-d'un régime obligatoire d'assurance maladie-maternité.
+**Nota:**
 
-II. -  En outre, les personnes mentionnées au 1° et au 3° du I bénéficient de plein droit de l'aide médicale pour la part
-laissée à leur charge, en application des articles L. 322-2 et L. 741-9 du code de la sécurité sociale, ainsi que pour le
-forfait journalier, institué par l'article L. 174-4 du même code.
-
-III. - Les règles relatives à l'obligation alimentaire ne sont pas mises en jeu pour les prestations d'aide médicale prises
-en charge au titre du présent article.
-
-IV. - La prise en charge de plein droit des cotisations d'assurance personnelle au titre du I ci-dessus prend fin, sous
-réserve des dispositions de l'article L. 741-10 du code de la sécurité sociale, quand le droit à l'allocation de revenu
-minimum d'insertion cesse d'être ouvert ou quand les personnes âgées de dix-sept à vingt-cinq ans cessent de remplir les
-conditions de ressources ou de résidence mentionnées au 2° du I ci-dessus. Elle est, toutefois, maintenue jusqu'à ce qu'il
-ait été statué sur la prise en charge de droit commun des cotisations d'assurance personnelle dans les conditions déterminées
-au présent titre.
+Nota : Ordonnance 2000-1249 2000-12-21 art. 4 I : le titre 3 bis demeure applicable à la collectivité territoriale de Saint-
+Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
 
@@ -9085,111 +9085,121 @@ au présent titre.
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
-	**Cite**:
-
-	  - Loi n°88-1088 1988-12-01
-	  - Code de la famille et de l'aide sociale. - art. 188-1 (P)
-	  - Code de la sécurité sociale. - art. L174-4 (M)
-	  - Code de la sécurité sociale. - art. L322-2 (M)
-	  - Code de la sécurité sociale. - art. L741-10 (Ab)
-	  - Code de la sécurité sociale. - art. L741-9 (Ab)
-
 	**Modifié par**:
 
-	  - Loi n°93-121 1993-01-27 art. 13 II, III JORF 30 janvier 1993
-	  - Loi n°93-121 du 27 janvier 1993 - art. 13 () JORF 30 janvier 1993
+	  - Loi n°99-641 du 27 juillet 1999 - art. 32 () JORF 28 juillet 1999 en vigueur le 1er janvier 2000
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. L251-2 (M)
-
-
-## Chapitre II : Dépenses prises en charge au titre de l'aide médicale
-
-###### Article 188-1
-
-Sont pris en charge, totalement ou partiellement, au titre de l'aide médicale :
-
-1° Les frais définis aux 1°, 2°, 4° et 6° de l'article L. 321-1 et à l'article L. 331-2 du code de la sécurité sociale par
-application des tarifs servant de base au calcul des prestations de l'assurance maladie ;
-
-2° Le forfait journalier, institué par l'article L. 174-4 du même code ;
-
-3° Les cotisations à l'assurance personnelle mentionnées aux articles L. 741-4 et L. 741-5 du même code, dans les conditions
-fixées par l'article L. 741-3-1 de ce code.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Créé par**:
-
-	  - Loi n°92-722 du 29 juillet 1992 - art. 8 () JORF 30 juillet 1992 en vigueur le 1er janvier 1993
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°99-641 du 27 juillet 1999 - art. 32 () JORF 28 juillet 1999 en vigueur le 1er janvier 2000
 
 	**Cite**:
 
 	  - Code de la famille et de l'aide sociale L321-1
 	  - Code de la sécurité sociale. - art. L174-4 (M)
 	  - Code de la sécurité sociale. - art. L331-2 (M)
-	  - Code de la sécurité sociale. - art. L741-3-1 (Ab)
-	  - Code de la sécurité sociale. - art. L741-4 (M)
-	  - Code de la sécurité sociale. - art. L741-5 (Ab)
-
-	**Cité par**:
-
-	  - Code de la famille et de l'aide sociale. - art. 187-2 (M)
-	  - Code de la famille et de l'aide sociale. - art. 188-3 (P)
 
 
-###### Article 188-2
+###### Article 187-3
 
-Le règlement départemental d'aide sociale, mentionné par l'article 34 de la loi n° 83-663 du 22 juillet 1983 complétant la
-loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes, les départements, les régions et
-l'Etat, peut prévoir des dispositions plus favorables et, en particulier, la prise en charge de cotisations d'un régime
-complémentaire d'assurance maladie.
+La demande d'aide médicale de l'Etat peut être déposée auprès :
+
+1° D'un organisme d'assurance maladie ;
+
+2° D'un centre communal ou intercommunal d'action sociale du lieu de résidence de l'intéressé ;
+
+3° Des services sanitaires et sociaux du département de résidence ;
+
+4° Des associations ou organismes à but non lucratif agréés à cet effet par décision du représentant de l'Etat dans le
+département.
+
+L'organisme auprès duquel la demande a été déposée établit un dossier conforme au modèle fixé par arrêté du ministre chargé
+de l'action sociale et le transmet, dans un délai de huit jours, à la caisse d'assurance maladie qui en assure l'instruction
+par délégation de l'Etat.
+
+Toutefois, les demandes présentées par les personnes pouvant bénéficier de l'aide médicale en application du deuxième alinéa
+de l'article 187-1 sont instruites par les services de l'Etat.
+
+**Nota:**
+
+Nota : Ordonnance 2000-1249 2000-12-21 art. 4 I : le titre 3 bis demeure applicable à la collectivité territoriale de Saint-
+Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Loi n°99-641 du 27 juillet 1999 - art. 32 () JORF 28 juillet 1999 en vigueur le 1er janvier 2000
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L252-1 (V)
+
+	**Cité par**:
+
+	  - Code de la famille et de l'aide sociale. - art. 187-1 (Ab)
+
+
+###### Article 187-4
+
+Les personnes mentionnées au premier alinéa de l'article 187-1, qui ont droit à l'aide médicale de l'Etat et se trouvent sans
+domicile fixe, doivent, pour bénéficier de cette aide, élire domicile soit auprès d'un organisme agréé à cet effet par le
+représentant de l'Etat dans le département soit auprès d'un centre communal ou intercommunal d'action sociale.
+
+**Nota:**
+
+Nota : Ordonnance 2000-1249 2000-12-21 art. 4 I : le titre 3 bis demeure applicable à la collectivité territoriale de Saint-
+Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Loi n°99-641 du 27 juillet 1999 - art. 32 () JORF 28 juillet 1999 en vigueur le 1er janvier 2000
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L252-2 (V)
 
 	**Cite**:
 
-	  - Loi n°83-8 1983-01-07
-	  - Loi n°83-663 1983-07-22 art. 34
-
-	**Créé par**:
-
-	  - Loi n°92-722 du 29 juillet 1992 - art. 8 () JORF 30 juillet 1992 en vigueur le 1er janvier 1993
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°99-641 du 27 juillet 1999 - art. 32 () JORF 28 juillet 1999 en vigueur le 1er janvier 2000
-
-	**Cité par**:
-
-	  - Code de la famille et de l'aide sociale. - art. 188-3 (P)
+	  - Code de la famille et de l'aide sociale. - art. 187-1 (M)
 
 
-###### Article 188-3
+###### Article 188
 
-La prise en charge au titre de l'aide médicale des dépenses mentionnées à l'article 188-1 est subordonnée à la condition que
-l'intéressé fasse valoir ses droits aux prestations en nature de l'assurance maladie et maternité ainsi qu'aux garanties
-auxquelles il peut prétendre auprès d'une mutuelle, d'une entreprise d'assurances ou d'une institution de prévoyance
-mentionnée à l'article L. 732-1 du code de la Sécurité sociale ou à l'article 1050 du code rural.
+L'admission à l'aide médicale de l'Etat des personnes relevant du premier alinéa de l'article 187-1 est prononcée, dans des
+conditions définies par décret, par le représentant de l'Etat dans le département, qui peut déléguer ce pouvoir au directeur
+de la caisse primaire d'assurance maladie des travailleurs salariés.
 
-Les dispositions de l'alinéa précédent peuvent être rendues applicables par le règlement départemental d'aide sociale pour
-les prestations versées en application de l'article 188-2.
+Cette admission est accordée pour une période d'un an.
 
-Les organismes mentionnés à l'article 189-1 assistent le demandeur dans les démarches qu'il engage pour faire valoir les
-droits définis au premier alinéa.
+Les demandeurs dont la situation l'exige sont admis immédiatement au bénéfice de l'aide médicale de l'Etat.
+
+**Nota:**
+
+Nota : Ordonnance 2000-1249 2000-12-21 art. 4 I : le titre 3 bis demeure applicable à la collectivité territoriale de Saint-
+Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
 
@@ -9199,394 +9209,97 @@ droits définis au premier alinéa.
 
 	**Créé par**:
 
-	  - Loi n°92-722 du 29 juillet 1992 - art. 8 () JORF 30 juillet 1992 en vigueur le 1er janvier 1993
+	  - Loi n°99-641 du 27 juillet 1999 - art. 32 () JORF 28 juillet 1999 en vigueur le 1er janvier 2000
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - PEREMPTION: Loi n°99-641 du 27 juillet 1999 - art. 32 () JORF 28 juillet 1999 en vigueur le 1er janvier 2000
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L252-3 (V)
+	  - Code de l'action sociale et des familles - art. L252-3 (M)
 
 	**Cite**:
 
-	  - Code de la famille et de l'aide sociale. - art. 188-1 (P)
-	  - Code de la famille et de l'aide sociale. - art. 188-2 (P)
-	  - Code de la famille et de l'aide sociale. - art. 189-1 (P)
-	  - Code de la sécurité sociale. - art. L732-1 (T)
-	  - Code rural 1050
+	  - Code de la famille et de l'aide sociale. - art. 187-1 (M)
 
 	**Cité par**:
 
-	  - Code de la famille et de l'aide sociale. - art. 190-2 (P)
+	  - Code de la sécurité sociale. - art. L182-1 (M)
 
 
-###### Article 188-4
+###### Article 189
 
-Sous réserve des conventions mentionnées au 2° de l'article L. 182-1 du code de la Sécurité sociale, les dépenses prises en
-charge au titre de l'aide médicale sont payées directement aux prestataires de soins ou de services par la collectivité à
-laquelle incombe cette aide en application de l'article 190-1.
+Les prestations prises en charge par l'aide médicale de l'Etat peuvent être recouvrées auprès des personnes tenues à
+l'obligation alimentaire à l'égard des bénéficiaires de cette aide. Les demandeurs d'une admission au bénéfice de l'aide
+médicale de l'Etat sont informés du recouvrement possible auprès des personnes tenues à l'obligation alimentaire à leur égard
+des prestations prises en charge par l'aide médicale. Les dispositions de l'article 144 ne sont pas applicables.
+
+**Nota:**
+
+Nota : Ordonnance 2000-1249 2000-12-21 art. 4 I : le titre 3 bis demeure applicable à la collectivité territoriale de Saint-
+Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Créé par**:
-
-	  - Loi n°92-722 du 29 juillet 1992 - art. 8 () JORF 30 juillet 1992 en vigueur le 1er janvier 1993
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°99-641 du 27 juillet 1999 - art. 32 () JORF 28 juillet 1999 en vigueur le 1er janvier 2000
-
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale. - art. 190-1 (P)
-	  - Code de la sécurité sociale. - art. L182-1 (Ab)
-
-
-## Chapitre III : Modalités d'admission à l'aide médicale
-
-###### Article 189-1
-
-La demande d'aide médicale au choix du demandeur est déposée :
-
-1° Soit auprès du centre communal ou intercommunal d'action sociale du lieu de résidence de l'intéressé ;
-
-2° Soit auprès des services sanitaires et sociaux du département de résidence ;
-
-3° Soit auprès des associations ou organismes à but non lucratif agréés à cet effet par décision conjointe du président du
-conseil général et du représentant de l'Etat dans le département ;
-
-4° Soit auprès des organismes d'assurance maladie lorsque cette procédure est prévue par une convention conclue en
-application de l'article L. 182-1 du code de la sécurité sociale.
-
-L'organisme devant lequel la demande a été déposée établit un dossier conforme à un modèle fixé par arrêté du ministre chargé
-de l'action sociale.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Décret n°54-883 du 2 septembre 1954 - art. 43-1 (V)
-	  - TXT_ASSOCIE: Décret n°54-883 du 2 septembre 1954 - art. 43-2 (V)
-	  - TXT_ASSOCIE: Décret n°54-883 du 2 septembre 1954 - art. 43-3 (Ab)
-	  - TXT_ASSOCIE: Décret n°54-883 du 2 septembre 1954 - art. 43-4 (Ab)
-	  - TXT_ASSOCIE: Décret n°54-883 du 2 septembre 1954 - art. 43-5 (Ab)
-	  - TXT_ASSOCIE: Décret n°54-883 du 2 septembre 1954 - art. 43-6 (Ab)
-	  - TXT_ASSOCIE: Décret n°54-883 du 2 septembre 1954 - art. 43-7 (Ab)
-	  - PEREMPTION: Loi n°99-641 du 27 juillet 1999 - art. 32 () JORF 28 juillet 1999 en vigueur le 1er janvier 2000
 
 	**Cité par**:
 
-	  - Décret n°54-883 du 2 septembre 1954 - art. 44-1 (M)
-	  - Décret n°95-563 du 6 mai 1995 - art. 22 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 125 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 188-3 (P)
-	  - Code de la famille et de l'aide sociale. - art. 189-5 (P)
-	  - Code de la sécurité sociale. - art. R161-8-9 (Ab)
-	  - Code de la sécurité sociale. - art. R741-2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+	  - Loi n°75-534 du 30 juin 1975 - art. 39 (Ab)
+	  - Loi n°83-663 du 22 juillet 1983 - art. 4 (V)
+	  - Code de la famille et de l'aide sociale. - art. 191 (Ab)
+	  - Code de la santé publique - art. L355-8 (M)
 
 	**Créé par**:
 
-	  - Loi n°92-722 du 29 juillet 1992 - art. 8 () JORF 30 juillet 1992 en vigueur le 1er janvier 1993
+	  - Loi n°99-641 du 27 juillet 1999 - art. 32 () JORF 28 juillet 1999 en vigueur le 1er janvier 2000
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code de la sécurité sociale. - art. L182-1 (Ab)
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
+	**Nouveaux textes**:
 
-###### Article 189-2
-
-Le président du centre communal ou intercommunal d'action sociale de la commune de résidence de l'intéressé transmet, à tout
-moment, au président du conseil général, les éléments d'information dont il dispose sur les ressources et la situation de
-famille du demandeur ou du bénéficiaire de l'aide médicale.
-
-L'intéressé est tenu informé des éléments le concernant qui ont été transmis en application du présent article.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°54-883 du 2 septembre 1954 - art. 44-1 (M)
-	  - Décret n°54-883 du 2 septembre 1954 - art. 45-1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Créé par**:
-
-	  - Loi n°92-722 du 29 juillet 1992 - art. 8 () JORF 30 juillet 1992 en vigueur le 1er janvier 1993
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°99-641 du 27 juillet 1999 - art. 32 () JORF 28 juillet 1999 en vigueur le 1er janvier 2000
-
-
-###### Article 189-3
-
-Les personnes qui se trouvent, au moment de la demande d'aide médicale, sans résidence stable et qui n'ont pas élu domicile
-en application de l'article 15 de la loi n° 88-1088 du 1er décembre 1988 relative au revenu minimum d'insertion doivent, pour
-bénéficier de cette aide, élire domicile auprès d'un organisme spécialement agréé par décision du représentant de l'Etat dans
-le département.
-
-Les conditions d'agrément ainsi que les modalités selon lesquelles les organismes peuvent recevoir l'élection de domicile
-sont fixées par voie réglementaire.
-
-L'organisme auprès duquel une personne se trouvant sans résidence stable dépose sa demande doit apporter son concours à
-l'intéressé pour l'accomplissement des démarches permettant l'élection de domicile.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Décret n°54-883 du 2 septembre 1954 - art. 43-1 (V)
-	  - TXT_ASSOCIE: Décret n°54-883 du 2 septembre 1954 - art. 43-2 (V)
-	  - TXT_ASSOCIE: Décret n°54-883 du 2 septembre 1954 - art. 43-3 (Ab)
-	  - TXT_ASSOCIE: Décret n°54-883 du 2 septembre 1954 - art. 43-4 (Ab)
-	  - TXT_ASSOCIE: Décret n°54-883 du 2 septembre 1954 - art. 43-5 (Ab)
-	  - TXT_ASSOCIE: Décret n°54-883 du 2 septembre 1954 - art. 43-6 (Ab)
-	  - TXT_ASSOCIE: Décret n°54-883 du 2 septembre 1954 - art. 43-7 (Ab)
-	  - PEREMPTION: Loi n°99-641 du 27 juillet 1999 - art. 32 () JORF 28 juillet 1999 en vigueur le 1er janvier 2000
-
-	**Cité par**:
-
-	  - Décret n°54-883 du 2 septembre 1954 - art. 43-6 (Ab)
-	  - Décret n°54-883 du 2 septembre 1954 - art. 43-7 (Ab)
-	  - Décret n°54-883 du 2 septembre 1954 - art. 44-2 (M)
-	  - Décret n°54-883 du 2 septembre 1954 - art. 44-3 (M)
-	  - Code de la famille et de l'aide sociale. - art. 189-6 (P)
-	  - Code de la famille et de l'aide sociale. - art. 189-8 (P)
-	  - Code de la famille et de l'aide sociale. - art. 190-1 (P)
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Cite**:
-
-	  - Loi n°88-1088 du 1 décembre 1988 - art. 15 (Ab)
-
-	**Créé par**:
-
-	  - Loi n°92-722 du 29 juillet 1992 - art. 8 () JORF 30 juillet 1992 en vigueur le 1er janvier 1993
-
-
-###### Article 189-4
-
-I. - Sous réserve des dispositions du III de l'article 187-2, les prestations prises en charge par l'aide médicale peuvent
-être recouvrées auprès des personnes tenues à l'obligation alimentaire à l'égard des bénéficiaires de cette aide.
-
-II. - Les demandeurs d'une admission au bénéfice de l'aide médicale sont informés du recouvrement possible auprès des
-personnes tenues à l'obligation alimentaire à leur égard des prestations prises en charge par l'aide médicale.
-
-III. - Les dispositions de l'article 144 ne sont pas applicables.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Créé par**:
-
-	  - Loi n°92-722 du 29 juillet 1992 - art. 8 () JORF 30 juillet 1992 en vigueur le 1er janvier 1993
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°99-641 du 27 juillet 1999 - art. 32 () JORF 28 juillet 1999 en vigueur le 1er janvier 2000
+	  - Code de l'action sociale et des familles - art. L253-1 (V)
 
 	**Cite**:
 
 	  - Code de la famille et de l'aide sociale. - art. 144 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 187-2 (M)
 
 
-###### Article 189-5
+###### Article 190
 
-Les dossiers de demande d'aide médicale établis par les organismes mentionnés à l'article 189-1 sont transmis dans les huit
-jours du dépôt de celle-ci au président du conseil général ou, dans le cas prévu à l'article 183-3, au préfet, qui en assure
-l'instruction.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°54-883 du 2 septembre 1954 - art. 43-3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Créé par**:
-
-	  - Loi n°92-722 du 29 juillet 1992 - art. 8 () JORF 30 juillet 1992 en vigueur le 1er janvier 1993
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°99-641 du 27 juillet 1999 - art. 32 () JORF 28 juillet 1999 en vigueur le 1er janvier 2000
-
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale 189-1, 183-3
-	  - Code de la famille et de l'aide sociale. - art. 189-1 (P)
-
-
-###### Article 189-6
-
-Sous réserve des dispositions du 5° de l'article 35 de la loi n° 83-663 du 22 juillet 1983 précitée, l'admission à l'aide
-médicale est prononcée par le président du conseil général ou, pour les personnes mentionnées à l'article 189-3, par le
-représentant de l'Etat qui a reçu le dossier. Elle est accordée pour une période d'un an, sans préjudice de la révision de la
-décision en cas de modification de la situation de l'intéressé.
-
-L'admission peut être prononcée pour des périodes plus courtes, dans les cas définis par voie réglementaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Cite**:
-
-	  - Loi n°83-663 1983-07-22 art. 35
-	  - Code de la famille et de l'aide sociale. - art. 189-3 (P)
-
-	**Créé par**:
-
-	  - Loi n°92-722 du 29 juillet 1992 - art. 8 () JORF 30 juillet 1992 en vigueur le 1er janvier 1993
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°99-641 du 27 juillet 1999 - art. 32 () JORF 28 juillet 1999 en vigueur le 1er janvier 2000
-
-	**Cité par**:
-
-	  - Code de la famille et de l'aide sociale. - art. 187-1 (M)
-	  - Code de la sécurité sociale. - art. L182-3 (Ab)
-	  - Code de la sécurité sociale. - art. L182-4 (Ab)
-
-
-###### Article 189-7
-
-Sont immédiatement admis au bénéfice de l'aide médicale :
-
-1° Les demandeurs dont la situation l'exige ;
-
-2° Les bénéficiaires du revenu minimum d'insertion.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Créé par**:
-
-	  - Loi n°92-722 du 29 juillet 1992 - art. 8 () JORF 30 juillet 1992 en vigueur le 1er janvier 1993
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°99-641 du 27 juillet 1999 - art. 32 () JORF 28 juillet 1999 en vigueur le 1er janvier 2000
-
-	**Cité par**:
-
-	  - Code de la sécurité sociale. - art. L182-3 (Ab)
-	  - Code de la sécurité sociale. - art. L182-4 (Ab)
-
-
-###### Article 189-8
-
-Lorsque postérieurement à une décision d'admission à l'aide médicale il apparaît que l'intéressé relève d'une autre
-collectivité publique, le président du conseil général ou, pour les personnes mentionnées à l'article 189-3, le représentant
-de l'Etat dans le département notifie sa décision à l'autorité administrative compétente dans un délai de trois mois à
-compter de la demande.
-
-Si cette notification n'est pas faite dans le délai requis, les frais engagés restent à la charge de la collectivité publique
-qui a prononcé l'admission.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Créé par**:
-
-	  - Loi n°92-722 du 29 juillet 1992 - art. 8 () JORF 30 juillet 1992 en vigueur le 1er janvier 1993
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°99-641 du 27 juillet 1999 - art. 32 () JORF 28 juillet 1999 en vigueur le 1er janvier 2000
-
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale. - art. 189-3 (P)
-
-
-## Chapitre IV : Dispositions financières
-
-###### Article 190-1
-
-Sous réserve des dispositions du 5° de l'article 35 de la loi n° 83-663 du 22 juillet 1983 précitée, les dépenses d'aide
-médicale sont prises en charge :
-
-1° Par le département où réside l'intéressé au moment de la demande d'admission à l'aide médicale ;
-
-2° Par l'Etat, pour les personnes dépourvues de résidence stable, et ayant fait élection de domicile auprès d'un organisme
-agréé conformément aux dispositions de l'article 189-3.
-
-En cas d'admission dans un établissement de santé ou dans un établissement social ou médico-social, les dépenses sont prises
-en charge par le département où l'intéressé résidait antérieurement à cette admission ou, s'il était dépourvu de résidence
-stable lors de cette admission, par l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°54-883 du 2 septembre 1954 - art. 44-2 (M)
-	  - Décret n°54-883 du 2 septembre 1954 - art. 44-3 (M)
-	  - Décret n°54-883 du 2 septembre 1954 - art. 45-2 (Ab)
-	  - Décret n°54-883 du 2 septembre 1954 - art. 45-4 (Ab)
-	  - Arrêté du 24 mars 1993 - art. Préambule (V)
-	  - Décret n°95-563 du 6 mai 1995 - art. 22 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 187-1 (M)
-	  - Code de la famille et de l'aide sociale. - art. 188-4 (P)
-	  - Code de la famille et de l'aide sociale. - art. 195 (M)
-	  - Code de la sécurité sociale. - art. R741-28-1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Cite**:
-
-	  - Loi n°83-663 1983-07-22 art. 35
-	  - Code de la famille et de l'aide sociale. - art. 189-3 (P)
-
-	**Créé par**:
-
-	  - Loi n°92-722 du 29 juillet 1992 - art. 8 () JORF 30 juillet 1992 en vigueur le 1er janvier 1993
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°99-641 du 27 juillet 1999 - art. 32 () JORF 28 juillet 1999 en vigueur le 1er janvier 2000
-
-
-###### Article 190-2
-
-Dans la limite des prestations allouées, l'Etat ou le département qui assure des frais en application des dispositions du 1°
-de l'article L. 182-1 du code de la sécurité sociale sont subrogés dans les droits du bénéficiaire de l'aide médicale vis-à-
-vis des organismes d'assurance maladie et des organismes mentionnés au premier alinéa de l'article 188-3.
+Les dépenses d'aide médicale sont prises en charge par l'Etat.
 
 Lorsque les prestations d'aide médicale ont pour objet la réparation d'un dommage ou d'une lésion imputable à un tiers,
-l'Etat ou le département peuvent poursuivre contre le tiers responsable le remboursement des prestations mises à leur charge.
+l'Etat peut poursuivre contre le tiers responsable le remboursement des prestations mises à sa charge.
+
+**Nota:**
+
+Nota : Ordonnance 2000-1249 2000-12-21 art. 4 I : le titre 3 bis demeure applicable à la collectivité territoriale de Saint-
+Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°54-1139 du 17 novembre 1954 - art. 1 (Ab)
+	  - Décret n°59-101 du 7 janvier 1959 - art. 7 (Ab)
+	  - Décret n°62-840 du 19 juillet 1962 - art. 12 (Ab)
+	  - Loi n°63-1241 du 19 décembre 1963 - art. 68 (M)
+	  - Loi n°83-663 du 22 juillet 1983 - art. 4 (V)
+	  - CODE DES COMMUNES. - art. L221-2 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 185-1 (M)
+	  - Code de la famille et de l'aide sociale. - art. 191 (Ab)
+	  - Code de la santé publique - art. L185 (M)
+	  - Code de la santé publique - art. L247 (M)
+	  - Code de la santé publique - art. L304 (M)
+	  - Code de la santé publique - art. L353 (M)
+	  - Code de la santé publique - art. L49 (M)
 
 	**Codifié par**:
 
@@ -9594,36 +9307,16 @@ l'Etat ou le département peuvent poursuivre contre le tiers responsable le remb
 
 	**Créé par**:
 
-	  - Loi n°92-722 du 29 juillet 1992 - art. 8 () JORF 30 juillet 1992 en vigueur le 1er janvier 1993
+	  - Loi n°99-641 du 27 juillet 1999 - art. 32 () JORF 28 juillet 1999 en vigueur le 1er janvier 2000
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - PEREMPTION: Loi n°99-641 du 27 juillet 1999 - art. 32 () JORF 28 juillet 1999 en vigueur le 1er janvier 2000
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
-	**Cite**:
+	**Nouveaux textes**:
 
-	  - Code de la famille et de l'aide sociale. - art. 188-3 (P)
-	  - Code de la sécurité sociale. - art. L182-1 (Ab)
-
-
-###### Article 190-3
-
-Des avances sur recettes d'aide médicale sont accordées par le département aux établissements de santé de court et moyen
-séjour lorsque les recettes attendues au titre de l'aide médicale dépassent un seuil fixé par décret.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Créé par**:
-
-	  - Loi n°92-722 du 29 juillet 1992 - art. 8 () JORF 30 juillet 1992 en vigueur le 1er janvier 1993
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°99-641 du 27 juillet 1999 - art. 32 () JORF 28 juillet 1999 en vigueur le 1er janvier 2000
+	  - Code de l'action sociale et des familles - art. L253-2 (V)
+	  - Code de l'action sociale et des familles - art. L253-2 (M)
 
 
 # Titre V : Des établissements hébergeant des personnes agées, des adultes infirmes, des indigents valides et des personnes accueillies en vue de leur réadaptation sociale
