@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1991-01-20
+Version Consolidée au 1991-09-10
 
 # Titre Ier : Protection sociale de la famille
 
@@ -9109,11 +9109,789 @@ service social à l'organisation intérieure et au fonctionnement des divers ser
 	  - Loi n°46-630 1946-04-08 ART. 14
 
 
-## Chapitre II : Liaison et coordination des services sociaux
+# Titre VII : Dispositions particulières à la collectivité territoriale de Mayotte
 
-### Section 1 : Dispositions finales
+## Chapitre Ier : Protection sociale de la famille
+
+###### Article 230
+
+Une union territoriale des associations familiales peut être constituée par les associations ayant leur siège à Mayotte.
+
+Les dispositions des articles 1 à 5, 7 à 13 et 15 du présent code lui sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Ordonnance no 91-888 du 5 septembre 1991 portant e - art. 1 () JORF 10 septembre 1991
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L542-1 (T)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale 1 à 5, 7 à 13, 15
+	  - Code de la famille et de l'aide sociale. - art. 15 (T)
+
+
+## Chapitre II : Action sociale en faveur de l'enfance et de la famille
+
+###### Article 231
+
+Le conseil général de Mayotte peut décider de créer un service d'aide sociale à l'enfance régi par les dispositions du
+présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Ordonnance no 91-888 du 5 septembre 1991 portant e - art. 1 () JORF 10 septembre 1991
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L542-2 (T)
+
+
+### Section 1 : Missions et prestations du service de l'aide sociale à l'enfance
+
+###### Article 232
+
+Les dispositions des articles 40 à 45, à l'exception du deuxième alinéa de l'article 40 et du deuxième alinéa de l'article
+44, 55 à 56, 58 et 59 du titre II du présent code sont applicables à la collectivité territoriale de Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Ordonnance no 91-888 du 5 septembre 1991 portant e - art. 1 () JORF 10 septembre 1991
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L542-4 (T)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale 40 à 45, 40, 44
+	  - Code de la famille et de l'aide sociale. - art. 40 (M)
+	  - Code de la famille et de l'aide sociale. - art. 44 (M)
+
+
+###### Article 233
+
+Outre les missions dont il est chargé par l'article 40 du présent code, le service de l'aide sociale à l'enfance peut
+entreprendre ou soutenir des actions d'éducation familiale, notamment dans les établissements scolaires publics et privés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Ordonnance no 91-888 du 5 septembre 1991 portant e - art. 1 () JORF 10 septembre 1991
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L542-5 (T)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 40 (M)
+
+
+###### Article 234
+
+Pour l'accomplissement de ses missions et sans préjudice de ses responsabilités vis-à-vis des enfants qui lui sont confiés,
+le service de l'aide sociale à l'enfance peut faire appel à des communes ou à des organismes publics ou privés agréés par le
+représentant du Gouvernement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Ordonnance no 91-888 du 5 septembre 1991 portant e - art. 1 () JORF 10 septembre 1991
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L542-6 (T)
+
+
+###### Article 235
+
+Le droit aux prestations d'aide sociale à l'enfance est ouvert à toute personne résidant dans la collectivité territoriale de
+Mayotte, si elle remplit les conditions légales d'admission, telles qu'elles sont définies par le présent code et applicables
+à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Ordonnance no 91-888 du 5 septembre 1991 portant e - art. 1 () JORF 10 septembre 1991
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L542-7 (T)
+
+
+###### Article 236
+
+L'habilitation des organismes publics ou privés chargés de mettre en oeuvre les actions mentionnées au 2° de l'article 45 est
+délivrée dans les conditions prévues par le règlement territorial de l'aide sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Ordonnance no 91-888 du 5 septembre 1991 portant e - art. 1 () JORF 10 septembre 1991
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L542-8 (T)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 45 (M)
+
+
+###### Article 237
+
+Sont pris en charge par le service de l'aide sociale à l'enfance, sur décision du représentant du Gouvernement :
+
+1° Les mineurs qui ne peuvent provisoirement être maintenus dans leur milieu de vie habituel ;
+
+2° Les mineurs confiés au service par décision judiciaire ;
+
+3° Les femmes enceintes et les mères isolées avec leurs enfants de moins de trois ans qui ont besoin d'un soutien matériel et
+psychologique.
+
+Peuvent être également pris en charge à titre temporaire par le service chargé de l'aide sociale à l'enfance les mineurs
+émancipés et les majeurs âgés de moins de vingt et un ans qui éprouvent des difficultés d'insertion sociale faute de
+ressources ou d'un soutien familial suffisants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Ordonnance no 91-888 du 5 septembre 1991 portant e - art. 1 () JORF 10 septembre 1991
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L542-9 (T)
+
+
+###### Article 238
+
+Pour l'application des décisions judiciaires ordonnant le placement d'un mineur auprès du service de l'aide sociale à
+l'enfance, le représentant légal du mineur donne son avis par écrit préalablement au choix du mode et du lieu de placement et
+à toute modification apportée à ces décisions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Ordonnance no 91-888 du 5 septembre 1991 portant e - art. 1 () JORF 10 septembre 1991
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L542-10 (T)
+
+
+### Section 2 : Organisation du service chargé de l'aide sociale à l'enfance
+
+###### Article 239
+
+Le conseil général de Mayotte détermine les moyens nécessaires à l'exécution des missions de ce service et à son
+organisation.
+
+Pour l'application de l'alinéa précédent, la collectivité territoriale peut conclure des conventions avec les communes ou
+avec des personnes morales de droit privé agréées par le représentant du Gouvernement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Ordonnance no 91-888 du 5 septembre 1991 portant e - art. 1 () JORF 10 septembre 1991
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L542-11 (T)
+
+
+### Section 3 : Dispositions financières
+
+###### Article 240
+
+Le père, la mère et les ascendants d'un enfant pris en charge par le service de l'aide sociale à l'enfance restent tenus
+envers lui à l'obligation d'entretien.
+
+Une contribution peut être demandée à toute personne prise en charge par le service de l'aide sociale à l'enfance ou, si elle
+est mineure, à toute personne tenue envers elle à l'obligation d'entretien. Elle est fixée par le représentant du
+Gouvernement dans les conditions prévues par le règlement territorial d'aide sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Ordonnance no 91-888 du 5 septembre 1991 portant e - art. 1 () JORF 10 septembre 1991
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L542-12 (T)
+
 
 ###### Article 241
+
+Les prestations d'aide sociale à l'enfance sont à la charge de la collectivité territoriale de Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Ordonnance no 91-888 du 5 septembre 1991 portant e - art. 1 () JORF 10 septembre 1991
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L542-13 (T)
+	  - Code de la famille et de l'aide sociale. - art. 256 (Ab)
+
+
+## Chapitre III : Aide sociale
+
+###### Article 242
+
+Le conseil général de Mayotte peut décider de créer des prestations d'aide sociale entrant dans les catégories définies au
+titre III du présent code.
+
+L'admission au bénéfice de ces prestations est prononcée par la commission d'admission prévue par l'article 244, selon les
+conditions d'attribution déterminées par le présent code et par le règlement territorial d'aide sociale.
+
+Toutefois, les prestations d'aide sociale à l'enfance sont attribuées par le représentant du Gouvernement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Ordonnance no 91-888 du 5 septembre 1991 portant e - art. 1 () JORF 10 septembre 1991
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L541-1 (T)
+
+
+### Section 1 : Dispositions générales, procédure et conditions d'admission à l'aide sociale
+
+###### Article 243
+
+Les dispositions des articles 127, du premier alinéa de l'article 133 et des articles 141 et 147 du titre III du présent code
+sont applicables à la collectivité territoriale de Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Ordonnance no 91-888 du 5 septembre 1991 portant e - art. 1 () JORF 10 septembre 1991
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L541-2 (T)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 127 (M)
+	  - Code de la famille et de l'aide sociale. - art. 133 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 141 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 147 (M)
+
+
+###### Article 244
+
+La commission d'admission comprend, outre le représentant du Gouvernement ou son suppléant choisi par lui parmi les
+fonctionnaires de l'Etat, président, le conseiller général du canton dont fait partie la commune où la demande a été déposée
+ou un conseiller général suppléant désigné par le conseil général, le maire de la commune concernée ou un conseiller
+municipal de cette commune, suppléant désigné par le conseil municipal.
+
+En cas de partage égal des voix, celle du président est prépondérante.
+
+Peuvent être appelés à siéger avec voix consultative des personnes compétentes en matière d'aide sociale, désignées par le
+représentant du Gouvernement sur avis conforme du conseil général.
+
+Le demandeur, accompagné, le cas échéant, d'une personne de son choix, est entendu à sa demande par la commission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Ordonnance no 91-888 du 5 septembre 1991 portant e - art. 1 () JORF 10 septembre 1991
+
+	**Cité par**:
+
+	  - Décret n°93-48 du 11 janvier 1993 - art. 2 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 249 (Ab)
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L541-3 (T)
+
+
+###### Article 245
+
+Un recours peut être formé devant une commission territoriale de l'aide sociale contre les décisions de la commission
+d'admission.
+
+La commission territoriale, présidée par le président du tribunal de première instance ou le magistrat désigné par lui pour
+le remplacer, comprend trois conseillers généraux désignés par le conseil général et trois fonctionnaires de l'Etat en
+activité ou à la retraite désignés par le représentant du Gouvernement.
+
+Le secrétaire de la commission assure les fonctions de rapporteur. Il a voix délibérative sur les affaires qu'il rapporte. Il
+peut être remplacé par un rapporteur adjoint.
+
+Un commissaire du Gouvernement, désigné par le représentant du Gouvernement, donne ses conclusions sur les affaires que le
+président lui confie. Il ne prend pas part au vote.
+
+En cas de partage égal des voix, celle du président est prépondérante.
+
+Le secrétaire et le rapporteur adjoint sont désignés par le président de la commission, sur proposition du représentant du
+Gouvernement.
+
+**Nota:**
+
+Nota : Ordonnance 2000-1249 2000-12-21 art. 5 I 12° : l'abrogation du présent article ne prend effet qu'à compter de la
+publication des dispositions réglementaires correspondantes du code de l'action sociale et des familles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Ordonnance no 91-888 du 5 septembre 1991 portant e - art. 1 () JORF 10 septembre 1991
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Cité par**:
+
+	  - Code de la famille et de l'aide sociale. - art. 247 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L541-5 (T)
+	  - Code de l'action sociale et des familles - art. R542-1 (V)
+
+
+###### Article 246
+
+Les dispositions de l'article 129 du présent code sont applicables aux décisions de la commission territoriale d'aide
+sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Ordonnance no 91-888 du 5 septembre 1991 portant e - art. 1 () JORF 10 septembre 1991
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L541-5 (T)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 129 (M)
+
+	**Cité par**:
+
+	  - Code de la famille et de l'aide sociale. - art. 247 (Ab)
+
+
+###### Article 247
+
+Les recours prévus aux articles 245 et 246 peuvent être formés par la personne qui a demandé le bénéfice de l'aide sociale,
+ses enfants ou ascendants, le maire de la commune où il réside, le président du conseil général et le représentant du
+Gouvernement.
+
+Le délai de recours est de deux mois à compter de la notification de la décision.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Ordonnance no 91-888 du 5 septembre 1991 portant e - art. 1 () JORF 10 septembre 1991
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L541-6 (T)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 245 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 246 (Ab)
+
+
+###### Article 248
+
+Toute personne appelée à intervenir dans l'instruction, l'attribution ou la révision des admissions au bénéfice de l'aide
+sociale est tenue au secret dans les conditions prévues par l'article 378 du code pénal et, en cas de manquement à cette
+obligation, passible des peines prévues à cet article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Ordonnance no 91-888 du 5 septembre 1991 portant e - art. 1 () JORF 10 septembre 1991
+
+	**Cite**:
+
+	  - Code pénal 378
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L541-7 (T)
+
+
+### Section 2 : Participation des intéressés et des familles à une obligation pécuniaire envers les bénéficiaires de l'aide sociale
+
+###### Article 249
+
+Les ascendants, descendants et conjoints d'une personne qui sollicite l'aide sociale doivent déclarer leurs ressources et
+indiquer l'aide qu'ils peuvent apporter à cette personne.
+
+La commission d'admission instituée par l'article 244 fixe, en tenant compte du montant de leur contribution éventuelle, la
+proportion de l'aide consentie par la collectivité territoriale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Ordonnance no 91-888 du 5 septembre 1991 portant e - art. 1 () JORF 10 septembre 1991
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L541-8 (T)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 244 (Ab)
+
+
+###### Article 250
+
+La collectivité territoriale est, dans la limite des prestations allouées, subrogée dans les droits de l'allocataire en ce
+qui concerne les créances pécuniaires de celui-ci contre toute personne physique ou morale en tant que ces créances ne sont
+ni incessibles ni insaisissables et que la subrogation a été signifiée au débiteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Ordonnance no 91-888 du 5 septembre 1991 portant e - art. 1 () JORF 10 septembre 1991
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L541-9 (T)
+
+
+### Section 3 : Dispositions communes
+
+###### Article 251
+
+Le conseil général de la collectivité territoriale de Mayotte adopte, dans les conditions prévues par le présent code, le
+règlement territorial de l'aide sociale.
+
+Ce règlement détermine les moyens du service de l'aide sociale à l'enfance, les mesures de protection accordées aux mineurs
+et à leur famille, les prestations servies aux personnes âgées ou handicapées ainsi qu'aux personnes ou familles en
+difficulté sociale. Il fixe le montant de ces prestations et les modalités selon lesquelles elles sont attribuées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Ordonnance no 91-888 du 5 septembre 1991 portant e - art. 1 () JORF 10 septembre 1991
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L544-1 (T)
+
+
+###### Article 252
+
+La collectivité territoriale de Mayotte est responsable des services prévus par le présent code et du règlement des
+prestations mentionnées à l'article précédent et au règlement territorial d'aide sociale. Elle en assume la charge
+financière.
+
+Toutefois, les communes contribuent au financement de ces prestations. Leur contribution est portée au budget de la
+collectivité territoriale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Ordonnance no 91-888 du 5 septembre 1991 portant e - art. 1 () JORF 10 septembre 1991
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L544-2 (T)
+
+
+###### Article 253
+
+Les dépenses résultant de l'application des différentes formes d'aide sociale prévues par le présent code et par le règlement
+territorial de l'aide sociale ont un caractère obligatoire.
+
+Les critères de la répartition des dépenses d'aide sociale entre la collectivité territoriale et les communes sont déterminés
+par décret.
+
+Le montant annuel de la participation d'une commune ne peut excéder un pourcentage, fixé par décret, de la dotation globale
+de fonctionnement perçue par cette commune.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Ordonnance no 91-888 du 5 septembre 1991 portant e - art. 1 () JORF 10 septembre 1991
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L544-3 (T)
+
+
+###### Article 254
+
+L'Etat peut apporter son concours financier à la collectivité territoriale de Mayotte pour participer au développement de la
+protection sociale. Une convention conclue entre l'Etat et la collectivité territoriale en détermine les modalités.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Ordonnance no 91-888 du 5 septembre 1991 portant e - art. 1 () JORF 10 septembre 1991
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L544-4 (T)
+
+
+###### Article 255
+
+Pour l'application des dispositions des titres Ier, II et III du présent code, les mots énumérés ci-dessous sont
+respectivement remplacés par les mots suivants :
+
+"département" par "collectivité territoriale" ;
+
+"président du conseil général" par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" par "représentant du Gouvernement".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Ordonnance no 91-888 du 5 septembre 1991 portant e - art. 1 () JORF 10 septembre 1991
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L544-5 (T)
+
+
+# Titre VIII : Dispositions finales
+
+###### Article 256
 
 Le présent code se substitue, dans les conditions prévues par le décret du 20 mai 1955, aux dispositions législatives qui
 suivent. (abrogées par la loi du 3 avril 1958, qui a conféré force de loi au code de la famille et de l'aide sociale).
@@ -9124,9 +9902,16 @@ suivent. (abrogées par la loi du 3 avril 1958, qui a conféré force de loi au 
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
-	**Nouveaux textes**:
+	**Créé par**:
 
-	  - Code de l'action sociale et des familles - art. L542-13 (T)
-	  - Code de la famille et de l'aide sociale. - art. 256 (Ab)
+	  - Ordonnance no 91-888 du 5 septembre 1991 portant e - art. 2 () JORF 10 septembre 1991
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Anciens textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 241 (T)
 
 
