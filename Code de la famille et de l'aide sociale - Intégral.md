@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1989-12-19
+Version Consolidée au 1990-01-25
 
 # Titre Ier : Protection sociale de la famille
 
@@ -7998,27 +7998,11 @@ dernières sont déterminés par décret en conseil d'Etat.
 
 ###### Article 201
 
-Sous réserve des dispositions de l'article 201-1, la section permanente du Conseil supérieur de l'aide sociale est compétente
-pour statuer en matière contentieuse sur les recours contre :
-
-1° Les arrêtés fixant la dotation globale due par les organismes d'assurance maladie conformément aux dispositions de
-l'article 8 de la loi n° 83-25 du 19 janvier 1983 portant diverses mesures relatives à la sécurité sociale ;
-
-2° Les arrêtés fixant la dotation globale mentionnée à l'article 27 de la loi n° 75-535 du 30 juin 1975 précitée ;
-
-3° Les arrêtés pris par le président du conseil général fixant le tarif applicable aux services d'aide ménagère dont les
-dépenses sont prises en charge par l'aide sociale relevant du département ;
-
-4° Tout arrêté pris par le représentant de l'Etat dans le département ou par le président du conseil général, déterminant les
-dotations globales, les prix de journée, les taux de remboursement ou les tarifs horaires des établissements et services
-sanitaires, sociaux et médico-sociaux, de statut public ou privé.
-
-Ces recours peuvent être portés devant elle dans le délai d'un mois à partir de la publication desdits arrêtés par toute
-personne physique ou morale intéressée, par les ministres compétents ou les organismes de sécurité sociale.
-
-La section permanente du Conseil supérieur de l'aide sociale statue en dernier ressort. Ses décisions fixant le montant des
-dotations globales, des prix de journée ou des autres tarifications ont effet à compter de la date prévue dans l'arrêté
-donnant lieu au litige.
+Les recours dirigés contre les décisions prises par le représentant de l'Etat dans le département et le président du conseil
+général, séparément ou conjointement, ainsi que, le cas échéant, par les ministres compétents, déterminant les dotations
+globales, les remboursements forfaitaires, les prix de journée et autres tarifs des établissements et services sanitaires,
+sociaux et médico-sociaux de statut public ou privé, sont portés, en premier ressort, devant la commission interrégionale de
+la tarification sanitaire et sociale [*compétence*].
 
 **Liens relatifs à cet article**
 
@@ -8034,16 +8018,11 @@ donnant lieu au litige.
 	  - Décret n°90-359 du 11 avril 1990 - art. 11 (Ab)
 	  - Décret n°90-359 du 11 avril 1990 - art. 42 (Ab)
 	  - Code de la famille et de l'aide sociale. - art. 195 (Ab)
-
-	**Cite**:
-
-	  - Loi n°75-535 du 30 juin 1975 - art. 27 (M)
-	  - Loi n°83-25 du 19 janvier 1983 - art. 8, v. init.
 	  - Code de la famille et de l'aide sociale. - art. 201-1 (M)
 
 	**Modifié par**:
 
-	  - Loi n°86-17 du 6 janvier 1986 - art. 65 () JORF 8 janvier 1986
+	  - Loi n°90-86 du 23 janvier 1990 - art. 10 () JORF 25 janvier 1990
 
 	**Nouveaux textes**:
 
@@ -8052,25 +8031,54 @@ donnant lieu au litige.
 
 ###### Article 201-1
 
-Les recours mentionnés à l'article 201 sont portés en premier ressort devant la commission régionale de la tarification
-sanitaire et sociale et, le cas échéant, en appel devant la section permanente du Conseil supérieur de l'aide sociale. La
-commission régionale statue en dernier ressort lorsque le montant du litige est inférieur à une somme fixée par décret en
+Les recours sont introduits devant la commission interrégionale de la tarification sanitaire et sociale [*compétente*] par
+toute personne physique ou morale intéressée, par les organismes de sécurité sociale et par le représentant de l'Etat dans le
+département où a son siège l'établissement ou le service dont la tarification est contestée.
+
+Le délai de recours est d'un mois. Il court à compter de la date de publication de la décision attaquée ou à l'égard des
+personnes et organismes auxquels elle est notifiée à compter de la date de notification [*point de départ*].
+
+L'appel est porté dans le délai d'un mois à compter de la notification du jugement devant la section permanente du Conseil
+supérieur de l'aide sociale.
+
+Les décisions de la commission interrégionale de la tarification sanitaire et sociale et de la section permanente fixant le
+montant des dotations globales, remboursements forfaitaires, prix de journée et autres tarifs, ont effet à compter de la date
+fixée dans la décision donnant lieu au litige.
+
+Les règles de procédure applicables devant les juridictions de la tarification sanitaire et sociale sont fixées par décret en
 Conseil d'Etat.
 
-La commission régionale de la tarification sanitaire et sociale est présidée par le président du tribunal administratif ou le
-magistrat désigné par lui pour le remplacer. Elle est composée, d'une part, de membres du tribunal administratif, dont l'un
-au moins est chargé des fonctions de commissaire du Gouvernement, d'autre part, de représentants de l'Etat, des collectivités
-territoriales, des organismes de protection sociale et des organismes gestionnaires d'établissements et de services
-sanitaires et sociaux, selon des modalités fixées par décret en Conseil d'Etat.
+**Liens relatifs à cet article**
 
-Les décisions de la commission régionale prennent effet à compter de la date prévue dans la décision donnant lieu au litige.
+	**Codifié par**:
 
-Les autres règles relatives au jugement des recours devant la commission régionale sont celles applicables aux tribunaux
-administratifs, sous réserve des dispositions particulières fixées par un décret en Conseil d'Etat, notamment en matière de
-délai de recours.
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
-Un décret en Conseil d'Etat prévoit un régime expérimental dans une ou plusieurs régions, préalablement à l'entrée en vigueur
-de ces dispositions.
+	**Modifié par**:
+
+	  - Loi n°90-86 du 23 janvier 1990 - art. 10 () JORF 25 janvier 1990
+
+	**Cité par**:
+
+	  - Décret n°90-359 du 11 avril 1990 - art. 1 (Ab)
+	  - Décret n°90-359 du 11 avril 1990 - art. 19 (Ab)
+	  - Arrêté du 19 avril 1994 - art. Annexe (M)
+	  - Code de la famille et de l'aide sociale. - art. 201 (M)
+
+
+###### Article 201-2
+
+La commission interrégionale de la tarification sanitaire et sociale est présidée par un membre du corps des tribunaux
+administratifs et des cours administratives d'appel, ayant au moins le grade de président de tribunal administratif, en
+activité ou honoraire, ou par un conseiller d'Etat.
+
+La commission interrégionale de la tarification sanitaire et sociale est composée, d'une part, de membres de la cour
+administrative d'appel ou des tribunaux administratifs de son ressort dont l'un, au moins, est chargé des fonctions de
+commissaire du Gouvernement, d'autre part, de représentants de l'Etat, des collectivités territoriales, des organismes de
+protection sociale et des organismes gestionnaires d'établissements et de services sanitaires, sociaux et médico-sociaux.
+
+Un décret en Conseil d'Etat fixe les modalités de désignation des membres de la commission interrégionale de la tarification
+sanitaire et sociale.
 
 **Liens relatifs à cet article**
 
@@ -8080,14 +8088,20 @@ de ces dispositions.
 
 	**Créé par**:
 
-	  - Loi n°86-17 du 6 janvier 1986 - art. 66 () JORF 8 janvier 1986
+	  - Loi n°90-86 du 23 janvier 1990 - art. 11 () JORF 25 janvier 1990
 
 	**Cité par**:
 
-	  - Décret n°90-359 du 11 avril 1990 - art. 1 (Ab)
-	  - Décret n°90-359 du 11 avril 1990 - art. 19 (Ab)
-	  - Arrêté du 19 avril 1994 - art. Annexe (M)
-	  - Code de la famille et de l'aide sociale. - art. 201 (M)
+	  - Décret n°90-359 du 11 avril 1990 - art. 12 (Ab)
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L351-2 (M)
+	  - Code de l'action sociale et des familles - art. L351-7 (M)
 
 
 ###### Article 202
