@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1975-05-21
+Version Consolidée au 1975-07-01
 
 # Titre Ier : Protection sociale de la famille
 
@@ -5443,6 +5443,177 @@ occasionnée le placement de la personne âgée dans un établissement hospitali
 
 
 ## Chapitre VI : Aide sociale aux personnes handicapées
+
+### Section 1 : Dispositions communes
+
+###### Article 167
+
+Les centres d'aide par le travail, comportant ou non un foyer d'hébergement, offrent aux adolescents et adultes handicapés,
+qui ne peuvent, momentanément ou durablement, travailler ni dans les entreprises ordinaires ni dans un atelier protégé ou
+pour le compte d'un centre de distribution de travail à domicile ni exercer une activité professionnelle indépendante, des
+possibilités d'activités diverses à caractère professionnel, un soutien médico-social et éducatif et un milieu de vie
+favorisant leur épanouissement personnel et leur intégration sociale.
+
+Un même établissement peut comporter une section d'atelier protégé ou de distribution de travail à domicile et une section
+d'aide par le travail. Nonobstant les dispositions prévues au dernier alinéa de l'article L. 323-32 du Code du travail, des
+équipes de personnes handicapées bénéficiant d'une admission dans un centre ou une section d'aide par le travail peuvent être
+autorisées à exercer une activité à l'extérieur de l'établissement auquel elles demeurent rattachées suivant des modalités
+qui seront précisées par décret.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°53-1186 1953-11-29 art. 36
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cité par**:
+
+	  - Décret n°63-380 du 8 avril 1963 - art. 2 (Ab)
+	  - Décret n°64-454 du 23 mai 1964 - art. 2 (M)
+	  - Décret n°77-1546 du 31 décembre 1977
+	  - Décret n°77-1546 du 31 décembre 1977 - art. 1 (Ab)
+	  - Décret n°77-1546 du 31 décembre 1977 - art. 10 (Ab)
+	  - Décret n°77-1546 du 31 décembre 1977 - art. 11 (M)
+	  - Décret n°77-1546 du 31 décembre 1977 - art. 12 (M)
+	  - Décret n°77-1546 du 31 décembre 1977 - art. 13 (M)
+	  - Décret n°77-1546 du 31 décembre 1977 - art. 14 (M)
+	  - Décret n°77-1546 du 31 décembre 1977 - art. 15 (M)
+	  - Décret n°77-1546 du 31 décembre 1977 - art. 16 (Ab)
+	  - Décret n°77-1546 du 31 décembre 1977 - art. 17 (Ab)
+	  - Décret n°77-1546 du 31 décembre 1977 - art. 18 (Ab)
+	  - Décret n°77-1546 du 31 décembre 1977 - art. 19 (Ab)
+	  - Décret n°77-1546 du 31 décembre 1977 - art. 2 (Ab)
+	  - Décret n°77-1546 du 31 décembre 1977 - art. 3 (Ab)
+	  - Décret n°77-1546 du 31 décembre 1977 - art. 4 (Ab)
+	  - Décret n°77-1546 du 31 décembre 1977 - art. 5 (Ab)
+	  - Décret n°77-1546 du 31 décembre 1977 - art. 6 (Ab)
+	  - Décret n°77-1546 du 31 décembre 1977 - art. 7 (Ab)
+	  - Décret n°77-1546 du 31 décembre 1977 - art. 8 (Ab)
+	  - Décret n°77-1546 du 31 décembre 1977 - art. 9 (Ab)
+	  - Décret n°85-1458 du 30 décembre 1985 - art. 1 (Ab)
+	  - Arrêté du 17 mars 1988 - art. 1 (M)
+	  - Décret n°88-279 du 24 mars 1988 - art. 1 (Ab)
+	  - Loi n°88-1264 du 30 décembre 1988 - art. 8 (M)
+	  - Arrêté du 13 juillet 1990 - art. 3 (M)
+	  - Décret n°2004-1136 du 21 octobre 2004 - art. 4 (V)
+	  - Code du travail - art. L323-11 (M)
+	  - Code du travail - art. L323-19 (Ab)
+	  - Code du travail - art. L323-30 (M)
+	  - Code du travail - art. L323-4 (M)
+	  - Code du travail - art. R323-1 (M)
+	  - Code du travail - art. R323-58-1 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°77-1546 1977-12-31
+	  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977
+	  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977 - art. 10 (Ab)
+	  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977 - art. 11 (Ab)
+	  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977 - art. 12 (Ab)
+	  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977 - art. 13 (Ab)
+	  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977 - art. 14 (Ab)
+	  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977 - art. 15 (Ab)
+	  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977 - art. 16 (Ab)
+	  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977 - art. 17 (Ab)
+	  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977 - art. 18 (Ab)
+	  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977 - art. 19 (Ab)
+	  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977 - art. 7 (Ab)
+	  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977 - art. 9 (Ab)
+	  - TXT_SOURCE: Décret n°86-510 du 14 mars 1986
+	  - TXT_SOURCE: Décret n°86-510 du 14 mars 1986 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°86-510 du 14 mars 1986 - art. 10 (Ab)
+	  - TXT_SOURCE: Décret n°86-510 du 14 mars 1986 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°86-510 du 14 mars 1986 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°86-510 du 14 mars 1986 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°86-510 du 14 mars 1986 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°86-510 du 14 mars 1986 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°86-510 du 14 mars 1986 - art. 7 (Ab)
+	  - TXT_SOURCE: Décret n°86-510 du 14 mars 1986 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°86-510 du 14 mars 1986 - art. 9 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. L323-32 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L344-2 (M)
+
+
+###### Article 168
+
+Les prix de journée ou toutes autres modalités de financement de l'exploitation des établissements de rééducation
+professionnelle et d'aide par le travail agréés pour recevoir des bénéficiaires de l'aide sociale aux personnes handicapées
+sont fixés par voie réglementaire.
+
+Ils comprennent, d'une part, les frais concernant l'hébergement et l'entretien de la personne handicapée et, d'autre part,
+ceux qui sont directement entraînés par la formation professionnelle ou le fonctionnement de l'atelier, et notamment les
+frais de transport collectif dans des conditions fixées par décret.
+
+Les frais d'hébergement et d'entretien des personnes handicapées dans les établissements de rééducation professionnelle et
+d'aide par le travail ainsi que dans les foyers et foyers-logement sont à la charge :
+
+1. A titre principal, de l'intéressé lui-même sans toutefois que la contribution qui lui est réclamée puisse faire descendre
+ses ressources au-dessous d'un minimum fixé par décret et par référence à l'allocation aux handicapés adultes, différent
+selon qu'il travaille ou non, majoré, le cas échéant, du montant des rentes viagères visées à l'article 8 de la loi n.
+69-1161 du 24 décembre 1969 portant loi de finances pour 1970 ;
+
+2. Et, pour le surplus éventuel, de l'aide sociale sans qu'il soit tenu compte de la participation pouvant être demandée aux
+personnes tenues à l'obligation alimentaire à l'égard de l'intéressé, et sans qu'il y ait lieu à l'application des
+dispositions relatives au recours en récupération des prestations d'aide sociale lorsque les héritiers du bénéficiaire décédé
+sont son conjoint, ses enfants ou la personne qui a assumé, de façon effective et constante, la charge du handicapé.
+
+Les frais directement entraînés par la formation professionnelle ou le fonctionnement de l'atelier sont pris en charge par
+l'aide sociale dans les conditions visées à l'alinéa ci-dessus, sans qu'il soit tenu compte des ressources de l'intéressé.
+
+**Nota:**
+
+[*Nota : Décret 76-1293 du 30 décembre 1976 : fixe au 1er janvier 1977 la date d'entrée en vigueur d'une partie de l'article
+168.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°53-1186 1953-11-29 ART. 37
+	  - Décret n°55-190 1955-02-02 ART. 17
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cite**:
+
+	  - Loi n°69-1161 1969-12-24 art. 8 Finances pour 1970
+
+	**Créé par**:
+
+	  - Loi n°75-534 du 30 juin 1975 - art. 48 () JORF 1er juillet 1975
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°76-1293 du 30 décembre 1976
+	  - TXT_SOURCE: Décret n°76-1293 du 30 décembre 1976 - art. 1 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°76-1293 du 30 décembre 1976 - art. 1 (Ab)
+	  - Décret n°77-1548 du 31 décembre 1977 - art. 1 (Ab)
+	  - Loi n°83-663 du 22 juillet 1983 - art. 35 (Ab)
+	  - Arrêté du 13 juillet 1990 - art. 3 (M)
+	  - Code du travail - art. L323-30 (M)
+
 
 ### Section 2 : Dispositions concernant les aveugles et grands infirmes
 
