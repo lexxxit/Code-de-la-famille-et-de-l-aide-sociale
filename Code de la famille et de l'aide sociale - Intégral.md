@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1984-09-07
+Version Consolidée au 1984-12-24
 
 # Titre Ier : Protection sociale de la famille
 
@@ -8564,25 +8564,6 @@ prévues audit article 378 du code pénal.
 	**Modifié par**:
 
 	  - Ordonnance 59-35 1959-01-05 art. 10 JORF 6 janvier 1959
-
-
-###### Article 226
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Abrogé par**:
-
-	  - Ordonnance 58-1297 1958-12-23 art. 20 JORF 24 décembre 1958
-
-	**Cité par**:
-
-	  - Code de la famille et de l'aide sociale. - art. 227 (Ab)
 
 
 ###### Article 227
