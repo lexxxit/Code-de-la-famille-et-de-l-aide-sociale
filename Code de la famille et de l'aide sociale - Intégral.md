@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1994-01-01
+Version Consolidée au 1994-03-01
 
 # Titre Ier : Protection sociale de la famille
 
@@ -1095,10 +1095,17 @@ publication des dispositions réglementaires correspondantes du code de l'action
 
 ###### Article 27
 
-Sans préjudice du retrait de la carte, sera punie d'une amende de 3.000 F à 6.000 F (1) toute personne qui usera ou tentera
-de faire usage [*abusivement*] d'une carte à laquelle elle n'a pas droit, ainsi que toute personne qui fera ou tentera de
-faire usage au profit de tiers de la carte qui lui a été régulièrement délivrée. En cas de récidive, le minimum et le maximum
-de la peine seront portés au double.
+Sans préjudice du retrait de la carte, sera punie de l'amende prévue pour les contraventions de la 5° classe (1), toute
+personne qui usera ou tentera de faire usage d'une carte à laquelle elle n'a pas droit, ainsi que toute personne qui fera ou
+tentera de faire usage au profit de tiers de la carte qui lui a été régulièrement délivrée. En cas de récidive, le minimum et
+le maximum de la peine seront portés au double.
+
+**Nota:**
+
+(1) voir l'article 131-13 du code pénal.
+
+Nota : Ordonnance 2000-1249 2000-12-21 art. 5 I 1° : l'abrogation du présent article ne prend effet qu'à compter de la
+publication des dispositions réglementaires correspondantes du code de l'action sociale et des familles.
 
 **Liens relatifs à cet article**
 
@@ -1106,17 +1113,35 @@ de la peine seront portés au double.
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°1940-08-14 ART. 8
-	  - Loi n°1941-06-18
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code pénal - art. 131-13 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. R215-15 (V)
 
 
 ###### Article 28
 
-Sera punie d'une amende de 3.000 F à 6.000 F (1) sans préjudice de l'application éventuelle des dispositions du Code pénal,
-toute personne qui, par injure, menace, violence ou de toute autre manière, s'opposera ou tentera de s'opposer à l'exercice
-du droit de priorité [*refus*].
+Sera punie de l'amende prévue pour les contraventions de la 5° classe (1), sans préjudice de l'application éventuelle des
+dispositions du Code pénal, toute personne qui, par injure, menace, violence ou de toute autre manière, s'opposera ou tentera
+de s'opposer à l'exercice du droit de priorité.
+
+**Nota:**
+
+(1) voir l'article 131-13 du code pénal.
+
+Nota : Ordonnance 2000-1249 2000-12-21 art. 5 I 1° : l'abrogation du présent article ne prend effet qu'à compter de la
+publication des dispositions réglementaires correspondantes du code de l'action sociale et des familles.
 
 **Liens relatifs à cet article**
 
@@ -1124,10 +1149,21 @@ du droit de priorité [*refus*].
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°1940-08-14 ART. 9
-	  - Loi n°1941-06-18
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code pénal - art. 131-13 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. R215-16 (V)
 
 
 ###### Article 30
@@ -4140,8 +4176,8 @@ territoriale de Mayotte, les mots :
 
 ###### Article 99
 
-Les infractions aux dispositions de la présente section sont punies d'un emprisonnement de dix jours à trois mois [*durée*]
-et d'une amende de 500 F à 20.000 F (1) ou de l'une de ces deux peines seulement.
+Les infractions aux dispositions de la présente section sont punies d'un emprisonnement de trois mois et d'une amende de
+25000 F ou de l'une de ces deux peines seulement.
 
 Le tribunal peut interdire au condamné, soit définitivement, soit pour une durée déterminée, d'exploiter ou de diriger tout
 établissement soumis aux dispositions du présent titre ainsi que d'effectuer des placements d'enfants ou de recevoir des
@@ -4168,9 +4204,11 @@ se prononcer expressément sur la sanction accessoire de l'interdiction.
 
 	**Modifié par**:
 
-	  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
-	  - Loi n°86-17 du 6 janvier 1986 - art. 38 () JORF 8 janvier 1986
-	  - Loi n°86-17 du 6 janvier 1986 - art. 42 () JORF 8 janvier 1986
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 	**Nouveaux textes**:
 
@@ -7448,14 +7486,19 @@ décembre 1977.
 ###### Article 173
 
 Le grand infirme reçoit, à titre définitif ou pour une durée déterminé soit par les commissions prévues à l'article 6 de la
-loi n. 75-534 du 30 juin 1975 d'orientation en faveur des personnes handicapées et à l'article L. 323-11 du Code du travail,
+loi n° 75-534 du 30 juin 1975 d'orientation en faveur des personnes handicapées et à l'article L. 323-11 du Code du travail,
 soit par les commissions prévues au chapitre premier du présent titre, une carte d'invalidité délivrée par le préfet et
 conforme au modèle établi par le ministre de la santé et de la famille. Cette carte ouvre droit aux places réservées dans les
 chemins de fer et les transports en commun dans les mêmes conditions que pour les mutilés de guerre. Les dispositions du
 présent articles sont applicables aux Français résidant à l'étranger.
 
-Toute personne faisant indûment usage de la carte d'invalidité sera punie d'une amende de 3.000 F à 6.000 F (1). En cas de
-récidive une peine de un mois à deux mois de prison [*durée*] peut être prononcée.
+Toute personne faisant indûment usage de la carte d'invalidité sera punie de l'amende prévue pour les contraventions de 5°
+classe.
+
+**Nota:**
+
+Nota : Ordonnance 2000-1249 2000-12-21 art. 5 I 8° : l'abrogation du présent article ne prend effet qu'à compter de la
+publication des dispositions réglementaires correspondantes du code de l'action sociale et des familles.
 
 **Liens relatifs à cet article**
 
@@ -7502,13 +7545,29 @@ récidive une peine de un mois à deux mois de prison [*durée*] peut être pron
 	  - Code du service national - art. R*112-6 (V)
 	  - Code du travail - art. L323-11 (M)
 
-	**Anciens textes**:
-
-	  - Décret n°53-1186 1953-11-29 ART. 42
-
 	**Codifié par**:
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Décret n°93-726 1993-03-29 art. 1 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code pénal - art. 131-13 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L241-3 (M)
+	  - Code de l'action sociale et des familles - art. R241-12 (M)
+	  - Code de l'action sociale et des familles - art. R241-15 (M)
+	  - Code de l'action sociale et des familles - art. R241-21 (M)
 
 
 #### Paragraphe 2 : Dispositions spéciales aux aveugles
@@ -9546,11 +9605,9 @@ hébergées.
 
 ###### Article 213
 
-Les infractions aux dispositions des articles 203, 204, 205,
-
-206, 207, 209, aux dispositions de l'article 210 relatives aux injonctions et à la fermeture et aux dispositions de l'article
-211 sont punies d'une amende de 500 F à 20.000 F (1) et d'un emprisonnement de dix jours à trois mois [*durée*] ou de l'une
-de ces deux peines seulement.
+Les infractions aux dispositions des articles 203, 204, 205, 206, 207, 209, aux dispositions de l'article 210 relatives aux
+injonctions et à la fermeture et aux dispositions de l'article 211 sont punies d'une amende de 25000 F et d'un emprisonnement
+de trois mois ou de l'une de ces deux peines seulement.
 
 Le tribunal peut, en outre, interdire au condamné, soit définitivement, soit pour une durée déterminée, d'exploiter ou de
 diriger tout établissement soumis aux dispositions du présent titre. Toute infraction à cette interdiction est sanctionnée
@@ -9569,6 +9626,14 @@ devras e prononcer expressément sur la sanction accessoire de l'interdiction.
 
 	  - Décret n°72-990 du 23 octobre 1972 - art. 19 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. L322-8 (M)
@@ -9583,10 +9648,6 @@ devras e prononcer expressément sur la sanction accessoire de l'interdiction.
 	  - Code de la famille et de l'aide sociale. - art. 209 (M)
 	  - Code de la famille et de l'aide sociale. - art. 210 (M)
 	  - Code de la famille et de l'aide sociale. - art. 211 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°1933-01-14 art. 25
 
 
 ###### Article 214
