@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1986-01-18
+Version Consolidée au 1986-03-18
 
 # Titre Ier : Protection sociale de la famille
 
@@ -521,6 +521,83 @@ publication des dispositions réglementaires correspondantes du code de l'action
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. R211-7 (V)
+
+
+###### Article 11
+
+Les ressources des unions sont constituées par :
+
+1. Un fonds spécial alimenté par un prélèvement effectué chaque année sur les ressources des différents régimes de
+prestations familiales, autres que les régimes spéciaux visés à l'article 61 (1°, 2° et 3°) du décret du 8 juin 1946, et
+destiné à assurer le fonctionnement de l'Union nationale et des unions départementales.
+
+Ce prélèvement est égal à un pourcentage fixé par décret, pourcentage qui ne peut être inférieur à 0,03 p. 100 du montant des
+prestations légales servies par chacun de ces régimes au cours de l'année précédente.
+
+Les conditions d'application des dispositions qui précèdent sont fixées par décret ;
+
+2. Les cotisations des associations, fédérations, confédérations et sections d'associations familiales adhérentes ;
+
+3. Les subventions publiques ou privées ainsi que les dons et legs ;
+
+4. Les rémunérations ou indemnités pour frais de gestion que peuvent comporter les divers services familiaux. Lorsque la
+gestion des services est confiée aux unions par les pouvoirs publics, ceux-ci déterminent les conditions dans lesquelles ils
+conservent la charge des frais généraux afférents à cette gestion.
+
+**Nota:**
+
+[*Nota : Décret 88-454 du 27 avril 1988 art. 1 : à compter du 1er janvier 1988, le prélèvement est porté à 0,1 p. 100 du
+montant de prestations familiales servies par les différents régimes spéciaux visés à l'article 11 (1°) au cours de l'année
+précédente.
+
+Code de la famille et de l'aide sociale 230 : les dispositions du présent article du code sont applicables à l'union
+territoriale des associations familiales de Mayotte.
+
+Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-323 1945-03-03 art. 15
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Modifié par**:
+
+	  - Décret n°86-566 1986-03-14 art. 1 JORF 18 mars 1986
+
+	**Cité par**:
+
+	  - Décret n°86-566 du 14 mars 1986 - art. 1 (M)
+	  - Décret n°88-454 du 27 avril 1988 - art. 1 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 16 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°86-566 du 14 mars 1986 - art. 1 (V)
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L211-10 (V)
+	  - Code de l'action sociale et des familles - art. L211-10 (M)
+
+	**Cite**:
+
+	  - Décret n°1946-06-08 art. 61
 
 
 ###### Article 12
