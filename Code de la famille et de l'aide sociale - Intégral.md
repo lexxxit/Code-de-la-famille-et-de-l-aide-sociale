@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1961-05-19
+Version Consolidée au 1961-12-06
 
 # Titre Ier : Protection sociale de la famille
 
@@ -2545,6 +2545,38 @@ population et de l'aide sociale, et rétribuées sur le budget du service de l'a
 ### Section 4 : Pupilles de l'Etat
 
 #### Paragraphe 1 : Tutelles
+
+###### Article 57
+
+La tutelle des pupilles de l'Etat instituée par le présent chapitre est exercée par le préfet [*autorité compétente*] qui
+peut en donner délégation au directeur départemental de la population et de l'aide sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cité par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 16 (V)
+	  - Décret n°85-936 du 23 août 1985 - art. 7 (Ab)
+	  - Décret n°85-936 du 23 août 1985 - art. 8 (M)
+	  - Code de la famille et de l'aide sociale. - art. 59-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L223-3 (M)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale 45 A, 92
+	  - Code de la famille et de l'aide sociale. - art. 92 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°43-182 1943-04-15 ART. 13
+
 
 ###### Article 58
 
