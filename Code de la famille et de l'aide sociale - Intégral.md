@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1976-07-10
+Version Consolidée au 1977-05-18
 
 # Titre Ier : Protection sociale de la famille
 
@@ -4568,6 +4568,282 @@ l'article 99 du présent code.
 	**Cite**:
 
 	  - Code de la famille et de l'aide sociale. - art. 99 (M)
+
+
+### Section 4 : Assistantes maternelles
+
+###### Article 123-1
+
+Peuvent seules accueillir habituellement des mineurs à leur domicile moyennant rémunération les personnes qui sont agréées à
+cet effet [*condition*].
+
+Des actions de formation destinées à les aider dans leur tâche éducative sont organisées pour ces personnes au titre de la
+protection maternelle et infantile.
+
+Un décret détermine les modalités d'application du présent article en fonction notamment de l'âge du mineur et des
+circonstances du placement. Il fixe les éléments d'appréciation d'ordre sanitaire et éducatif, compte tenu notamment de
+l'expérience acquise par l'assistante maternelle, au vu desquels l'agrément est accordé, refusé ou retiré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978
+	  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978 - art. 10 (Ab)
+	  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978 - art. 7 (Ab)
+	  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978 - art. 9 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°78-474 du 29 mars 1978 - art. 1 (Ab)
+	  - Décret n°78-474 du 29 mars 1978 - art. 7 (Ab)
+	  - Décret n°78-474 du 29 mars 1978 - art. 8 (Ab)
+	  - Arrêté du 1 octobre 1990 - art. 8 (M)
+	  - Loi n°91-1406 du 31 décembre 1991 - art. 17 (Ab)
+	  - Loi n°92-642 du 12 juillet 1992 - art. 18 (M)
+	  - Loi n°92-642 du 12 juillet 1992 - art. 19 (M)
+	  - Décret n°92-1051 du 29 septembre 1992 - art. 1 (Ab)
+	  - Décret n°92-1051 du 29 septembre 1992 - art. 11 (Ab)
+	  - Décret n°92-1051 du 29 septembre 1992 - art. 30 (Ab)
+	  - Décret n°92-1051 du 29 septembre 1992 - art. 8 (Ab)
+	  - Décret n°94-909 du 14 octobre 1994 - art. 2 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 123-1-5 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 123-2 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 123-3 (M)
+	  - Code de la santé publique - art. L146 (Ab)
+	  - Code de la santé publique - art. L2111-1 (M)
+	  - Code de la sécurité sociale. - art. L841-1 (VD)
+	  - Code du travail - art. D773-1 (P)
+	  - Code du travail - art. L122-28-5 (M)
+	  - Code du travail - art. L773-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L421-1 (VD)
+
+
+###### Article 123-2
+
+Les personnes mentionnées à l'article précédent et employées par des particuliers doivent obligatoirement s'assurer pour les
+dommages que les enfants gardés pourraient provoquer et pour ceux dont ils pourraient être victimes. Leurs employeurs sont
+tenus, avant de leur confier un enfant, de vérifier qu'elles ont bien satisfait à cette obligation    Les personnes
+mentionnées à l'article précédent et employées par des personnes morales sont obligatoirement couvertes contre les mêmes
+risques par les soins desdites personnes morales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cité par**:
+
+	  - Loi n°91-1406 du 31 décembre 1991 - art. 17 (Ab)
+	  - Code du travail - art. L122-28-5 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L421-9 (T)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 123-1 (M)
+
+
+###### Article 123-3
+
+Lorsque les personnes mentionnées à l'article 123-1 sont employées par des personnes morales de droit public ou de droit
+privé, il est passé entre elles et leur employeur, pour chaque mineur confié en garde permanente, un contrat de placement
+distinct du contrat de travail.
+
+Ce contrat précise notamment le rôle de la famille d'accueil et celui du service ou organisme employeur à l'égard du mineur
+et de sa famille.
+
+Si l'assistante maternelle est mariée et demeure avec son conjoint, le contrat de placement doit être également signé
+[*obligatoirement*] par celui-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cité par**:
+
+	  - Décret n°92-1051 du 29 septembre 1992 - art. 26 (Ab)
+	  - Décret n°94-909 du 14 octobre 1994 - art. 19 (Ab)
+	  - Code du travail - art. L122-28-5 (M)
+	  - Code du travail - art. L773-3-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L421-10 (T)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 123-1 (M)
+
+
+###### Article 123-4
+
+Les dispositions de la présence section ne sont pas applicables lorsque les assistantes maternelles ont avec les mineurs
+accueillis un lien de parenté ou d'alliance jusqu'au sixième degré inclus, sauf dans le cas où l'enfant est placé par
+l'intermédiaire d'une personne morale de droit public ou de droit privé.
+
+Elles ne sont pas non plus applicables aux personnes dignes de confiance mentionnées à l'ordonnance du 2 février 1945
+relative à l'enfance délinquante et à l'article 375-3 du code civil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cite**:
+
+	  - Code civil - art. 375-3 (M)
+	  - Ordonnance 1945-02-02
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L421-11 (T)
+
+	**Cité par**:
+
+	  - Code du travail - art. L122-28-5 (M)
+
+
+### Section 5 : Assistantes maternelles employées par des personnes morales de droit public
+
+###### Article 123-5
+
+S'appliquent aux assistantes maternelles employées par des personnes de droit public les articles suivants du livre VII,
+titre VII, chapitre III du code du travail : L. 773-3, L. 773-4, L. 773-5, L. 773-6, L. 773-7, L. 773-10, L. 773-11, L.
+773-12, L. 773-13, L. 773-14 et L. 773-15.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cite**:
+
+	  - Code du travail - art. L773-10 (M)
+	  - Code du travail - art. L773-11 (M)
+	  - Code du travail - art. L773-12 (M)
+	  - Code du travail - art. L773-13 (T)
+	  - Code du travail - art. L773-14 (T)
+	  - Code du travail - art. L773-15 (M)
+	  - Code du travail - art. L773-3 (M)
+	  - Code du travail - art. L773-4 (M)
+	  - Code du travail - art. L773-5 (M)
+	  - Code du travail - art. L773-6 (M)
+	  - Code du travail - art. L773-7 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L422-1 (VD)
+
+	**Cité par**:
+
+	  - Code du travail - art. L122-28-5 (M)
+
+
+###### Article 123-6
+
+Le droit syndical est reconnu aux assistantes maternelles relevant de la présente section. Les syndicats professionnels régis
+par le livre IV du code du travail peuvent ester en justice devant toute juridiction. Il peuvent notamment, devant les
+juridictions de l'ordre administratif, se pourvoir contre les actes réglementaires concernant le statut de ces assistantes
+maternelles et contre les décisions individuelles portant atteinte à leurs intérêts collectifs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cite**:
+
+	  - Code du travail L611-1 A L631-3
+	  - Code de la famille et de l'aide sociale 123-5 A 123-8
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L422-2 (VD)
+
+	**Cité par**:
+
+	  - Code du travail - art. L122-28-5 (M)
+
+
+###### Article 123-7
+
+Les assistantes maternelles relevant de la présente section qui se trouvent involontairement privées d'emploi et qui se sont
+inscrites comme demandeurs d'emploi auprès des services compétents ont droit à un revenu de remplacement dans les conditions
+fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L422-3 (VD)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale 123-5 A 123-8
+
+	**Cité par**:
+
+	  - Code du travail - art. L122-28-5 (M)
+
+
+###### Article 123-8
+
+Afin de pouvoir assurer sans délai des accueils urgents et de courte durée, les services concernés peuvent spécialiser dans
+cette forme d'accueil certaines des assistantes maternelles qu'ils emploient.
+
+Ces personnes s'engagent à recevoir immédiatement les enfants présentés par le service dans la limite d'un nombre maximum
+convenu avec lui.
+
+En contrepartie, elles perçoivent, durant les périodes où aucun enfant ne leur est confié, une indemnité de disponibilité
+dont le montant minimum, supérieur à celui de l'indemnité prévue par l'article L. 773-5 du code du travail, est fixé par
+décret en référence au salaire minimum interprofessionnel de croissance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cité par**:
+
+	  - Décret n°78-473 du 29 mars 1978 - art. 3 (Ab)
+	  - Décret n°92-1245 du 27 novembre 1992 - art. 3 (M)
+	  - Code du travail - art. L122-28-5 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L773-5 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L422-4 (VD)
 
 
 # Titre III : Aide sociale
