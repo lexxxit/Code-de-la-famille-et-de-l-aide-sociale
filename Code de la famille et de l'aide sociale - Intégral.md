@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1986-03-18
+Version Consolidée au 1986-08-22
 
 # Titre Ier : Protection sociale de la famille
 
@@ -4652,14 +4652,25 @@ d'administration, présidé par le maire ou, le cas échéant, par le président
 d'administration, lorsqu'il est constitué, élit en son sein un vice-président qui le préside en l'absence du maire ou du
 président du syndicat intercommunal, nonobstant les dispositions de l'article L. 122-13 du code des communes.
 
-Le conseil d'administration comprend, outre son président, en nombre égal, des membres élus en son sein à la représentation
-proportionnelle, dans des conditions fixées par voie réglementaire, par le conseil municipal ou le comité syndical et des
-membres nommés par le maire ou le président du syndicat intercommunal parmi les personnes participant à des actions de
-prévention, d'animation ou de développement social menées dans la commune ou les communes considérées.
+Le conseil d'administration comprend, outre son président, en nombre égal, des membres élus en son sein par le conseil
+municipal ou le comité syndical et des membres nommés par le maire ou le président du syndicat intercommunal parmi les
+personnes participant à des actions de prévention, d'animation ou de développement social menées dans la commune ou les
+communes considérées.
 
 Au nombre des membres nommés doivent figurer un représentant des associations familiales désigné sur proposition de l'union
 départementale des associations familiales, un représentant des associations de retraités et de personnes âgées du
 département et un représentant des associations de personnes handicapées du département.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
 
 **Liens relatifs à cet article**
 
@@ -4677,6 +4688,10 @@ département et un représentant des associations de personnes handicapées du d
 	  - Décret n°95-562 du 6 mai 1995 - art. 7 (Ab)
 	  - Code de la sécurité sociale. - art. D412-79 (V)
 
+	**Modifié par**:
+
+	  - Loi n°86-972 du 19 août 1986 - art. 4 () JORF 22 août 1986
+
 	**Cite**:
 
 	  - CODE DES COMMUNES. - art. L122-13 (Ab)
@@ -4685,10 +4700,6 @@ département et un représentant des associations de personnes handicapées du d
 
 	  - Code de l'action sociale et des familles - art. L123-6 (V)
 	  - Code de l'action sociale et des familles - art. L123-9 (V)
-
-	**Modifié par**:
-
-	  - Loi n°86-17 1986-01-08 art. 55, art. 57 III JORF 8 janvier 1986
 
 
 ###### Article 139
