@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 2000-01-01
+Version Consolidée au 2000-06-22
 
 # Titre Ier : Protection sociale de la famille
 
@@ -1425,73 +1425,6 @@ d'aménagement et de déménagement.
 	**Abrogé par**:
 
 	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
-
-
-## Chapitre III : Education familiale
-
-### Section 1 : Enseignement des problèmes démographiques
-
-###### Article 38
-
-L'enseignement des problèmes démographiques, sous leur aspect statistique et dans leurs rapports avec les questions morales
-et familiales, est obligatoire pour tous les maîtres et pour tous les élèves à tous les degrés de l'enseignement et dans tous
-les établissements scolaires publics ou privés.
-
-Cet enseignement comportera un horaire annuel minimum de six heures et sera donné selon les indications figurant dans un
-arrêté du ministre de l'Education nationale pris après avis du conseil supérieur de l'Education nationale et du haut comité
-consultatif de la population et de la famille.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1939-07-29 ART. 142
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Abrogé par**:
-
-	  - Ordonnance 2000-549 2000-06-15 art. 7 2° JORF 22 juin 2000
-
-	**Cité par**:
-
-	  - Rapport - art. 7 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de l'éducation - art. L312-14 (V)
-
-
-### Section 2 : Formation ménagère et familiale
-
-###### Article 39
-
-La formation ménagère et familiale est assurée dans les établissements publics et privés d'enseignement et dans les centres
-spéciaux dans les conditions fixées par les lois du 18 mars et du 20 août 1942, par l'ordonnance du 2 novembre 1945 et par
-les articles 1288 et suivants du Code rural (articles 110 à 134 du code de l'enseignement technique).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'enseignement technique 110 à 134
-	  - Code rural 1288
-	  - Loi n°1942-08-20
-	  - Ordonnance 1945-11-02
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Abrogé par**:
-
-	  - Ordonnance 2000-549 2000-06-15 art. 7 2° JORF 22 juin 2000
-
-	**Cité par**:
-
-	  - Rapport - art. 7 (V)
 
 
 # Titre II : Action sociale en faveur de l'enfance et de la famille
