@@ -1,11 +1,121 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1975-07-01
+Version Consolidée au 1975-07-13
 
 # Titre Ier : Protection sociale de la famille
 
 ## Chapitre Ier : Les institutions familiales
 
 ### Section 1 : Les associations familiales et les unions d'associations familiales
+
+###### Article 1
+
+Ont le caractère d'associations familiales au sens des dispositions de la présente section les associations déclarées
+librement créées dans le cadre de la loi du 1er juillet 1901, qui groupent :
+
+Des familles constituées par le mariage et la filiation légitime ou adoptive ;
+
+Des couples mariés sans enfant ;
+
+Toutes personnes physiques soit ayant charge légale d'enfants par filiation ou adoption, soit exerçant l'autorité parentale
+ou la tutelle sur un ou plusieurs enfants dont elles ont la charge effective et permanente, et, qui ont pour but essentiel la
+défense de l'ensemble des intérêts matériels et moraux, soit de toutes les familles, soit de certaines catégories d'entre
+elles.
+
+L'adhésion des étrangers aux associations familiales est subordonnée à leur établissement régulier en France ainsi qu'à celui
+de tout ou partie des membres de leur famille dans les conditions qui seront fixées par décret en Conseil d'Etat.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 230 :
+
+les dispositions du présent article du code sont applicables à l'union territoriale des associations familiales de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-323 1945-03-03 art. 4
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L211-1 (V)
+	  - Code de l'action sociale et des familles - art. L351-4 (M)
+
+	**Cité par**:
+
+	  - Code de la famille et de l'aide sociale. - art. 10 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 4 (Ab)
+
+	**Cite**:
+
+	  - Loi n°1901-07-01
+
+
+###### Article 2
+
+Il peut être créé :
+
+Dans chaque département, une fédération départementale dite Union départementale des associations familiales, composée comme
+il est prévu à l'article 4 ;
+
+Au niveau national, une fédération dite Union nationale des associations familiales, composée comme il est prévu à l'article
+5.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 230 : les dispositions du présent article du code sont applicables à l'union
+territoriale des associations familiales de Mayotte.
+
+Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-323 1945-03-03 art. 5
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cité par**:
+
+	  - Loi n°88-14 du 5 janvier 1988 - art. 1 (Ab)
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L211-2 (V)
+	  - Code de l'action sociale et des familles - art. L224-1 (V)
+	  - Code de l'action sociale et des familles - art. L225-11 (M)
+	  - Code de l'action sociale et des familles - art. L226-6 (V)
+	  - Code de l'action sociale et des familles - art. L322-9 (M)
+	  - Code de l'action sociale et des familles - art. L351-5 (M)
+	  - Code de l'action sociale et des familles - art. L541-4 (T)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 4 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 5 (Ab)
+
 
 ###### Article 3
 
@@ -52,6 +162,105 @@ représenter auprès des pouvoirs publics les intérêts dont elle a assumé la 
 	  - Code de la famille et de l'aide sociale. - art. 6 (Ab)
 	  - Code de la famille et de l'aide sociale. - art. 63-2 (Ab)
 	  - Code de la sécurité sociale. - art. D412-79 (V)
+
+
+###### Article 4
+
+Les unions départementales des associations familiales sont composées par les associations familiales ayant leur siège social
+dans le département qui apportent à ces unions leur adhésion, ainsi que les fédérations groupant exclusivement dans le
+département les associations telles que définies à l'article 1er du présent code.
+
+Peuvent seules concourir à la création des unions départementales ou adhérer aux unions déjà constituées les associations et
+fédérations familiales déclarées depuis six mois au moins.
+
+Les sections départementales ou locales des associations nationales sont admises dans les unions au même titre que les
+associations déclarées.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 230 : les dispositions du présent article du code sont applicables à l'union
+territoriale des associations familiales de Mayotte.
+
+Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-323 1945-03-03 art. 7
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L211-4 (V)
+	  - Code de l'action sociale et des familles - art. L221-8 (V)
+	  - Code de l'action sociale et des familles - art. L224-1 (V)
+	  - Code de l'action sociale et des familles - art. L225-3 (V)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 1 (Ab)
+
+	**Cité par**:
+
+	  - Code de la famille et de l'aide sociale. - art. 2 (Ab)
+
+
+###### Article 5
+
+L'union nationale est composée par les unions départementales des associations familiales, constituées conformément à
+l'article précédent et qui lui apportent leur adhésion, et les fédérations, confédérations, associations familiales
+nationales groupant au niveau national les associations et sections adhérentes aux unions départementales.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 230 : les dispositions du présent article du code sont applicables à l'union
+territoriale des associations familiales de Mayotte.
+
+Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-323 1945-03-03 art. 8
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Cité par**:
+
+	  - Code de la famille et de l'aide sociale. - art. 2 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L211-5 (V)
 
 
 ###### Article 6
@@ -157,6 +366,102 @@ territoriale de Mayotte, les mots :
 	  - Code de l'action sociale et des familles - art. L211-7 (V)
 
 
+###### Article 8
+
+L'union nationale et chaque union départementale des associations familiales sont administrées par un conseil dont les
+membres doivent être pour partie élus, au suffrage familial tel qu'il est prévu à l'article suivant, pour partie désignés par
+les fédération, confédérations ou associations familiales adhérentes selon les proportions que doivent prévoir les statuts de
+ces unions.
+
+Ne peuvent être membres des conseils d'administration les personnes frappées par une mesure de retrait des droits civils ou
+politiques [*incapacité*].
+
+les membres des conseils d'administration doivent être en majorité des pères ou mères de familles ayant au moins trois
+enfants dont un mineur [*conditions*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-323 1945-03-03 ART. 10
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L211-8 (V)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 9 (Ab)
+
+
+###### Article 9
+
+Au sein des unions départementales, chaque association familiale adhérente dispose d'un nombre de suffrages calculé selon les
+modalités prévues aux alinéas suivants.
+
+Chaque famille ou groupe familial tel que défini à l'article premier, adhérant à l'association au 1er janvier de l'année du
+vote, apporte, le cas échéant :
+
+Une voix pour chacun des pères et mères ou chacun des conjoints, ou pour la personne physique exerçant l'autorité parentale
+ou la tutelle ;
+
+Une voix par enfant mineur vivant ;
+
+Une voix par groupe de trois enfants mineurs ;
+
+Une voix par enfant mort pour la France ;
+
+La voix attribuée pour chaque enfant mineur handicapé est maintenue lorsque l'enfant qui atteint la majorité demeure à la
+charge de ses parents.
+
+Au sein de l'union nationale, chaque union départementale groupe les suffrages dont disposaient, au 1er janvier de l'année de
+vote, les associations familiales adhérentes.
+
+Les personnes frappées par une mesure de retrait des droits civils ou politiques ne donnent droit à aucune voix. Ces
+personnes ne peuvent participer à aucun vote.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 230 : les dispositions du présent article du code sont applicables à l'union
+territoriale des associations familiales de Mayotte.
+
+Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-323 1945-03-03 art. 11
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cité par**:
+
+	  - Décret n°76-272 du 28 mars 1976 - art. 4 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 8 (M)
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L211-9 (V)
+
+
 ###### Article 10
 
 L'Union nationale, les unions départementales et locales peuvent faire appel, à titre consultatif, aux représentants de tous
@@ -206,6 +511,36 @@ publication des dispositions réglementaires correspondantes du code de l'action
 	  - Code de l'action sociale et des familles - art. R211-7 (V)
 
 
+###### Article 14
+
+Sous réserve des dispositions prévues par le deuxième alinéa du présent article, les contestations nées de la création ou du
+fonctionnement des unions départementales ou locales sont tranchées en dernier ressort par l'union nationale des associations
+familiales [*recours*].
+
+Le ministre chargé de la famille peut, à la demande de tout intéressé ou d'office, suspendre ou, après avis du comité
+consultatif de la famille, annuler toute adhésion ou tout refus d'adhésion aux unions d'associations familiales qu'il
+estimerait contraire aux dispositions de la présente section concernant le caractère familial d'une association, d'une
+fédération ou confédération d'associations, ou d'une section d'association nationale. Les associations de famille créées
+antérieurement au 3 mars 1945 sont et demeurent placées sous le régime et bénéficient du statut défini par la présente
+section.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-323 1945-03-03 art. 17, alinéa final
+	  - Code de la famille et de l'aide sociale. - art. 15 (T)
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Nouveaux textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 13 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 13 (T)
+
+
 ###### Article 15
 
 Les associations de famille créées antérieurement au 3 mars 1945 [*date limite*] sont et demeurent placées sous le régime et
@@ -235,6 +570,42 @@ bénéficient du statut défini par la présente section.
 	**Cité par**:
 
 	  - Code de la famille et de l'aide sociale. - art. 230 (Ab)
+
+
+###### Article 16
+
+Un décret en Conseil d'Etat fixe les conditions d'application de la présente section. Il précise notamment les modalités des
+élections des conseils d'administration de l'union nationale et des unions départementales.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-323 1945-03-03 ART. 18
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 11 juin 1990
+	  - TXT_SOURCE: Arrêté du 11 juin 1990 - art. 1 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 30 octobre 1986 - art. 1 (M)
+	  - Code de la famille et de l'aide sociale. - art. 15 (T)
+	  - Code de la famille et de l'aide sociale. - art. 63-2 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 15 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 15 (T)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 16 (T)
 
 
 ### Section 1 : Les associations familiales et lse unions d'associations familiales
