@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1959-01-09
+Version Consolidée au 1960-11-27
 
 # Titre Ier : Protection sociale de la famille
 
@@ -4953,6 +4953,38 @@ maladies mentales.
 
 	  - Code de la santé publique - art. L326 (M)
 	  - Code de la santé publique 214, L326
+
+
+## Chapitre VIII : Mesures d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale
+
+###### Article 185-1
+
+Dans chaque département doit être créé un service social qui a pour mission, en liaison avec le service départemental
+d'hygiène sociale :
+
+1. De rechercher et d'accueillir les personnes en danger de prostitution et de leur fournir l'assistance dont elles peuvent
+avoir besoin, notamment en leur procurant un placement dans un des établissements visés à l'article 185, alinéa 2 ;
+
+2. D'exercer toute action médico-sociale en faveur des personnes qui se livrent à la prostitution.
+
+Les dépenses de fonctionnement de ce service ont un caractère obligatoire. Elles sont inscrites en totalité au budget du
+département. L'Etat y participe dans les conditions prévues à l'article 190. Le service est placé sous l'autorité du
+directeur départemental de la population et de l'action sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L121-9 (M)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 185 (M)
+	  - Code de la famille et de l'aide sociale. - art. 190 (Ab)
 
 
 ## Chapitre IX : Dispositions concernant les étrangers
