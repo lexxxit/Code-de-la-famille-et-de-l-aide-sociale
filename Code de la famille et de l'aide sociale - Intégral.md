@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1990-07-12
+Version Consolidée au 1991-01-20
 
 # Titre Ier : Protection sociale de la famille
 
@@ -7724,8 +7724,13 @@ secours.
 
 Nonobstant les dispositions des articles 102 à 111 du code civil, le domicile de secours s'acquiert par une résidence
 habituelle de trois mois dans un département postérieurement à la majorité ou à l'émancipation, sauf pour les personnes
-admises dans des établissements sanitaires ou sociaux, qui conservent le domicile de secours qu'elles avaient acquis avant
-leur entrée dans l'établissement. Le séjour dans ces établissements est sans effet sur le domicile de secours.
+admises dans des établissements sanitaires ou sociaux, ou accueillies habituellement, à titre onéreux ou au titre de l'aide
+sociale au domicile d'un particulier agréé ou faisant l'objet d'un placement familial en application des articles 1er, 3 et 5
+de la loi n° 89-475 du 10 juillet 1989 relative à l'accueil par des particuliers, à leur domicile, à titre onéreux, de
+personnes âgées ou handicapées adultes,  qui conservent le domicile de secours qu'elles avaient acquis avant leur entrée dans
+l'établissement. Le séjour dans ces établissements ou au domicile d'un particulier agréé ou dans un placement familial
+organisé en application des articles 1er, 3 et 5 de la loi n° 89-475 du 10 juillet 1989 précitée, est sans effet sur le
+domicile de secours.
 
 Pour les prestations autres que celles de l'aide sociale à l'enfance, l'enfant mineur non émancipé a le domicile de secours
 de la personne qui exerce l'autorité parentale ou la tutelle confiée en application de l'article 390 du code civil.
@@ -7736,9 +7741,17 @@ de la personne qui exerce l'autorité parentale ou la tutelle confiée en applic
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
+	**Cite**:
+
+	  - Loi n°89-475 1989-07-10 art. 1, art. 3, art. 5
+	  - Loi n°89-475 du 10 juillet 1989 - art. 5 (Ab)
+	  - Code civil - art. 390 (M)
+	  - Code civil 102 à 111, 390
+
 	**Modifié par**:
 
-	  - Loi n°86-17 du 6 janvier 1986 - art. 62 () JORF 8 janvier 1986
+	  - Loi n°91-73 1991-01-18 art. 45 I, II JORF 20 janvier 1991
+	  - Loi n°91-73 du 18 janvier 1991 - art. 45 () JORF 20 janvier 1991
 
 	**Cité par**:
 
@@ -7747,19 +7760,9 @@ de la personne qui exerce l'autorité parentale ou la tutelle confiée en applic
 	  - Code de la famille et de l'aide sociale. - art. 192 (M)
 	  - Code de la famille et de l'aide sociale. - art. 195 (Ab)
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code civil - art. 102 (V)
-	  - Code civil - art. 103 (V)
-	  - Code civil - art. 104 (V)
-	  - Code civil - art. 105 (V)
-	  - Code civil - art. 106 (V)
-	  - Code civil - art. 107 (V)
-	  - Code civil - art. 108 (V)
-	  - Code civil - art. 109 (V)
-	  - Code civil - art. 110 (Ab)
-	  - Code civil - art. 111 (V)
-	  - Code civil - art. 390 (M)
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 	**Nouveaux textes**:
 
@@ -7771,13 +7774,14 @@ de la personne qui exerce l'autorité parentale ou la tutelle confiée en applic
 Le domicile de secours se perd :
 
 1° Par une absence ininterrompue de trois mois postérieurement à la majorité ou à l'émancipation, sauf si celle-ci est
-motivée par un séjour dans un établissement sanitaire ou social ;
+motivée par un séjour dans un établissement sanitaire ou social ou au domicile d'un particulier agréé ou dans un placement
+familial, organisé en application des articles 1er, 3 et 5 de la loi n° 89-475 du 10 juillet 1989 précitée ;
 
 2° Par l'acquisition d'un autre domicile de secours.
 
 Si l'absence résulte de circonstances excluant toute liberté de choix du lieu de séjour ou d'un traitement dans un
 établissement hospitalier situé hors du département où réside habituellement le bénéficiaire de l'aide sociale, le délai de
-trois mois ne commence à courir que du jour où ces circonstances n'existent plus [*point de départ*].
+trois mois ne commence à courir que du jour où ces circonstances n'existent plus *point de départ*.
 
 A défaut de domicile de secours, les frais d'aide sociale incombent au département où réside l'intéressé au moment de la
 demande d'admission à l'aide sociale. Toutefois, les frais d'aide sociale engagés en faveur de personnes dont la présence sur
@@ -7819,9 +7823,14 @@ résulterait de l'application desdites règles.
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
+	**Cite**:
+
+	  - Loi n°89-475 1989-07-10 art. 1, art. 3, art. 5
+	  - Loi n°89-475 du 10 juillet 1989 - art. 5 (Ab)
+
 	**Modifié par**:
 
-	  - Loi n°86-17 du 6 janvier 1986 - art. 62 () JORF 8 janvier 1986
+	  - Loi n°91-73 du 18 janvier 1991 - art. 46 () JORF 20 janvier 1991
 
 	**Nouveaux textes**:
 
@@ -8747,15 +8756,37 @@ l'exécution du présent titre.
 
 ###### Article 218
 
-Nul ne peut occuper un emploi d'assistant ou d'assistante dans un service social public ou privé, ni prendre le titre
-d'assistante ou d'assistant de service social, ou tout autre titre pouvant prêter à confusion avec le titre susvisé, s'il
-n'est pas muni d'un diplôme d'Etat [*condition*] institué par le décret du 12 janvier 1932.
+Peuvent prendre le titre ou occuper un emploi d'assistant de service social les titulaires du diplôme d'Etat français
+d'assistant de service social.
+
+Peuvent également prendre le titre ou occuper un emploi d'assistant de service social sans posséder le diplôme mentionné ci-
+dessus les ressortissants d'un Etat membre des communautés européennes qui ont suivi avec succès une formation théorique et
+pratique post-secondaire d'une durée minimale de trois ans, ou d'une durée équivalente à temps partiel, dans une université
+ou un établissement du même niveau de formation d'un Etat membre et qui justifient :
+
+1° D'un diplôme, certificat ou autre titre permettant l'exercice de la profession dans l'Etat membre d'origine ou de
+provenance, délivré :
+
+a) Soit par l'autorité compétente de cet Etat et sanctionnant une formation acquise de façon prépondérante dans la
+Communauté ;
+
+b) Soit par un pays tiers, à condition que soit fournie une attestation émanant de l'autorité compétente de l'Etat membre qui
+a reconnu le diplôme, certificat ou autre titre, certifiant que son titulaire a une expérience professionnelle dans cet Etat
+de trois ans au moins ;
+
+2° Ou de l'exercice à plein temps de la profession d'assistant de service social pendant deux ans au moins au cours des dix
+années précédentes dans un Etat membre d'origine ou de provenance qui ne réglemente pas l'accès ou l'exercice de cette
+profession à condition que cet exercice soit attesté par l'autorité compétente de cet Etat membre.
+
+Lorsque la formation des intéressés porte sur des matières substantiellement différentes de celles qui figurent au programme
+du diplôme d'Etat français ou lorsqu'une ou plusieurs des activités professionnelles dont l'exercice est subordonné à la
+possession dudit diplôme ne sont pas réglementées dans l'Etat membre d'origine ou de provenance, ou ne sont pas réglementées
+d'une manière différente, le ministre chargé des affaires sociales peut exiger que les intéressés choisissent, soit de se
+soumettre à une épreuve d'aptitude, soit d'accomplir un stage d'adaptation dont la durée ne peut excéder trois ans.
+
+Un décret en Conseil d'Etat détermine les mesures nécessaires à l'application du présent article.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret  1932-01-12
 
 	**Codifié par**:
 
@@ -8771,6 +8802,10 @@ n'est pas muni d'un diplôme d'Etat [*condition*] institué par le décret du 12
 	  - Décret n°92-785 du 6 août 1992 - art. 12 (Ab)
 	  - Arrêté du 7 mars 1986 - art. 1 (V)
 	  - Code de la famille et de l'aide sociale. - art. 219 (V)
+
+	**Modifié par**:
+
+	  - Loi n°91-73 du 18 janvier 1991 - art. 5 () JORF 20 janvier 1991
 
 	**Nouveaux textes**:
 
