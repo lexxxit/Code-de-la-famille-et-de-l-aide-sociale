@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1984-01-04
+Version Consolidée au 1984-09-07
 
 # Titre Ier : Protection sociale de la famille
 
@@ -1704,65 +1704,6 @@ code civil, sous réserve de l'application des autres dispositions de ce code//.
 	  - Loi n°43-182 1943-04-15 ART. 5
 
 
-###### Article 50
-
-Doit être immatriculé comme pupille de l'Etat :
-
-1. L'enfant dont la filiation n'est pas établie ou est inconnue, qui a été recueilli par le service de l'aide sociale à
-l'enfance depuis plus de trois mois [*condition de délai*] ;
-
-2. L'enfant dont la filiation est établie et connue, qui a été expressément abandonné au service de l'aide sociale à
-l'enfance depuis plus de trois mois par les personnes qui avaient qualité pour consentir à l'adoption ;
-
-3. L'enfant dont la filiation est établie et connue, qui a été expressément abandonné au service de l'aide sociale à
-l'enfance par son père ou sa mère depuis plus d'un an et dont l'autre parent ne s'est jamais manifesté à la connaissance du
-service pendant ce délai ;
-
-4. L'enfant dont la filiation est établie et connue, qui a été remis à titre définitif au service de l'aide sociale à
-l'enfance depuis plus d'un an par une personne qui n'avait pas qualité pour consentir à l'adoption si les parents ne se sont
-jamais manifestés à la connaissance du service pendant ce délai ;
-
-5. L'enfant, orphelin de père et de mère, qui, n'ayant pas d'ascendant auquel on puisse recourir, n'a aucun moyen
-d'existence ;
-
-6. L'enfant dont les parents ont été déclarés déchus de l'autorité parentale en vertu des articles 378 et 378-1 du Code civil
-et dont la tutelle a été confiée au service de l'aide sociale à l'enfance par application de l'article 380, premier alinéa,
-du même code ;
-
-7. L'enfant confié au service de l'aide sociale à l'enfance et déclaré abandonné par le tribunal en application de l'article
-350 du Code civil.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Cité par**:
-
-	  - Décret n°67-44 du 12 janvier 1967 - art. 2 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 76 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°70-459 du 4 juin 1970 - art. 4 () JORF 5 juin 1970
-
-	**Abrogé par**:
-
-	  - Loi n°84-422 du 6 juin 1984 - art. 2 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
-
-	**Cite**:
-
-	  - Code civil - art. 350 (M)
-	  - Code civil - art. 378 (M)
-	  - Code civil - art. 378-1 (M)
-	  - Code civil 378, 378-1, 380 AL. 1, 350
-
-	**Anciens textes**:
-
-	  - Loi n°43-182 1943-04-15 ART. 6
-
-
 ###### Article 51
 
 Les maisons maternelles [*mission*] prévues à l'article 41 du présent code concourent à la prévention des abandons d'enfants.
@@ -1912,7 +1853,80 @@ dans le cas prévu à l'alinéa précédent.
 	  - Code de la famille et de l'aide sociale. - art. 48 (Ab)
 
 
+###### Article 54
+
+Les enfants sont admis dans le service, quelle que soit la catégorie dans laquelle ils entrent, sur décision du président du
+conseil général.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Modifié par**:
+
+	  - Loi n°84-422 du 6 juin 1984 - art. 1 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
+
+	**Abrogé par**:
+
+	  - Loi n°86-17 1986-01-06 art. 80 JORF 8 janvier 1986
+
+
 ### Section 5 : Modalités de placement des enfants confiés au service de l'aide sociale à l'enfance
+
+###### Article 66
+
+Dans chaque département, le préfet, sur proposition du directeur départemental de la population et de l'aide sociale,
+organise un ou plusieurs foyers destinés à accueillir les enfants confiés au service de l'aide sociale à l'enfance.
+
+Ces foyers sont gérés, soit par le conseil général, soit par la commission administrative de l'établissement hospitalier dont
+ils dépendent.
+
+Dans ce dernier cas, ils sont installés dans des locaux indépendants des quartiers d'hôpitaux et d'hospices.
+
+Le directeur ou le responsable du foyer est nommé par le préfet sur la proposition du directeur départemental de la
+population et de l'aide sociale.
+
+Le service médical est assuré par un médecin spécialement désigné à cet effet par le préfet, sur la proposition du directeur
+départemental de la population et de l'aide sociale.
+
+Les enfants ne sont maintenus au foyer que s'il est constaté que leur état de santé l'exige ou sur une décision motivée du
+directeur départemental de la population et de l'aide sociale [*condition*].
+
+Les foyers comprennent différentes sections groupant les enfants selon leur âge.
+
+Les nourrissons sont placés, en vue de leur adaptation à l'allaitement artificiel, dans une pouponnière spécialement
+organisée. Cette pouponnière est, dans toute la mesure du possible, installée dans un local annexe d'un maison maternelle
+afin de permettre, éventuellement, l'allaitement au lait de femme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Anciens textes**:
+
+	  - Loi n°43-182 1943-04-15 ART. 22
+
+	**Cité par**:
+
+	  - Loi n°75-535 du 30 juin 1975 - art. 24 (Ab)
+	  - Code de la santé publique - art. L149 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°84-422 du 6 juin 1984 - art. 3 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
+
+	**Abrogé par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 33 () JORF 8 janvier 1986
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L226-1 (V)
+
 
 ###### Article 67
 
@@ -2156,125 +2170,6 @@ Santé publique et de la Population [*autorité compétence*].
 	**Abrogé par**:
 
 	  - Loi n°86-17 du 6 janvier 1986 - art. 33 () JORF 8 janvier 1986
-
-
-###### Article 73
-
-Les pupilles bénéficient de la surveillance sanitaire générale instituée par le livre II, titre Ier, du Code de la santé
-publique. Après six ans, ils sont soumis à l'inspection médicale scolaire. Ils bénéficient, en outre, d'examens préventifs
-dont le rythme et les conditions sont fixés par le directeur départemental de la population et de l'aide sociale.
-
-Les pupilles de tous âges dont l'examen médical ou mental aurait révélé des troubles nécessitant une observation approfondie,
-sont dirigés vers un centre d'observation et de triage aux fins d'un placement, d'une rééducation ou d'un traitement
-approprié à leur état particulier.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Anciens textes**:
-
-	  - Loi n°43-182 1943-04-15 ART. 30
-
-	**Abrogé par**:
-
-	  - Loi n°84-422 du 6 juin 1984 - art. 2 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L189 (Ab)
-	  - Code de la santé publique L146 A, L189
-
-
-###### Article 74
-
-Les pupilles dont l'état ou le comportement constaté dans un centre d'observation ou une consultation d'hygiène mentale ne
-permet pas de les confier à une famille sont placés, sur le rapport du directeur de la population et de l'aide sociale, par
-décision du préfet, dans un établissement de rééducation agréé.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Cité par**:
-
-	  - Code de la famille et de l'aide sociale. - art. 67 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°43-182 1943-04-15 ART. 31
-
-	**Abrogé par**:
-
-	  - Loi n°84-422 du 6 juin 1984 - art. 2 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
-
-
-###### Article 75
-
-Les mesures de correction paternelle [*autorité parentale*] sont applicables aux pupilles à la requête du tuteur dans les
-conditions prévues aux articles 375 à 381 du Code civil ; l'enquête prévue à l'article 376 est facultative ; il n'y a lieu ni
-à audition ni à intervention des père et mère.
-
-Le tuteur peut, d'après les résultats obtenus et les conclusions des examens médicaux, psychiatriques et psychologiques, et
-après avis du directeur de l'établissement, mettre fin au placement et opérer le retrait du pupille.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-1186 1953-11-29 ART. 73 AL. 10
-	  - Loi n°43-182 1943-04-15 ART. 32
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Abrogé par**:
-
-	  - Loi n°84-422 du 6 juin 1984 - art. 2 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
-
-	**Cite**:
-
-	  - Code civil - art. 376 (V)
-	  - Code civil - art. 381 (M)
-	  - Code civil 375 A, 381, 376
-
-
-###### Article 76
-
-Sont assimilés aux pupilles :
-
-a) Sauf en ce qui concerne le droit de consentir à l'adoption, les enfants pour lesquels le service de l'aide sociale à
-l'enfance a reçu délégation de tous les droits de l'autorité parentale à l'exception du droit susvisé, et, tant qu'ils ne
-remplissent pas les conditions de délai prévues à l'article 50, 2., 3. et 4., pour être immatriculés comme pupilles de
-l'Etat, les enfants dont la filiation est établie et connue qui ont été abandonnés au service de l'aide sociale à l'enfance ;
-
-b) En ce qui concerne leur surveillance, leur mode de placement et la gestion de leurs deniers, les enfants recueillis
-temporairement et les enfants en garde non visés à l'alinéa précédent ;
-
-c) En ce qui concerne leur surveillance, les enfants secourus et les enfants surveillés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale. - art. 50 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°43-182 1943-04-15 ART. 34
-
-	**Abrogé par**:
-
-	  - Loi n°84-422 du 6 juin 1984 - art. 2 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
 
 
 ## Chapitre III : Dispositions financières
@@ -3058,68 +2953,23 @@ nécessaires à l'exécution de la présente section, notamment les chiffres min
 
 ## Chapitre II : Aide sociale à l'enfance
 
-### Section 3 : Mode d'admission des enfants dans les services de l'aide sociale à l'enfance
-
-###### Article 54
-
-Les enfants sont admis dans le service, quelle que soit la catégorie dans laquelle ils entrent, sur décision du président du
-conseil général [*antérieurement le préfet - compétence*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Anciens textes**:
-
-	  - Loi n°43-182 1943-04-15 ART. 10
-
-	**Modifié par**:
-
-	  - Loi n°83-663 du 22 juillet 1983 - art. 54 (V) JORF 23 juillet 1983
-
+### Section 3 : Droits des familles dans leurs rapports avec les services chargés de la protection de la famille et de l'enfance
 
 ###### Article 55
 
-Toute présentation des enfants en vue de leur admission comme pupilles de l'Etat donne lieu à l'établissement d'un procès-
-verbal [*condition*].
-
-Avant d'établir le procès-verbal d'abandon et de recueillir éventuellement le consentement à l'adoption, la préposée aux
-admissions fait connaître à la personne qui présente l'enfant ;
-
-1. Les mesures instituées par l'Etat pour aider les parents à élever eux-mêmes leurs enfants ;
-
-2. Les conséquences de l'abandon : immatriculation comme pupille de l'Etat entraînant le secret du placement, perte des
-droits de l'autorité parentale, possibilité d'une adoption ;
-
-3. Les délais et conditions de la restitution de l'enfant, notamment le droit pour les parents d'obtenir pendant un délai de
-trois mois la remise immédiate de l'enfant sans aucune formalité ;
-
-4. Le fait que le placement en vue de l'adoption fera échec à toute déclaration de filiation, toute reconnaissance et toute
-demande de restitution ;
-
-5. La possibilité de demander le secret de l'état civil de l'enfant.
-
-En outre, la préposée aux admissions remet à la personne qui dépose l'enfant une notice précisant les conséquences de
-l'abandon et les délais et conditions de la restitution de l'enfant.
-
-Lorsque les parents ont consenti à l'adoption en abandonnant l'enfant, un modèle de lettre de rétractation portant l'adresse
-à laquelle elle doit être expédiée leur sera remis en même temps que la notice.
-
-Si l'enfant paraît âgé de moins d'un an et si la personne qui le présente refuse de faire connaître le nom, le lieu de
-naissance, la date de naissance de l'enfant, ou de fournir une de ces trois indications, acte est pris de ce refus et
-l'admission provisoire est prononcée. Dans ce cas, aucune enquête administrative n'est faite.
-
-Si l'enfant dont la demande d'abandon est maintenue après l'offre de secours, paraît âgé de plus d'un an, la personne
-préposée aux admissions recueille provisoirement l'enfant et transmet immédiatement au directeur départemental de la
-population et de l'aide sociale, avec son avis, les pièces et les renseignements produits à l'appui de la demande d'abandon.
+Toute personne qui demande une prestation prévue aux chapitres Ier et II du présent titre ou qui en bénéficie est informée
+par les services chargés de la protection de la famille et de l'enfance des conditions d'attribution et des conséquences de
+cette prestation sur les droits et obligations de l'enfant et de son représentant légal.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Modifié par**:
+
+	  - Loi n°84-422 du 6 juin 1984 - art. 1 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
 
 	**Liens**:
 
@@ -3135,46 +2985,36 @@ population et de l'aide sociale, avec son avis, les pièces et les renseignement
 
 	  - Code de l'action sociale et des familles - art. L223-1 (V)
 
-	**Anciens textes**:
-
-	  - Loi n°43-182 1943-04-15 ART. 11
-
-
-###### Article 55-1
-
-La présentation secrète des enfants en vue de leur admission comme pupilles de l'Etat peut avoir lieu dans le bureau
-spécialisé, ouvert de jour et de nuit, sans autre témoin que la femme préposée aux admissions.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Cité par**:
-
-	  - Décret n°85-936 du 23 août 1985 - art. 1 (M)
-	  - Décret n°85-938 du 23 août 1985 - art. 5 (Ab)
-	  - Décret n°85-938 du 23 août 1985 - art. 7 (Ab)
-	  - Décret n°98-771 du 1 septembre 1998 - art. 5 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 59-1 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 63 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L223-1 (V)
-
 
 ###### Article 56
 
-Les femmes préposées aux admissions sont nommées par le préfet, sur la proposition du directeur départemental de la
-population et de l'aide sociale, et rétribuées sur le budget du service de l'aide sociale à l'enfance.
+Sauf si un enfant est confié au service par décision judiciaire ou s'il s'agit de prestations en espèces, aucune décision sur
+le principe ou les modalités de l'admission dans le service de l'aide sociale à l'enfance ne peut être prise sans l'accord
+écrit du représentant légal du mineur ou du bénéficiaire lui-même s'il est mineur émancipé.
+
+En cas d'urgence et lorsque le représentant légal est dans l'impossibilité de donner son accord, l'enfant est recueilli
+provisoirement par le service qui en avise immédiatement le procureur de la République. Si, à l'issue d'un délai de cinq
+jours, l'enfant n'a pu être remis à sa famille ou si le représentant légal n'a pas donné son accord à l'admission de l'enfant
+dans le service, ce dernier saisit l'autorité judiciaire.
+
+Pour toutes les décisions relatives au lieu et au mode de placement des enfants déjà admis dans le service, l'accord du
+représentant légal est réputé acquis si celui-ci n'a pas fait connaître son opposition dans un délai de quatre semaines à
+compter du jour où il a reçu la notification de la demande du service, ou de six semaines à compter de la date d'envoi s'il
+n'a pas accusé réception de la notification.
+
+Sous réserve des pouvoirs reconnus à l'autorité judiciaire, les mesures prises dans le cadre de la présente section ne
+peuvent en aucun cas porter atteinte à l'autorité parentale que détiennent le ou les représentants légaux de l'enfant, et
+notamment au droit de visite et au droit d'hébergement.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Modifié par**:
+
+	  - Loi n°84-422 du 6 juin 1984 - art. 1 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
 
 	**Cité par**:
 
@@ -3187,21 +3027,26 @@ population et de l'aide sociale, et rétribuées sur le budget du service de l'a
 
 	  - Code de l'action sociale et des familles - art. L223-2 (V)
 
-	**Anciens textes**:
-
-	  - Loi n°43-182 1943-04-15 ART. 12
-
-
-### Section 4 : Pupilles de l'Etat
-
-#### Paragraphe 1 : Tutelles
 
 ###### Article 57
 
-La tutelle des pupilles de l'Etat instituée par le présent chapitre est exercée par le préfet [*autorité compétente*] qui
-peut en donner délégation au directeur départemental de la population et de l'aide sociale.
+Pour l'application des décisions judiciaires prises en vertu des articles 10, 4°, 15, 4°, et 17, 2ème alinéa, de l'ordonnance
+n° 174 du 2 février 1945, de l'article 375-3, 4°, et des articles 377 à 380 du code civil, le représentant légal du mineur
+donne son avis par écrit préalablement au choix du mode et du lieu de placement et à toute modification apportée à cette
+décision.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 10 (M)
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 15 (M)
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 17 (V)
+	  - Code civil - art. 375-3 (M)
+	  - Code civil - art. 377 (M)
+	  - Code civil - art. 378 (M)
+	  - Code civil - art. 379 (M)
+	  - Code civil - art. 380 (M)
 
 	**Codifié par**:
 
@@ -3214,36 +3059,20 @@ peut en donner délégation au directeur départemental de la population et de l
 	  - Décret n°85-936 du 23 août 1985 - art. 8 (M)
 	  - Code de la famille et de l'aide sociale. - art. 59-1 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°84-422 du 6 juin 1984 - art. 1 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
+
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. L223-3 (M)
 
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale 45 A, 92
-	  - Code de la famille et de l'aide sociale. - art. 92 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°43-182 1943-04-15 ART. 13
-
 
 ###### Article 58
 
-Le tuteur est assisté d'un conseil de famille comprenant deux membres du conseil général désignés par cette assemblée et cinq
-[*nombre*] membres nommés par le préfet sur proposition du directeur départemental de la population et de l'aide sociale.
-
-Ces nominations effectuées pour quatre ans [*durée*] sont renouvelables. Le conseil de famille comprend au moins un membre du
-sexe féminin.
-
-Le tuteur ou son délégué assiste aux séances du conseil et y est entendu quand il le demande.
+Le service examine avec le mineur toute décision le concernant et recueille son avis.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-1186 1953-11-29 ART. 73 AL. 4
-	  - Loi n°43-182 1943-04-15 ART. 14
 
 	**Codifié par**:
 
@@ -3260,6 +3089,10 @@ Le tuteur ou son délégué assiste aux séances du conseil et y est entendu qua
 	  - Code de la famille et de l'aide sociale. - art. 64 (M)
 	  - Code de la sécurité sociale. - art. D412-79 (V)
 
+	**Modifié par**:
+
+	  - Loi n°84-422 du 6 juin 1984 - art. 1 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
+
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. L223-4 (V)
@@ -3267,32 +3100,25 @@ Le tuteur ou son délégué assiste aux séances du conseil et y est entendu qua
 
 ###### Article 59
 
-Les attributions du tuteur et du conseil de famille sont celles que détermine le Code civil, réserve faite toutefois des
-fonctions conférées aux trésoriers-payeurs généraux dans les départements et au receveur général des finances de la Seine, en
-ce qui concerne la gestion des deniers pupillaires. Elles comprennent, en outre, le droit de donner ou de refuser le
-consentement au mariage, à l'émancipation, à l'engagement militaire et à l'adoption, à moins, dans ce dernier cas, que les
-parents aient consenti à l'adoption avant d'avoir perdu leurs droits d'autorité parentale.
+Sauf dans les cas où un enfant est confié au service par décision judiciaire, aucune mesure ne peut être prise pour une durée
+supérieure à un an. Elle est renouvelable dans les mêmes conditions.
 
-Il n'est pas institué de subrogé tuteur.
-
-Dans les cas d'émancipation, le tuteur est seul tenu de comparaître devant le juge du tribunal d'instance. L'acte
-d'émancipation est délivré sans frais, conformément aux dispositions de l'article 1137 du Code général des impôts [*art. 1067
-nouveau*].
+Le service présente chaque année [*périodicité*] à l'autorité judiciaire un rapport sur la situation de l'enfant qui lui a
+été confié par décision judiciaire.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1137
-	  - Loi n°43-182 1943-04-15 ART. 15
-
-	**Cite**:
-
-	  - CGI 1137, CGI 1067
 
 	**Codifié par**:
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°84-422 1984-06-06 ART. 1 Code de la famille et de l'aide sociale 59-1 : Article non applicable aux enfants, pupilles de l'Etat, admis dans le service
+
+	**Modifié par**:
+
+	  - Loi n°84-422 du 6 juin 1984 - art. 1 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
 
 	**Cité par**:
 
@@ -3304,11 +3130,10 @@ nouveau*].
 	  - Code de l'action sociale et des familles - art. L223-5 (M)
 
 
-###### Article 60
+###### Article 59-1
 
-Les biens du tuteur ne sont pas soumis à l'hypothèque légale instituée par l'article 2121 du Code civil.
-
-La gestion des deniers pupillaires est garantie par le cautionnement du comptable.
+Les articles 56, 57 et 59 ci-dessus ne sont pas applicables aux enfants admis dans le service en vertu des dispositions de la
+section 4 du présent chapitre.
 
 **Liens relatifs à cet article**
 
@@ -3316,14 +3141,87 @@ La gestion des deniers pupillaires est garantie par le cautionnement du comptabl
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
+	**Créé par**:
+
+	  - Loi n°84-422 du 6 juin 1984 - art. 1 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L223-6 (V)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 56 (M)
+	  - Code de la famille et de l'aide sociale. - art. 57 (M)
+	  - Code de la famille et de l'aide sociale. - art. 59 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la famille et de l'aide sociale. - art. 69 (Ab)
+
+
+### Section 3 : Droit des familles dans leurs rapports avec les services de la protection de la famille et de l'enfance
+
+###### Article 55-1
+
+Elle peut être accompagnée de la personne de son choix, représentant ou non une association , dans ses démarches auprès du
+service. Néanmoins, celui-ci a la possibilité de proposer également un entretien individuel dans l'intérêt du demandeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Modifié par**:
+
+	  - Loi n°84-422 du 6 juin 1984 - art. 1 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
+
 	**Cité par**:
 
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 16 (V)
-	  - Décret n°85-937 du 23 août 1985 - art. 11 (Ab)
-	  - Décret n°85-937 du 23 août 1985 - art. 14 (Ab)
-	  - Décret n°85-937 du 23 août 1985 - art. 2 (M)
-	  - Décret n°85-937 du 23 août 1985 - art. 22 (Ab)
-	  - Décret n°85-937 du 23 août 1985 - art. 6 (Ab)
+	  - Décret n°85-936 du 23 août 1985 - art. 1 (M)
+	  - Décret n°85-938 du 23 août 1985 - art. 5 (Ab)
+	  - Décret n°85-938 du 23 août 1985 - art. 7 (Ab)
+	  - Décret n°98-771 du 1 septembre 1998 - art. 5 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 59-1 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 63 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L223-1 (V)
+
+
+### Section 4 : Pupilles de l'Etat
+
+###### Article 64
+
+Les deniers des pupilles de l'Etat sont confiés au trésorier-payeur général.
+
+Le tuteur peut autoriser, au profit du pupille, le retrait du tout ou partie des fonds lui appartenant.
+
+Les revenus des biens et capitaux appartenant aux pupilles sont perçus au profit du département jusqu'à leur majorité, à
+titre d'indemnité d'entretien et dans la limite des prestations qui leur ont été allouées. Lors de la reddition des comptes,
+le tuteur, à son initiative ou à la demande du conseil de famille, peut proposer, avec l'accord de ce dernier, au président
+du conseil général toute remise jugée équitable à cet égard.
+
+Les héritiers, autres que les frères et soeurs élevés eux-mêmes par le service, qui se présentent pour recueillir la
+succession d'un pupille, doivent rembourser au département les frais d'entretien de celui-ci, déduction faite des revenus que
+le département avait perçus.
+
+Lorsque aucun héritier ne se présente, les biens des pupilles de l'Etat décédés sont recueillis par le département et
+utilisés pour l'attribution de dons ou de prêts aux pupilles et anciens pupilles de l'Etat.
+
+Les biens du tuteur ne sont pas soumis à l'hypothèque légale instituée à l'article 2121 du code civil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Modifié par**:
+
+	  - Loi n°84-422 du 6 juin 1984 - art. 1 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
 
 	**Liens**:
 
@@ -3360,42 +3258,146 @@ La gestion des deniers pupillaires est garantie par le cautionnement du comptabl
 
 	  - Code civil - art. 2121 (T)
 
-	**Anciens textes**:
+	**Nouveaux textes**:
 
-	  - Loi n°43-182 1943-04-15 ART. 16
+	  - Code de l'action sociale et des familles - art. L224-9 (V)
 
 
-###### Article 61
+### Section 4 : Statut des pupilles de l'Etat
 
-La gestion des deniers pupillaires est confiée au trésorier-payeur général.
+###### Article 60
 
-Les sommes dues aux pupilles à titre de rémunération du travail se recouvrent sur des états adressés par le directeur
-départemental de la population et de l'aide sociale et rendus exécutoires par le préfet. Les oppositions, lorsque la matière
-est de la compétence des tribunaux ordinaires, sont jugées comme affaires sommaires. Les poursuites ont lieu comme en matière
-de contributions directes.
+Les organes chargés de la tutelle des pupilles de l'Etat instituée par la présente section sont le représentant de l'Etat
+dans le département, qui exerce la fonction de tuteur et peut se faire représenter, et le conseil de famille des pupilles de
+l'Etat ; la tutelle des pupilles de l'Etat ne comporte pas de juge de tutelle ni de subrogé tuteur.
 
-Les règles prévues à l'alinéa précédent ne sont pas applicables aux autres créances des pupilles.
+Le tuteur et le conseil de famille des pupilles de l'Etat exercent les attributions conférées à ces organes selon le régime
+de droit commun. A cette fin, le conseil de famille doit examiner au moins une fois par an [*périodicité*] la situation de
+chaque pupille. Avant toute décision du président du conseil général relative au lieu et au mode de placement des pupilles de
+l'Etat, l'accord du tuteur et celui du conseil de famille doivent être recueillis, ainsi que l'avis du mineur dans les
+conditions prévues à l'article 58.
 
-Les fonds sont placés soit à la Caisse nationale d'épargne, soit aux caisses régionales de crédit agricole, soit aux caisses
-d'épargne ordinaires, soit en rentes sur l'Etat, sauf dérogations autorisées par le conseil de famille.
+Les décisions et délibérations de toute nature du conseil de famille des pupilles de l'Etat sont soumises aux voies de
+recours applicables au régime de la tutelle de droit commun.
 
-Le tuteur peut autoriser, au profit du pupille, le retrait de tout ou partie des fonds appartenant à ce dernier.
+Chaque conseil de famille comprend [*composition*] :
 
-Le conseil de famille, s'il le juge conforme à l'intérêt du pupille, peut surseoir partiellement au versement de l'avoir
-pupillaire jusqu'à ce que le pupille ait atteint vingt-cinq ans au maximum. Cette mesure peut être prise soit sur proposition
-du tuteur, soit sur demande du pupille. Dans ce dernier cas, un régime de primes d'épargne est institué en faveur des
-pupilles.
+- des représentants du conseil général désignés par cette assemblée, sur proposition de son président ;
+
+- des membres d'associations à caractère familial, notamment issus de l'union départementale des associations familiales,
+d'associations d'assistantes maternelles et d'associations de pupilles et anciens pupilles de l'Etat choisis par le
+représentant de l'Etat dans le département sur des listes de présentation établies par lesdites associations ;
+
+- des personnalités qualifiées désignées par le représentant de l'Etat dans le département.
+
+La durée du mandat est de trois ans. Il est renouvelable une fois.    Les membres du conseil de famille sont tenus au secret
+professionnel selon les prescriptions de l'article 378 du code pénal.
+
+Un décret en Conseil d'Etat précise la composition et fixe les règles de fonctionnement du ou des conseils de famille,
+institués dans le département.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-1186 1953-11-29 ART. 73 AL. 5
-	  - Loi n°43-182 1943-04-14 ART. 17
 
 	**Codifié par**:
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cité par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 16 (V)
+	  - Décret n°85-937 du 23 août 1985 - art. 11 (Ab)
+	  - Décret n°85-937 du 23 août 1985 - art. 14 (Ab)
+	  - Décret n°85-937 du 23 août 1985 - art. 2 (M)
+	  - Décret n°85-937 du 23 août 1985 - art. 22 (Ab)
+	  - Décret n°85-937 du 23 août 1985 - art. 6 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°84-422 du 6 juin 1984 - art. 1 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 10 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 11 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 12 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 13 (M)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 14 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 15 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 16 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 17 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 18 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 19 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 20 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 21 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 22 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 22-1 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 23 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 24 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 25 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 26 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 7 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 9 (Ab)
+
+	**Cite**:
+
+	  - Code pénal 378
+	  - Code de la famille et de l'aide sociale. - art. 58 (M)
+
+
+###### Article 61
+
+Sont admis en qualité de pupille de l'Etat [*définition*] :
+
+1° Les enfants dont la filiation n'est pas établie ou est inconnue, qui ont été recueillis par le service de l'aide sociale à
+l'enfance depuis plus de trois mois [*durée*] ;
+
+2° Les enfants dont la filiation est établie et connue, qui ont expressément été remis au service de l'aide sociale à
+l'enfance en vue de leur admission comme pupilles de l'Etat par les personnes qui ont qualité pour consentir à leur adoption,
+depuis plus de trois mois [*durée*] ;
+
+3° Les enfants dont la filiation est établie et connue, qui ont expressément été remis au service de l'aide sociale à
+l'enfance depuis plus d'un an par leur père ou leur mère en vue de leur admission comme pupilles de l'Etat et dont l'autre
+parent n'a pas fait connaître au service, pendant ce délai, son intention d'en assumer la charge ; avant l'expiration de ce
+délai d'un an, le service s'emploie à connaître les intentions de l'autre parent ;
+
+4° Les enfants orphelins de père et de mère pour lesquels la tutelle n'est pas organisée selon le chapitre II du titre X du
+livre 1er du code civil et qui ont été confiés au service de l'aide sociale à l'enfance depuis plus de trois mois ;
+
+5° Les enfants dont les parents ont été déclarés déchus de l'autorité parentale en vertu des articles 378 et 378-1 du code
+civil et qui ont été confiés au service de l'aide sociale à l'enfance en application de l'article 380 dudit code ;
+
+6° Les enfants confiés au service de l'aide sociale à l'enfance en application de l'article 350 du code civil.
+
+L'admission en qualité de pupille de l'Etat peut faire l'objet d'un recours, formé dans le délai de trente jours suivant la
+date de l'arrêté du président du conseil général devant le tribunal de grande instance, par les parents, en l'absence d'une
+déclaration judiciaire d'abandon ou d'une déchéance d'autorité parentale, par les alliés de l'enfant ou toute personne
+justifiant d'un lien avec lui, notamment pour avoir assuré sa garde, de droit ou de fait, et qui demandent à en assumer la
+charge.
+
+S'il juge cette demande conforme à l'intérêt de l'enfant, le tribunal confie sa garde au demandeur, à charge pour ce dernier
+de requérir l'organisation de la tutelle, ou lui délègue les droits de l'autorité parentale et prononce l'annulation de
+l'arrêté d'admission.
+
+Dans le cas où il rejette le recours, le tribunal peut autoriser le demandeur, dans l'intérêt de l'enfant, à exercer un droit
+de visite dans les conditions qu'il détermine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Modifié par**:
+
+	  - Loi n°84-422 du 6 juin 1984 - art. 1 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
 
 	**Liens**:
 
@@ -3441,22 +3443,57 @@ pupilles.
 	  - Code de la famille et de l'aide sociale. - art. 71 (M)
 	  - Nouveau code de procédure civile - art. 1231-2 (M)
 
+	**Cite**:
+
+	  - Code civil - art. 350 (M)
+	  - Code civil - art. 378 (M)
+	  - Code civil - art. 378-1 (M)
+	  - Code civil - art. 380 (M)
+
 
 ###### Article 62
 
-Il est créé dans chaque département, ou dans chaque région, une association d'entraide entre les pupilles et anciens pupilles
-qui a notamment pour but d'attribuer à ces derniers des secours, des primes diverses, des dots, des prêts d'honneur.
+La remise d'un enfant au service de l'aide sociale à l'enfance dans les cas prévus aux 1°, 2°, 3° et 4° de l'article 61 donne
+lieu à l'établissement d'un procès-verbal.
 
-Ses ressources sont constituées par les cotisations de ses membres, celles des pupilles placés à gages et de leurs patrons,
-les subventions du département, des communes, les subventions de l'Etat, les dons et legs.
+Il doit être mentionné au procès-verbal que les père ou mère, ou la personne qui a remis l'enfant, ont été informés :
 
-Deux membres du conseil de famille font partie de droit du conseil d'administration de l'association.
+1° Des mesures instituées, notamment par l'Etat, les collectivités territoriales et les organismes de sécurité sociale pour
+aider les parents à élever eux-mêmes leurs enfants ;
+
+2° Des dispositions du régime de la tutelle des pupilles de l'Etat suivant la présente section, et notamment des dispositions
+de l'article 63 ci-après relatives à leur adoption ;
+
+3° Des délais et conditions suivant lesquels l'enfant pourra être repris par ses père ou mère ;
+
+4° De la possibilité de demander le secret de l'état civil de l'enfant.
+
+De plus, lorsque l'enfant est remis au service par ses père ou mère, selon les 2° ou 3° de l'article 61, ceux-ci doivent être
+invités à consentir à son adoption ; le consentement est porté sur le procès-verbal ; celui-ci doit également mentionner que
+les parents ont été informés des délais et conditions dans lesquels ils peuvent rétracter leur consentement, selon les
+deuxième et troisième alinéas de l'article 348-3 du code civil.
+
+L'enfant est déclaré pupille de l'Etat à titre provisoire à la date à laquelle est établi le procès-verbal prévu ci-dessus.
+La tutelle est organisée à compter de la date de cette déclaration [*point de départ*].
+
+Toutefois, dans un délai de trois mois suivant la date à laquelle il a été déclaré pupille de l'Etat à titre provisoire,
+l'enfant peut être repris immédiatement et sans aucune formalité par celui de ses père ou mère qui l'avait confié au service.
+Ce délai est porté à un an, dans le cas prévu au 3° de l'article 61 ci-dessus pour celui des père ou mère qui n'a pas confié
+l'enfant au service.
+
+Au-delà de ces délais, la décision d'accepter ou de refuser la restitution d'un pupille de l'Etat est, sous réserve des
+dispositions de l'article 352 du code civil, prise par le tuteur, avec l'accord du conseil de famille. En cas de refus, les
+demandeurs peuvent saisir le tribunal de grande instance [*recours, autorité compétente*].
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Modifié par**:
+
+	  - Loi n°84-422 du 6 juin 1984 - art. 1 () JORF 7 juin 1986 en vigueur le 7 septembre 1984
 
 	**Liens**:
 
@@ -3496,31 +3533,29 @@ Deux membres du conseil de famille font partie de droit du conseil d'administrat
 	  - Code de la famille et de l'aide sociale. - art. 46 (Ab)
 	  - Code de la famille et de l'aide sociale. - art. 62-1 (Ab)
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Loi n°43-182 1943-04-15 ART. 18
+	  - Code civil - art. 348-3 (M)
+	  - Code civil - art. 352 (V)
+	  - Code de la famille et de l'aide sociale. - art. 61 (M)
+	  - Code de la famille et de l'aide sociale. - art. 63 (M)
 
 
 ###### Article 63
 
-Les revenus des biens et capitaux appartenant au pupille, à l'exception de ceux provenant de son travail et de ses économies,
-sont perçus au profit du département, jusqu'à l'âge de dix-huit ans, à titre d'indemnité de frais d'entretien. Toutefois, sur
-l'avis du conseil de famille, le préfet peut faire à cet égard au moment de la reddition des comptes, toute remise qu'il
-jugera équitable.
+Les enfants admis en qualité de pupille de l'Etat en application de l'article 61 doivent faire l'objet d'un projet d'adoption
+dans les meilleurs délais. Lorsque le tuteur considère que cette mesure n'est pas adaptée à la situation de l'enfant, il doit
+indiquer ses motifs au conseil de famille. La validité de ces motifs doit être confirmée à l'occasion de l'examen annuel de
+la situation de l'enfant.
 
-Les comptes de tutelle sont approuvés par le conseil de famille et rendus sans frais, conformément aux dispositions de
-l'article 1067 du Code général des impôts [*anciennement art. 1137*].
+Les pupilles de l'Etat peuvent être adoptés soit par les personnes à qui le service avait confié leur garde lorsque les liens
+affectifs qui se sont établis entre eux justifient cette mesure, soit par des personnes agréées à cet effet, dans des
+conditions fixées par décret, par le responsable du service de l'aide sociale à l'enfance.
+
+La définition du projet d'adoption, simple ou plénière suivant les circonstances particulières à la situation de l'enfant,
+ainsi que le choix des adoptants éventuels sont assurés par le tuteur avec l'accord du conseil de famille.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1067
-
-	**Anciens textes**:
-
-	  - CGI 1137
-	  - Loi n°43-182 1943-04-15 ART. 19
 
 	**Codifié par**:
 
@@ -3559,6 +3594,10 @@ l'article 1067 du Code général des impôts [*anciennement art. 1137*].
 	  - Code rural - art. L732-10 (V)
 	  - Code rural ancien - art. 1106-3-1 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°84-422 du 6 juin 1984 - art. 1 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
+
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985
@@ -3591,98 +3630,31 @@ l'article 1067 du Code général des impôts [*anciennement art. 1137*].
 	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 9 (Ab)
 	  - TXT_SOURCE: Décret n°85-938 du 23 août 1985 - art. 1 (Ab)
 
-
-###### Article 64
-
-L'enfant réclamé par son père ou sa mère dans un délai de trois mois à compter de l'abandon ou du consentement à l'adoption
-lui est remis sans formalité ni délai.
-
-Lorsque le service départemental de l'aide sociale à l'enfance estime que les conditions d'existence de la famille mettent en
-danger la santé, la sécurité ou la moralité de l'enfant, il peut signaler le cas à l'autorité judiciaire en vue de
-l'application des articles 375 à 380 du Code civil.
-
-Après le délai de trois mois, la demande de remise est irrecevable si l'enfant est placé en vue de l'adoption ; dans le cas
-contraire, il peut être remis à ses parents si le tuteur estime, après avis du conseil de famille prévu par l'article 58 du
-présent code, que la remise est dans l'intérêt de l'enfant.
-
-Le tuteur peut, en outre, autoriser des remises d'essai durant lesquelles sa surveillance continue à s'exercer pendant un an
-au moins ; à l'expiration du délai ainsi fixé, la remise devient définitive. Dans le cas de refus du tuteur, et lorsque
-l'enfant n'a pas été placé en vue de l'adoption, le réclamant peut saisir le tribunal de grande instance qui statuera.
-
-Si les parents ont été déchus de leur autorité, l'enfant ne peut leur être remis qu'après qu'ils ont obtenu la restitution de
-leurs droits selon l'article 381 du Code civil.
-
-En cas de remise de l'enfant, les parents doivent rembourser, en une seule fois ou par versements mensuels échelonnés sur une
-ou plusieurs années, la dépense faite pour l'entretien de leur enfant à moins que, sur avis conforme du conseil de famille,
-le préfet ne les exonère en tout ou partie.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Créé par**:
-
-	  - Loi n°70-459 du 4 juin 1970 - art. 4 () JORF 5 juin 1970
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 1 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 10 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 11 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 12 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 13 (M)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 14 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 15 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 16 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 17 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 18 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 19 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 2 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 20 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 21 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 22 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 22-1 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 23 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 24 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 25 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 26 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 3 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 4 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 5 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 6 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 7 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 8 (Ab)
-	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 9 (Ab)
-
 	**Cite**:
 
-	  - Code civil - art. 380 (M)
-	  - Code civil - art. 381 (M)
-	  - Code civil 375 A, 380, 381
-	  - Code de la famille et de l'aide sociale. - art. 58 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L224-9 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°43-182 1943-04-15 ART. 20
+	  - Code de la famille et de l'aide sociale. - art. 61 (M)
 
 
 ###### Article 65
 
-Les pupilles de l'Etat dont l'âge et l'état de santé le permettent doivent être placés pour adoption [*obligation*], sauf
-lorsque cette mesure ne paraît pas adaptée à la situation de ces enfants.
+L'association départementale d'entraide entre les pupilles et anciens pupilles de l'Etat participe à l'effort d'insertion
+sociale des personnes admises ou ayant été admises dans le service de l'aide sociale à l'enfance. A cet effet, elle peut
+notamment leur attribuer des secours, primes diverses, dots et prêts d'honneur.
+
+Ses ressources sont constituées par les cotisations de ses membres, les subventions du département, des communes, de l'Etat,
+les dons et legs.
+
+Le conseil d'administration comporte deux membres [*nombre*] des conseils de famille des pupilles de l'Etat.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Modifié par**:
+
+	  - Loi n°84-422 du 6 juin 1984 - art. 1 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
 
 	**Liens**:
 
@@ -3722,36 +3694,6 @@ lorsque cette mesure ne paraît pas adaptée à la situation de ces enfants.
 	**Cité par**:
 
 	  - Code de la famille et de l'aide sociale. - art. 63-2 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°43-182 1943-04-15 ART. 21
-
-
-###### Article 65-1
-
-L'enfant ne peut être placé en vue de l'adoption qu'après autorisation du conseil de famille qui vérifie dans les conditions
-fixées par décret en Conseil d'Etat, que l'enfant est juridiquement adoptable, et que le ou les adoptants éventuels
-présentent des garanties matérielles et morales suffisantes pour l'enfant.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Cité par**:
-
-	  - Décret n°67-44 du 12 janvier 1967 - art. 1 (Ab)
-	  - Décret n°67-44 du 12 janvier 1967 - art. 2 (Ab)
-	  - Décret n°67-44 du 12 janvier 1967 - art. 3 (Ab)
-	  - Décret n°67-44 du 12 janvier 1967 - art. 4 (Ab)
-	  - Décret n°85-938 du 23 août 1985 - art. 14 (Ab)
-	  - Arrêté du 25 janvier 1967
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°84-422 du 6 juin 1984 - art. 1 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
 
 
 ### Section 5 : Organisation administrative du service d'aide sociale à l'enfance
@@ -3956,49 +3898,6 @@ remis ultérieurement à ses parents n'aient été remboursés à l'Administrati
 	**Anciens textes**:
 
 	  - Loi n°43-182 1943-04-15 ART. 41
-
-
-###### Article 84
-
-Les biens du pupille décédé, lorsqu'aucun héritier ne se présente, sont recueillis par le département du domicile de secours
-et consacrés, conformément aux dispositions de l'article 88, à la création de dots de mariage en faveur de pupilles ou
-d'anciens pupilles des deux sexes de ce département.
-
-Les héritiers, autres que les frères et soeurs élevés eux-mêmes par le service, qui se présentent pour recueillir la
-succession d'un pupille, sont tenus [*obligation*] de rembourser au département les frais d'entretien de l'enfant. Les
-revenus perçus par le département entrent en compensation jusqu'à due concurrence.
-
-Lorsque les père et mère d'un ancien pupille sont appelés à sa succession, ils sont tenus, dans la limite de l'actif net
-qu'ils recueillent dans cette succession, d'effectuer le remboursement prévu à l'alinéa précédent, à moins qu'ils n'aient
-obtenu la remise de l'enfant pendant sa minorité, ou que le préfet ne leur accorde une exonération totale ou partielle dudit
-remboursement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Abrogé par**:
-
-	  - Loi n°84-422 du 6 juin 1984 - art. 2 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
-
-	**Cité par**:
-
-	  - Décret n°87-961 du 25 novembre 1987 - art. 1 (M)
-	  - Code de la famille et de l'aide sociale. - art. 87 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L228-2 (V)
-
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale. - art. 88 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°43-182 1943-04-15 ART. 43
 
 
 ###### Article 85
