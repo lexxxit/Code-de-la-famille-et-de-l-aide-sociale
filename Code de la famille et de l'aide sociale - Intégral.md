@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1982-12-01
+Version Consolidée au 1983-01-20
 
 # Titre Ier : Protection sociale de la famille
 
@@ -5528,22 +5528,33 @@ prévus.
 Des recours sont exercés par le département, par l'Etat, si le bénéficiaire de l'aide sociale n'a pas de domicile de secours,
 ou par la commune lorsqu'elle bénéficie d'un régime spécial d'aide médicale :
 
-a) Contre le bénéficiaire revenu à meilleure fortune ou contre la succession du bénéficiaire ;
+a) contre le bénéficiaire revenu à meilleure fortune ou contre la succession du bénéficiaire ;
 
-b) Contre le donataire lorsque la donation est intervenue postérieurement à la demande d'aide sociale ou dans les cinq ans
+b) contre le donataire lorsque la donation est intervenue postérieurement à la demande d'aide sociale ou dans les cinq ans
 qui ont précédé cette demande ;
 
-c) Contre le légataire.
+c) contre le légataire.
 
-En ce qui concerne les prestations d'aide sociale à domicile, un décret en Conseil d'Etat fixera les conditions dans
-lesquelles sont exercés les recours, en prévoyant, le cas échéant, l'existence d'un seuil de dépenses supportées par l'aide
-sociale en deçà duquel il ne saurait être procédé à leur recouvrement.
-
-Le recouvrement sur la succession du bénéficiaire de l'aide sociale s'exerce sur la partie de l'actif net successoral défini
-par les règles de droit commun, qui excède le seuil visé à l'alinéa précédent.
+En ce qui concerne les prestations d'aide sociale à domicile et la prise en charge du forfait journalier, un décret en
+Conseil d'Etat fixera les conditions dans lesquelles sont exercés les recours, en prévoyant, le cas échéant, l'existence d'un
+seuil de dépenses supportées par l'aide sociale en-deçà duquel il ne saurait être procédé à leur recouvrement. Le
+recouvrement sur la succession du bénéficiaire de l'aide sociale à domicile ou de la prise en charge du forfait journalier
+s'exerce sur la partie de l'actif net successoral défini par les règles de droit commun, qui excède un seuil fixé par décret
+en Conseil d'Etat *récupération*.
 
 L'inscription de l'hypothèque légale visée à l'article 148 est supprimée pour les prestations ouvrant droit au seuil de
 récupération visé à l'avant-dernier alinéa du présent article.
+
+**Nota:**
+
+*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*
 
 **Liens relatifs à cet article**
 
@@ -5561,7 +5572,7 @@ récupération visé à l'avant-dernier alinéa du présent article.
 
 	**Modifié par**:
 
-	  - Loi n°82-599 du 13 juillet 1982 - art. 29 () JORF 14 juillet 1982 en vigueur le 1er décembre 1982
+	  - Loi n°83-25 du 19 janvier 1983 - art. 7 () JORF 20 janvier 1983
 
 	**Nouveaux textes**:
 
@@ -5574,8 +5585,7 @@ récupération visé à l'avant-dernier alinéa du présent article.
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code de la famille et de l'aide sociale. - art. 148 (Ab)
-	  - TXT_ASSOCIE: Décret n°61-495 du 15 mai 1961 - art. 4 (M)
+	  - TXT_ASSOCIE: Décret n°61-495 1961-05-15 art. 4 relatif au recouvrement sur la succession du bénéficiaire de l'aide sociale
 
 
 ###### Article 147
@@ -6832,6 +6842,35 @@ publique.*]
 	**Cite**:
 
 	  - Code de la santé publique L162-1 à L162-13
+
+
+###### Article 181-3
+
+Le forfait journalier [*hospitalier*] institué par l'article 4 de la loi n° 83-25 du 19 janvier 1983 portant diverses mesures
+relatives à la sécurité sociale peut être pris en charge au titre de l'aide sociale. L'article 144 [*obligation alimentaire*]
+n'est pas opposable aux personnes qui sollicitent cette prise en charge.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale art. 183 :
+
+l'article 179 est applicable aux malades mentaux et aux personnes visées aux articles 214 et suivants du code de la santé
+publique.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cite**:
+
+	  - Loi n°83-25 du 19 janvier 1983 - art. 4, v. init.
+	  - Code de la famille et de l'aide sociale. - art. 144 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°92-722 du 29 juillet 1992 - art. 9 () JORF 30 juillet 1992 en vigueur le 1er janvier 1993
 
 
 ### Section 1 : Dispositions diverses
