@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1980-01-01
+Version Consolidée au 1980-07-18
 
 # Titre Ier : Protection sociale de la famille
 
@@ -370,32 +370,44 @@ territoriale de Mayotte, les mots :
 
 L'union nationale et chaque union départementale des associations familiales sont administrées par un conseil dont les
 membres doivent être pour partie élus, au suffrage familial tel qu'il est prévu à l'article suivant, pour partie désignés par
-les fédération, confédérations ou associations familiales adhérentes selon les proportions que doivent prévoir les statuts de
-ces unions.
+les fédérations, confédérations ou associations familiales adhérentes selon les proportions que doivent prévoir les statuts
+de ces unions.
 
 Ne peuvent être membres des conseils d'administration les personnes frappées par une mesure de retrait des droits civils ou
-politiques [*incapacité*].
+politiques.
 
-les membres des conseils d'administration doivent être en majorité des pères ou mères de familles ayant au moins trois
-enfants dont un mineur [*conditions*].
+**Nota:**
+
+*Nota : Code de la famille et de l'aide sociale 230 : les dispositions du présent article du code sont applicables à l'union
+territoriale des associations familiales de Mayotte.*
+
+Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-323 1945-03-03 ART. 10
 
 	**Codifié par**:
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
+	**Modifié par**:
+
+	  - Loi n°80-545 du 17 juillet 1980 - art. 31 () JORF 18 juillet 1980
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. L211-8 (V)
-
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale. - art. 9 (Ab)
+	  - Code de la famille et de l'aide sociale L211-8
 
 
 ###### Article 9
@@ -763,82 +775,40 @@ le Code des pensions civiles et militaires de retraite ;
 
 ### Section 2 : Carte nationale de priorité des mères de famille
 
-###### Article 21
-
-Une carte nationale de priorité est attribuée aux mères de famille françaises et exceptionnellement, dans les limites
-indiquées au e de l'article suivant, aux mères de famille étrangères dont tous les enfants ont la nationalité française
-[*condition*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale. - art. 22 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°1940-08-14 ART. 1
-	  - Loi n°1941-06-18
-
-	**Abrogé par**:
-
-	  - Loi n°80-545 1980-07-17 art. 15 I JORF 18 juillet 1980
-
-
 ###### Article 22
 
-La carte nationale de priorité est délivrée [*bénéficiaires*] :
+Une carte de priorité est attribuée aux mères de famille remplissant l'une des conditions suivantes :
 
-a) Aux mères de famille ayant au moins quatre [*nombre*]
+a) mères de famille ayant au moins trois enfants [*nombre*] de moins de seize ans ou deux enfants de moins de quatre ans, à
+la condition que ces enfants soient légitimes, reconnus ou adoptés ;
 
-enfants vivants de moins de seize ans, ou trois enfants de quatre ans, à la condition que ces enfants soient légitimes ou
-reconnus ;
+b) femmes enceintes ;
 
-b) Aux femmes enceintes à partir du quatrième mois de la grossesse ;
+c) mères allaitant leur enfant au sein ;
 
-c) Aux mères allaitant leur enfant au sein ;
+d) mères décorées de la médaille de la famille française.
 
-d) Aux mères décorées de la médaille de la famille française ;
-
-e) Dans la limite de 5 p. 100 des cartes délivrées dans chaque département, aux personnes ayant charge d'enfants auxquelles
-le droit à la carte sera exceptionnellement reconnu par le préfet sur proposition du directeur départemental de la population
-et de l'aide sociale.
-
-Elle peut être délivrée à un autre membre de la famille aux lieu et place des mères visées au a, lorsque celles-ci sont
+Elle peut être délivrée à un autre membre de la famille au lieu et place des mères visées au a, lorsque celles-ci sont
 décédées ou se trouvent dans l'incapacité physique d'utiliser personnellement la carte.
 
-Elle n'est pas délivrée aux mères qui, par suite de divorce, de séparation ou d'abandon de famille, ne vivent pas avec leurs
-enfants ; elle peut, dans ce cas, être délivrée à un autre membre de la famille.
-
-Il ne peut être délivré plus d'une carte [*nombre*] par foyer.
+Elle n'est pas délivrée [*non*] aux mères qui, par suite de divorce, de séparation ou d'abandon de famille, ne vivent pas
+avec leurs enfants ; elle peut, dans ce cas, être délivrée à un autre membre de la famille. Il ne peut être délivré plus
+d'une carte par foyer [*nombre*].
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Modifié par**:
+
+	  - Loi n°80-545 1980-07-17 art. 15 II JORF 18 juillet 1980
 
 	**Cité par**:
 
 	  - Code de la famille et de l'aide sociale. - art. 21 (Ab)
 	  - Code de la famille et de l'aide sociale. - art. 23 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles R215-
-
-	**Anciens textes**:
-
-	  - Loi n°1940-08-14 ART. 2, ART. 3
-	  - Loi n°1941-06-18
-
-	**Modifié par**:
-
-	  - Loi n°80-545 1980-07-17 art. 15 II JORF 18 juillet 1980
 
 
 ###### Article 23
@@ -874,8 +844,13 @@ quelles que soient les modifications survenues dans la famille.
 ###### Article 24
 
 La carte de priorité donne à son titulaire se présentant en personne un droit de priorité pour l'accès aux bureaux et
-guichets des administrations et services publics, aux transports publics et aux magasins de commerce. Il ne peut être fait
-usage de ce droit qu'au profit du titulaire de la carte et des personnes vivant effectivement à son foyer.
+guichets des administrations et services publics et aux transports publics. Il ne peut être fait usage de ce droit qu'au
+profit du titulaire de la carte et des personnes vivant effectivement à son foyer.
+
+**Nota:**
+
+Nota : Ordonnance 2000-1249 2000-12-21 art. 5 I 1° : l'abrogation du présent article ne prend effet qu'à compter de la
+publication des dispositions réglementaires correspondantes du code de l'action sociale et des familles.
 
 **Liens relatifs à cet article**
 
@@ -883,14 +858,21 @@ usage de ce droit qu'au profit du titulaire de la carte et des personnes vivant 
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
+	**Modifié par**:
+
+	  - Loi n°80-545 1980-07-17 art. 15 III JORF 18 juillet 1980
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
 	**Cité par**:
 
 	  - Code de la famille et de l'aide sociale. - art. 29 (Ab)
 
-	**Anciens textes**:
+	**Nouveaux textes**:
 
-	  - Loi n°1940-08-14 ART. 5
-	  - Loi n°1941-06-18
+	  - Code de l'action sociale et des familles - art. R215-5 (V)
 
 
 ###### Article 25
@@ -969,35 +951,6 @@ du droit de priorité [*refus*].
 	**Anciens textes**:
 
 	  - Loi n°1940-08-14 ART. 9
-	  - Loi n°1941-06-18
-
-
-###### Article 29
-
-Tout commerçant est tenu, sous peine d'une amende de 600 F à 1.000 F [*montant*] (1), applicable à chaque infraction, de
-délivrer [*obligation*] aux titulaires des cartes de priorité, pour le nombre de personnes qu'elles représentent dans les
-conditions indiqués à l'article 24 ci-dessus, une quantité de denrées ou marchandises, rationnées ou non, égale au total de
-celles qu'il délivrerait au même nombre de clients se présentant isolément.
-
-(1) Montant de l'amende en 1956 : 4.000 à 48.000 francs.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-	**Abrogé par**:
-
-	  - Loi n°80-545 1980-07-17 art. 15 IV JORF 18 juillet 1980
-
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale. - art. 24 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°1940-08-14 ART. 10
 	  - Loi n°1941-06-18
 
 
