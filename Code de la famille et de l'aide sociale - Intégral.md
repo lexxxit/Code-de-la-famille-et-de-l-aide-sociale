@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1975-07-13
+Version Consolidée au 1975-12-30
 
 # Titre Ier : Protection sociale de la famille
 
@@ -1900,6 +1900,39 @@ proposition du directeur départemental de la population et de l'aide sociale.
 	**Cite**:
 
 	  - Loi n°1889-07-24
+
+
+###### Article 53-1
+
+Lorsque l'intervention d'une travailleuse familiale est de nature à éviter le placement d'un enfant au sens de l'article 48
+du présent code, le service d'aide sociale à l'enfance assume en tout ou partie les frais de cette intervention sur demande
+du père, de la mère ou de la personne qui a effectivement l'enfant en charge et selon des modalités fixées par voie
+réglementaire.
+
+Le recours au service d'une aide ménagère pourra être envisagé pour prolonger l'intervention de la travailleuse familiale
+dans le cas prévu à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cité par**:
+
+	  - Décret n°77-613 du 10 juin 1977
+	  - Décret n°77-613 du 10 juin 1977 - art. 1 (Ab)
+	  - Décret n°77-613 du 10 juin 1977 - art. 2 (Ab)
+	  - Décret n°77-613 du 10 juin 1977 - art. 4 (Ab)
+	  - Décret n°2004-1136 du 21 octobre 2004 - art. 4 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°86-17 1986-01-06 art. 80 JORF 8 janvier 1986
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 48 (Ab)
 
 
 ### Section 5 : Modalités de placement des enfants confiés au service de l'aide sociale à l'enfance
