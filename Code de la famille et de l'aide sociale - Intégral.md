@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1994-03-01
+Version Consolidée au 1994-07-26
 
 # Titre Ier : Protection sociale de la famille
 
@@ -5112,6 +5112,72 @@ de leur activité.
 
 	  - Code de l'action sociale et des familles - art. L422-7 (VD)
 	  - Code de l'action sociale et des familles - art. L422-7 (M)
+
+
+## Chapitre V : Schémas locaux de développement de l'accueil des jeunes enfants
+
+###### Article 123-12
+
+Il peut être établi, dans toutes les communes, un schéma pluriannuel de développement des services d'accueil des enfants de
+moins de six ans.
+
+Ce schéma, élaboré en concertation avec les associations et organismes concernés sur les orientations générales, adopté par
+le conseil municipal :
+
+1° Fait l'inventaire des équipements, services et modes d'accueil de toute nature existant pour l'accueil des enfants de
+moins de six ans, y compris les places d'école maternelle ;
+
+2° Recense l'état et la nature des besoins en ce domaine pour sa durée d'application ;
+
+3° Précise les perspectives de développement ou de redéploiement des équipements et services pour la petite enfance qui
+apparaissent nécessaires, ainsi que le calendrier de réalisation et le coût prévisionnel des opérations projetées par la
+commune.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Loi n°94-629 du 25 juillet 1994 - art. 11 () JORF 26 juillet 1994
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L214-2 (V)
+
+	**Cité par**:
+
+	  - Code de la famille et de l'aide sociale. - art. 123-13 (Ab)
+
+
+###### Article 123-13
+
+Les communes membres d'établissements publics de coopération intercommunale peuvent déléguer à ceux-ci le soin d'établir le
+schéma prévu par l'article 123-12.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Créé par**:
+
+	  - Loi n°94-629 du 25 juillet 1994 - art. 11 () JORF 26 juillet 1994
+
+	**Abrogé par**:
+
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 123-12 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L214-3 (V)
 
 
 # Titre III : Aide sociale
