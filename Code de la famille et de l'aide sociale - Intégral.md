@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1993-03-28
+Version Consolidée au 1993-08-29
 
 # Titre Ier : Protection sociale de la famille
 
@@ -7773,26 +7773,29 @@ visées à l'alinéa précédent.
 
 ###### Article 186
 
-Les étrangers non bénéficiaires d'une convention peuvent bénéficier selon la procédure indiquée au chapitre Ier du présent
-titre et au titre III bis :
+Les personnes de nationalité étrangère bénéficient dans les conditions prévues aux titres II, III et III bis :
 
-1. De l'admission dans un établissement hospitalier, dans un hôpital psychiatrique, dans un établissement de cure, dans un
-hospice, dans un centre de rééducation ou d'assistance par le travail ;
+1° Des prestations d'aide sociale à l'enfance ;
 
-2. De l'aide médicale à domicile, à condition qu'ils justifient d'une résidence ininterrompue en France métropolitaine depuis
-au moins trois ans ;
+2° De l'aide sociale en cas d'admission dans un centre d'hébergement et de réadaptation sociale ;
 
-3. Des allocations aux personnes âgées et aux infirmes prévues aux articles 158 et 160, à condition qu'ils justifient d'une
+3° De l'aide médicale en cas de soins dispensés par un établissement de santé ou de prescriptions ordonnées à cette occasion,
+y compris en cas de consultation externe ;
+
+4° De l'aide médicale à domicile, à condition qu'elles justifient soit d'un titre exigé des personnes de nationalité
+étrangère pour séjourner régulièrement en France, soit d'une résidence ininterrompue en France métropolitaine depuis au moins
+trois ans ; 
+
+5° Des allocations aux personnes âgées et aux infirmes prévues aux articles 158 et 160, à condition qu'ils justifient d'une
 résidence ininterrompue en France métropolitaine depuis au moins quinze ans avant soixante-dix ans.
 
-A défaut de remboursement par l'Etat d'origine, la charge des dépenses et leur répartition sont déterminées dans les
-conditions précisées au titre IV ci-après.
+Elles bénéficient dans les mêmes conditions des autres formes d'aide sociale, à condition qu'elles justifient d'un titre
+exigé des personnes de nationalité étrangère pour séjourner régulièrement en France.
+
+Pour tenir compte de situations exceptionnelles, il peut être dérogé aux conditions fixées au 4°  et à l'alinéa ci-dessus par
+décision du ministre chargé de l'action sociale. Les dépenses en résultant sont à la charge de l'Etat.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-1186 1953-11-29 art. 56
 
 	**Codifié par**:
 
@@ -7800,7 +7803,7 @@ conditions précisées au titre IV ci-après.
 
 	**Modifié par**:
 
-	  - Loi n°92-722 du 29 juillet 1992 - art. 9 () JORF 30 juillet 1992 en vigueur le 1er janvier 1993
+	  - Loi n°93-1027 du 24 août 1993 - art. 38 () JORF 29 août 1993
 
 	**Liens**:
 
