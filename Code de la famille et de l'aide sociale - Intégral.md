@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1966-06-12
+Version Consolidée au 1966-07-12
 
 # Titre Ier : Protection sociale de la famille
 
@@ -1284,6 +1284,65 @@ code civil, sous réserve de l'application des autres dispositions de ce code//.
 	  - Loi n°43-182 1943-04-15 ART. 5
 
 
+###### Article 50
+
+Doit être immatriculé comme pupille de l'Etat :
+
+1. L'enfant dont la filiation n'est pas établie ou est inconnue, qui a été recueilli par le service de l'aide sociale à
+l'enfance depuis plus de trois mois [*condition de délai*] ;
+
+2. L'enfant dont la filiation est établie et connue, qui a été expressément abandonné au service de l'aide sociale à
+l'enfance depuis plus de trois mois par les personnes qui avaient qualité pour consentir à l'adoption ;
+
+3. L'enfant dont la filiation est établie et connue, qui a été expressément abandonné au service de l'aide sociale à
+l'enfance par son père ou sa mère depuis plus d'un an et dont l'autre parent ne s'est jamais manifesté à la connaissance du
+service pendant ce délai ;
+
+4. L'enfant dont la filiation est établie et connue, qui a été remis à titre définitif au service de l'aide sociale à
+l'enfance depuis plus d'un an par une personne qui n'avait pas qualité pour consentir à l'adoption si les parents ne se sont
+jamais manifestés à la connaissance du service pendant ce délai ;
+
+5. L'enfant, orphelin de père et de mère, qui, n'ayant pas d'ascendant auquel on puisse recourir, n'a aucun moyen
+d'existence ;
+
+6. L'enfant dont les parents ont été déclarés déchus de l'autorité parentale en vertu des articles 378 et 378-1 du Code civil
+et dont la tutelle a été confiée au service de l'aide sociale à l'enfance par application de l'article 380, premier alinéa,
+du même code ;
+
+7. L'enfant confié au service de l'aide sociale à l'enfance et déclaré abandonné par le tribunal en application de l'article
+350 du Code civil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cité par**:
+
+	  - Décret n°67-44 du 12 janvier 1967 - art. 2 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 76 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 4 () JORF 5 juin 1970
+
+	**Abrogé par**:
+
+	  - Loi n°84-422 du 6 juin 1984 - art. 2 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
+
+	**Cite**:
+
+	  - Code civil - art. 350 (M)
+	  - Code civil - art. 378 (M)
+	  - Code civil - art. 378-1 (M)
+	  - Code civil 378, 378-1, 380 AL. 1, 350
+
+	**Anciens textes**:
+
+	  - Loi n°43-182 1943-04-15 ART. 6
+
+
 ###### Article 51
 
 Les maisons maternelles [*mission*] prévues à l'article 41 du présent code concourent à la prévention des abandons d'enfants.
@@ -1730,6 +1789,39 @@ après avis du directeur de l'établissement, mettre fin au placement et opérer
 	  - Code civil - art. 376 (V)
 	  - Code civil - art. 381 (M)
 	  - Code civil 375 A, 381, 376
+
+
+###### Article 76
+
+Sont assimilés aux pupilles :
+
+a) Sauf en ce qui concerne le droit de consentir à l'adoption, les enfants pour lesquels le service de l'aide sociale à
+l'enfance a reçu délégation de tous les droits de l'autorité parentale à l'exception du droit susvisé, et, tant qu'ils ne
+remplissent pas les conditions de délai prévues à l'article 50, 2., 3. et 4., pour être immatriculés comme pupilles de
+l'Etat, les enfants dont la filiation est établie et connue qui ont été abandonnés au service de l'aide sociale à l'enfance ;
+
+b) En ce qui concerne leur surveillance, leur mode de placement et la gestion de leurs deniers, les enfants recueillis
+temporairement et les enfants en garde non visés à l'alinéa précédent ;
+
+c) En ce qui concerne leur surveillance, les enfants secourus et les enfants surveillés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 50 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°43-182 1943-04-15 ART. 34
+
+	**Abrogé par**:
+
+	  - Loi n°84-422 du 6 juin 1984 - art. 2 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
 
 
 ## Chapitre III : Dispositions financières
@@ -2575,6 +2667,31 @@ population et de l'aide sociale, avec son avis, les pièces et les renseignement
 	  - Loi n°43-182 1943-04-15 ART. 11
 
 
+###### Article 55-1
+
+La présentation secrète des enfants en vue de leur admission comme pupilles de l'Etat peut avoir lieu dans le bureau
+spécialisé, ouvert de jour et de nuit, sans autre témoin que la femme préposée aux admissions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cité par**:
+
+	  - Décret n°85-936 du 23 août 1985 - art. 1 (M)
+	  - Décret n°85-938 du 23 août 1985 - art. 5 (Ab)
+	  - Décret n°85-938 du 23 août 1985 - art. 7 (Ab)
+	  - Décret n°98-771 du 1 septembre 1998 - art. 5 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 59-1 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 63 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L223-1 (V)
+
+
 ###### Article 56
 
 Les femmes préposées aux admissions sont nommées par le préfet, sur la proposition du directeur départemental de la
@@ -3000,6 +3117,87 @@ l'article 1067 du Code général des impôts [*anciennement art. 1137*].
 	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 8 (Ab)
 	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 9 (Ab)
 	  - TXT_SOURCE: Décret n°85-938 du 23 août 1985 - art. 1 (Ab)
+
+
+###### Article 65
+
+Les pupilles de l'Etat dont l'âge et l'état de santé le permettent doivent être placés pour adoption [*obligation*], sauf
+lorsque cette mesure ne paraît pas adaptée à la situation de ces enfants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 10 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 11 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 12 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 13 (M)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 14 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 15 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 16 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 17 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 18 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 19 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 20 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 21 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 22 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 22-1 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 23 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 24 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 25 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 26 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 7 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 9 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L224-11 (V)
+
+	**Cité par**:
+
+	  - Code de la famille et de l'aide sociale. - art. 63-2 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°43-182 1943-04-15 ART. 21
+
+
+###### Article 65-1
+
+L'enfant ne peut être placé en vue de l'adoption qu'après autorisation du conseil de famille qui vérifie dans les conditions
+fixées par décret en Conseil d'Etat, que l'enfant est juridiquement adoptable, et que le ou les adoptants éventuels
+présentent des garanties matérielles et morales suffisantes pour l'enfant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cité par**:
+
+	  - Décret n°67-44 du 12 janvier 1967 - art. 1 (Ab)
+	  - Décret n°67-44 du 12 janvier 1967 - art. 2 (Ab)
+	  - Décret n°67-44 du 12 janvier 1967 - art. 3 (Ab)
+	  - Décret n°67-44 du 12 janvier 1967 - art. 4 (Ab)
+	  - Décret n°85-938 du 23 août 1985 - art. 14 (Ab)
+	  - Arrêté du 25 janvier 1967
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°84-422 du 6 juin 1984 - art. 1 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
 
 
 ### Section 5 : Organisation administrative du service d'aide sociale à l'enfance
@@ -3562,6 +3760,71 @@ soumis ces placements particulièrement au point de vue sanitaire.
 
 
 ### Section 2 : Contrôle des oeuvres d'adoption
+
+###### Article 100-1
+
+Toute personne ou association qui, habituellement, à titre principal ou accessoire, place en vue de leur adoption des mineurs
+de quinze ans [*âge*] ou sert d'intermédiaire pour leur adoption ou leur placement en vue de leur adoption, même avec
+l'intervention des parents, doit, sans préjudice des formalités imposées par le droit commun en matière de protection de
+l'enfance, y être autorisée par le préfet sur avis du conseil visé à l'article 97 ci-dessus [*condition*].
+
+L'absence de notification de refus dans les quatre mois de la demande vaudra autorisation [*tacite*].
+
+Les personnes ou associations autorisées sont tenus aux obligations prévues par les articles 55 et 64, alinéa 1er.
+
+Un décret pris en Conseil d'Etat déterminera les conditions dans lesquelles est accordée, refusée ou retirée l'autorisation
+visée à l'alinéa 1er ainsi que les obligations particulières imposées aux personnes ou associations autorisées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+	**Cité par**:
+
+	  - Décret n°67-45 du 10 janvier 1967 - art. 1 (Ab)
+	  - Décret n°67-45 du 10 janvier 1967 - art. 10 (Ab)
+	  - Décret n°67-45 du 10 janvier 1967 - art. 11 (Ab)
+	  - Décret n°67-45 du 10 janvier 1967 - art. 12 (Ab)
+	  - Décret n°67-45 du 10 janvier 1967 - art. 13 (Ab)
+	  - Décret n°67-45 du 10 janvier 1967 - art. 14 (Ab)
+	  - Décret n°67-45 du 10 janvier 1967 - art. 15 (Ab)
+	  - Décret n°67-45 du 10 janvier 1967 - art. 2 (Ab)
+	  - Décret n°67-45 du 10 janvier 1967 - art. 3 (Ab)
+	  - Décret n°67-45 du 10 janvier 1967 - art. 4 (Ab)
+	  - Décret n°67-45 du 10 janvier 1967 - art. 5 (Ab)
+	  - Décret n°67-45 du 10 janvier 1967 - art. 6 (Ab)
+	  - Décret n°67-45 du 10 janvier 1967 - art. 7 (Ab)
+	  - Décret n°67-45 du 10 janvier 1967 - art. 8 (Ab)
+	  - Décret n°67-45 du 10 janvier 1967 - art. 9 (Ab)
+	  - Décret n°67-45 du 12 janvier 1967
+	  - Décret n°67-161 du 24 février 1967 - art. 3 (Ab)
+	  - Décret n°89-95 du 10 février 1989 - art. 10 (Ab)
+	  - Décret n°89-95 du 10 février 1989 - art. 21 (Ab)
+	  - Décret n°89-95 du 10 février 1989 - art. 23 (Ab)
+	  - Décret n°89-95 du 10 février 1989 - art. 24 (Ab)
+	  - Décret n°89-95 du 10 février 1989 - art. 25 (Ab)
+	  - Décret n°89-95 du 10 février 1989 - art. 28 (Ab)
+	  - Décret n°89-95 du 10 février 1989 - art. 29 (Ab)
+	  - Décret n°89-95 du 10 février 1989 - art. 30 (Ab)
+	  - Décret n°89-95 du 10 février 1989 - art. 31 (Ab)
+	  - Arrêté du 2 décembre 1998 - art. 3 (M)
+	  - Arrêté du 25 janvier 1967
+	  - Code de la famille et de l'aide sociale. - art. 100-2 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 100-2-1 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 100-4 (Ab)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale 97, 55, 64 AL. 1
+	  - Code de la famille et de l'aide sociale. - art. 55 (M)
+	  - Code de la famille et de l'aide sociale. - art. 97 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la famille et de l'aide sociale. - art. 100-2 (M)
+
 
 ###### Article 100-2
 
