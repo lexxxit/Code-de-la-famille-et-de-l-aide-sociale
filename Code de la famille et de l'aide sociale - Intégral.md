@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1980-07-18
+Version Consolidée au 1982-12-01
 
 # Titre Ier : Protection sociale de la famille
 
@@ -5528,25 +5528,29 @@ prévus.
 Des recours sont exercés par le département, par l'Etat, si le bénéficiaire de l'aide sociale n'a pas de domicile de secours,
 ou par la commune lorsqu'elle bénéficie d'un régime spécial d'aide médicale :
 
-a) Contre le bénéficiaire revenu à meilleure fortune ou contre la succession du bénéficiaire :
+a) Contre le bénéficiaire revenu à meilleure fortune ou contre la succession du bénéficiaire ;
 
 b) Contre le donataire lorsque la donation est intervenue postérieurement à la demande d'aide sociale ou dans les cinq ans
 qui ont précédé cette demande ;
 
 c) Contre le légataire.
 
+En ce qui concerne les prestations d'aide sociale à domicile, un décret en Conseil d'Etat fixera les conditions dans
+lesquelles sont exercés les recours, en prévoyant, le cas échéant, l'existence d'un seuil de dépenses supportées par l'aide
+sociale en deçà duquel il ne saurait être procédé à leur recouvrement.
+
+Le recouvrement sur la succession du bénéficiaire de l'aide sociale s'exerce sur la partie de l'actif net successoral défini
+par les règles de droit commun, qui excède le seuil visé à l'alinéa précédent.
+
+L'inscription de l'hypothèque légale visée à l'article 148 est supprimée pour les prestations ouvrant droit au seuil de
+récupération visé à l'avant-dernier alinéa du présent article.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-1186 1953-11-29 ART. 21
-	  - Décret n°55-190 1955-02-02
 
 	**Cité par**:
 
 	  - Décret n°54-883 du 2 septembre 1954 - art. 8 (M)
 	  - Décret n°56-1030 du 28 septembre 1956 - art. 28 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 148 (Ab)
 	  - Code de la famille et de l'aide sociale. - art. 196 (Ab)
 	  - Décret n°61-495 du 15 mai 1961 - art. 4 (M)
 	  - Décret n°61-495 du 15 mai 1961 - art. 4-1 (MMN)
@@ -5555,10 +5559,18 @@ c) Contre le légataire.
 
 	  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
+	**Modifié par**:
+
+	  - Loi n°82-599 du 13 juillet 1982 - art. 29 () JORF 14 juillet 1982 en vigueur le 1er décembre 1982
+
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. L132-8 (M)
 	  - Code de l'action sociale et des familles - art. L132-9 (M)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 148 (Ab)
 
 	**Liens**:
 
